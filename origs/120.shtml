@@ -1,0 +1,526 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "The Seige, Part 2" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				
+				<A HREF="/atlantis/s1/transcripts/120.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=526">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=271">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s1/120.shtml#production">Production</A>
+				
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=6800">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s1/120.shtml"><IMG SRC="/atlantis/graphics/120_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="THE SIEGE, PART 2" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://www.amazon.com/exec/obidos/ASIN/B000ICNWY6/bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 120<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 1, Disc 5<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 03.25.05<BR>
+				    
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0540695/" TARGET="_blank">Joseph Mallozzi</A> & <A HREF="http://www.imdb.com/name/nm0612283/" TARGET="_blank">Paul Mullie</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0939869/" TARGET="_blank">Martin Wood</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">A new military contingent from Earth is sent to take command of Atlantis and defend it from the impending Wraith attack.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    ATLANTIS. CONTROL ROOM. Rodney comes down into the Control Room, having just arrived back on the Puddle Jumper.<br><br>WEIR: Welcome back, Rodney.<br><br>McKAY: Where are we?<br><br>WEIR: Our scanners show the hive ships have started moving again, although their pace has slowed considerably.<br><br>SHEPPARD: Obviously you gave them something to think about.<br><br>WEIR: Well, if they get here in two hours, or two days, it doesn't change the fact that we're out of options. We can't hope to fight them, so unless either of you have any more ideas ...<br><br>(Nobody can answer her. Aiden comes over to report.)<br><br>FORD: The last group is assembled and ready for evac.<br><br>WEIR: Alright, then. Let's get this done. (She walks to a laptop and activates it.) Ready? (She types in her command code, then looks at John. He types his own code into a second laptop. An alarm starts to sound.) Self destruct is armed. (Rodney looks sick. Elizabeth turns to a technician.) Prepare to load the virus into the Ancient mainframe. (The technician nods and moves to comply.) Rodney, dial the Alpha site.<br><br>McKAY: Dialling. (He starts to dial, but after two chevrons have activated, the Gate begins to dial in. Another alarm sounds. Marines rush to aim their weapons at the Gate.) We've got an incoming wormhole. (The Gate kawhooshes. Rodney looks at his monitors.) Receiving I.D.C.<br><br>SHEPPARD: Who is it?<br><br>McKAY: Stargate Command!<br><br>WEIR: Are you sure?<br><br>McKAY: Positive!<br><br>WEIR: Lower the shield.<br><br>(Rodney does so. Shortly after, four marines come through the Gate, aiming their weapons cautiously. Elizabeth, John, Aiden and Rodney run down the steps to meet them. More marines come through, some wheeling large boxes of equipment. The leader of the newcomers approaches Elizabeth and her group. Aiden salutes him, but John just stares.)<br><br>EVERETT: Doctor Weir.<br><br>WEIR: Yes.<br><br>EVERETT: Colonel Dillon Everett, United States Marine Corps.<br><br>WEIR: You should know ...<br><br>EVERETT (interrupting): General O'Neill sends his compliments on a job well done under extraordinary circumstances. (He salutes her.) You are relieved.<br><br>SHEPPARD: Sir, we're about to evacuate.<br><br>EVERETT: Without a fight!<br><br>SHEPPARD: Yes, sir!<br><br>WEIR: On my order.<br><br>EVERETT: That evacuation order is rescinded. (He looks around the Gateroom and notes the alarm going off.) I assume you've armed the self destruct device.<br><br>SHEPPARD: Sir, what happened, as Doctor Weir was trying to tell you ...<br><br>EVERETT: I am gonna need you to disarm it immediately.<br><br>WEIR: Hold on a second, Colonel -- I don't think you fully grasp our situation here.<br><br>EVERETT: You have three Wraith hive ships bearing down on your position and precious little to defend yourselves with. That about sum it up?<br><br>McKAY: You got our message!<br><br>EVERETT: We got your message.<br><br>WEIR: It's down to two hive ships. We managed to destroy one of them.<br><br>EVERETT (condescendingly): Good for you! That should make my job a little easier. (He starts to head up the steps.)<br><br>SHEPPARD: What exactly is your job, sir?<br><br>EVERETT: I should think that would be obvious to you by now, Major. We are going to defend Atlantis at all costs.<br><br><br>OPENING CREDITS. RESUME. As Everett heads up the steps, Elizabeth walks towards him.<br><br>WEIR: Colonel?<br><br>(Everett turns and holds out a folded piece of paper towards her.)<br><br>EVERETT: Signed by General O'Neill.<br><br>(Elizabeth looks at the paper for a moment, then takes it. John steps forward. Behind him, we can see that at least twenty marines have come through from Earth.)<br><br>SHEPPARD: Colonel, it's not that we don't appreciate the thought, but if you had read the report on the armada heading this way, you'd know that there's not much we can do about it.<br><br>EVERETT: Oh, I've read your report cover to cover, Major.<br><br>McKAY: You must have found a ZedPM. That's the only way they could have dialled in from Earth.<br><br>EVERETT: It was discovered in Egypt by a group of archaeologists. Damned thing's been under our noses the whole time!<br><br>McKAY: Fantastic! Wait a minute -- how could you possibly bring the ZedPM back here? You'd need it to maintain the wormhole.<br><br>EVERETT: As we speak, it is being transported up to the Daedalus, our new battle cruiser.<br><br>McKAY: Sister ship of the Prometheus -- I didn't even know it was finished.<br><br>EVERETT: With the ZeePM boosting her engines, she should be here inside of four days. That is how long we have to hold this base. Major Sheppard, dial Pegasus Alpha site, recall all military personnel. As well, any civilians who'd like to return and help take part in damage control are welcome to do so! (He and John start to walk up the stairs.) And when you're done with that, please join me in my offices in the Conference Room. We'll discuss our tactical position.<br><br>(Elizabeth calls out to Everett from the bottom of the stairs.)<br><br>WEIR: Colonel Everett! (He turns to look at her.) Fine, you're in charge, but I should be at that briefing.<br><br>EVERETT: When it comes down to any other aspect of Atlantis, I will be happy to include you. We're talking about our tactical position.<br><br>WEIR: I understand that ...<br><br>EVERETT: Good! (He turns and continues up the steps.) Somebody wanna please turn off that self destruct?<br><br><br>CONFERENCE ROOM. Everett has laid out a schematic on the table and is showing it to Aiden.<br><br>EVERETT: This schematic is based on the information we got in your message. Can I assume it's accurate?<br><br>FORD: Yes, sir.<br><br>(Everett turns to one of his marines, Captain Radner.)<br><br>EVERETT: Captain, deploy plan Alpha Two.<br><br>RADNER: Yes, sir. (He turns to another marine.) Sergeant -- Alpha Two.<br><br>FORD (to Everett): If you don't mind my asking, sir, deploy what exactly?<br><br>EVERETT: We brought along a few rail guns. They were originally slated for Prometheus to replace their current close-in armament on her next refit. They will deliver an impact velocity of Mach five at two hundred and fifty miles. A standard magazine will hold ten thousand rounds.<br><br>FORD: Woah!<br><br>(John and Elizabeth walk in.)<br><br>SHEPPARD: Self destruct has been aborted.<br><br>EVERETT: Thank you! Did you contact the Alpha site?<br><br>(John looks round at Elizabeth.)<br><br>WEIR: I asked Major Sheppard to wait until I had a chance to talk with you.<br><br>EVERETT: Is that a fact?<br><br>SHEPPARD: Yes, sir.<br><br>EVERETT: Major? Dial the Alpha site.<br><br>WEIR: Colonel, you've been here all of five minutes. Now, I have been responsible for the lives of the people on this base, both military and civilian, for the past several months. I'm not about to put those lives in jeopardy until I at least know how you intend to defend this city.<br><br>EVERETT: I don't need to explain myself to you, Doctor, and I don't need your co-operation.<br><br>SHEPPARD: But you could probably use mine ... (Everett looks at him) ... sir. So with all due respect, please answer Doctor Weir's question.<br><br>EVERETT: Is that a threat, Major?<br><br>SHEPPARD: No, sir. I understand you need to establish a clear chain of command, but if you cut Doctor Weir out of the loop, you'll only alienate the people whose trust and respect she's earned -- which is everyone on the base, including me.<br><br>EVERETT: Is that a fact? (John just looks at him. Everett considers him for a moment, then shrugs, looks at Elizabeth and nods to a chair.) Have a seat.<br><br>(As John, Elizabeth and the marines head for seats, the doors to the Conference Room close. Two marines stand guard outside. On a balcony nearby, Rodney, Zelenka and a couple of other scientists watch.)<br><br>McKAY: I should be in that meeting. I am the foremost expert on the defence capabilities of this city.<br><br>ZELENKA: You know how it is -- when military steps in, scientists take a back seat.<br><br>McKAY: Until they need us.<br><br>ZELENKA: I don't think they need us.<br><br>McKAY: Yeah, they don't think they need us, right up until the point that they need us, and then, they need us.<br><br>ZELENKA: Then they need us. (One of the scientists taps him on the arm to draw his attention to what's happening on the lower levels. Zelenka looks down.) Take a look at this.<br><br>(They all turn to look. A marine is taking the lid off a packing crate which has a large nuclear bomb inside it.)<br><br><br>CONFERENCE ROOM.<br><br>EVERETT: Six naqahdah enhanced nuclear warheads, twelve hundred megatons apiece. They emit almost zero EM and are otherwise invisible to radar. Once deployed, they will detonate by proximity fuse.<br><br>FORD: Space mines?<br><br>RADNER: That's right. We use Jumpers in stealth mode to place them in a pattern between the armada and Atlantis. Major, we were hoping you could help us with that.<br><br>SHEPPARD: Yes, but I recommend keeping a couple in reserve.<br><br>EVERETT: Negative. We're only gonna get one shot at this.<br><br>SHEPPARD: We have to consider the possibility ...<br><br>EVERETT: Four of my men are pilots. Beckett is giving them the gene inoculation right now. Assuming it takes, you will familiarise them with the Jumpers, and they will become our fighter screen.<br><br>SHEPPARD: Along with me.<br><br>EVERETT: I have another job for you. I understand that this base is equipped with a chair weapons platform like the one we found in Antarctica.<br><br>WEIR: Yes, but we have no way of powering it.<br><br>EVERETT: We do now. We brought a Mark Two naqahdah generator.<br><br>RADNER: We found a way to increase the power output by six hundred percent. It won't last nearly as long but it should be able to power the chair for as long as we need it to.<br><br>SHEPPARD: It's beginning to sound like a plan!<br><br>EVERETT (sarcastically): I'm glad you approve! We know this is a long shot, but like I said, all we have to do is hold out until the Daedalus gets here, then we can use the ZeePM to power the city's shields. Any questions? (Nobody has any.) Alright then. Now that Doctor Weir has been informed of our plans, (he leans on the table and looks at John) I would greatly appreciate it if you'd execute my order and contact the Alpha site.<br><br>SHEPPARD: Yes, sir. (He stands up and heads for the doors, which open.)<br><br>EVERETT: And Major? (John turns to face him.) This is the last time I give you an order twice.<br><br>SHEPPARD: Understood.<br><br><br>A montage of scenes follows, showing the preparations for the defence of Atlantis. The weapons which the marines brought through with them are being put together and deployed around the city, including the huge rail guns. On one of the Jumpers, John is teaching the four pilot marines how to fly it. In the Chair Room, Rodney and Zelenka are hooking up the new naqahdah generator to the chair. Above the city, four Jumpers fly out as the pilots take them out for their first flight. In the city, everyone -- even the scientists -- is being geared up with weapons. Out in space, a single Jumper flies out to deploy the space mines.<br><br><br>GYM. Teyla is training with one of the Athosians. They each have a fighting stick in one hand and a knife in another. They spar for a minute, then Teyla manages to get a knife to the man's throat. As they freeze in position, we see that Colonel Everett and four of his marines are standing at the door, watching.<br><br>EVERETT: You must be Teyla.<br><br>(Taking no notice of him for the moment, Teyla takes her knife away from the Athosian's throat, takes him by the arms and they touch their foreheads together. She then hands her stick and knife to him and he leaves as she turns to face Everett.)<br><br>TEYLA: And you are Colonel Everett.<br><br>EVERETT: Major Sheppard spoke very highly of you in his report. Of course, a more recent report has me a little concerned.<br><br>TEYLA: You think I may once again fall under the influence of the Wraith?<br><br>EVERETT: Major Sheppard assures me that won't happen, but I do need you to stay out of the way.<br><br>TEYLA: Do you not need every able body to help defend Atlantis?<br><br>EVERETT: I think we can handle it. (He walks away.)<br><br><br>CHAIR ROOM. Rodney speaks in irritation to Zelenka.<br><br>McKAY: He's not even trying!<br><br>(The camera pans across the room and we see that Carson is sitting in the chair.)<br><br>BECKETT: We've tried this a dozen times.<br><br>ZELENKA: Never with this power source.<br><br>BECKETT: I'm serious -- Major Sheppard's your man.<br><br>(Rodney, holding a laptop in his hand, walks over to face Carson.)<br><br>McKAY: Of course he is, but he's training pilots and deploying space mines right now, so we're stuck with you. (Carson grimaces.) Now, listen to me very carefully, do exactly what I tell you to do and hopefully no-one will get hurt.<br><br>BECKETT: Rodney, there must be someone else.<br><br>McKAY: Concentrate on powering up the chair -- nothing else, nothing more, nothing but. Don't start thinking about ...<br><br>BECKETT: Don't tell me what not to start thinking about, or I'll start thinking about it!<br><br>McKAY: Please power it up.<br><br>(Reluctantly, Carson takes a deep breath, closes his eyes and concentrates. The lights on the dais and on the back of the chair light up and the chair reclines. Rodney looks at various readouts on his laptop.)<br><br>McKAY: Good. Good. Good. And ... oh no.<br><br>(Carson opens his eyes, panic-stricken.)<br><br>BECKETT: What? Did I do something wrong?<br><br>(Without replying, Rodney pulls the connecting cable out of the laptop and runs out of the room. Zelenka walks over to Carson.)<br><br>ZELENKA: So, see? Nothing to worry about.<br><br>(Rodney walks back into view.)<br><br>McKAY: Get him out of the chair. (He turns and hurries away again. Zelenka reaches out his hand and Carson grabs it and quickly pulls himself out of the chair as it powers down.)<br><br><br>CONTROL ROOM. Rodney runs up the steps from the Gateroom.<br><br>McKAY: Elizabeth. (He pushes his way past Everett.) Excuse me. (To Elizabeth) I've hooked up the generator, and the chair platform is operational.<br><br>EVERETT: That's good news!<br><br>McKAY (turning towards him): Not so much.<br><br>WEIR: Why, what's wrong?<br><br>McKAY: We're down to just a few dozen drones.<br><br>EVERETT: And you're just finding this out now?<br><br>McKAY: Look, there was no way of determining that until the chair was initialised and that was only possible once the Mark Two was tied in.<br><br>EVERETT: The chair in Antarctica controlled thousands of the damned things!<br><br>McKAY: Yes, I know. They were probably used defending Atlantis the first time the Wraith attacked the Ancients.<br><br>WEIR: Even a few dozen -- it'll help us keep them at bay for a while.<br><br>(An alarm sounds.)<br><br>WEIR: What is it?<br><br>TECHNICIAN: We have incoming. I don't know where they came from -- they just appeared all of a sudden.<br><br>(John runs in.)<br><br>SHEPPARD: What's going on?<br><br>WEIR: We just detected a wave of objects approaching the planet.<br><br>EVERETT: How many?<br><br>TECHNICIAN: Hundred plus.<br><br>SHEPPARD: How come they weren't detected by the long range sensors?<br><br>McKAY (looking at his screen): Because they're rocks, asteroids! The Wraith must have harvested them from the system's asteroid belt and accelerated them towards us from a safe distance. The mainframe's taken this long to determine that they were a threat.<br><br>WEIR: Can they do much damage?<br><br>McKAY: Oh yeah. Admittedly most of them'll burn off in the atmosphere but ... that's not why they're doing it.<br><br>EVERETT (looking at another screen): They're headed toward the mines.<br><br>SHEPPARD: Well, can't they be deactivated?<br><br>EVERETT: No!<br><br>(The screen in front of him rotates the view to show the six mines in space and the asteroids heading towards them. Four of the mines explode. A few moments later, the final two explode. Rodney sinks back in his chair in despair.)<br><br>McKAY: Well -- that's that. Your mines make one hell of a bang, Colonel -- I'm sure the Wraiths' ears are ringing.<br><br>SHEPPARD: What's the status of the hive ships?<br><br>McKAY: There's no way of knowing. The mine detonation must have overloaded the sensors.<br><br>EVERETT: How long until they're back up?<br><br>TECHNICIAN: There's a lot of residual radiation.<br><br>McKAY: It'll keep us blind for hours.<br><br>SHEPPARD: Yeah, well, they're still out there -- and we just lost our primary line of defence.<br><br><br>NIGHT TIME. HOLOGRAM ROOM (where Carson and others saw the hologram of Melia in “Rising”.) Everett is waiting inside the room as John walks in.<br><br>SHEPPARD: You wanted to see me, Colonel?<br><br>EVERETT: I was told I could learn a lot about the history of Atlantis in this room.<br><br>SHEPPARD: We haven't used it much because of the power requirements.<br><br>EVERETT: Still, I would like to see for myself how the Ancients lost the first time -- to try to avoid their mistakes.<br><br>SHEPPARD: Yes, sir. We could do that. (He walks over to the control console and activates it. The doors to the room close, the lights go out and a three dimensional map of the galaxy appears above their heads, showing hundreds of blue stars.) This is the status of the Pegasus galaxy before the Ancients encountered the Wraith. The blue stars represent systems either inhabited by or protected by the Ancients. Then ... (he presses something on the console and all the stars turn red) this is how it looked after they fought for almost a hundred years.<br><br>EVERETT: Until Atlantis was all that was left.<br><br>SHEPPARD: Yes, sir. That's when the siege began. (The map homes in on the solar system of the planet on which Atlantis is based.) For several more years, the Atlanteans were able to hold off their attackers, relying on the city's shield and superior weaponry, including the weapons satellite system. No matter how many Wraith ships they destroyed, more kept coming here. They could win almost every battle but they saw no way to win the war, so they submerged the city and left. (He deactivates the display and the lights come back on.) That's it. That's the story -- but the picture is pretty clear.<br><br>EVERETT: So you think this is a no-win situation?<br><br>SHEPPARD: No, sir -- what I mean is, even if we beat them this time, they're gonna come back.<br><br>(Everett sighs, then looks at John.)<br><br>EVERETT: Major, I think I should tell you that Colonel Marshall Sumner was a very good friend of mine. We served together a lot of years. You know, I cannot for the life of me figure how it is that you could go as far as you did and not save him -- how you could get that close ...<br><br>SHEPPARD: By the time I reached Colonel Sumner ...<br><br>EVERETT: Worse, you admit to firing the shot that killed him.<br><br>SHEPPARD: Because I believe that's what he wanted me to do.<br><br>(Everett steps closer to John.)<br><br>EVERETT: You knew him that well, did you?<br><br>SHEPPARD: You weren't there, sir.<br><br>(Everett steps closer still and stares into John's eyes.)<br><br>EVERETT: No -- but I wish for his sake I was.<br><br>(John stares back at Everett.)<br><br>SHEPPARD: There isn't a night that doesn't go by where that moment doesn't play in my head -- and every time it does ...<br><br>(An alarm sounds. John activates his radio.)<br><br>SHEPPARD: Control Room ... (He stops, realising that he's not in command any more, and looks at Everett.)<br><br>EVERETT (into radio): This is Colonel Everett. Report.<br><br>MARINE (over radio): Sir, we've just detected a wave of Darts inbound.<br><br>EVERETT: I'm on my way. (To John) Get to the chair. We'll finish this later. (He walks away.)<br><br><br>CONTROL ROOM. The screen shows what looks like about a hundred Darts approaching the city. Everett comes in.<br><br>EVERETT: What's happening?<br><br>TECHNICIAN: Multiple signals, sir, closing fast. Doctor McKay must have been right about the nukes damaging the sensors. Couldn't see them until they were right on top of us.<br><br>EVERETT: Are my gunners in position?<br><br>TECHNICIAN: Yes, sir.<br><br>(Everett turns to Elizabeth.)<br><br>EVERETT: How about our damage control parties?<br><br>WEIR: They're all in position.<br><br>EVERETT (to the technician): Alright, darken the city.<br><br>(The technician activates controls and the lights lower. From an outside perspective, we see the entire city as it is plunged into darkness. On the balconies, marines are preparing their weapons. Captain Radner shouts out instructions.)<br><br>RADNER: Remember -- short steady bursts.<br><br>(The rail guns swing round and into position. Marines aim their weapons into the sky as the sound of approaching Darts can be heard.)<br><br>RADNER: Here they come!<br><br>(Flares fire into the air to illuminate the sky above the city, and the fight for Atlantis begins.)<br><br>(The marines manning the rail guns fire into the air, as do those with machine guns and grenade launchers. Darts swoop all around. One Dart is hit and goes into a death roll, crashing onto part of the city.)<br><br>(In the Chair Room, Rodney is struggling to get the Mark Two naqahdah generator working as John runs into the room.)<br><br>SHEPPARD: McKay, fire it up! (He throws himself into the chair.)<br><br>McKAY: It'll take a minute!<br><br>SHEPPARD: We don't have a minute!<br><br>McKAY (continuing to work): Look, this generator can only power the chair because it operates in a state of barely-controlled overload.<br><br>SHEPPARD: Just get the damned thing working.<br><br>McKAY: That's what I'm trying to do!<br><br>(Outside on the balconies, the firing continues. Radner radios to Everett, who is still in the Control Room.)<br><br>RADNER: Colonel, it's Radner!<br><br>EVERETT: Go ahead.<br><br>RADNER: It looks like some of them are starting to make kamikaze runs!<br><br>(Inside the Control Room, Everett, Elizabeth and the others flinch away from a bright light as one of the Darts crashes and explodes nearby. The last lights that were on in the room go out.)<br><br>WEIR: What happened?<br><br>TECHNICIAN: We lost primary systems.<br><br>(Everett and Elizabeth run outside onto the balcony. They stare at the tracer fire shooting up into the air and the returning fire coming from the Darts. A Dart explodes in the sky above them.)<br><br>(Nearby, one of the marines, Major Ferrell, is manning one of the rail guns, firing into the air. A Dart manages to avoid his fire and sweeps low over the gun, activating its transporter beam and sweeping away not only Ferrell but the other marines who were firing machine guns nearby. On the main balcony, Everett notices that that rail gun has ceased firing.)<br><br>EVERETT: One of our gun positions is dark. (He speaks into his radio.) Ferrell, why aren't you firing? (There's no reply.) Ferrell, report!<br><br>(Not far away from the silent rail gun, Aiden is running through the corridors of the city.)<br><br>FORD (into radio): Colonel, this is Lieutenant Ford. I'm near Ferrell's position. I'm on it. (He races up the stairs.)<br><br>(In the Chair Room, Rodney gets the generator working.)<br><br>McKAY: You've got power -- go!<br><br>(John activates the chair, which lights up and reclines. Outside, the chair's weapons platform irises open and half a dozen energy drones fly out and head up into the sky, pursuing the Darts.)<br><br>(At the rail gun, Aiden jumps into the vacant chair, activates the gun and starts to fire into the sky.)<br><br>(All around the city, marines continue to fire at the Darts.)<br><br>(High above the city, two Darts, their engines burning red, tilt their noses down and start kamikaze runs towards the Control Room area. The marines see them coming and run to fire in their direction. Aiden swings his rail gun around and aims at the Darts. An energy drone takes out one of them. Aiden fires repeatedly at the second one and it explodes in the air. The blast from the explosion heads towards the Control Room balcony. Everett grabs Elizabeth and they duck down, Everett covering her as the fireball sweeps over the top of the balcony.)<br><br>(In the Chair Room, John continues to concentrate as he controls the final few energy drones. One of the drones chases the final Dart, barely missing it as it flies at the Dart but then sweeping back and taking it out on its second attempt. Everyone stops firing. Everett and Elizabeth walk to the edge of the balcony and look over the city. Fires are burning in several places but the battle is over -- for now.)<br><br><br>DAY TIME. Smoke is still rising from various areas of the city. In the Control Room, Rodney is reporting.<br><br>McKAY: Power's out in sections of the city. The long range scanners and the internal sensors are down but we're working on it.<br><br>EVERETT: I wanna know the status of those hive ships A.S.A.P.<br><br>McKAY: They're coming -- that's their status. (He turns around and glares at Everett.) Tomorrow -- the day after -- the day after that -- eventually they'll get here. Whether we're here to greet them or not is another matter.<br><br>WEIR: Rodney ...<br><br>McKAY: Look, the chair is out of drones. How do you expect to handle the next wave?<br><br>EVERETT: I'm open to suggestions.<br><br>McKAY (sarcastically): Really? (He folds his arms.)<br><br>SHEPPARD: We target the hive ships.<br><br>EVERETT: With what?<br><br>SHEPPARD: We fly the Puddle Jumper in stealth mode right down their throats.<br><br>EVERETT: Are you volunteering for a suicide mission?<br><br>SHEPPARD: It won't be a suicide mission if McKay and Zelenka can figure out a way to remote control the Jumpers.<br><br>(Zelenka raises his eyebrows. Everett looks at him, then turns to Rodney.)<br><br>EVERETT: Can you do it?<br><br>McKAY: I knew this was gonna happen.<br><br>EVERETT: Is that a fact?<br><br>McKAY: Yes, it's a fact. Look, you show up here with your guns and your brush cuts, but when it comes to actually saving the city, you turn to the scientists! (He turns away from Everett, grumbling.) And every time what you ask is impossible.<br><br>EVERETT: When was the last time you slept, Doctor?<br><br>McKAY (staring at a laptop and making a 'be quiet' gesture at Everett): Shut up, I have an idea.<br><br>ZELENKA: The chair.<br><br>McKAY: Of course the chair. (He turns towards Zelenka.) The problem is tying it into the Jumper systems ...<br><br>ZELENKA: ... without overloading the generators ...<br><br>McKAY: ... possibly using the drones in the Jumpers themselves as a means of propulsion ...<br><br>ZELENKA: ... while increasing the inertial dampening to maximum.<br><br>McKAY: It wouldn't be very manoeuvrable but possibly, possibly! (They start to walk up the steps.)<br><br>EVERETT (calling after them): Is that a yes?<br><br>McKAY (turning back to him with a look of irritation on his face): No, it's a possibly.<br><br>EVERETT: I'll take it! (As the scientists walk away, he turns to John.) How much damage can one Puddle Jumper do?<br><br>SHEPPARD: I've got an idea about that too. (He looks at Elizabeth.) I think I know where we can get another nuke.<br><br>WEIR (instantly understanding what he means): Major, I don't know how sympathetic the Genii'll be to our situation.<br><br>EVERETT: The Genii?<br><br>SHEPPARD: They wanna test their weapon, now's their chance.<br><br>TEYLA (offscreen): Let me pass! (Everett, John and Teyla walk to the balcony to see Teyla down in the Gateroom trying to shake off a couple of marines who are holding her back.) I need to talk to Doctor Weir!<br><br>WEIR: Teyla? What's the matter?<br><br>TEYLA: The Wraith -- they are in Atlantis.<br><br><br>SHORTLY AFTERWARDS. Marines are gearing up to search Atlantis. Everett, John and Aiden walk down the steps into the Gateroom.<br><br>FORD: The Wraith piloting the kamikaze ships beamed into the city right before they hit.<br><br>EVERETT: So they're trying to take the city intact? How many are we talking about?<br><br>SHEPPARD: How many Darts crashed?<br><br>EVERETT: Between twenty and thirty. And internal sensors are still down.<br><br>SHEPPARD: Well, we have this. (He reaches into his jacket, takes out a lifesigns detector and shows it to Everett, who looks at the many dots blinking on its screen.) It can't differentiate between Wraith and human but if we confine all base personnel to designated areas, the blips that show up out of bounds will be the likely targets.<br><br>EVERETT: Let me see that.<br><br>SHEPPARD (handing him the detector): Won't do you any good. You need the gene.<br><br>(Everett holds up the detector to show that it's still working.)<br><br>EVERETT: I got the gene therapy too.<br><br>(Behind him, Teyla and several Athosians approach.)<br><br>TEYLA: We wish to help. (Everett turns and looks at her.) This is quite a large city, Colonel. You need as many people searching as possible.<br><br>SHEPPARD: She is the one who sensed the Wraith presence in the first place.<br><br>(Everett looks at Teyla for a long moment, then addresses one of his marines.)<br><br>EVERETT: Captain ... get some weapons for these people.<br><br>CAPTAIN: Yes sir.<br><br>(Everett smiles at Teyla, who smiles and nods back in acknowledgement.)<br><br><br>CHAIR ROOM. Rodney is pushing an unwilling Carson into the room.<br><br>BECKETT: There's other people on this base that possess the Ancient gene. Doctor Kusanagi, for example -- I'm sure she'd relish the opportunity to help.<br><br>McKAY: I am exhausted and starving, so sit down. (They reach the dais. Carson hesitates.) Carson, it's out of drones -- you couldn't do any damage if you wanted to. (He gestures at the chair and Carson reluctantly sits down and activates it. The chair lights up and reclines.) Thank you. OK, we're in business. (To Zelenka) Head down to the Jumper Bay -- radio me when you get there. (Zelenka leaves. Rodney walks round to the rear of the dais as Carson, grimacing, lies in the chair.)<br><br><br>In another part of the city, Everett and some of his marines are cautiously making their way through the corridors, Everett checking his lifesigns detector as he goes.<br><br><br>Elsewhere, Teyla and her team are also searching corridors.<br><br><br>Elsewhere again, Aiden, on his own, is making his way cautiously down a corridor. Hidden nearby is a Wraith guard. Aiden rounds a corner and the guard lashes out at him, sending him flying across the corridor. He crashes to the ground, winded. The guard walks towards him but John appears from behind them and guns the guard down. As Aiden gets to his feet, John shoots the guard a few more times to make sure that it's dead, then gets out his lifesigns detector from his jacket and checks it.<br><br>SHEPPARD: You OK?<br><br>FORD: Yeah. How 'bout next time, you can be the bait?<br><br>SHEPPARD: Yeah, maybe. Next time. OK -- this way.<br><br><br>CONTROL ROOM. Elizabeth walks in to be met by the technician.<br><br>TECHNICIAN: We just received a response from the Genii.<br><br>WEIR: Let's hear it.<br><br>(The technician activates the recording and a man's voice can be heard.)<br><br>PRENUM: This is Prenum of the Genii. We welcome the opportunity to open a dialogue between our two people. Send your representative -- one person, unarmed.<br><br>WEIR: Is that all?<br><br>TECHNICIAN: Yes, ma'am.<br><br>(Elizabeth activates her radio.)<br><br>WEIR: Colonel Everett, this is Weir. As we hoped, the Genii have asked us to send a representative. I'm set to go.<br><br>(Everett is still searching the corridors as he speaks over the radio to her.)<br><br>EVERETT: Good -- I can't imagine anyone more qualified. Pull this off, and I'll buy you a drink.<br><br>WEIR: You got a deal. (To the technician) Dial the Gate.<br><br><br>WORMHOLE TRAVEL.<br><br><br>GENII HOMEWORLD. The door to a room is opened and two guards march Elizabeth inside. Her hands are bound behind her back and she has a white scarf tied around her head, covering her eyes. The guards walk her to a chair in the middle of the room and sit her down before turning and leaving again, closing the door. We then see that there is another man, wearing Genii uniform, standing inside the room watching Elizabeth. He waits for several seconds before speaking.<br><br>PRENUM: Doctor Weir. I am Prenum of the Genii. I'm rather surprised ... (he chuckles) no, astonished that you would have the audacity to come here.<br><br>WEIR: You heard our message. The Wraith are at our doorstep.<br><br>PRENUM: And we are understandably delighted at the prospect of your demise.<br><br>WEIR: That may be so. But, still, we have something that you want.<br><br>PRENUM: C4.<br><br>WEIR: More than that. We have an opportunity for you to test your weapon, at no risk to yourselves, and a chance to strike at the Wraith. You have no idea how close they are.<br><br>PRENUM: The Wraith have come, Doctor. Six days ago. Fortunately, we detected their approach, and we were able to shut down our reactors in time. Hundreds of lives were lost on the surface, but thousands more were saved because our underground complex went undetected. So you see, the threat to the Genii has come and gone. So far as the Wraith are concerned, this planet is no longer of interest to them. We have the design that Doctor McKay provided for us, and our prototype bombs are nearly complete.<br><br>WEIR: So why would you ask me to come here?<br><br>PRENUM: So that we may trade the C4 for your life.<br><br><br>ATLANTIS. NIGHT TIME. Everett's team is making its way through the corridors. They hear gunshots nearby. As Everett checks his lifesigns detector, the power in the corridors goes down. The team cautiously continues into a generator room and sees a dead marine lying on the ground.<br><br>EVERETT: Damn it.<br><br>(On the table near the dead man, the naqahdah generator has been wrecked. It is sparking and smoking and is probably beyond repair.)<br><br>(In another corridor, Teyla and her team are searching as Everett reports over the radio.)<br><br>EVERETT (over radio): This is Everett. The Wraith just took out one of our generators.<br><br>(Elsewhere, John and Aiden are running down some stairs.)<br><br>SHEPPARD: Where's the nearest generator station?<br><br>FORD: Number three. Teyla's group is closer.<br><br>(Teyla's group are hurrying along their corridors.)<br><br>SHEPPARD (over radio): Teyla?<br><br>TEYLA: We are already on our way, Major!<br><br>SHEPPARD: We'll meet you there.<br><br><br>GENII CELL.<br><br>WEIR: I have already offered you the C4.<br><br>PRENUM: And you want our prototype weapons in exchange. That's not a bargain for the Genii.<br><br>WEIR: What would you do if you had the C4 right now? Incorporate it into your weapons?<br><br>PRENUM: Yes.<br><br>WEIR: And you would test them.<br><br>PRENUM: Of course.<br><br>WEIR: I am offering you the chance to test your weapon design on a Wraith hive ship at no risk to your own people, and still have enough to build dozens more. Now, if you are too proud or too stupid to see the ...<br><br>PRENUM: Be careful, Doctor.<br><br>WEIR: I am way past careful! Now you know what the deal is, and it's a damn good one, so take it or leave it.<br><br><br>ATLANTIS. JUMPER BAY. In one of the Puddle Jumpers, Zelenka is working on a control panel near the rear of the ship.<br><br>ZELENKA: OK. Yeah, that's it.<br><br>(In the Chair Room, Rodney is tinkering with an open panel on the dais.)<br><br>McKAY: Okay, give it a test.<br><br>ZELENKA: (over radio) Standing by.<br><br>(Rodney stands up and walks over to a control panel. Carson is lying in the chair with his eyes closed.)<br><br>McKAY: Carson, I need you to clear your mind and think about the Puddle Jumper. Think about bringing it online.<br><br>(Carson nods, blows out a breath, then screws up his eyes in concentration.)<br><br>(In the Jumper, Zelenka waits impatiently.)<br><br>ZELENKA: Come on, come on, come on. Any time now!<br><br>(In the Chair Room, Rodney walks around to the front of the chair and looks at Carson. It's probably a good thing that Carson still has his eyes closed because Rodney is holding a rifle in one hand and, perhaps without realising it, is pointing it at him.)<br><br>McKAY: Carson. Look, I know you can do this. Just activate the Puddle Jumper.<br><br>(Carson screws his eyes even tighter, straining with effort. Inside the Jumper, Zelenka wanders away from the flight controls but turns again as the controls light up, then all the lights inside the ship come on.)<br><br>ZELENKA: Yes! Yes, yes, yes! Rodney! Rodney! It works!<br><br>McKAY (sighing in relief): Thank God!<br><br>(Carson, his eyes still closed, smiles in delight. Rodney, exhausted, sinks down to sit on the edge of the dais and closes his eyes.)<br><br><br>GATEROOM. The Gate is open. Elizabeth walks through, followed by two Genii men each pushing a trolley with a nuclear device on it.<br><br>WEIR (to an approaching marine): Give me your radio. (The marine hands his radio over.) Thank you. <br><br>(In the Chair Room, in the couple of seconds that have passed, Rodney has dozed off but he jerks awake as Elizabeth's voice comes over the radio.)<br><br>WEIR (over radio): This is Weir. I've got the prototypes.<br><br>McKAY (wearily): Prototypes. Right. (He stands up and walks away, leaving Carson still sitting in the chair with his eyes closed.)<br><br><br>CORRIDOR. Teyla and her team are in a firefight with several Wraith guards and one Wraith. More Wraith come around the corner behind the team and fire at them. Teyla and one of the men turn to return fire, but the man is taken down by a Wraith stunner beam. The other Athosians continue firing. John and Aiden arrive and shoot down the last few Wraith.<br><br>SHEPPARD: Well, that should be the last of them.<br><br><br>ELIZABETH'S OFFICE. Elizabeth walks in to find Everett sitting at her desk working on a laptop.<br><br>WEIR: Colonel.<br><br>EVERETT (looking up at her): Well done, Doctor. I-I have to admit it. I'm impressed.<br><br>WEIR: Well, maybe there's hope for me yet.<br><br>(Everett smiles at her, then looks awkward and stands up.)<br><br>EVERETT: I'm in your chair.<br><br>WEIR: Thought it was your chair.<br><br>EVERETT: Yeah, well, I, uh, I don't sit much. I was just going over the ... (He gestures at the laptop. At that moment, Rodney walks in.)<br><br>McKAY: We have a problem.<br><br>EVERETT: We have a lot of problems.<br><br>McKAY: I just finished examining the Genii nuclear devices. They're incomplete. I can finish it, but it's going to take time.<br><br>EVERETT: How much time?<br><br>McKAY: About a day.<br><br>EVERETT: We don't have a day, Doctor.<br><br>McKAY: Like I said, we have a problem. (He turns and leaves the room. Elizabeth and Everett follow him.)<br><br><br>LAB. DAY TIME. Rodney and Zelenka, wearing heavy rubber gloves, are taking the casings off the bombs. Carson walks in.<br><br>BECKETT: You want to see me, Rodney?<br><br>McKAY: Yes, yes. I need something to keep me awake.<br><br>ZELENKA: Yeah, me too.<br><br>BECKETT: I've already given you something.<br><br>McKAY: Yeah, well, we're building nuclear bombs here! Staying awake is sort of a prerequisite.<br><br>BECKETT: Snappy! All right. I'll get you another stimulant. Carry on. (He leaves.)<br><br>ZELENKA: Thank you!<br><br><br>GATEROOM. The Gate is open and injured personnel, both military and Athosian, are being evacuated off the base. Everett and Teyla stand on the balcony watching them go. Everett turns to Teyla.<br><br>EVERETT: I'm sorry you lost some of your people.<br><br>TEYLA: Many have died, Colonel.<br><br>MARINE (over comms): This is Jumper Four. We have a visual on the hive ships.<br><br>(Everett activates the tannoy.)<br><br>EVERETT: This is Everett. Jumper Four has just informed us the Wraith hive ships are approaching the planet. Defence team to your positions. (As the Gate closes down, he turns to Elizabeth.) Doctor?<br><br>(Elizabeth looks at him, a little surprised, but pleased that he has offered her the chance to speak to her people.)<br><br>WEIR: Thank you. (She activates her radio to tap into the tannoy system.) This is Weir. Now I know how tired you all are, and how much we have asked of you these past few days. (As she speaks, we see Rodney and Zelenka continuing to work on the bombs. Zelenka, exhausted, rubs his forehead for a moment before continuing working.) Hopefully the Daedalus will arrive soon, but until that happens our fate is in our own hands. (In a corridor, Aiden, Captain Radner and another marine are walking along. In another part of the base, John and his team are heading into position.) If, during the course of this battle, our mission fails, I will give the order to evacuate. Now, we all hope it won't come to that. But if it does, don't hesitate. That is all.<br><br><br>LAB. Aiden and Radner walk in just as Rodney and Zelenka put the casings back onto the bombs.<br><br>RADNER: Time's up.<br><br>McKAY: Well, what a coincidence. We're done.<br><br>(Aiden and Radner walk over and begin to prepare the bombs for transportation. Rodney folds his arms onto a nearby surface and lays his head down on top of them, groaning in exhaustion.)<br><br>ZELENKA: So, Chair Room?<br><br>McKAY (lifting his head again): Right.<br><br>(He heads out, as do Radner, Zelenka and the marines as they wheel the bombs out. Radner reports to Everett over the radio).<br><br>RADNER (into radio): Colonel, we're heading to the bay to load up the Jumpers.<br><br>EVERETT (over radio): Understood.<br><br><br>CONTROL ROOM. Everett turns to Elizabeth.<br><br>EVERETT: Remember, I owe you that drink. (He smiles at her, then leaves the room. Teyla follows him.)<br><br><br>PUDDLE JUMPER. Aiden and another marine wheel one of the bombs inside. As the trolley reaches the top of the ramp and enters the ship proper, the rough floor makes the bomb rock on the trolley.<br><br>ZELENKA: Slow, slow, slow, slow, slow. Right here.<br><br><br>CORRIDOR. Teyla's team patrols the corridor.<br><br><br>CONTROL ROOM.<br><br>WEIR: Sheppard, are you ready?<br><br><br>CHAIR ROOM. John is sitting in the chair but its lights are not on. Behind the chair, Rodney is working on a console.<br><br>SHEPPARD: Rodney?<br><br>McKAY: The generator's not powering up like it should be. (He runs over to the side of the dais and squats down to the generator just as its indicator lights all drop to zero.)<br><br><br>CORRIDOR. Teyla's team continues to patrol the corridor.<br><br><br>GATEROOM BALCONY. Marines are gazing up into the sky, awaiting the impending attack. One of the rail guns swings into position.<br><br><br>SPACE. Above Atlantis, the Wraith hive ships move into position.<br><br><br>CONTROL ROOM. An alarm sounds. Elizabeth looks at the screens and sees ships approaching the planet.<br><br>WEIR (over radio): They're sending in another wave! Major, we need to go!<br><br>(Above the city, Darts appear out of the clouds and begin attacking the city. The marines on the balconies open fire on them.)<br><br>(In the Chair Room, Sheppard stares as the chair still won't activate.)<br><br>SHEPPARD: McKay!<br><br>McKAY: There's something wrong! Power levels are dropping!<br><br>(In the Jumper Bay, Zelenka stands outside one of the Jumpers, checking his hand-held computer.)<br><br>ZELENKA: Rodney, nothing is happening!<br><br>(In the corridors where Teyla's team is, and in the Jumper Bay, and in the Control Room, everyone flinches as the base rocks from a large explosion, possibly a Dart crashing into the city somewhere.)<br><br>(In the Control Room, Elizabeth stares at the screens showing a large number of Darts still approaching the city.)<br><br>WEIR: Why are there no Jumpers in the air?<br><br>McKAY (from the Chair Room): We must have exhausted the Mark Two's energy output. It's dead.<br><br>(John realises that there's only one thing that he can do.)<br><br>SHEPPARD: So long, Rodney. (He jumps out of the chair.)<br><br>McKAY: There's got to be a way to ... (He looks up and sees John running out of the room.) Major!<br><br><br>CORRIDOR. Everett and another marine are making their way down some stairs. Not far away, a Wraith ghost image flits by. Everett checks his lifesigns detector.<br><br>EVERETT (into radio): Heads up, people: they're in the base!<br><br><br>In another corridor, John is racing for the Jumper Bay.<br><br><br>CONTROL ROOM.<br><br>WEIR: Colonel, we have a problem.<br><br>EVERETT (over radio): What is it?<br><br>WEIR: We may need to give the order to evacuate.<br><br>(John runs into the Control Room and heads for the stairs leading up to the Jumper Bay.)<br><br>SHEPPARD: Elizabeth, wait. (He stops partway up the stairs and looks back at her. She turns and stares at him, realising what he's going to do.)<br><br>WEIR: You can't.<br><br>SHEPPARD: I have to, and you know it.<br><br>WEIR (shaking her head): John ... (They stare at each other for a few moments, then she realises that there is no other way.) Go.<br><br>(John nods and races up the stairs. Elizabeth closes her eyes, bowing her head.)<br><br><br>In the corridor, Everett and his colleague are still checking out the area.<br><br>EVERETT: What's the status on that damned Jumper?<br><br>WEIR: It's on its way.<br><br>(In the corridor, a Wraith drops down behind Everett. It knocks the marine flying, then turns to Everett, knocking his P90 out of his hands. Everett draws his pistol and fires it at point blank range into the Wraith's chest. The Wraith is unaffected. Everett fires again and again until his pistol is empty. The Wraith snarls and leans in for the kill.)<br><br><br>Outside, the Darts continue to attack the city.<br><br><br>CONTROL ROOM. Zelenka radios in from the Jumper Bay.<br><br>ZELENKA (over radio): Doctor Weir, Major Sheppard is taking the Jumper out.<br><br>WEIR (into radio): I'm aware of that, Doctor Zelenka. Start prepping Jumper Two.<br><br>(Gunfire can be heard nearby.)<br><br>WEIR (into radio): Teyla, I'm hearing gunfire. What's your status?<br><br>(Out in the corridors, the Athosians who were in Teyla's team are lying dead on the floor. There is no sign of Teyla.)<br><br>WEIR: (over radio) Teyla, do you hear me? Teyla!<br><br>(When Teyla doesn't reply, Elizabeth closes her eyes in grief.)<br><br><br>JUMPER BAY. Jumper One flies up through the roof and into the sky.<br><br>SHEPPARD: Hopefully if I take this one out, the other one will back off.<br><br><br>CONTROL ROOM. The Gate is open. Carson shoves a marine towards the Gate.<br><br>BECKETT: Go, go, go, go! (He turns and runs up the stairs to join Elizabeth. Rodney has also just arrived.) We can't stay here, Elizabeth.<br><br>McKAY: He's right. They're beaming in all over the place.<br><br>WEIR: We're not going anywhere -- not yet.<br><br>(Rodney turns and looks at the screens. They show one blue dot flying out into the large number of red dots above the planet.)<br><br>(Above the city, Jumper One flies up into the sky, cloaking as it goes. Inside, John talks to the Control Room.)<br><br>SHEPPARD: You know, if this works, somebody might have to do it again.<br><br>WEIR: Understood.<br><br><br>Elsewhere in the city, Aiden and some other marines are running along.<br><br>FORD: Come on, keep up! Over there!<br><br>(As they turn a corner and run onto a gantry, two Wraith and three guards transport down in front of them, blocking their way. The Wraith guards aim stunners at the group. As Aiden and his team aim their weapons at them, more Wraith guards run in from behind them. The team are completely surrounded.)<br><br><br>CONTROL ROOM. Rodney stares at the screen, then turns to Elizabeth.<br><br>McKAY: You let Sheppard fly that Jumper?<br><br>(Elizabeth looks at him resolutely, then turns away. Rodney and Carson continue to stare at the screen in shock.)<br><br>WEIR: Help me arm the self destruct in case this fails. (She types in her code onto a laptop. Rodney joins her and types in his own code. Carson continues to stare at the screen, watching the Jumper approach the hive ships. He turns to look at Elizabeth as the self destruct alarm sounds.)<br><br><br>PUDDLE JUMPER.<br><br>SHEPPARD: They haven't detected my approach. Weapon is armed and ready. I'm goin' in.<br><br><br>TO BE CONTINUED.
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="119.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s1/120.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="../../s2/transcripts/201.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s1/index.shtml">
+<IMG SRC="/graphics/title_s1episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season One Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="101.shtml" CLASS="list">Rising, Part 1</A><BR><A HREF="102.shtml" CLASS="list">Rising, Part 2</A><BR><A HREF="103.shtml" CLASS="list">Hide and Seek</A><BR><A HREF="104.shtml" CLASS="list">Thirty Eight Minutes</A><BR><A HREF="105.shtml" CLASS="list">Suspicion</A><BR><A HREF="106.shtml" CLASS="list">Childhood's End</A><BR><A HREF="107.shtml" CLASS="list">Poisoning the Well</A><BR><A HREF="108.shtml" CLASS="list">Underground</A><BR><A HREF="109.shtml" CLASS="list">Home</A><BR><A HREF="110.shtml" CLASS="list">The Storm</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="111.shtml" CLASS="list">The Eye</A><BR><A HREF="112.shtml" CLASS="list">The Defiant One</A><BR><A HREF="113.shtml" CLASS="list">Hot Zone</A><BR><A HREF="114.shtml" CLASS="list">Sanctuary</A><BR><A HREF="115.shtml" CLASS="list">Before I Sleep</A><BR><A HREF="116.shtml" CLASS="list">The Brotherhood</A><BR><A HREF="117.shtml" CLASS="list">Letters From Pegasus</A><BR><A HREF="118.shtml" CLASS="list">The Gift</A><BR><A HREF="119.shtml" CLASS="list">The Siege, Part 1</A><BR><A HREF="120.shtml" CLASS="list">The Siege, Part 2</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season One</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B000BVXPGY/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B000CEVUIK/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls1.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="119.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s1/120.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="../../s2/transcripts/201.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

@@ -1,0 +1,527 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Outsiders" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s5/512.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s5/transcripts/512.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=647">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=747">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s5/512.shtml#production">Production</A>
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=60289">Fan Reviews</A>
+				 | <A HREF="http://forum.gateworld.net/forumdisplay.php?f=138">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s5/512.shtml"><IMG SRC="/atlantis/graphics/512_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="OUTSIDERS" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://click.linksynergy.com/fs-bin/stat?id=2cvd55rHd*s&offerid=78941&type=3&subid=0&tmpid=1826&RD_PARM1=http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewTVShow?id=179127311&partnerId=30"><img height="15" width="61" border="0" alt="iTunes" src="/store/graphics/itunes_button.gif"></img></a> &nbsp; <a href="http://www.amazon.com/gp/product/B001INZN50/?tag=bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 512<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 5, Disc 3<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 10.17.08<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 02.08.10<BR>
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0567166/" TARGET="_blank">Alan McCullough</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0912272/" TARGET="_blank">William  Waring</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">The Wraith arrive in a village where Dr. Beckett is working, and demand that the locals turn over a group of refugees who survived the Hoffan plague -- or the entire village will be obliterated.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    ALIEN VILLAGE.  In a house, Carson Beckett is holding a stethoscope to the back of a young girl sitting on a bed beside him.<br><br>BECKETT: Once more.<br><br>(The girl takes a deep breath and then blows it out.  Carson takes the stethoscope off and sighs deeply before looking at her.)<br><br>BECKETT: Bad news, I'm afraid.  You'll have to go back to school tomorrow.<br><br>(They both smile.  He tweaks her nose, then stands up and talks to a female villager who appears to be acting as his nurse.)<br><br>BECKETT: Maintain the amoxicillin for three more days.  That should do the trick.<br><br>(They walk over to a man sitting nearby.  The house is clearly being used as a makeshift hospital.)<br><br>BECKETT: Now, what do we have over here?  (He looks down at the man.)  Well, these dressings need to be changed.  (He looks up at his nurse.)  D'you mind going back to the storeroom and getting some more bandages, please?<br><br>NOVO: Yes, Doctor.<br><br>BECKETT: Thank you.  (He puts his hand on the man's shoulder.)  Besides that, you're looking good, my friend!<br><br>SHEPPARD: Mail call!<br><br>(Carson turns and looks in delight as John Sheppard, Teyla Emmagan, Ronon Dex and Rodney McKay come in the door.)<br><br>BECKETT: Colonel!  What're you all doin' here?!<br><br>SHEPPARD: Well, we heard you needed supplies, so we thought we'd come by and see how you were doin'.<br><br>(Grinning, Ronon walks over to Carson and hugs him.  Rodney walks into the room, grimacing in indignation.)<br><br>McKAY: A hop, skip and a jump from the Gate?  That's what you call that?!<br><br>BECKETT: Nice to see you too, Rodney!<br><br>TEYLA: How are you, Doctor?<br><br>BECKETT: Well, thanks.  (He takes a case from her.)  I take it these are the antibiotics I ordered?<br><br>SHEPPARD: Doctor Keller gave you a whole whack of 'em, so they should last for a while.<br><br>BECKETT (sighing): Ah, God, I wish that were true.<br><br>DEX: What does <i>that</i> mean?<br><br>BECKETT: Well, I've been dealing with a number of infections from the Hoffan plague survivors.  I can barely keep on top of it.<br><br>McKAY: Survivors of the Hoffan plague here?<br><br>TEYLA: This is not one of the planets that Michael targeted.<br><br>BECKETT: No, but many of these people actually come from another planet, Balar.  They managed to survive the plague, and just when they were starting to get their pieces back together, the Wraith showed up – tried to wipe them out.<br><br>SHEPPARD: Hmm, we heard rumours about that.<br><br>McKAY: Well, the Wraith aren't too pleased to have whole populations out there that are immune to their feeding.<br><br>BECKETT: Just a handful of the Balarans survived.  The locals were kind enough to take them in.<br><br>(Novo comes in with a box of bandages.)<br><br>NOVO: Doctor.<br><br>BECKETT: Novo!  These are my friends from Atlantis: Colonel Sheppard, Teyla, Ronon, and Doctor Rodney McKay.<br><br>(Rodney stands and smiles at Novo, instantly smitten.)<br><br>BECKETT: This is Novo.  She's been helping me here in the clinic.<br><br>SHEPPARD: Pleasure to meet you.<br><br>NOVO: You as well.  I've heard a lot about you.<br><br>(She leans closer to Carson while looking at Rodney.)<br><br>NOVO: Is he the one?<br><br>McKAY (smiling): The one what?<br><br>NOVO: From all the funny stories.<br><br>BECKETT (embarrassed): Right(!)<br><br>(Rodney's smile starts to fade.  John and Teyla look round at him and grin.)<br><br>BECKETT (hurriedly): Well, I hope you all can stay here for dinner.  I mean, the canteen's not fancy but they do serve up one heck of a stew, made from a goat-like creature.  Delicious!<br><br>McKAY: Goat-<I>like</I>?<br><br>SHEPPARD: I think it's a <I>great</I> idea.  Gives us a chance to catch up and re-live all those ... funny stories.<br><br>(He glances at Rodney.  Carson smiles awkwardly.)<br><br>BECKETT: Aye.<br><br><br>SOME TIME LATER.  Team Sheppard walks through the village with Carson.<br><br>McKAY: So, how's life in the wilds of Pegasus?  You've <I>gotta</I> be missing Atlantis by now.<br><br>BECKETT: Surprisingly, no.<br><br>McKAY: Oh, come on!  Like, hot baths, PlayStation ...<br><br>(A male villager walks past.  Rodney grimaces.)<br><br>McKAY: ... deodorant.<br><br>BECKETT: I know it seems a wee bit rough, but it's not, really.  Wherever I go, people are kind to me; I never want for a meal or a place to sleep.  And to be honest with you, I'm really starting to feel like I'm making a difference.<br><br>(A short distance away, a woman screams in terror.  John and Ronon hurry towards the sound, the others following.  At the edge of the village, a large group of Wraith guards, all armed with stunner rifles, walk towards the people.  John rounds the corner and sees them.)<br><br>SHEPPARD: Woah!<br><br>(He holds out his arm to stop the others progressing forward and they all duck back out of sight.)<br><br>McKAY (whispering): What is it?<br><br>SHEPPARD (whispering): Wraith.<br><br>(The guards continue into the village.  Ronon moves cautiously across the alleyway to get a better view – and a clearer shot when the time should come.)<br><br>DEX (whispering): I count nine of 'em.  We can take 'em.<br><br>SHEPPARD (whispering): No, there's too many civilians.<br><br>TEYLA: It does not appear to be an ordinary culling.<br><br>McKAY: How d'you figure that?<br><br>TEYLA: For one thing, there are no Darts, and they do not seem to be attacking the villagers.<br><br>(The guards part to reveal a male Wraith.  It stops and looks around the village, then calls out.)<br><br>WRAITH COMMANDER: Who among you speaks for the rest?<br><br>(A man nervously puts his hand on his own chest.)<br><br>ELSON: I am Elson, leader of this village.<br><br>(He steps closer to the commander.)<br><br>ELSON: What do you want with us?<br><br>COMMANDER: You have recently taken in a group of refugees from another planet.  They are survivors of a plague.  It's important that you turn them over to me immediately.<br><br>ELSON: Why?<br><br>COMMANDER: The reasons why do not concern you.  Provided you co-operate, you have my word we will leave peacefully.<br><br>ELSON: And if we don't?<br><br>(The commander steps closer and looks down at him menacingly.)<br><br>COMMANDER: That would be a very unwise decision. Our Hive will be here before the night is through.  If you have not complied by then, I will give the word and your entire village will be destroyed.<br><br>(It calls out to the other villagers.)<br><br>COMMANDER: Turn over these outsiders and your lives will be spared.  Resist, and you will all die together.<br><br>(It looks at Elson again.)<br><br>COMMANDER: The choice is yours.<br><br>(It turns and leaves the village, the guards following.)<br><br><br>HOUSE.  Team Sheppard, Carson and Novo have returned to the clinic.<br><br>NOVO: I don't understand.  They've already destroyed our home world.  Why would they hunt the rest of us down as well?<br><br>(John looks at Carson.)<br><br>SHEPPARD: You didn't tell 'em.<br><br>BECKETT: Not the whole story.<br><br>NOVO: What are you talking about?<br><br>BECKETT: Novo, remember when I told you that, as a plague survivor, you'd be immune to the Wraith feeding?<br><br>(She nods.)<br><br>BECKETT: Well, there's a bit more to it than that.  Any Wraith who tries to feed on you or anyone like you will, as a result, die instantly.<br><br>DEX: You're poison to them.<br><br>NOVO: Then we're as good as dead.<br><br>SHEPPARD: Not necessarily.<br><br>NOVO: They won't tolerate our presence anywhere – not if what you say is true.<br><br>TEYLA: Just because they found you on <I>this</I> world does not mean that there is <I>nowhere</I> you can hide.<br><br>(The door opens and a small group of people comes in.  One of the men looks at Novo.)<br><br>SEFARIS: Novo?  Did you hear?<br><br>NOVO: Yes.  (She looks round at the team.)  This is Sefaris.  He is also from Balar.<br><br>SEFARIS: The councillors are meeting to discuss whether or not to heed the Wraith's request.<br><br>BECKETT: What?!  Where?<br><br>SEFARIS: The mine office.  I tried to get in but they turned me away.<br><br>SHEPPARD: Ronon, Teyla, scope out the Gate.  (He looks at Carson and Rodney.)  You two stay here and watch these people.<br><br>(He stands and walks over to Sefaris.)<br><br>SHEPPARD: Can you show me where this mine office is?<br><br>SEFARIS: Yes.<br><br>BECKETT: Colonel, what are you gonna say to them?<br><br>SHEPPARD: I'm gonna give them another way out.<br><br><br>MINE OFFICE.  John is talking with the councillors.<br><br>ELSON: You're telling us that, as a result of this plague, the Balarans are now deadly to the Wraith?<br><br>SHEPPARD: Pretty much.<br><br>ELSON: So the Wraith would never risk culling this village.<br><br>SHEPPARD: That's true, but that's also why they'd be willing to wipe you guys out completely.  A village that can't be culled's no good to 'em.<br><br>(A man looks at John.)<br><br>JERVIS: Did they know?<br><br>SHEPPARD: What?<br><br>JERVIS: Did the Balarans know they were bringing this curse upon us when they came here?<br><br>SHEPPARD: No, they had no idea.<br><br>(A woman looks sternly at Jervis.)<br><br>RENNI: It's not their fault, Jervis.<br><br>JERVIS: Maybe not, but that doesn't matter.  The Wraith won't rest until every last plague survivor in this galaxy is dead.<br><br>SHEPPARD: Except the Wraith have no idea who they are unless people like <I>you</I> point them out.<br><br>ELSON: I'm not happy about this either, Colonel, but what other choice do we have?<br><br>SHEPPARD: Well, we may be able to move all your people to a different planet where they'll be safe.<br><br>RENNI: You mean leave our homes?<br><br>SHEPPARD: Look, I know it's not ideal, but your only other choice is to turn in a bunch of innocent people, and I know you guys aren't gonna do that, right?<br><br>JERVIS: Well, as the Wraith said, they're outsiders.<br><br>ELSON: Jervis, we agreed to let them come here.<br><br>JERVIS: <I>I</I> didn't agree.  Besides, they weren't a threat at the time.  Now that's changed.<br><br>RENNI: But they've become like family.  Novo lives under my roof; she eats at my table.  My daughter adores her.  What am I supposed to tell <I>her</I>?<br><br>JERVIS: You'd prefer that we all be killed?<br><br>(John's radio activates.)<br><br>TEYLA (over radio): Colonel Sheppard, come in.<br><br>SHEPPARD: 'Scuse me.<br><br>(He turns away and activates his headset.)<br><br>SHEPPARD: Go ahead.<br><br>(Teyla and Ronon are hiding a short distance from the Stargate.)<br><br>TEYLA: Ronon and I are at the Gate.  It does not appear to be heavily guarded.<br><br>(Ronon looks towards the Gate.  There are about seven guards standing around near it.  A male Wraith is talking with one of them.)<br><br>DEX: It's the same guards from the village.  I recognise the commander.<br><br>SHEPPARD: What are the odds of you two getting by 'em?<br><br>(Teyla doesn't look confident.)<br><br>DEX: Pretty good.<br><br>TEYLA: Slim, actually!  But much better if you and Rodney join us.<br><br>SHEPPARD: All right.  Hold your position 'til we can get there.<br><br>(Deactivating his radio, he returns to the councillors.)<br><br>ELSON: What is it?<br><br>SHEPPARD: How many people are in this village?<br><br>ELSON: Six, seven hundred.<br><br>SHEPPARD: We'll be tight for time, but we can manage.<br><br>ELSON: What are you suggesting?<br><br>SHEPPARD: We take the Wraith out, get everybody through the Gate before the Hive ship comes.  You should be safe in Atlantis until we can relocate you.<br><br>JERVIS: Unacceptable.<br><br>RENNI: The Balarans don't deserve this.  They did nothing but survive a sickness.  It could just as easily have happened to us.  If we turn these people over, we are no better than the Wraith ourselves.<br><br>SHEPPARD: Look, even if you co-operate with the Wraith, there's no guarantee they're gonna keep their word.  They may just kill all of you for being an inconvenience.<br><br>ELSON: All right.  What do you want us to do?<br><br>SHEPPARD: Be ready to move.  Take all that you can carry.<br><br><br>CLINIC.  John hurries in.<br><br>SHEPPARD: Let's go, Rodney.  We're gonna hit the Wraith.<br><br>McKAY: We are?<br><br>BECKETT: I'll come with you.<br><br>SHEPPARD: Not a chance, Doc.<br><br>BECKETT: Colonel ...<br><br>SHEPPARD: Look, I don't have time to argue.  Besides, you've gotta get these people ready for transport.  Once the Gate's secure, we're gonna have to move fast.<br><br>BECKETT: OK, but be careful.<br><br><br>STARGATE.<br><br>DEX: All right, if we're gonna attack, we've gotta do it from over there.<br><br>(He jerks his head to the right.)<br><br>TEYLA: Agreed.<br><br>(They cautiously move off but Ronon sees movement in front of them.  They take cover again and watch as at least four more guards walk through the forest towards the Gate, followed by another male Wraith.  It stops as if sensing that someone is watching it.  Ronon slowly raises his blaster.  The Wraith looks around for a while, then follows the guards again.  Ronon and Teyla exchange a glance, then move off in the opposite direction.)<br><br><br>VILLAGE.<br><br>McKAY: As soon as we take the Gate, we should call in some Jumpers.  It'll make evacuating the village a lot faster.<br><br>SHEPPARD: Not to mention we could use the extra fire power in case the Hive gets here before we're done.<br><br>McKAY: Let's hope it doesn't come to that.<br><br>TEYLA (over radio): Colonel Sheppard, come in.<br><br>SHEPPARD: Yeah, go ahead.<br><br>(Teyla and Ronon have returned to their original hiding place overlooking the Gate.)<br><br>TEYLA: We have a problem.<br><br>(There are now at least fifteen guards plus the two male Wraith around the Gate.)<br><br>TEYLA: More of the Wraith have begun arriving back.  They must have been out on patrol.<br><br>SHEPPARD: How many?  Can we still get out?<br><br>TEYLA (sighing): No.  For the time being, we're stuck here.<br><br><br>MINE OFFICE.  John has returned to explain the situation to the councillors.<br><br>JERVIS: You said you could get us out.<br><br>SHEPPARD: Well, there are more Wraith than we thought.  The Gate's too heavily guarded.<br><br>RENNI: So we're trapped?<br><br>SHEPPARD: For the moment.  I haven't given up hope.  I just need time to develop a new strategy.<br><br>JERVIS: What strategy do you propose <I>we</I> use to defeat an army of Wraith?<br><br>SHEPPARD (angrily): Well, I don't know!  I haven't thought of it yet!  Look, worst case scenario: my team and I don't show up, the people back on Atlantis will dial the Gate and contact us by radio.  I can order back-up.<br><br>ELSON: Will that happen before the Hive ship arrives?<br><br>SHEPPARD: ... Probably not.<br><br>RENNI: We can't wait that long.<br><br>SHEPPARD: For all we know, the Wraith could be lying about the ship.<br><br>JERVIS: And why would they do that?<br><br>SHEPPARD: I'm just saying, we need to stall as long as possible.<br><br>JERVIS: This is madness!  Elson, we have to think of the safety of our people.<br><br>SHEPPARD: Well, <I>I'm</I> thinking about the safety of your people – <I>all</I> your people.<br><br>JERVIS (to Elson, while gesturing towards John): We can't rely on their help.  We have to make our own decisions.<br><br>ELSON: I need time to think about this.<br><br>JERVIS: The time for that has passed, Elson.  We have to <I>act</I>, and if <I>you're</I> not prepared to do so, then I <I>will</I>.<br><br>(He storms out of the office.)<br><br>RENNI: Jervis!<br><br>SHEPPARD: What's he gonna do?<br><br>ELSON: I don't know.<br><br><br>CLINIC.  John and Elson come in to find only Carson and Rodney there together with a few patients lying on the beds.<br><br>SHEPPARD: Where's Novo and the others?<br><br>McKAY: We sent them home.  Why?<br><br>(John looks round at the patients.)<br><br>SHEPPARD: Can these people walk?<br><br>BECKETT: Well, if need be, but I thought we couldn't get 'em through the Gate?<br><br>SHEPPARD: No, we can't for the time being, but I don't think they're safe here either.<br><br><br>VILLAGE.  Jervis walks over to a group of men.<br><br>JERVIS: Grab your weapons.<br><br>(One of the men hands him a rifle.  Others get their own guns ready while others pick up pitchforks and other implements.)<br><br>JERVIS: Come with me.<br><br>(They move off and start kicking in the doors of the houses, looking for Balarans.  Whenever they find any, they bundle them out into the street.  Jervis and a couple of his men go to Renni's house.  She is standing in front of the closed door.  He looks at her threateningly.)<br><br>JERVIS: Get out of my way.<br><br>RENNI: She's not here, Jervis.<br><br>(He pushes her roughly out of the way, kicks the door open and goes inside.  As one of the men holds Renni back, Jervis looks around the house but it's empty.  He comes back out and glares at Renni.)<br><br>JERVIS: Where is she?<br><br>(Renni glares up at him defiantly.)<br><br>(Nearby, as the search continues, Novo and Sefaris are hiding behind a pile of sacks with some other Balarans.  They look out cautiously.)<br><br>SEFARIS: What are we gonna do, Novo?<br><br>NOVO: We have to get out of the village.<br><br>(They come out of hiding but see that one route of escape is blocked by villagers bundling other Balarans away.  They turn to go the other way, only to come face to face with a couple of armed villagers.  More villagers approach from behind and surround them.)<br><br><br>CLINIC.  Ronon and Teyla have returned from the Stargate and walk into the house where John, Carson and Rodney, with the help of Elson, are packing up medical supplies.<br><br>DEX: What the hell's goin' on out there?<br><br>SHEPPARD: Some of the villagers decided to take matters into their own hands.<br><br>DEX: Well, let's go stop 'em.<br><br>SHEPPARD: First things first: we've gotta move these people.  Grab some gear.<br><br>(As Ronon and Teyla move to comply, Jervis kicks open the door and he and several of his cronies walk in, aiming their weapons.  The team instantly raise their own guns.)<br><br>JERVIS: We don't want any trouble.  Just hand over the Balarans.<br><br>SHEPPARD: I don't think so.<br><br>JERVIS: Don't make things difficult, Colonel.  You had your chance to save the village; now it's my turn.<br><br>DEX: Saving the village?  That's what you call this?<br><br>JERVIS: This isn't your affair.  It's up to <I>us</I> to decide how to deal with the situation.<br><br>ELSON: Yes, it is.  But, Jervis, this is not our way.<br><br>JERVIS: Our <I>way</I>?  Our <I>way</I> is what got us into this situation in the first place!  We've already given them more than they could have ever asked for.<br><br>BECKETT: All right.  Why not just shoot them right now and get it over with?<br><br>(He walks closer to Jervis, who swings his rifle round to aim it directly at him.  Carson doesn't flinch.)<br><br>BECKETT: It's a death sentence anyway.  Shoot them yourself and spare them the torment of being tortured by the Wraith.  You'd be doing them a favour.<br><br>TEYLA: Carson.<br><br>(Carson glares angrily at Jervis.)<br><br>BECKETT: Go on!  Kill them all, then, if you're that desperate to be done with them.<br><br>(Jervis stares at his angry face.  His cronies look around awkwardly.  Finally Jervis realises there is nothing he can do and lowers his rifle.  Elson steps forward and takes it off him as the other villagers put their weapons on the floor.)<br><br>JERVIS: You're making a big mistake.<br><br>ELSON: Maybe, but at least we do so with a clear conscience.<br><br>JERVIS (defiantly): It doesn't matter anyway.<br><br>SHEPPARD: What are you talking about?<br><br>JERVIS: My men are already on their way to the Gate with the first group we captured.  (smugly) It's too late.<br><br><br>STARGATE.  Wraith guards are surrounding a group of about a dozen Balarans, including Novo and Sefaris.<br><br>SEFARIS: What are they gonna do to us?<br><br>NOVO: Be calm, Sefaris.  You're scaring the others.<br><br>SEFARIS: Maybe they <I>should</I> be scared.  We all know there's no escape from this.<br><br>NOVO: We cannot give up hope.<br><br>SEFARIS: Face it, Novo.  We've been betrayed.  They don't want us here; they never did.  We were doomed the moment we had to leave our homes.  And to think, as a survivor I said consider myself one of the lucky ones.<br><br><br>VILLAGE.  John and Rodney meet up with Teyla and Ronon.<br><br>SHEPPARD: Jervis taken care of?<br><br>TEYLA: He and his men have been locked up.  They will not be giving us any more trouble ... (she looks at Ronon pointedly) ... though I do not think it was necessary to stun them.<br><br>DEX (shrugging): Felt good, though.<br><br>McKAY: So, what now?<br><br>SHEPPARD: We've gotta get the rest of the Balarans out of the village.  There's no telling if anybody else might feel the way Jervis does.<br><br>TEYLA: Where shall we take them?<br><br>DEX: The forest.<br><br>SHEPPARD: It's kind of a long haul at night.<br><br>McKAY: Wait – what about the mine?  There's tracks lead right down to it.  I mean, just follow them.<br><br>DEX: No-one gets lost.<br><br>McKAY: Exactly.<br><br>SHEPPARD: All right.  (He points to Teyla and Rodney.)  Go – get Beckett and his patients, bring 'em here.  We'll round up everyone else.<br><br><br>In space, a hyperspace window opens and a Hive ship flies towards the planet.<br><br><br>STARGATE.  The male Wraith walks over to the commander and whispers something into its ear.  Sefaris watches them.<br><br>NOVO: What is it?<br><br>SEFARIS: Something's happening.<br><br>(The male Wraith walks away again.  Sefaris steps towards the commander.)<br><br>SEFARIS: What's going on?<br><br>COMMANDER: You'll be moving shortly.<br><br>NOVO: Where?<br><br>COMMANDER: Your new home.  The Hive ship has just arrived.<br><br>(It turns away but Sefaris follows it.  The guards aim their stunner rifles at him.  He stops, but the commander has also stopped.)<br><br>SEFARIS: I have a proposition for you.<br><br>NOVO: What are you doing, Sefaris?<br><br>SEFARIS: Something we should have done a long time ago.<br><br>(The commander looks back at him.)<br><br>COMMANDER: There is nothing you have to offer me.<br><br>SEFARIS: I wouldn't be so sure.  There's someone hiding in the village.  He's of far greater value than all of us put together.<br><br>(Novo seizes his arm.)<br><br>NOVO: Sefaris, no.<br><br>SEFARIS (looking at the commander): Spare our lives.  I'll take you to him.<br><br>(The commander walks closer to him and looks into his face.)<br><br>COMMANDER: A fair attempt, but the answer's no.<br><br>SEFARIS (shaking Novo's hand off his arm): <I>My</I> life, then.<br><br>NOVO: How could you do this?<br><br>SEFARIS (to the commander): I promise it'll be worth your while.<br><br>(The commander looks at him with interest.)<br><br><br>VILLAGE.  Teyla leads a group of Balarans towards Ronon and John.<br><br>TEYLA: I believe that is everybody.<br><br>DEX: Where's McKay and Beckett?<br><br>(John activates his headset.)<br><br>SHEPPARD: Rodney, what's your status?<br><br>(In the clinic, Rodney sighs in exasperation as he activates his own headset.  Nearby, Carson is busily packing things into bags.)<br><br>McKAY: Still at the clinic.  Carson decided to pick up a few <I>more</I> supplies.<br><br>SHEPPARD: Tell him to get a move on.  We can't stay here forever.<br><br>BECKETT (activating his headset): Go ahead, Colonel.  We'll catch up.<br><br>SHEPPARD: You sure?<br><br>BECKETT: Absolutely.  We'll be right behind you.<br><br>(John turns to the Balarans.)<br><br>SHEPPARD: Let's get going.  Stay together; follow the tracks.<br><br>(The group moves off.  John, Teyla and Ronon, with Elson accompanying them, follow.)<br><br>(At the clinic, Carson looks around one last time.)<br><br>BECKETT: There, that should do it.  Rodney, can you give me a hand here?<br><br>McKAY: Remind me to bring a Sherpa next time I visit.<br><br>(He goes over to Carson just as the door opens and Sefaris comes in.  A moment later, the Wraith commander follows him in with a couple of guards.  Sefaris points at Carson.)<br><br>SEFARIS: Him.  He's the one.<br><br>(The guards raise their rifles and shoot the boys.  They fall to the floor unconscious and the guards walk over to them.  Sefaris turns to the commander.)<br><br>SEFARIS: You see?  I kept up my end of the bargain.<br><br>COMMANDER: So you did.  Unfortunately, in light of your ... condition, keeping you alive is far too risky.<br><br>(It turns to him and holds the point of a knife to his throat.  He stares at the Wraith in terror.) <br><br><br>MINE.  Eldon leads the way into the mine.  Outside, a distinctive sound can be heard.  Ronon looks up.<br><br>DEX: Darts.<br><br>TEYLA: Rodney and Carson are still not here.<br><br>SHEPPARD (activating his headset): Rodney, come in. ... McKay?<br><br>(When he gets no reply he turns to the others.)<br><br>SHEPPARD: You'd best keep moving.  I'm gonna go get 'em.<br><br>(He hurries out of the mine as the other two follow the Balarans.  He hurries back to the village, but takes cover behind some barrels when he sees the commander and three guards standing close together in the open.  Carson and Rodney are slumped unconscious at the commander's feet.  A Dart swoops overhead, activates its transporter beam and whisks them all away.)<br><br>(In the mine, the Balarans are settling down.  John's voice comes over Ronon's and Teyla's headsets.)<br><br>SHEPPARD: Ronon.  Teyla.<br><br>TEYLA: Go ahead.<br><br>SHEPPARD: The Wraith just got Beckett and McKay.<br><br>DEX: What?!  How?<br><br>SHEPPARD: Took 'em up in a Dart.  I think they're on the way up to a Hive.<br><br>TEYLA: How did the Wraith know that they were in the village?<br><br>(John's eyes widen.)<br>SHEPPARD: I think I've got an idea.<br><br><br>HIVE SHIP.  Carson grimaces as he regains consciousness.  He opens his eyes, then scrambles up into a sitting position and stares in terror as he realises that he's in a cell.  He reaches across and shakes Rodney.<br><br>BECKETT: Rodney.  Rodney, wake up.<br><br>(Rodney opens his eyes and screws up his face in pain.)<br><br>McKAY: God, is it me, or have they juiced up the stun weapons?<br><br>(He looks around and groans.)<br><br>McKAY: Oh, and they brought us to the Hive.  That's great(!)<br><br>BECKETT: What're we gonna do?<br><br>McKAY: All right, just don't – don't panic.  Don't panic.<br><br>(Groaning, he drags himself to his feet and walks over to the doorway.)<br><br>McKAY: I've got lots of experience escaping from these things.<br><br>BECKETT: You do?<br><br>McKAY: Oh, yeah, yeah.  Been in this situation dozens of times – always figured a way out.<br><br>BECKETT: How, exactly?<br><br>McKAY: Ah, let's see.  Uh, last time Teyla was posing as a Queen, so, um ... you know, she had us released.<br><br>BECKETT: Not much chance of <I>that</I> happening.<br><br>McKAY: No, I guess not.<br><br>BECKETT: How about the time before that?<br><br>McKAY: Ronon's friend Tyr was pretending to be in league with the Wraith but really he was on our side so ... (he hesitates for a while) ... <I>he</I> let us out.<br><br>BECKETT: I'm startin' to sense a pattern here.  You've actually never really escaped from one of these cells on your own, have you?<br><br>McKAY (smiling at him hopefully): First time for everything, right?<br><br>BECKETT: Oh, God!<br><br>McKAY (turning away from the door): Just ... give me a minute.  I'll think of something.<br><br>(Carson watches him walk away, then turns back to the doorway.   His eyes widen.)<br><br>BECKETT: I hate to pressure you, Rodney, but I don't think we <I>have</I> a minute.<br><br>(He backs nervously away from the door as the commander and a couple of guards approach.  The door slides open and the commander looks at the guards.)<br><br>COMMANDER: Bring them.<br><br><br>SHORTLY AFTERWARDS.  The commander leads the boys into a room with several consoles in it.<br><br>McKAY: What is this place?<br><br>COMMANDER: A lab belonging to my top scientist.  For the last six months he has been studying the deadly toxin that has infiltrated our food supply.<br><br>BECKETT: Where is he now?<br><br>COMMANDER: Dead.  He was convinced he had arrived at a foolproof way to detect the poison.  To prove it, he decided to feed on one of his test subjects.<br><br>McKAY: Guess that didn't work out so well.<br><br>COMMANDER: He died in excruciating pain.  Needless to say, his research has been stalled ever since.<br><br>(It walks over to Carson.)<br><br>COMMANDER: That's where <I>you</I> come in, Doctor.<br><br>BECKETT (pointing to himself nervously): Me?  What d'you expect <I>me</I> to do?<br><br>COMMANDER: The one who identified you said you had considerable expertise in dealing with the toxin.  He even said you had a hand in developing it.  If anyone can find a way to detect it, <I>you</I> can.<br><br>BECKETT: If you think I'm gonna help you, you're sorely mistaken.<br><br>COMMANDER: I anticipated you might say that, which is why I'm prepared to offer you an incentive.  Thus far, I have spared the lives of the people on the planet below.  If you co-operate, I will continue to do so, but if either of you try to cross me in any way ...<br><br>McKAY (rolling his eyes): Yeah, yeah-yeah-yeah, we get the picture.<br><br>COMMANDER: I knew you'd come to see it my way.  Get to work.<br><br>(It leaves the room.)<br><br><br>VILLAGE.  Jervis and his henchmen are in a large cell in the village gaol.  He is standing with his back against the bars.  From outside the cell John runs up behind him, reaches through and wraps his left arm savagely around his neck, pulling him back against the bars.  With his right hand he jabs his pistol firmly into Jervis' neck.<br><br>SHEPPARD: Give me one reason why I shouldn't blow your head off.<br><br>JERVIS: What for?<br><br>SHEPPARD: How did the Wraith know to grab Beckett?<br><br>JERVIS: What do you mean?  The doctor's been captured?<br><br>(John cocks his pistol.  Terrified, Jervis raises his hands.)<br><br>JERVIS: I swear, I had nothing to do with that.<br><br>(John gestures with his pistol towards the others in the cell.)<br><br>SHEPPARD: What about your men?<br><br>JERVIS: No.  No, there's no way.  The doctor has been nothing but good to us.<br><br>SHEPPARD: Well, they didn't just stumble across the clinic.  <I>Somebody</I> brought them there.<br><br>JERVIS: Well, why don't you ask the Balarans?  They're the ones who had the most to gain.  One of them probably thought he could save himself by turning in the doctor.<br><br>(John thinks about it for a moment, then takes the gun from Jervis' neck and clicks the safety catch back on.)<br><br>JERVIS: I <I>told</I> you they were no good, Colonel.<br><br>(For a moment, John tightens his grip around Jervis' neck, then he releases him and walks away.)<br><br><br>HIVE LAB.  Carson and Rodney are working on different consoles.  Unseen by Rodney, Carson sinks his head down into his hand in a gesture of despair.<br><br>McKAY: Dammit.<br><br>(He turns away from his console in exasperation.)<br><br>McKAY: None of these consoles are hooked into anything.  I can't access any of the ship's systems.  What about you?  You making any progress?<br><br>(He turns back towards his friend.)<br><br>McKAY: Carson?<br><br>(Carson doesn't respond.)<br><br>McKAY: Hey.  You OK?<br><br>BECKETT: I can't do this, Rodney.<br><br>McKAY (walking over to his console): Really?  You don't understand it?<br><br>BECKETT: No, I mean I can't <I>do</I> it.  Do you realise what will happen if the Wraith find a way to detect the Hoffan drug?  They'll hunt down every last person in this galaxy that has it – that's hundreds of thousands of people, Rodney.  Not to mention the fact that when they're finished, they can start feeding again indiscriminately.<br><br>McKAY: What's the alternative, huh?  You know the Wraith aren't just gonna let the matter drop.  We've seen what they can do.  They'll wipe out entire villages just to get a few like the Balarans.<br><br>BECKETT: So what am I supposed to do?<br><br>McKAY: I don't know.  Just stall them, you know?  You make it look like you're working until we figure out how to get the hell out of here.<br><br>BECKETT: And <I>then</I> what?  Go about our business; pretend this never happened?<br><br>McKAY: Hey, I never said it was gonna be <I>easy</I>, OK, but you can't solve all the galaxy's problems in one day!  Look, I understand.  You feel guilty, but this is not your fault.  You had no idea that any of this was gonna happen.<br><br>BECKETT: One of the first things they taught us in medical school was, “Do no harm.”  Now, I'm at a loss right now to figure out how that's even possible in this situation.<br><br><br>MINE.  Teyla is walking amongst the Balarans, trying to comfort them as best she can.  She meets up with Ronon.<br><br>DEX: How're they doing?<br><br>TEYLA: They are frightened.  I have been trying to reassure them, but it is of little use.<br><br>(John comes over to them.)<br><br>SHEPPARD: How's it going in here?<br><br>TEYLA: We are getting by.  What is happening in the village?<br><br>SHEPPARD: Well, not much.  Everybody's hiding indoors.<br><br>DEX: Why hasn't the Hive ship attacked yet?<br><br>TEYLA (to John): Do you think it could have something to do with Rodney and Carson's capture?<br><br>SHEPPARD: I don't know, but we should use this time to come up with a plan.<br><br>DEX: You got anything?<br><br>SHEPPARD: Maybe, but it's gonna take some work.<br><br><br>HIVE LAB.  Carson stares at one of the consoles, then goes across to another one and inserts a glass crystal into it.  Seeing his expression, Rodney turns to him.<br><br>McKAY: What is it?  You got something?<br><br>BECKETT: No.<br><br>McKAY: You sure?  You've got one of those Beckett faces.<br><br>BECKETT: Aye, I'm sure, Rodney.  Just go back to work.<br><br>(He turns away and walks towards the closed doors.)<br><br>McKAY: Well, where are <I>you</I> going?<br><br>BECKETT: To talk to the Hive commander.<br><br>McKAY: What?!  Why?<br><br>BECKETT (turning back to him briefly): There's something I need to tell him.<br><br>(He walks to the doors.)<br><br>McKAY: I <I>knew</I> it!  You've found something!  What is it?<br><br>BECKETT (calling through the doors): Hey, open up!<br><br>McKAY: Seriously, will you just tell me?  You know I'm gonna go through your stuff as soon as you're gone!<br><br>BECKETT: Just leave me be, Rodney.  (He calls out again.)  Open the door!<br><br>McKAY: Will you just tell me what's going on?<br><br>(The doors slide open and Carson looks at the guards outside.)<br><br>BECKETT: I need to talk to the commander right away.<br><br>(He turns to Rodney.)<br><br>BECKETT: Listen to me, Rodney.  I need you to stay here.  Don't worry – everything will be just fine.<br><br>(He turns back to the guards.)<br><br>BECKETT: Right.<br><br>(Determinedly, he walks out of the room.  The guards step aside and the doors close behind him as he walks away.  Rodney stares at the doors in confusion.)<br><br>(The guards take Carson to another room where the commander is working on a console.  He walks into the room and the doors close behind him, leaving the guards outside.  The commander looks up but doesn't turn around.)<br><br>COMMANDER: Doctor.  I didn't expect to hear from you so soon.  This must be good news.<br><br>BECKETT: For some people, maybe.  I'm here to tell you that I'm off the case.<br><br>(The commander turns to him, hissing.)<br><br>COMMANDER: What are you talking about?<br><br>BECKETT: I'm not gonna do your dirty work for you.  Find someone else.<br><br>COMMANDER: There <I>is</I> no-one else.<br><br>BECKETT: Then that's too bad for <I>you</I>, isn't it?<br><br>COMMANDER: You're trying my patience, Doctor.  You forget: I control the fate of the people below.<br><br>BECKETT: People will die no matter <I>what</I> I do ... so I'm not gonna do <I>anything</I>.<br><br>(Hissing again, the commander walks closer to him.)<br><br>COMMANDER: If you refuse to complete the research, then there is only one other way that you can be of use to me.<br><br>(It raises its right hand and holds it up so that Carson can see the feeding slit in its palm.)<br><br>COMMANDER: And trust me: you won't like it.<br><br>BECKETT: You don't scare me any more, d'you understand?  I don't give a <I>damn</I> what you do to me.<br><br>COMMANDER: Suit yourself.  I'm going to enjoy this very much.<br><br>(It slams its hand onto Carson's chest and starts to feed.  Carson grimaces in pain.  The Wraith continues pressing its hand against his chest, but after a few seconds snatches it away and stares at him.  Carson's look of agony ceases immediately and he gazes at the Wraith resignedly as it stares down at its hand.  It gasps in pain.)<br><br>COMMANDER: What is this?<br><br>(It crumples to its knees and gasps again.)<br><br>COMMANDER: What have you done to me?<br><br>(It topples slowly to the floor.)<br><br>BECKETT: It turns out you were closer to detecting the Hoffan drug than you thought.  It didn't take me long to perfect your blood test.<br><br>(The Wraith slumps on the floor, gasping for breath.)<br><br>BECKETT: Once I'd confirmed it using samples that you provided, I decided to do one more test just to be certain ...<br><br>(The Wraith rolls over onto its side and stares up at him in agony.  Carson looks down at it calmly.)<br><br>BECKETT: ... on me.<br><br>(The Wraith rolls onto its back, its eyes wide.)<br><br>COMMANDER: You have the toxin.<br><br>BECKETT: Indeed.  And now, so do you.<br><br>(The Wraith's head sinks to the floor and it dies.  Carson sighs out a relieved breath.)<br><br>(Shortly afterwards, the doors to the room slide open and a stunner blast flies out of the room and hits one of the guards standing outside.  The other one turns but is immediately shot down as well.  As it joins its colleague on the floor, Carson runs out holding the commander's stunner pistol and races away.)<br><br>(In the lab, Rodney is looking at Carson's console and trying to work out what he discovered when he hears stunner blasts outside.  He looks around in surprise just as the doors open and reveal a Wraith guard falling to the floor.  Carson runs into the room.)<br><br>McKAY: Carson!<br><br>BECKETT: Hullo, Rodney.  (He trots over to the console.)  Can you delete this data?<br><br>McKAY: Yeah, of course, but how ...?<br><br>BECKETT (running over to another console): I talked the Hive commander into feeding on me.<br><br>McKAY (high-pitched in shock): What?!  What?!  Why would you <I>do</I> that?!<br><br>(Carson pulls crystals out of his console and it shuts down.  He drops the crystals onto the floor and stamps on them to smash them into tiny bits.)<br><br>BECKETT: I have the Hoffan drug, Rodney.  Michael must have given it to me as a defence against the Wraith.<br><br>McKAY: Well, why didn't you <I>tell</I> me?<br><br>BECKETT: 'Cause you would have stopped me from going.<br><br>McKAY: Yeah, because it's stupid!  What would have happened if you were wrong?<br><br>BECKETT: I had to do <I>something</I>, Rodney.  It's the only chance we have to get away.  (He walks over and puts his hand on his shoulder.)  Now, will you help me destroy this research before they find out what I've done?<br><br>McKAY: All right.<br><br>BECKETT: All right.<br><br>(Rodney turns to his console and starts wiping the data as Carson goes to another one and pulls out all of its crystals.)<br><br><br>LATER.  The two of them make their way along a corridor.  Rodney has taken one of the guards' stunner pistols and is leading the way.  They peer around a corner.<br><br>McKAY: The coast is clear.<br><br>(He cautiously continues onwards.  Carson rolls his eyes as he follows him.)<br><br>BECKETT: What are we doing, exactly?<br><br>McKAY: What do you think?  Looking for a way off the ship.<br><br>BECKETT: By wandering aimlessly through the hallways?<br><br>McKAY: I'm not wandering aimlessly.  I'm exploring.  There's a big difference.<br><br>(They walk through a doorway and Rodney's eyes light up at what he sees.)<br><br>McKAY: Bingo!<br><br>(He trots over to a console and activates it.  Carson looks around nervously at the several exits from the room, then turns to him.)<br><br>BECKETT: What are you doing, Rodney?<br><br>McKAY: Hacking into the ship's communications.<br><br>BECKETT (walking closer): Are you sure that's a good idea?<br><br>McKAY: Look, if we don't get in touch with Sheppard, we don't stand any chance of getting off this ship.<br><br>(He looks round at Carson.)<br><br>McKAY: Well, you're gonna have to cover me!<br><br>BECKETT: All right.<br><br>(He looks around at all the exits.)<br><br>BECKETT: From which direction?<br><br><br>MINE.  The rest of Team Sheppard look up in surprise as their headsets click and begin to crackle.<br><br>DEX: What was that?<br><br>McKAY (over radio): Sheppard.  Do you read me?<br><br>SHEPPARD: McKay, is that you?<br><br>McKAY: Oh, thank God!  OK, we are on the Hive ship.  I've got Beckett with me.<br><br>SHEPPARD: What the hell is going on up there?<br><br>McKAY: Look, we managed to escape.<br><br>(Carson looks round at him indignantly.  Rodney sees his look.)<br><br>McKAY: Beckett helped.<br><br>SHEPPARD: Oh, that's great, 'cause we could really use the help.<br><br>McKAY: You?!  Look, <I>we're</I> the ones stuck on the ship!<br><br>SHEPPARD: That's exactly where you need to be right now because we need someone to take out the Hive's main weapons.<br><br>McKAY: What?!<br><br>SHEPPARD: We've got a plan, but it's only gonna work if we take the Hive out of the picture.<br><br>McKAY: Look, it is bad enough that I hacked into communications.  If I start messing around with other systems, they're gonna track us down in, like, a matter of minutes!<br><br>SHEPPARD: Rodney, it's the only way to get these people to safety.  Once that's done, we'll figure out a way to get you guys out of there.<br><br>(Rodney and Carson look at each other.  Carson shrugs.  Rodney sighs.)<br><br>McKAY: All right.  I'll see what I can do.  Give me a few minutes.  That should be enough time.<br><br>SHEPPARD: You're a good man, Rodney.<br><br>McKAY: Yeah-yeah-yeah.  Just don't forget about us, OK?<br><br>TEYLA: We won't.  Good luck.<br><br>(Ronon turns to John.)<br><br>DEX: Hey, you think they'll be able to pull it off?<br><br>SHEPPARD: Well, they'd better, otherwise this thing's gonna go very badly.<br><br>(They walk away.  Nearby, Elson has heard the conversation and looks very worried.)<br><br><br>Shortly afterwards, Elson has returned to the village and makes his way to the gaol.  He looks into the cell where Jervis is sitting on a bed near the door.<br><br>ELSON: Jervis.<br><br>(Jervis ignores him.)<br><br>ELSON: Jervis.<br><br>JERVIS (not looking at him): What do you want?<br><br>ELSON: We need to talk.<br><br>JERVIS: I have nothing to say to you.<br><br>ELSON: You were right all along.  I should have listened to you.<br><br>(Now Jervis turns his head to look at him.)<br><br>ELSON: The Atlanteans have no idea what they're doing.  They claim to have a plan, but in reality they're just putting all our lives at risk.<br><br>JERVIS: Well ... (he stands up and walks over to the bars) ... it's a little late now, isn't it?<br><br>(Elson reaches into his cloak and pulls out the keys to the cell.)<br><br>ELSON: Is it?  If you went to the Wraith at the Gate right now, do you think you could get them to honour the original deal?<br><br>JERVIS: It's possible, but I'd have to deliver all the remaining outsiders at once.<br><br>ELSON: They're in the mine, hiding in the main chamber.<br><br>JERVIS: Are the other councillors on board with this?<br><br>ELSON: The less they know about it, the better.<br><br>(Jervis looks at him closely.)<br><br>JERVIS: And you – can you reconcile this with your conscience?<br><br>(Elson manages to hold his gaze but is unwilling to discuss how he feels about what he's about to do.)<br><br>ELSON: Leave that to me.  You just make that deal.<br><br>(He lays the keys down onto the bars, then hurries away.)<br><br><br>HIVE SHIP.  A male Wraith walks towards the closed doors of the commander's room.  Two guards stand outside.<br><br>WRAITH: What is it?<br><br>(One of the guards activates the door controls and they slide open, revealing the dead body lying on the floor inside.  The Wraith walks inside, looks down at its dead commander, then turns back to the guards.)<br><br>WRAITH: Search the ship.<br><br>(Elsewhere, Carson is walking nervously around the room with his pistol held in both hands in front of him, trying to look in all directions at once.  He backs towards Rodney's console.)<br><br>BECKETT: How long's this gonna take, Rodney?<br><br>McKAY (irritated): Do I rush you while you're performing complicated surgery? <br><br>BECKETT: Aye, it's been known to happen.<br><br>(Rodney continues typing on the console and the screen lights up with a new readout.)<br><br>McKAY: All right, I'm in.  Now, I just need a few minutes to disable the ... ooh!<br><br>(He and Carson duck down behind the console as a stunner blast flies past their heads.  Several more blasts follow as Wraith guards stand at the doorway in front of them and fire at them.)<br><br>McKAY: I think they found us!<br><br>BECKETT: You figure?<br><br>McKAY: OK, you're gonna have to hold them off.<br><br>BECKETT: Am I, now?!<br><br>McKAY: Yeah, come on, Carson, you can do this, all right?<br><br>BECKETT: All right.  On three.<br><br>McKAY: How about one?!<br><br>BECKETT: All right, then.<br><br>McKAY (nodding): And ...<br><br>(Making an incoherent noise he surges up and starts working on the console as Carson jumps up and starts to return fire at the guards.  Fortunately the console is quite large and bulky and protects Rodney from the incoming blasts, and Carson does a good job of keeping the guards at bay, but soon more guards join those already there.)<br><br>BECKETT: How's it coming?<br><br>McKAY: Almost there.<br><br>(Carson continues firing at the guards.  His onslaught prevents them from coming any closer and, as usual, the guards couldn't hit a barn door and all their shots towards him miss.  Carson, on the other hand, must have been taking some target practice because he guns down several of them ... but more keep coming.)<br><br>BECKETT: I can't hold them off forever, Rodney.  We have to go, now!<br><br>McKAY: All right, that's it, I got it.  Let's go!<br><br>(They turn and run.  The guards give chase.)<br><br>BECKETT: Where are we going?<br><br>McKAY: Dart Bay.<br><br>BECKETT: You know how to fly a Dart?<br><br>McKAY: Well, I've flown Jumpers before.<br><br>BECKETT: I've been to Tokyo before – doesn't mean I can speak Japanese!<br><br>McKAY: Well, how hard can it be?<br><br>(They run on, then Rodney stops at a junction and looks in both directions.)<br><br>BECKETT: D'you even know where you're going?<br><br>McKAY: I pulled up a schematic of the ship on that console.<br><br>(He runs off again.)<br><br>BECKETT (following him): What, while we were being fired upon?!<br><br>(They reach a doorway and open the doors.  Running inside, Rodney activates the wall panel and the doors close again.)<br><br>McKAY: All right, that's sealed.<br><br>BECKETT: How long d'you think it'll hold 'em?<br><br>McKAY: Not very.<br><br>(They turn around and gaze in awe at the huge cavern that is the Dart Bay.  A Dart is parked in front of them.)<br><br>McKAY: Oh, come on.<br><br>(He runs forward and clambers into the cockpit's seat.  Carson scrambles up onto the side of the cockpit.)<br><br>McKAY: What are you doing?!<br><br>BECKETT: I'm gettin' in.<br><br>McKAY (high-pitched in indignation): We can't both fit in here!<br><br>(Carson squeezes in beside him.)<br><br>BECKETT: You're damn right I can!  Now shove over!<br><br>(There really isn't enough room but somehow he crams his way in beside Rodney, who glares at him.)<br><br>McKAY: Comfy?(!)<br><br>BECKETT: Peachy!<br><br>(Rodney takes hold of a lever and presses the top of it several times.)<br><br>BECKETT: What are you waitin' for?<br><br>McKAY: Well, it should just fire up.<br><br>BECKETT: Well, it didn't.<br><br>McKAY: Yeah, I <I>know</I> that, but it doesn't make any sense.  I mean, a canopy should form over our heads.  Maybe there's some kind of a weight limit.<br><br>BECKETT (indignantly): What's <I>that</I> supposed to mean?<br><br>McKAY: I mean because there's two of us!<br><br>BECKETT: Well, maybe you need a key or something.<br><br>McKAY (angrily): It's not a Volkswagen, Carson!  OK, look ... (he points at various parts of the controls) ... these are obviously the flight controls; that makes <I>that</I> propulsion, so ...<br><br>(He keeps pressing the button on the top of the lever but still nothing happens.)<br><br>BECKETT: How'd you come up with <I>that</I> brilliant conclusion?<br><br>McKAY: It's just common sense!  (He slaps the console angrily.)  Ah, <I>come on</I>!<br><br>BECKETT: Right – common sense(!)<br><br>McKAY (shouting furiously): Look, what do you want from me?  It's not like there's labels!<br><br>(Firing can be heard from the other side of the doors.  The boys look towards the sound.)<br><br>McKAY: Oh, not good!<br><br>BECKETT: You're telling me.  We need a new plan, Rodney.<br><br>McKAY: I know.  I'm thinking.<br><br>BECKETT: Well, whatever you do, think fast, because if those Wraith come through that door, we're both dead.<br><br>(Outside the room, the guards continue to fire at the doors.  In the Dart, Carson grabs Rodney's sleeve.)<br><br>BECKETT: Rodney, we need to go.<br><br>McKAY: Where?!  I mean, we're trapped in here.<br><br>BECKETT: Well then, we need to find a place to hide.  Come on.<br><br>(Rodney's eyes widen as his lightbulb moment finally arrives.  Carson recognises the look.)<br><br>BECKETT: What?<br><br>McKAY: I have another idea.  It's a long shot, but it might work.   But you're gonna have to get off me.<br><br>(Carson starts to scramble out of the cockpit.)<br><br><br>MINE.  Jervis and some of his cronies are leading a male Wraith and several guards into the mine.<br><br>JERVIS: Once you've taken these people, you're gonna leave the village, right?  For good?<br><br>WRAITH: This place is of no concern to us.  All we want is the Balarans.<br><br>JERVIS: There's a large chamber up ahead.  That's where they're hiding.<br><br>(He leads them into the chamber, then stops and stares around.)<br><br>WRAITH: Where are they?<br><br>JERVIS: I don't understand.  He said they were <I>here</I>.  They <I>should</I> be right here!<br><br>(They all look around but there's nobody else in sight.  The Wraith looks down, bends down and picks something up from the ground.  It shows it to Jervis.)<br><br>WRAITH: What is this?<br><br>(<I>This</I> is a block of C4 – and it has a flashing detonator attached to it.)<br><br>(Above ground, a huge explosion goes off underneath a clearing in the forest.  The entire clearing collapses into the ground.  A safe distance away, John snaps shut the safety cover on his detonator switch.)<br><br>DEX: Think we killed enough Wraith to make a difference?<br><br>SHEPPARD: Guess we'll find out.<br><br>(He glances over his shoulder at Elson.)<br><br>SHEPPARD: Nice work.<br><br>(Elson stares at John's back in anguish, then looks again at the devastation and death he has caused in order to save the Balarans.)<br><br><br>HIVE SHIP.  A male Wraith, perhaps the new ship's commander, walks onto the Bridge where another male is working on a console.<br><br>WRAITH: We've received word of an explosion on the planet that killed several of our warriors.  Humans continue to attack our troops, sir.<br><br>COMMANDER: They're trying to escape.  Target the area around the Portal and open fire.<br><br>(It turns to leave as the Wraith tries to activate its controls.)<br><br>WRAITH: Weapons aren't responding.<br><br>COMMANDER (turning back): What?<br><br>(On the planet's surface, Team Sheppard and those of the villagers with rifles are in a firefight with the remaining guards around the Stargate.  They gun down all those in the vicinity and John turns to Teyla.)<br><br>SHEPPARD: Dial the Gate.<br><br>(As she runs towards the Stargate, he turns and trots back to Elson and a small group of villagers who are hiding nearby.)<br><br>ELSON: This is the first group.  There are more coming.<br><br>SHEPPARD: Well, we've gotta move fast.  They're not gonna take this lying down.  Let's go.<br><br>(He turns and runs back towards the Gate.  Elson beckons to the villagers.)<br><br>ELSON: Come on.  Let's go.  Stay low.  Stay low.<br><br>(In the clearing, Teyla reaches the D.H.D. and starts to dial as Ronon patrols the area.  She punches the central button and the Gate kawhooshes.)<br><br>(On the Hive, the Wraith technician reports.)<br><br>WRAITH: We've lost contact with the troops at the Gate.<br><br>COMMANDER: What about the two human prisoners?<br><br>WRAITH: They're nowhere to be seen.<br><br>COMMANDER: They couldn't have just disappeared.<br><br>(They look at each other for a moment.)<br><br>COMMANDER: It doesn't matter.  We can't let the villagers escape.  Launch the Darts.<br><br>(In the Stargate clearing, the villagers hurry towards the Gate.  Darts begin to swoop down from the sky.)<br><br>TEYLA: Colonel!<br><br>(She raises her rifle skywards as John turns to the villagers.)<br><br>SHEPPARD (yelling): Go, go, go!  Move!<br><br>(He, Teyla and Ronon fire up at the Darts as they fly towards the Gate.  John's eyes widen.)<br><br>SHEPPARD: Crap!<br><br>(He throws himself to the ground and rolls sideways as a transporter beam sweeps along the ground, narrowly missing him, then he surges up onto his knees and continues firing.  Teyla swings around, firing upwards as another Dart flies over, then is distracted by the sight of a small group of villagers running into view at the edge of the clearing.  She hurries towards them.)<br><br>DEX (looking into the sky): They're back!  Got more coming!<br><br>(He fires at the incoming Darts.  Teyla runs to the villagers and urges them towards the Gate.)<br><br>TEYLA: Go, go, go!  You're almost there.<br><br>(She ushers them past her.  Behind her a Dart swoops towards her.  John sees the danger.)<br><br>SHEPPARD: Teyla!<br><br>(She turns and aims her rifle upwards but the Dart's transporter beam is already sweeping towards her yards away.  It's too late for her to take evasive action and the beam washes across her – but instead of her being swept up, Carson and Rodney rematerialise next to her.)<br><br>TEYLA: Rodney!  Carson!<br><br>McKAY: Oh my God, it worked!<br><br>BECKETT: Rodney!  You're a genius!<br><br>TEYLA: What did you do?<br><br>McKAY: I reprogrammed the culling beam to dematerialise us and to discharge only from that point on.<br><br>(Carson frowns, not understanding a word.  Teyla grabs Rodney's arm to get him moving towards the Gate.)<br><br>McKAY: I mean, once the Wraith lost their main weapons, I knew it was just a matter of time before they launched the Darts.<br><br>(The last of the villagers enter the Gate.  Teyla, Rodney and Carson charge through after them as John and Ronon check the area one last time.  The two of them fire up at an approaching Dart.)<br><br>SHEPPARD: Let's go.<br><br>(The Dart screams towards them, its transporter beam sweeping along the ground.  They turn and hurl themselves head first into the Gate just as the beam sweeps across it.  The Dart soars away and the Stargate shuts down.)<br><br><br>ATLANTIS.  INFIRMARY.  Rodney walks in to where Carson is sitting at a desk looking at a computer.<br><br>McKAY: <I>There</I> you are!  I've been calling you!<br><br>BECKETT: Oh, I'm sorry.  What's up?<br><br>McKAY: Lorne's team just found a suitable planet for the villagers.  They're gonna move them out this afternoon.<br><br>BECKETT: Aye, I heard.  I'm goin' with them.<br><br>McKAY: Oh.  Right, of course.  Um, well, you wanna grab some lunch?  I mean, we didn't get a chance to socialise this time around – unless you count, you know, running through the hall of the Hive ship as social time.<br><br>BECKETT: Aye, you're right.  Look, Rodney, I'd love to, but I really need to get through this.  (He gestures to his computer.)<br><br>McKAY: Well, what is it?<br><br>BECKETT: Doctor Keller's research on the serum that keeps my cells from deteriorating.  I think there might be something in here to help the plague survivors since I'm not getting the infections that they are.<br><br>McKAY: Well, you don't have to do this now.  I'll download the data to a drive and you can just, you know, take it with you.<br><br>BECKETT: Actually, you can't.  Mr Woolsey doesn't want it leaving the base.<br><br>McKAY: Oh.<br><br>BECKETT: I'm sorry, Rodney.<br><br>McKAY (grumpily): Well, <I>I</I> don't care.  No, I was just trying to stop you from whining about never seeing me.  All right.<br><br>(He turns and walks away.  Carson calls after him.)<br><br>BECKETT: Rodney, wait.<br><br>(Rodney turns back to him.)<br><br>BECKETT: Now that I think of it, I <I>am</I> a wee bit peckish.  Besides, I can't solve all the galaxy's problems in one day, can I?<br><br>McKAY (pointing to himself): Well, I said ...<br><br>BECKETT (smiling): Shut it.  Right, let's go.<br><br>(Shutting down the lid of the laptop, he puts his jacket on and follows Rodney out of the room.)<br><br>BECKETT: So, interested in anyone these days?<br><br>McKAY: Me?  No, I'm, I don't ... (he babbles incoherently.)<br><br>BECKETT: You're a terrible liar, Doctor McKay!  Tell me, tell me, tell me!
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="511.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s5/512.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="513.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s5/index.shtml">
+<IMG SRC="/graphics/title_s5episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Five Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="501.shtml" CLASS="list">Search and Rescue</A><BR><A HREF="502.shtml" CLASS="list">The Seed</A><BR><A HREF="503.shtml" CLASS="list">Broken Ties</A><BR><A HREF="504.shtml" CLASS="list">The Daedalus Variations</A><BR><A HREF="505.shtml" CLASS="list">Ghost In the Machine</A><BR><A HREF="506.shtml" CLASS="list">The Shrine</A><BR><A HREF="507.shtml" CLASS="list">Whispers</A><BR><A HREF="508.shtml" CLASS="list">The Queen</A><BR><A HREF="509.shtml" CLASS="list">Tracker</A><BR><A HREF="510.shtml" CLASS="list">First Contact</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="511.shtml" CLASS="list">The Lost Tribe</A><BR><A HREF="512.shtml" CLASS="list">Outsiders</A><BR><A HREF="513.shtml" CLASS="list">Inquisition</A><BR><A HREF="514.shtml" CLASS="list">The Prodigal</A><BR><A HREF="515.shtml" CLASS="list">Remnants</A><BR><A HREF="516.shtml" CLASS="list">Brain Storm</A><BR><A HREF="517.shtml" CLASS="list">Infection</A><BR><A HREF="518.shtml" CLASS="list">Identity</A><BR><A HREF="519.shtml" CLASS="list">Vegas</A><BR><A HREF="520.shtml" CLASS="list">Enemy At the Gate</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Five</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B002ACP0MO/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B002612S6A/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls5.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="511.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s5/512.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="513.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

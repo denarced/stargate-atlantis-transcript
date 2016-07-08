@@ -1,0 +1,527 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Tao of Rodney" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				
+				<A HREF="/atlantis/s3/transcripts/314.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=558">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=305">Screen Captures</A><BR>
+				<A HREF="/atlantis/s3/314.shtml#analysis">Analysis</A>
+				
+				
+				 | <A HREF="/atlantis/s3/314.shtml#questions">Questions</A>
+				
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=37755">Fan Reviews</A>
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=37745">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s3/314.shtml"><IMG SRC="/atlantis/graphics/314_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="TAO OF RODNEY" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://click.linksynergy.com/fs-bin/click?id=2cvd55rHd*s&offerid=78941.10001326&type=4&subid=0" TARGET="_blank"><img height="15" width="61" border="0" alt="iTunes" src="/store/graphics/itunes_button.gif"></img></a> &nbsp; <a href="http://www.amazon.com/exec/obidos/ASIN/B000Q9NZA2/bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 314<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 3, Disc 4<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 05.04.07<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 02.04.08<BR>
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0454307/" TARGET="_blank">Damian Kindler</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0939869/" TARGET="_blank">Martin Wood</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">After an Ancient device gives Rodney superhuman powers, his enhanced brilliance is checked only by his impending death -- unless he can learn how to ascend.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    <B>Czech translations by Klenotka.</B><br><br><br>ATLANTIS.  Doctors Rodney McKay and Radek Zelenka are investigating an area of the city which is still wet from recent flooding.  The area is quite dark and they are carrying torches.  As they and a team of scientists walk into a dark corridor, some lights come on.<br><br>McKAY: She used to leave the lights on all over the house, every room.  It drove my father nuts.<br><br>(Radek chuckles.)<br><br>ZELENKA: For me, it was my brother -- only we hadnt lights.  He used to leave candles burning everywhere.<br><br>McKAY: Yeah, well, you know what?  No-one wants to hear any more stories about how poor you were as a child, alright?  (Sarcastically) We already feel as sorry for you as is humanly possible.<br><br>ZELENKA (to one of the female scientists): He burned the house down, you know?<br><br>(The team turns into another dark corridor.)<br><br>McKAY: My sister was afraid of the dark, only used to blame me for leaving the lights on.  Of course, my father believed her.  He <I>never</I> sided with me.<br><br>ZELENKA: We had to live in a tent, in the dead of winter for three months.<br><br>McKAY: You know, at least my stories relate to what were doing.<br><br>ZELENKA: So do mine.<br><br>McKAY: You know, were trekking all over the city shutting down everything the Ancients activated while they were oh-so-briefly in control so that we can stop the power from draining from our one precious ZedP.M.  How does that relate to your idiot brother burning the house down?<br><br>ZELENKA: Well, if we dont succeed ...<br><br>McKAY: Were not gonna have to live in a tent in the dead of winter!<br><br>ZELENKA: Its a metaphor.<br><br>(The woman who Radek spoke to earlier, Doctor Esposito, has walked ahead of the men while they were bickering and has now reached a closed door.  She turns back to the others.)<br><br>ESPOSITO: Doctor McKay.<br><br>McKAY: Hmm.  Thank God.<br><br>(He and Radek walk over to her as she tries the door panel.)<br><br>ESPOSITO: The control panel.  Its completely shot.<br><br>McKAY: Really?  You think so?  (He starts to attach a device to the panel, talking to Radek as he does so.)  You know, I dont get these Ancients.  Theyre supposed to be so smart, but why activate something that you dont need and youre not using, huh?<br><br>ZELENKA: Well, maybe they didnt have time to get to it -- you know, before the human-form Replicators that you reprogrammed attacked.  (He grins smugly at Esposito.)<br><br>McKAY (irritated): Yes, yes, we all know what happened.<br><br>(He throws Esposito a look as if to say, Take no notice of <I>him</I>, then smiles at her, obviously attracted to her.  He gets back to work on the panel and shortly afterwards the door opens.)<br><br>McKAY: Ah.  Voila.<br><br>(He leads the team into what looks like a lab.)<br><br>ZELENKA: Youre just angry that you couldnt figure out how to override the Ancient protocols that kept us from shutting this place down remotely from the Control Room.<br><br>McKAY: Hey, neither could you.<br><br>ZELENKA: Yes, but I didnt bet everyone a months pay that I could do it.<br><br>(Rodney points at him in irritation.)<br><br>McKAY: You ... OK, you know what?  Look around, see if you can figure out how you can turn this place off, whatever it is.<br><br>(He steps onto a low podium which has a control panel on it.  The panel is illuminated.  Radek looks at him nervously.)<br><br>ZELENKA: Are you sure you should be going up there?<br><br>McKAY: How else am I gonna find out what this room does, huh?  (He starts to attach his computer tablet to the panel.)  God forbid there should be anything in the Ancient database.<br><br>ZELENKA: Oh, there probably is.  We just dont have the time to ...<br><br>(Just then, the interface between the panel and the tablet activates.)<br><br>McKAY: Ah, here we go.<br><br>(The wall screen opposite the panel lights up and Ancient writing appears.)<br><br>McKAY: Ah!<br><br>ZELENKA (pointing at the control panel): OK, there should be a main power switch ...<br><br>McKAY (tetchily): Yes, I <I>know</I> that.  What do you think Im doing?<br><br>(Radek pulls his hand back in exasperation.)<br><br>ZELENKA: Alright.<br><br>(Rodney starts to activate the controls on the panel.)<br><br>ZELENKA: Alright -- double or nothing.<br><br>(Rodney smiles and turns to him.)<br><br>McKAY: Oh, youre on.<br><br>ZELENKA: Alright!<br><br>McKAY: Alright.  (He looks at the panel.)  Its gotta be around here somewhere.<br><br>(Before he can touch anything else, theres a surge of power and a large green light comes on above the podium.  A green glow envelops Rodney.  Instinctively Radek steps back.  Rodney stares up into the light, startled.  Moments later, a beam of light comes down and wraps itself around him.  It swirls round him for a couple of seconds, then panels start to explode all around the room and the light around Rodney fades.  The other scientists recoil as explosions go off all around them.  Rodney cringes from the sparks.  As the panels blow out, the room is plunged into near darkness, illuminated only by a few small windows and the torchlight of the scientists.  Radek nervously steps closer to Rodney.)<br><br>ZELENKA: Rodney?  What happened?<br><br>(Rodney turns around to face him, his eyes wide in horror.)<br><br>McKAY: Im not sure ... but I think I just lost -- big time.<br><br><br>INFIRMARY.  Rodney is sitting on the side of a bed.  He looks up anxiously as Doctor Carson Beckett comes over to him.  Lieutenant Colonel John Sheppard and Doctor Elizabeth Weir are standing beside the bed.<br><br>BECKETT: As far as I can tell, hes fine.<br><br>McKAY: I was hit by a mysterious energy pulse.  How can that possibly be fine?<br><br>BECKETT: Ive run every test I can: blood work, M.R.Is, X-rays, the lot.  I found no anomalies in any of the results.<br><br>McKAY: One more time: mysterious energy pulse from a device created by the Ancients.  I mean, who knows what kind of long-term effects I could be in for?  I mean, theres gross mutation, giantism, invisibility ...<br><br>SHEPPARD: That would be cool.  <I>I</I> turned into a bug.<br><br>(Rodney narrows his eyes at him.)<br><br>BECKETT: Alright.  Like I said, as far as I can tell, hes as healthy as a horse.  (To Rodney) Im clearing you for active duty.<br><br>McKAY: Are you insane?!  (He turns to Elizabeth and John.)  Look, I need to be put under guard.  Who knows what I could become?<br><br>(John rolls his eyes.  Elizabeth looks at Carson.)<br><br>WEIR: What are the chances it could make him more pleasant?<br><br>McKAY: Oh, thank you!<br><br>SHEPPARD: Ill keep an eye on him.<br><br>WEIR: Thank <I>you</I>!<br><br>(She walks away.  Rodney looks at John and points at himself nervously.)<br><br>McKAY: Can you still see me?<br><br><br>ANCIENT LAB.  Emergency lights have been set up in the room.  Radek is working on a panel which he has pulled out from the wall while Rodney is on the floor working underneath the control panel.<br><br>McKAY (irritated): What are you saying?<br><br>ZELENKA: That you were showing off.<br><br>(He chuckles and walks to another panel.  John is sitting against a wall nearby, looking bored.)<br><br>ZELENKA: Normally, if Doctor Esposito werent around, I doubt you would have been as reckless as you were.<br><br>McKAY: Are you insane?<br><br>SHEPPARD: Which ones Esposito?<br><br>ZELENKA: Oh, the long dark hair.<br><br>SHEPPARD: Ah, right.  The one with the perfect little, uh ...<br><br>McKAY: Do you mind?  Were trying to work here.<br><br>SHEPPARD: For the record, I was gonna say smile.<br><br>McKAY: Yeah, sure you were.  (To Radek) Whatve you got?<br><br>ZELENKA: Nothing.  Whatever you did fried all the power conduits leading into the room.<br><br>(Rodney stands up.)<br><br>McKAY: Whatever <I>I</I> did?!  Look, up until very recently this lab was entirely under water, quite possibly for over ten thousand years.  How is that <I>my</I> fault?<br><br>ZELENKA: Well, <I>that</I> part of it isnt.<br><br>McKAY: OK, thats it.  Im going for lunch.<br><br>(He walks away.)<br><br><br>MESS HALL.  Close-up on Rodney sitting at a table with a tray of food in front of him.  He has already eaten a sandwich, leaving the crusts, one or two tubs of what was probably jello, and a banana and is now picking at a bunch of grapes.<br><br>TEYLA (quietly, offscreen): Hows he doing?<br><br>SHEPPARD (quietly, offscreen): Same old Rodney.<br><br>DEX (quietly, offscreen): Youre sure?  He looks a couple of pounds heavier to me.<br><br>(Rodney looks up at that comment.)<br><br>TEYLA (reprovingly, offscreen): Ronon.<br><br>DEX (quietly, offscreen): What?  He eats all the time.  Its not like he exercises.<br><br>SHEPPARD (quietly, offscreen): Hes feeding his unhappiness.<br><br>McKAY: Hello?!  Im right here.  I can ...<br><br>(He turns to look at the others, who are sitting at a different table.  The thing is, the table is several yards away.  Theres no way he should have been able to hear them.  Teyla and Ronon look round at him.  He looks away again, startled.)<br><br>McKAY (quietly, to himself): I can hear you.<br><br>(He blinks, surprised.)<br><br>McKAY: Huh!<br><br>(He stands up and turns towards the others.  Automatically, and without looking, he reaches back towards his computer tablet which is lying on his table.  It slides across the table to his fingers.  Without realising what he just did, he picks up the tablet and goes across to the others.)<br><br>McKAY: For your information, I am exactly the same weight I have been since I got here.  I need to eat regularly, otherwise I become hypoglycaemic; and I am generally a very happy person.<br><br>MALE VOICE (over tannoy): Colonel Sheppard.  Please have your team report to the Control Room immediately.  Colonel Sheppard.<br><br>(The team stands up without commenting on what Rodney just said, and they all head off.)<br><br><br>CONTROL ROOM.  The team walks over to Elizabeth.<br><br>WEIR: We received this transmission six minutes ago from Major Lornes team.<br><br>(The Canadian technician activates the controls to replay the transmission.)<br><br>LORNE (over radio): Atlantis base, repeat: we are under attack and cut off from the Gate.  I counted at least twenty, maybe more.  Request back-up immediately.<br><br>SHEPPARD: Where are they?<br><br>WEIR: M72-656.<br><br>SHEPPARD: Have a team of marines meet us in the Jumper Bay.<br><br><br>Shortly afterwards, a Puddle Jumper lowers down into the Gateroom and heads into the open Stargate.<br><br><br>LATER.  ANCIENT LAB.  Elizabeth walks in to find Radek working on the central control panel.  He looks up as she comes in.<br><br>ZELENKA: Doctor Weir.  Any word?<br><br>WEIR: Not yet.  (She tries not to sound worried.)  It <I>has</I> only been an hour.  You wanted to see me?<br><br>ZELENKA: Yes.  I could use your help.  I managed to get power to part of the console to access the labs research logs.<br><br>WEIR: Well, thats good news.<br><br>ZELENKA: Well, Im not so sure.  I could use a second opinion.<br><br>(He activates the controls and Ancient writing appears on the wall screen.  Elizabeth steps onto the podium to get a better look.)<br><br>WEIR: It seems much of this refers to different elements of human physiology.  (She works the controls and the next page of text appears.)  It mentions the mutation of base genetic coding.<br><br>ZELENKA (nodding in agreement): I realise Doctor Beckett said that there were no evident effects from Rodneys exposure to the device.  It seems ...<br><br>WEIR: ... meant to manipulate human D.N.A.<br><br>(They look at each other in concern.)<br><br>MALE VOICE (over radio): Doctor Weir to the Jumper Bay.  The rescue team has returned.<br><br>WEIR (to Radek): Lets go.<br><br><br>JUMPER BAY.  Elizabeth and Radek walk in just as the rear hatch of the Jumper lowers.  John and Rodney are arguing as they come out.<br><br>McKAY: What else could it be?!<br><br>(Ronon groans in disbelief.)<br><br>SHEPPARD: Youre losing your mind!<br><br>McKAY: Im telling you, its a bit of a coincidence!<br><br>SHEPPARD: Well, then, prove it!<br><br>(Elizabeth looks at them as they lead out Lorne and his team, together with Teyla and Ronon.)<br><br>WEIR: Colonel?<br><br>SHEPPARD: Everyones present and accounted for.<br><br>(Carson and three medics run into the Bay wheeling two stretchers.)<br><br>BECKETT: How bad is it and whos been hurt?<br><br>LORNE: No-one, Doc.  Were all fine ... thanks to McKay.  (He gestures at Rodney while raising his eyebrows at Elizabeth in obvious sarcasm and disbelief.)<br><br>SHEPPARD (equally sarcastic and disbelieving): So he says.<br><br>WEIR: Rodney?<br><br>McKAY: Well, to be honest, Im not entirely sure.  I wasnt even sure it was me at first, but the correlations impossible to ignore.  I saw Lornes team pinned down, the bad guys closing in -- I just thought, you know, wouldnt it be great if all their weapons jammed at the same time?<br><br>(Johns face is a picture of scorn.  Even Rodney has realised how ludicrous hes sounding and his voice has got less convinced as he has been speaking.  Teyla narrows her eyes at him.  John looks at Elizabeth, biting his lip to stop himself from laughing.  Rodney looks at him and starts to sound more confident again.)<br><br>McKAY: Next thing I know, theyre all running away, so ...<br><br>WEIR (cynically): So you think because you <I>wanted</I> it to happen, it just did.<br><br>McKAY: It was a little more than that.<br><br>(Elizabeth nods sarcastically.)<br><br>McKAY: OK.  You know what?  Watch this.  Ill, uh ...<br><br>(He turns to Carson, who is standing with his arms folded as he listens cynically to the conversation.  Rodney points at him and Carson gasps as he raises off the ground.)<br><br>BECKETT: Rodney!<br><br>(He stares downwards in terror and amazement as he elevates several feet into the air while Rodney continues to point at him.  The others run over to Carson and stare in shock.)<br><br>WEIR (still gazing at Carson in amazement): Rodney?<br><br>McKAY: Believe me, I find this as disturbing as you do.<br><br>BECKETT: Like bloody hell you do!<br><br>(Elizabeth looks at Rodney and speaks quietly.)<br><br>WEIR: Put him down.<br><br>(Rodney slowly lowers his hand and Carson floats gently down to the floor.  He sighs in relief.)<br><br>BECKETT: Oh, God!<br><br><br>INFIRMARY.  Rodney is sitting on top of a bed as Elizabeth and John talk to him.<br><br>WEIR: Have there been any other instances of this power manifesting itself?<br><br>(Rodney raises a finger.)<br><br>McKAY: Powers.  Plural.<br><br>WEIR: What else can you do besides telekinesis?<br><br>McKAY (pointing to his ears with both hands): Well, super-hearing for one, and Im not sure but I think I may actually be getting smarter.  (He smiles.)  Its hard to say for sure because I was pretty smart to start with but, um, recently Ive been having some ideas that I dont think even <I>I</I> would have thought of before.<br><br>(John frowns at him.)<br><br>SHEPPARD: Does super-ego count as a power?<br><br>(Rodney looks past him as a female medic comes in.)<br><br>McKAY: Oh!  Finally!<br><br>(The woman is carrying a tray of food: a full plate of meat, potatoes and carrots, together with a sandwich in a plastic container, and two tubs of jello.)<br><br>McKAY: Look, keep it coming.  (He takes the tray and puts it on his lap.)<br><br>SHEPPARD (to Elizabeth): We could also be dealing with a super-appetite, although its hard to tell because he ate so much before.<br><br>McKAY (picking up the cutlery and cutting into the carrots): <I>Very</I> funny.<br><br>(Carson walks over.)<br><br>BECKETT: My God!  Hes eatin again!<br><br>McKAY (through a mouthful of carrots): I have a very active metabolism.<br><br>BECKETT: Aye -- among other things.  The scans show a dramatic increase in synaptic interaction throughout all the sections of Rodneys brain -- much higher than normal human levels.<br><br>(Rodney stops cutting into his food briefly and frowns, then shovels a forkful of meat into his mouth.)<br><br>WEIR: There was an incident at S.G.C. just over a year ago.<br><br>BECKETT: I recall that file.  I studied the data.  Fascinating.<br><br>WEIR (to John): SG-1 discovered a highly-evolved human being in stasis.  It turned out he was a result of experimentation by a Goauld named Anubis.  He was trying to create a means of artificially accelerating human physiology to the point of ascension.<br><br>McKAY: Look, that device I found must have been some kind of an accelerator.  We know that the Ancients developed all <I>kinds</I> of powers as they evolved, so its just a matter of bad luck that we didnt run into that lab earlier.  (He smiles happily.)  Seriously -- me a superhero.  Who would have thought it?<br><br>(Still smiling, he gets back to his meal.  The others dont look nearly as happy.)<br><br><br>ANCIENT LAB.  John and Elizabeth are working on separate consoles next to each other while other scientists are working on various other parts of the lab.<br><br>SHEPPARD: Look, we all agree the Ancients were pretty screwed up.<br><br>WEIR: We do?<br><br>SHEPPARD: All the ones <I>I</I> met were arrogant, condescending -- and <I>not</I> for good reason.  They made giant mistakes and <I>never</I> fixed em.<br><br>WEIR: They <I>were</I> still human.<br><br>SHEPPARD: But then there were all those crazy rules.<br><br>WEIR: Those only came after they ascended.<br><br>SHEPPARD: Whatever, alright?  (He walks over to her.)  Maybe this thing doesnt work on everyone.  Who knows?  But we <I>do</I> know it works on McKay.<br><br>WEIR: It has only been a day.<br><br>SHEPPARD: Assuming its safe -- well, to be honest, even if its not -- if we can get a significant advantage over the Wraith and Replicators ...<br><br>WEIR: John, I agree -- this device <I>may</I> have great potential.<br><br>SHEPPARD: And with great potential comes great responsibility -- I know.<br><br>WEIR: Like a lot of other things we have found in this city, it is a very advanced piece of technology.  For all we know, it could also be very dangerous.<br><br>SHEPPARD: Im just saying ...<br><br>WEIR: Yes, you can be next.<br><br>SHEPPARD: Thank you!<br><br>WEIR: Hmm!<br><br>(John walks away as Elizabeth shakes her head in irritation.  Radek, who was working nearby, turns and leans nonchalantly on her console.)<br><br>ZELENKA: You know, if youre compiling a list, Id ...<br><br>WEIR: Could we stay focused, please?<br><br>ZELENKA: Right.<br><br>(He gets back to work.)<br><br><br>INFIRMARY.  Rodney is sitting on the bed, watched by a couple of armed marines.<br><br>McKAY: Cmon.  You cant keep me cooped up in here forever.<br><br>BECKETT: You might not be sick, Rodney, but I think we can both agree whats happening here is far from normal.<br><br>(He walks over to a trolley and activates the laptop on it.)<br><br>McKAY: Exactly, so let me go out and start using my powers to do some good.<br><br>(He spots something interesting on the trolley.)<br><br>McKAY: Ooh.  Are you going to, uh, finish <I>that</I>?<br><br>(He points his fingers in a mystical way.  A chocolate covered donut on the trolley rises up into the air.  Carson grabs it.)<br><br>BECKETT: Im serious!<br><br>(Rodney looks disappointed.)<br><br>BECKETT (putting the donut back down on the trolley): We have no idea of the extent of your genetic mutation.<br><br>McKAY: Please.  Mutation has such negative connotations.  Advancement is more like it.<br><br>BECKETT: Until we know exactly whats going on here ...<br><br>McKAY: Carson.  (He hops off the bed, smiling.)  Im still me.  Anyway, its not like you ... (he gestures at the marines) ... or these guys could stop me from leaving anyways.<br><br>DEX (offscreen): No, but <I>I</I> could.<br><br>(Ronon walks over to them.  Rodney smiles and walks towards him.) <br><br>McKAY: Oh, you care to put that to a test?<br><br>(Ronon smiles and walks right over to him.)<br><br>DEX: Do <I>you</I>?<br><br>(Rodneys smile fades.)<br><br>McKAY: Well ... no, not really.<br><br>(Carson sighs.)<br><br>BECKETT: Anyways, as I was saying, I think youre fine to go about your daily duties as long as you have someone with you ... (he looks at Ronon, then looks back to Rodney) ... and <I>you</I> ...<br><br>McKAY: ... check in every couple of hours.  Yes, yes.  Bye-bye!<br><br>(He waves at Carson as he starts to walk away, then points his fingers at the donut again.  It flies into his hand and he takes a big bite out of it as he carries on walking.  Carson protests behind him.)<br><br>McKAY (to Ronon through a mouthful of donut): You know, we could be a team.  You could be my sidekick.<br><br>DEX: Sidekick.<br><br>McKAY: Yeah -- itd be like Batman and Ronon.  Has a nice ring to it.<br><br>DEX: Yeah, you keep eating like that, its more like Fatman.<br><br><br>SHORTLY AFTERWARDS.  Rodney has just finished off the donut and is licking his fingers as he and Ronon walk along.<br><br>McKAY: Im warning you -- you will probably be bored out of your mind unless you find incredibly advanced physics to be ...<br><br>(He trails off as Doctor Esposito walks past him.  He turns and looks at her.)<br><br>McKAY: Really?<br><br>ESPOSITO (turning to look at him): What?<br><br>McKAY: What, you think so?  (He laughs.)  Hey, she thinks Im hot!<br><br>ESPOSITO (smiling and fiddling with her hair in an embarrassed way): I didnt say anything.<br><br>McKAY: No-no-no, Im sure that you, uh ...  Oh, of course not, I should have known.  (He turns to Ronon with a look of exasperation on his face.)  She meant you.<br><br>(Esposito gasps.)<br><br>ESPOSITO: I dont know what youre talking about.<br><br>(Still fiddling with her hair, she turns and hurries away.)<br><br>DEX: McKay, she didnt say a word.<br><br>(Rodney stares at him in shock.)<br><br>McKAY: Oh my God.  I can read minds.  (He raises his hands to either side of his head and wiggles his fingers, smiling.)  Oh, this is cool!  (He hurries off.)<br><br>DEX (turning to follow him): No it isnt.<br><br><br>ELIZABETHS OFFICE.  Elizabeth is sitting on the edge of her desk looking at a P.D.A. as Rodney comes in, followed by Ronon.  She looks up at them.<br><br>McKAY: Oh, Im fine.  No; yes; and it doesnt.<br><br>WEIR: What?<br><br>McKAY: I can read your mind -- uh, everyones, actually.  That was very cool for the first, like, ten seconds there, but now Im finding it a little disturbing, so Im trying to tune it out as much as I possibly can ... well, sort of.  Anyways, look, I wanted to get your permission to access the Control Chair.  Ive got some pretty interesting ideas for maximising our ZedP.M.  I reconfigured the citys power systems -- its too complicated to explain -- but trust me when I say that you are going to be incredibly happy with the results.  Look, Elizabeth, I know -- you have every right not to trust me but I promise you, Im gonna make things much, much better, OK?  (He looks at her briefly.)  Good.  (He looks at Ronon.)  She wants you to shoot me if you think for even one second that I might be trying to take over the city for my own evil purposes.<br><br>(Ronon looks at Elizabeth as she shakes her head in bewilderment.  Rodney laughs.)<br><br>McKAY: Im kidding.  That was a joke.  Is your weapon set to, uh, stun?  Wait -- never mind.  (He closes his eyes briefly.  Ronons blaster beeps.)  There -- I did it myself.  OK, to the Chair Room, Ronon.<br><br>(He heads out of the room.  Ronon walks closer to Elizabeth.)<br><br>DEX: Can I shoot him now?<br><br>McKAY (loudly, from several yards away): I can hear you!  Look, she just wants you to keep a close eye on me!  Cmon, lets go.  Chop, chop -- much to do.<br><br>(He heads off again as Elizabeth pinches the bridge of her nose in exasperation.  She looks up at Ronon.)<br><br>WEIR: I will send a science team down to supervise.<br><br><br>ANCIENT LAB.  Radek makes some adjustments to a wall panel, then turns and steps onto the central podium.  Just then, the lights go out and the room is plunged into darkness.  A moment later the emergency lights come on.<br><br>ZELENKA (in Czech): Not like that, this is crap.<br><br><br>CHAIR ROOM.  Rodney is lying in the Chair.  It is reclined and active.  Various scientists are standing around the Chair, staring up in amazement as different holographic images and Ancient writing appear in rapid succession in the air above the Chair.  Radek walks in and stares.<br><br>ZELENKA: What the hell is he doing?<br><br>(Ronon is sitting on the floor near the Chair.)<br><br>DEX: Dont ask me.<br><br>ZELENKA: Actually, I wasnt.<br><br>(He looks across at a female scientist, Doctor Coleman, who turns from the wallscreen she was watching.)<br><br>COLEMAN: I have no idea.<br><br>(Radek sighs and walks over to the Chair, where Rodney has his eyes closed and is smiling as his fingers make tiny movements on the arm controls.)<br><br>ZELENKA: Rodney, you are affecting power all over the city.<br><br>McKAY: I know.  (He opens his eyes and looks upwards as he continues working the controls.)  Awesome, isnt it?<br><br>ZELENKA: No.  I cant work.<br><br>McKAY: Its just temporary.<br><br>ZELENKA: Rodney, Im trying to determine if that device did any permanent damage to you.  Quite frankly, given your usually rampant hypochondria, Im surprised you dont seem to care.<br><br>(Rodney turns his head and looks at him.)<br><br>McKAY (mildly): Youre jealous.<br><br>ZELENKA: That is ridiculous.  You should be working with me trying to figure out what is happening to you.  Instead, youre here burying your head in the sand.<br><br>McKAY: That is not true.  (He looks up above the Chair again.)  My head -- which happens to be housing my ever-evolving brain -- is actually being better utilised here doing important things that will affect everybody.<br><br>(Radek sighs and looks across at Ronon, who shrugs at him.  Radek looks at Rodney again briefly, then throws his hands up in the air in exasperation and storms out.)<br><br>ZELENKA (in Czech): I am not gonna work with him. I can [very rude word] at this. He is ...<br><br>(As he moves out of earshot, Rodney rotates the Chair around so that he can look at Ronon.)<br><br>McKAY: He tries to hide it, but deep down, Im the wind beneath his wings.<br><br>(Smiling smugly, he looks up into the air again.)<br><br><br>ELIZABETHS OFFICE.  Elizabeth is sitting behind her desk reading her laptop.  John walks in and goes over to stand beside her.  He leans down to look at her screen.<br><br>SHEPPARD: Well, hows it coming?<br><br>WEIR (without looking up): Actually, I think Im just getting to the good bit.<br><br>SHEPPARD: Dont you hate it when people interrupt right when things are getting good?<br><br>(Elizabeth looks up, then glances at him briefly.  As she looks down at her laptop again, all the lights and wall panels flicker on and off several times.  John looks annoyed.)<br><br>SHEPPARD: I know McKay is some super-genius now, but I find the flickering lights incredibly unnerving.<br><br>(He walks around the desk and sits down opposite Elizabeth.)<br><br>WEIR: Doctor Coleman has -- however reluctantly -- admitted it does seem as if Rodney is significantly improving the citys power system.<br><br>SHEPPARD: Whatever.  Anyway, you were saying ...?<br><br>(Elizabeth sighs.)<br><br>WEIR: Well, we know the Ancients evolved physiologically to a certain point where they could transform into a state of pure energy.<br><br>SHEPPARD: Ancient History 101.<br><br>WEIR: Yes.  We also know that not all of them managed to get there.<br><br>SHEPPARD: Youre saying some of them needed a kick in the pants.<br><br>WEIR: So to speak.  I think this machine was not meant to help them <I>fight</I> the war against the Wraith but rather to help them escape it.<br><br>SHEPPARD (frowning): An ascension machine?<br><br>WEIR: Like the one the Goauld tried to create in the Milky Way.<br><br>(John leans forward in his seat.)<br><br>SHEPPARD: Are you saying McKays going to ascend?<br><br>WEIR: Unfortunately theres a whole lot more to ascension than just being <I>physically</I> evolved.<br><br>SHEPPARD: Believe me, after spending six months with a bunch of pansy wannabes, I <I>know</I>!  But what does this mean for McKay?<br><br>WEIR (glancing up from her laptop briefly): Like I said, just gettin to the good bit.<br><br>SHEPPARD (taking the hint): Ill leave you to it.<br><br>(He stands up and heads out of the room.  Elizabeth suddenly raises her hand as she spots something on her screen.)<br><br>WEIR: John, wait.<br><br>(John stops and turns as she stands up.)<br><br>WEIR: We need to talk to Rodney right away.<br><br>(As she starts to follow John, she stops and they both stare upwards as the lights go out.  She and John hurry off.)<br><br><br>CHAIR ROOM.  Rodney is still lying in the Chair with holographic images flashing above his head as John and Elizabeth walk in.<br><br>McKAY: You can all relax.  Ill have us back online in two minutes.<br><br>WEIR: We need to talk to you.<br><br>(Rodney deactivates the Chair, which rises into its upright position.  He sits up and stares at her.)<br><br>McKAY: What do you mean, Im gonna die?<br><br>(Elizabeth and John stare at him as he stands up, still looking at her in shock.)<br><br>McKAY: Im not even sick!  I feel great -- never better!<br><br>SHEPPARD: That Ancient device ...<br><br>McKAY (reading his mind): ... has accelerated my evolution.  (He looks at Elizabeth, reading her mind.)  Eventually Ill reach a point where Im physically capable of ascension, but ascension takes more than that -- theres a ... theres a mental component.<br><br>(Elizabeth nods.)<br><br>McKAY: I need to know how to make it happen ... which I dont.  (He looks at Ronon, picking up his thoughts.)  Yet!  Im getting smarter by the minute.  (He looks back to the other two.)  Its a pretty good assumption Ill be able to figure it out on the way.<br><br>(Elizabeth opens her mouth but Rodney starts talking again, speaking her mind for her.)<br><br>McKAY: OK, so its not as easy as that.  Well, even if I dont, so I stay a highly-evolved human.  I mean, I dont have to ascend -- its, its a choice, right?<br><br>(John grimaces slightly.)<br><br>McKAY: No?  What do you mean, no?  Oh, that stupid Ancient device doesnt work properly, does it?  (He reads Elizabeths mind again.)  Its set in motion a series of genetic mutations that will result in my death if I dont ascend?!<br><br>SHEPPARD (quietly to Elizabeth): There <I>is</I> something easier about this.<br><br>(Elizabeth nods in agreement.)<br><br>McKAY: <I>Thats</I> why the Ancients didnt put it into common use -- its just one more in a long line of abysmal, over-ambitious failures!  (He stares at them in horror.)  Oh God.  Im a dead man!<br><br>(Coleman turns around with a look of concern on her face about something shes just seen on her screen.)<br><br>COLEMAN: Doctor McKay.<br><br>McKAY (still distracted by the news hes just had): Yes, yes -- its because I stopped in the middle.  I will fix it -- just give me a second here.<br><br><br>ANCIENT LAB.  Once again, the lab is plunged into darkness.  As the emergency lights come on, Radek, standing on the podium, slams his notepad angrily down onto the console.<br><br>ZELENKA: Thats it.  (In Czech as he starts to storm out of the lab) I will kill him, he is nuts, complete idiot.<br><br><br>CHAIR ROOM.<br><br>McKAY: OK, theres still time left, right, so maybe theres a way to reverse the process.  Zelenka!  Wheres Zelenka?  What the hell has <I>he</I> been doing?<br><br>COLEMAN: We have massive power surges throughout the grid.  Shutdown protocols are not responding.<br><br>McKAY (plaintively): Dammit!  (He sits down and activates the Chair again.)<br><br><br>CORRIDOR.  Radek is making his way back towards the Chair Room.  A high-pitched electrical surge can be heard and behind him, electricity sparks.  He starts to run away from it but suddenly a massive arc of electricity lances out in front of him and strikes him in the chest.  He screams and crashes to the ground.<br><br><br>INFIRMARY.  Carson and other medics race into the room wheeling a gurney with Radek lying on it.  Carson is pumping air into his lungs.<br><br>BECKETT: Come on, Radek, come on.  Hes not breathing -- we need to intubate.  Start an I.V., wide open.  Get that monitor set up.<br><br>(They stop the gurney beside a bed.)<br><br>BECKETT: Right -- on my count.  One, two, three.<br><br>(The team pulls Radek across onto the bed.  His shirt has been cut open and he has a huge and bloody burn on his chest.  Rodney, John and Elizabeth hurry in.)<br><br>McKAY: Radek!<br><br>BECKETT: Get the leads set up, please.<br><br>(The medical team attaches leads to Radeks body.)<br><br>BECKETT: Hes in V-tach.  Prepare to de-fib.<br><br>(He grabs the paddles and rubs them together as the defibrillator whines.)<br><br>BECKETT: Clear.<br><br>McKAY: No!  (His eyes wide, he steps forward to Radeks side.)<br><br>BECKETT: Rodney, the man is dying.<br><br>McKAY: I know.  Just give me a second.  I know.<br><br>(He closes his eyes and puts his hands gently onto Radeks chest.  He concentrates and a yellow glow appears on the wound, which slowly begins to heal.  The others stare as the wound fades, leaving Radeks chest undamaged.  As Rodney lifts his hands away, Radek draws in a deep breath.  Rodney opens his eyes and stares down at Radek in surprise.  The others gaze in amazement as Carson checks Radek over.)<br><br>BECKETT: Heart rates good; breathings steady.<br><br>(Rodney backs away from the bed, overwhelmed by what he has just done.)<br><br>BECKETT: Pulse is good.<br><br>(Radek opens his eyes, looks at the medical team in surprise and props himself up onto his elbows.)<br><br>WEIR: Radek, are you OK?<br><br>ZELENKA: What happened?<br><br>(Rodney turns and runs from the room.)<br><br><br>RODNEYS LAB.  NIGHT TIME.  Elizabeth walks in and stares in amazement.  There are whiteboards all around the room, all of them covered with complicated mathematical calculations.  Rodney is writing on one of them.<br><br>[Note: all through this scene, Rodney is much quieter than the usual arrogant Rodney McKay that we know.  This less belligerent Rodney continues throughout most of the rest of the episode.]<br><br>WEIR: Rodney.<br><br>McKAY: Hold on.  (He walks across to another board, a pen in each hand.  He looks at the board, then goes across to a laptop and types on it.)<br><br>WEIR: I see youve been busy.<br><br>McKAY (distracted): Yeah, I invented a new math.<br><br>WEIR: Really?!<br><br>McKAY: Its gonna change the human understanding of the universe as we know it.  (He walks across to another board, not really concentrating on Elizabeth.)  How is Zelenka?<br><br>WEIR: Uh, you need to ask?<br><br>McKAY: Im blocking out peoples thoughts.  It was becoming too overwhelming.  I wasnt able to think.<br><br>(He bends and starts to type on another laptop.  Elizabeth looks at him in concern.)<br><br>WEIR: Rodney ...<br><br>McKAY (straightening up and looking at her): I know what youre gonna say.  (Elizabeth raises her eyebrows at him.)  Oh, no ... just intuition, I swear.  I just ... I tried to fix the Ancient device but it wasnt meant to reverse the process.  Once the mutation has started, it cannot be stopped.<br><br>(He walks back to the first laptop and looks at it again.  Elizabeth turns and walks over to him.)<br><br>WEIR: Actually, I was gonna say, if you want any help in understanding ascension ...<br><br>(Rodney turns and looks at her.)<br><br>McKAY: Oh.  Uh, well, Ive already re-read everything I could in the database.<br><br>WEIR: Well, its not exactly a clear-cut set of instructions, is it?<br><br>McKAY: No.  And to be honest, you know, Ive never been all that big on the whole idea of ascending in the first place.  Theres too many rules, you know?  I mean, to me, life is about working towards achievement, you know?  Discovering things ...<br><br>WEIR: ... getting credit for it ...<br><br>McKAY: Exactly.  I mean, once you know it all, what do you do then?<br><br>WEIR: I dont know.  I dont think that ascension necessarily means the end.<br><br>McKAY: Yeah, see?  Never been big on leaps of faith, either.  I mean, sure, there was a part of me that from the beginning knew that this was too good to be true.  <I>Nothing</I> this great could ever happen to me without really, really bad consequences.  Anyways, now I have come to terms with that and I just wanna get as much done in the time I have left and not waste my time on a bunch of mumbo jumbo Im not gonna understand anyways.<br><br>(He walks over to a desk and picks up a memory stick.)<br><br>McKAY: Oh, Ive come up with a way for increasing the Daedalus shield power.  (He gives the stick to Elizabeth.)  Tell Hermiod to give me a call if he needs any help understanding the base code.<br><br>WEIR: Im sure Colonel Caldwell will be thrilled.<br><br>(She looks at Rodney as he gets back to typing on one of the laptops, then walks over to him.)<br><br>WEIR: Look, Rodney, Im not gonna try to convince you that ascension is right for you, or even possible, for that matter.  I dont know.  But I wonder if you have considered the fact that if you <I>did</I> somehow manage to ascend, you can always -- theoretically -- re-take human form.<br><br>(Rodney, who was busy typing and writing while she spoke, suddenly stops and stares, then turns to her, his eyes wide.)<br><br>McKAY: Why didnt <I>I</I> think of that?<br><br><br>INFIRMARY.  Rodney is wheeling a small device into the room, followed by Carson wheeling a monitor.  They take the equipment over to a bed and start to set it up as they talk.<br><br>BECKETT: I dont think its gonna work.<br><br>McKAY: I had this shipped from the S.G.C.<br><br>BECKETT: Aye, I know.  The Ancient device used to measure a persons synaptic activity.<br><br>McKAY: Ah, more than that -- the brains evolutionary level.  Look, its basically an ascendo-meter.<br><br>BECKETT: I really dont think were going about this the right way.<br><br>McKAY: If youre a highly-evolved super-genius, put up your hand.  (He looks around the Infirmary hopefully, then pretends to look surprised and raises his hand, smiling.)  Oh!<br><br>BECKETT (frowning at him): From everything <I>I</I> read about the subject area ...<br><br>McKAY: Look, when you get down to it, even mental states are actually only <I>physical</I> states, are they not?  I mean, the brain is just a chemical super-computer.<br><br>BECKETT: Well, I suppose an incredibly complex ...<br><br>McKAY: Yes is all you need to say, my friend.  Look, the universe may seem mystical to ... (he gestures to Carson) ... those without understanding ... (Carson snorts and turns away) ... when in truth anything and everything can be quantified.  Look, all the hocus pocus stuff is just a way of getting the brain into the proper electro-chemical state to allow the final physical evolution, at which point the matter that makes up this body will turn into pure energy.  (Carson looks sceptical.)  Look, what mere mortals would refer to as the ... (he wiggles his fingers mysteriously either side of his head) ... mystery of ascension is actually just a scientific process -- its just protons and electrons.  Protons and electrons.<br><br>BECKETT: If you say so.<br><br>(He finishes setting up his monitor and turns towards the bed, holding a headband in his hands.)<br><br>McKAY (finishing setting up his device): Now, if you dont mind, can we, uh ...  (He points to his own forehead, indicating where the headband will go.)  Yeah, thats it.<br><br>(He jumps onto the bed, lies down on his back with his head at the foot of the bed and wriggles into a comfortable position.  Carson stands at the foot of the bed and starts to attach the headband, which has several leads coming from it.  As Rodney speaks, Carson wheels over the small device which Rodney brought in.)<br><br>McKAY: Now, based on what Ive extrapolated from the Ancient research, I have been able to set measurable parameters for achieving the proper mental state.  Once I reach ninety six percent synaptic connection, as measured by this device ... (he points to it as Carson switches the device on and lights come on on the headband) ... all I need to do is maintain an E.E.G. frequency of zero point one to zero point nine Hertz and presto.  (He clicks his fingers, then gestures skywards.)  I arise to a higher plane of existence.<br><br>BECKETT: OK, lets assume for one completely insane moment that you <I>are</I> right.  (Rodney smiles confidently.)  Those frequencies are associated with near-comatose patients.  No-one whos actually awake can just will themselves anywhere close to that, no matter how bloody relaxed they are.<br><br>(Rodney points to his own head.)<br><br>McKAY: No <I>unevolved</I> person.<br><br>(Carson grimaces down at him.)<br><br>BECKETT: Give it a rest, Rodney.<br><br>McKAY: Just turn it on!<br><br>(Carson frowns at him for a second, then turns and switches on the monitor.  Its a double screen, half of it showing Rodneys synaptic activity -- currently showing 62% -- and half showing his E.E.G. frequency -- 29 Hz.)<br><br>BECKETT: Your synaptic activitys abnormally high.  Over sixty percent.<br><br>McKAY: Yes!  I dont have much time left.  As I said, by my calculations, when I reach ninety six percent, I either ascend or die.  Now, whats my E.E.G.?<br><br>BECKETT: Twenty nine Hertz, which is about average for someone in an extremely heightened <I>wakeful</I> state.<br><br>McKAY: OK, so I just need to, uh, clear my mind and, um, relax.<br><br>(He closes his eyes, breathes in deeply, then sighs the breath out again.  The monitor beeps and the E.E.G. reading changes -- upwards.  Rodney instantly opens his eyes at the sound of the beep and looks around.)<br><br>McKAY: Whats that now?<br><br>BECKETT: Thirty.<br><br>McKAY: What?!  Oh, come on, thats impossible!  You must have me hooked up wrong.<br><br>BECKETT: No I didnt, thank you very much.  Were getting a clear reading.  (Rodney lowers his head back down onto the bed, looking concerned.)  Rodney, the Ancients that eventually learned to ascend dedicated their entire lives preparing for this moment.<br><br>McKAY: Trust me, this will work.  I just need some more time.  Now stop talking so much.  Youre -- youre rippling my pond.<br><br>(As Carson stares at him in frustration, Rodney closes his eyes and settles down again, humming quietly to himself.)<br><br><br>MESS HALL.  John and Elizabeth take a couple of trays of food over to a table and sit down.<br><br>WEIR: I think hes having a hard time accepting this cant be solved with science, no matter <I>how</I> brilliant he is.<br><br>SHEPPARD: You know what he needs?  He needs to ... (he makes air quotes) ... release his burden.<br><br>WEIR: Yeah, well, you know McKay.<br><br>SHEPPARD: Maybe Doctor Heightmeyer can help.<br><br>WEIR: Actually, I was thinking more along the lines of you.<br><br>SHEPPARD: Me?<br><br>WEIR: Mmm-hmm.  You lived with the Ancients for six months on the brink of ascension.  You helped them face their fears and finally ascend.<br><br>SHEPPARD: I fought a scary monster -- thats what I do best.<br><br>WEIR: And for Rodney, Im sure this seems like a pretty scary monster.<br><br><br>LATER.  JOHNS QUARTERS.  The blinds have been closed against the daylight and candles are burning all around the room.  Rodney is sitting on the floor in as near to a cross-legged position as he can get.  He is wearing the headband.  John is sitting on the edge of a low cabinet looking at the monitor which shows Rodneys E.E.G. reading at 29.<br><br>SHEPPARD: I dont think this is gonna work with you hooked up to the machine.<br><br>McKAY: How else am I gonna know if its working at all?  Look, youre teaching me how to meditate.  Not exactly good odds there to start with.<br><br>SHEPPARD: I realise that.<br><br>(Rodney shifts uncomfortably on the floor, hugging his knees for a moment to relieve the tension in his muscles.)<br><br>SHEPPARD: Truth is, I was never really very good at this myself.<br><br>McKAY: So why am I here?<br><br>SHEPPARD: Elizabeth made me.<br><br>McKAY: Oh.  Yeah.  Me too.<br><br>SHEPPARD: I was with those Ancients for six months.  Maybe I picked up something that might be able to help you.<br><br>(Rodney looks at him briefly, then looks away.  John looks equally doubtful.)<br><br>SHEPPARD: Yeah.  (He thinks for a moment, then stands up and walks round to face Rodney.)  The first thing I think you need to come to terms with is, um, this is not a means to an end.<br><br>McKAY: What?  Well, of course it is.<br><br>SHEPPARD: No, no, no, you cant do that.  You cant think that youre just gonna ascend and then re-take human form and be done with it all.<br><br>McKAY (hugging his knees again): That is <I>exactly</I> what Im trying to do.  Look, from what <I>I</I> understand, dishonestys not gonna help the process.<br><br>SHEPPARD: Good point.<br><br>McKAY: You know, while were at it, my knees are killing me.  Hows anyone ever relax like this?<br><br>SHEPPARD: Find a position that works.<br><br>McKAY: Right.  OK.  (He promptly lies down flat on his back, clasps his hands together and closes his eyes.)<br><br>SHEPPARD: Fine.  (He walks over and sits down on the side of his bed.)  Now -- I want you to become aware of your breaths, going in and out of your body.<br><br>McKAY (softly): In ... and out.<br><br>SHEPPARD: Do it without talking.<br><br>(Rodney opens his eyes and looks up at him.)<br><br>McKAY: Oh -- right.<br><br>(He closes his eyes and settles down again.  John picks up a magazine and quietly turns the pages as he speaks softly to Rodney.)<br><br>SHEPPARD: Now -- I want you to think about the things that you worry about the most.<br><br>McKAY (opening his eyes again): You mean, like death?<br><br>SHEPPARD: Theres no talking.  Think of anything that makes you anxious.<br><br>McKAY: Oh, God, theres so many things.  (He props himself up onto his elbows and looks up at John.)  Not talking happens to be one of them, by the way.<br><br>SHEPPARD (sternly): Deal with it.<br><br>(Rodney lies down and shuts his eyes again.)<br><br>SHEPPARD: Now.  (He puts the magazine down and gets into his stride.)  Imagine yourself sitting on a Ferris wheel.<br><br>McKAY: What?!<br><br>SHEPPARD: Look, I told you, I didnt pay much attention to what the Ancients were teaching me.  <I>I</I> like Ferris wheels, so thats what <I>I</I> thought about ... <I>and</I> the fact that the woman teaching me how to meditate was ... very attractive.<br><br>McKAY (looking up at him): Why am I not surprised you didnt ascend, huh?  (He sits up.)  OK, look, Im a busy man, youre a busy man.  Were both busy men.<br><br>SHEPPARD: Just ... relax, alright?  Im gonna try to remember what the woman taught me.<br><br>(Rodney sighs in exasperation.)<br><br>McKAY: Alright.  (He lies down again.)<br><br>SHEPPARD: Now -- theres a dark storm swirling around your head.<br><br>McKAY (frowning): How is that comforting?<br><br>SHEPPARD: Im <I>getting</I> there.<br><br>(He opens his mouth to continue but Rodney suddenly lifts his head up again.)<br><br>McKAY: I just thought of a brilliant adjunct to the Chaos Theory.  Look, I should write this down ...<br><br>SHEPPARD: McKay.<br><br>(Rodney looks at him, then groans and lies down again.)<br><br>McKAY: Letting it go.  Letting it go.<br><br>SHEPPARD (softly): Now, the sky is clearing.  All of your troubles are fading away.<br><br>McKAY (smiling): Bright blue sky.  I am there.<br><br>(The monitor shows Rodneys E.E.G. level at 24 Hz.  It beeps as the level drops to 23.  Rodney opens his eyes and looks at John.)<br><br>McKAY (whispering): Howm I doing?<br><br>SHEPPARD: Dont think that way!<br><br>McKAY: Oh, forget it.  (He sits up.)  Look, this is never gonna work.<br><br>SHEPPARD: Whats wrong now?<br><br>McKAY: I just realised why light behaves as both particles and waves.  (He sighs in exasperation and takes his headband off.)<br><br>SHEPPARD: Rodney, if you dont try to do this ...<br><br>McKAY: I know.  I dont have much time left.<br><br>(He gets up and leaves the room.)<br><br><br>RODNEYS LAB.  Rodney has two laptops side by side on a table and, with a hand on each keyboard, is typing on both simultaneously.  Elizabeth comes in.<br><br>WEIR: Hey.<br><br>McKAY: Hmm?  Just a second.<br><br>(He picks up a computer tablet and takes it across the room as Elizabeth walks over.  There are several other laptops on the tables.  Also on the tables are various cups, empty wrappers and sandwich cartons, but Elizabeth only has eyes for the fact that all of the keyboards are typing without any help.  The keys are depressing on their own, obviously being telekinetically operated by Rodneys mind.)<br><br>WEIR: What are you doing?<br><br>McKAY: There are, like, fifty simulations Id like to be running right now, but the computers cant keep up with me -- the irony being that Ive actually figured out how to make them run ten times faster but I havent had time to actually stop and do it.  Oh, Ive uploaded the virtual prototype for a hyperspace generator for the Puddle Jumpers into the database.<br><br>WEIR: Well, that sounds great.  (She walks closer to him as he types something on his computer tablet.)  Are you sure that this is how you want to ...<br><br>McKAY: ... spend my last couple of days alive?  Dont have a lot of choice, do I?<br><br>WEIR: Rodney, I think its very decent and noble of you to want to leave a scientific contribution behind -- but I still believe theres a chance you can ascend if you put your mind to it.<br><br>McKAY: We both know that that is a waste of time.  Maybe <I>you</I> could do it, but ...<br><br>WEIR: I dont know if I could, but you are certainly selling yourself short by not even trying.<br><br>McKAY: To be honest, I dont have the first clue where to start.<br><br>WEIR: Stop thinking.<br><br>McKAY: See, I dont understand that.<br><br>WEIR: One of the biggest things that holds people back is that somewhere deep down they believe theyre not deserving.  <I>You</I> have to ... release your burden.<br><br>McKAY (rolling his eyes): Oh, please!<br><br>WEIR: I know -- spirituality to you is a load of mumbo jumbo, but it does help people find peace with themselves.<br><br>McKAY: But you have to believe.<br><br>WEIR: Im not talking about religion.  Im talking about shedding yourself of guilt, of anger, of ill-feeling, of anything that makes you feel shame.  And then you can focus <I>all</I> of your energy on ascending.<br><br>McKAY: So what youre telling me is that I dont think Im worthy.<br><br>WEIR: Rodney, I dont know what you truly believe about yourself.  For all I know, you use your intelligence to compensate, to make yourself feel better for other things you think you may lack.<br><br>McKAY (suspiciously): Like what?<br><br>WEIR: That, I cant tell you ... but maybe you could start reading your own mind?<br><br><br>ANCIENT LAB.  Radek is on the floor underneath the central control panel, attaching crystal panels to a device.  As he adds the last one, the central panel lights up.  He stands up and turns to a laptop and types on it.  Rodney comes in.  Radek sees him and sighs.<br><br>ZELENKA: Rodney, I dont care what youre gonna say.  Im gonna keep working on this, OK?<br><br>McKAY (genuinely): Ah, well, I appreciate that.<br><br>ZELENKA (not looking at him): You saved my life, so ... the least I can do is try to save yours, you know?<br><br>McKAY: Radek?  (He hesitates.  Radek looks up at him.)  I think its safe to say that, uh, I am at times a petty, vindictive, even jealous man.  (Radek looks at him suspiciously.)  I sublimate my own anxieties or feelings of inadequacy by creating a bubble of hostility around myself.  I know that you, probably more than anyone else, have had to bear the brunt of that hostility.<br><br>ZELENKA: Rodney, you dont have to ...<br><br>McKAY: Actually, I do.  (He walks closer.)  Heres the thing: youre a brilliant scientist, and a decent human being, and you should not have had to endure the kind of abuse that youve taken from me in the past few years.  I hope you can find a way to forgive me for all the things Ive said and done to you.  You deserve much better than that ...<br><br>(Radek looks at him, his mouth open in surprise, but he is genuinely touched.)<br><br>McKAY: ... so I wanted you to know that.<br><br>(Radek cant think of anything to say.  Rodney looks awkward.)<br><br>McKAY: Yes.<br><br>(He turns and walks away.  Radek gazes after him, looking emotional.)<br><br><br>TEYLAS QUARTERS.  Teylas doorbell bleeps.  She gets off the bed, goes to the door and passes her hand over the wall panel to open the door.  Rodney is standing outside with a small tray containing cups, pots and a teapot.<br><br>TEYLA: Rodney!<br><br>McKAY: Hmm.  Mind if I come in?  (He walks in without waiting for a reply.)<br><br>TEYLA: Should you be ...?<br><br>McKAY: Hope you dont mind.<br><br>(The door closes as Teyla follows him into the room.  Rodney walks to the other side of the room, then turns to face her.  He looks at her for a moment, then sighs.)<br><br>McKAY: I was talking with Halling and he happened to mention that it was the anniversary of the death of your father next week.<br><br>TEYLA: He did?<br><br>McKAY: ... OK, I might have asked a few pointed questions but, um, I just thought it would be nice if, uh ...  (He gestures down to the tray, then looks at her.)  What I mean is, I would be honoured if you would let me share the memorial tea ceremony with you.  I dont know if its wrong to do it early or anything, but, um, I may not be around next week.  Anyway, I understand its something youre not supposed to do alone.<br><br>(Teyla smiles at him.)<br><br>TEYLA: Thank you, Rodney.<br><br>(She reaches for the tray but Rodney pulls it back.)<br><br>McKAY: No, no, no, no, no.  I know exactly what to do.  You are the one whos lost a loved one.  I will serve <I>you</I>.<br><br><br>LATER.  Ronon is walking along a corridor.  Rodney runs to catch up with him.<br><br>McKAY: Hey, buddy!  Pal!<br><br>(Ronon throws him a black look and carries on walking.)<br><br>McKAY: Been looking all over for you!  Checked the gym, the Mess.<br><br>DEX: Wasnt there.<br><br>McKAY: No, you werent.  Usually one of those is a good bet.  So, where are you off to?  Shooting range?  A little target practice?<br><br>DEX: I dont need practice.<br><br>McKAY: Oh, no.  No, no, of course you dont.  (He runs a few steps forward to get in front of Ronon, then turns and stops.  Ronon has no choice but to stop too.)  Look, I dont know how much time I have left, so Im just gonna cut to the chase here -- ask you a rather, uh, personal question.  Hopefully you wont just hit me in the face.<br><br>(He laughs briefly.   Ronon raises his eyebrows at him as if to say, No promises.)<br><br>McKAY: Asking away.  (He looks down for a moment, summoning his courage, then looks up at Ronon.)  Those scars on your back from your encounters with the Wraith -- you know, with the tracking device?  (Ronon nods.)  Are those, like, a ... a badge of honour for you, or are they just a constant reminder of something youd rather forget?<br><br>(Ronon doesnt answer immediately.)<br><br>McKAY: I mean, I know its none of my business.  I just ...<br><br>DEX: I try not to let things I cant change bother me.<br><br>(Rodney nods in understanding.)<br><br>McKAY: Thats very healthy.<br><br>(Ronon shrugs.  Rodney looks around the hallway.  When hes sure that nobody else is around, he walks forward, wraps his arms round Ronon and hugs him, closing his eyes.  Ronon cringes, but pats him on the back awkwardly.  The hug continues.  Ronon, still grimacing, pats his back again.  Rodney opens his eyes and steps back, looking a little embarrassed.)<br><br>McKAY: I hope you dont mind.<br><br>(He hesitates for a moment, then speaks quietly.)<br><br>McKAY: I just healed them.<br><br>(He walks away.  Ronon stares, then reaches over his shoulder and feels down his back.)<br><br><br>ELIZABETHS OFFICE.  Rodney walks in to find Elizabeth working on a computer on a trolley.<br><br>McKAY: Youre not still trying to find a way out of this for me, are you?<br><br>WEIR (turning to face him): You think Im gonna give up?<br><br>McKAY: Look, all the Ancients that experimented with that device, they either ascended or died -- most of them the latter, which is why it did not get put into common use.<br><br>WEIR: Like you said, there were exceptions.<br><br>McKAY: Huh.  Yes, well, this will all be over soon and you can get back to some real work.<br><br>WEIR: Rodney ... dont.<br><br>(She turns away.)<br><br>McKAY: No-no-no, Im not fishing for sympathy.  I just, uh ...  Hey, I just wanted to give you that.  (He hands her a memory stick.)<br><br>WEIR (taking it): What have you invented now?<br><br>McKAY: Oh, nothing.  Its a ... its a book.<br><br>WEIR: About what?<br><br>McKAY: You.<br><br>(Elizabeth looks at him in surprise.)<br><br>McKAY: Well, youve taken a lot of crap as the leader of this expedition and I just thought someone should leave a record of all the good things youve done -- everything youve done right.<br><br>WEIR: Everything I do is on record for review.<br><br>McKAY: Oh, yes, I know, I know.  I just thought that I would have somewhat of a unique perspective that other people might benefit from.  You know, I actually took the liberty of doing some research into your past and I included that as well.<br><br>(Elizabeth looks a little startled, but plugs the memory stick into the laptop on her desk.)<br><br>McKAY: Sorry if Im not a very good writer.  It might be a bit, uh, overly maudlin in places ...<br><br>(Elizabeth stares at the screen as the book comes up onto it.)<br><br>WEIR: Rodney, this is five hundred pages long.  When did you ...?<br><br>McKAY: Anyway, thats all.<br><br>(He smiles at her and backs out of the room.)<br><br>McKAY: Right.<br><br>(Elizabeth stares after him as he turns and walks away.)<br><br><br>JOHNS QUARTERS.  Rodney, wearing the headband again, is lying on the floor in the candlelit room.  John sits on the floor near him, looking at the monitor as it beeps.<br><br>McKAY (quietly): Whats it down to?<br><br>SHEPPARD: Its not important.<br><br>McKAY: What?  (Frustrated, he props himself up on one elbow.)  Of <I>course</I> it is.  Its gotta ...<br><br>(He looks over the top of the monitor and sees the reading.)<br><br>McKAY: What -- seventeen Hertz?  Its not even close!<br><br>SHEPPARD: Its closer than youve ever been.<br><br>McKAY: Oh, forget it.  (Discouraged, he takes the headband off.)<br><br>SHEPPARD: Look, if you have to keep asking, youre obviously not getting it.  This is about letting go.<br><br>McKAY (almost in tears): I dont know how to <I>do</I> that, OK?  Im me -- I dont know how not to be me.  Look, thank you for all of your help.  I think in the grand scheme of things, were ... were good, arent we?<br><br>SHEPPARD: Of <I>course</I>.<br><br>McKAY: Right.  Look, if its not too much trouble, Id like you to read my eulogy.<br><br>SHEPPARD: I <I>refuse</I> to discuss that.<br><br>(He gets off the floor and sits on the bed.  Rodney stands up.)<br><br>McKAY: Just keep it simple.  Um, make up a few nice things.  Id like my little sister to be there ... (John refuses to meet his eyes, concentrating on folding up the cables he has taken out of the monitor) ... and, oh, you should know that I told Beckett that he should most definitely do a full autopsy.  He can use my body for any kind of experimentation that might prove helpful, and, uh ...  Oh, and Id like to be cremated, with my ashes to be, uh ... (he grimaces as if in pain) ... thrown out into space from the Jumper ...<br><br>(John stands up and faces him.)<br><br>SHEPPARD: Rodney ...<br><br>(Rodney groans and clutches his head, doubling up in agony.  John catches him and eases him down onto the bed.)<br><br>SHEPPARD: Rodney!<br><br>(Rodney groans again, then falls unconscious.  John activates his headset radio.)<br><br>SHEPPARD: Medical team to my quarters.<br><br><br>INFIRMARY.  The monitor at Rodneys bedside shows his synaptic activity to be at 91%.  Carson turns to him.<br><br>BECKETT: The synaptic activity in your brain has reached over ninety percent.<br><br>(We see that Teyla and Ronon are standing at Rodneys bedside.  Teyla has her hands pressed together in front of her in a praying gesture.)<br><br>BECKETT: I dont know why, but it seems the more pervasive evolved state of the cortex is causing lapses in the lower brain function.  Its almost as if your bodys losing its natural ability to keep itself alive.<br><br>(Rodney looks up at him weakly.  Elizabeth and John are standing at the other side of the bed.)<br><br>WEIR: When ascension occurs naturally, the physical bodys no longer necessary in the final stages.<br><br>BECKETT: Rodney, I dont know how much more you can take.<br><br>(Rodney smiles faintly.)<br><br>McKAY: About six percent?<br><br>SHEPPARD: There must be something we can do.<br><br>McKAY (weakly): Its OK.  You know, Im actually feeling a sense of peace ... interspersed with moments of sheer terror, of course.<br><br>SHEPPARD: Rodney, as far as this ascension thing, I know you didnt have much success but at this point, whatve you got to lose?<br><br>McKAY: May as well go out fighting, huh?<br><br>SHEPPARD: Absolutely.<br><br>McKAY: Hook me up.<br><br>(Carson nods and picks up the headband.)<br><br>McKAY (looking up at him): Carson?  Thank you.  Thank you for everything.<br><br>BECKETT (softly): I only wish I could have done more, my friend.<br><br>(He attaches the headband to Rodneys head, then activates it.  Rodney gazes upwards.)<br><br>McKAY (quietly): Clear blue skies.  All my troubles, just drifting away.  OK ... (he closes his eyes) ... stop talking now.<br><br>(John smiles to himself.)<br><br>WEIR (gently): Rodney, youre a good person.  Know that we love you.<br><br>McKAY (smiling, his eyes still closed): You love me?  Really?  All of you?<br><br>SHEPPARD (awkwardly): In a way a friend feels about another friend.<br><br>McKAY: Youre just saying that because Im gonna die.  (Quietly, plaintively) Oh, God.  I cant believe Im gonna die.<br><br>SHEPPARD (quietly, after exchanging an alarmed look with Elizabeth): Alright -- just back to the blue skies.  Let your thoughts go.  Concentrate on your breathing.<br><br>(Rodney lies with his eyes closed, concentrating.  After a few seconds the monitor beeps and his E.E.G. reading shows 03 Hz.  It goes down to 02, then 01.  Carson, wracked with grief that his friend is about to die, turns his head away.)<br><br>BECKETT (quietly): Oh, my God.<br><br>(Suddenly Rodney surges up in the bed and grabs Carson by the lapels of his medical coat.  He stares frantically into Carsons eyes.  As Carson gazes back in shock, the E.E.G. reading races up to 62, then plummets back downwards again.  Rodneys eyes roll up into his head and he drops back down onto the bed.  Behind Carson, the E.E.G. reading shows zero and the message No reading flashes.)<br><br>BECKETT (to his assistant): Hes not breathing.  Quick, bag him.  We need to get him on a ventilator.<br><br>WEIR: Carson, he gave us strict orders ...<br><br>BECKETT: You dont understand.  He just told me how to save him.<br><br><br>SHORTLY AFTERWARDS.  Carson, John, Ronon and some medics are racing through the corridors of Atlantis, wheeling Rodney on a gurney.<br><br>BECKETT (into his headset radio): Were en route.  His pulse is very weak.  Are you ready?<br><br>(Elizabeth, Teyla and Radek are in the Ancient lab.)<br><br>WEIR: We will be.<br><br>(She walks over to Radek, who is working frantically on the console.  He glances at her briefly.)<br><br>ZELENKA: Almost.<br><br>(The medical team continues to hurry through the corridors towards the lab.  Carson is pumping air into Rodneys lungs as they go.  They reach the doorway and stop.)<br><br>BECKETT: Right.<br><br>(Ronon picks Rodney up in his arms and carries him inside.)<br><br>BECKETT: Hurry.  He cant breathe on his own.<br><br>(Ronon runs over to the podium and lays Rodney down on it.)<br><br>ZELENKA: OK, stand back.<br><br>(Everybody stands clear.  Radek activates his computer tablet and the green glow envelops the podium.  A moment later the green beam comes down and swirls around Rodneys body.  After several seconds, it stops and Rodney jerks up and looks around, startled.  Everybody rushes towards him.)<br><br>BECKETT: Rodney?<br><br>McKAY: It worked!<br><br>BECKETT: Did it?<br><br>McKAY (tetchily): Well, Im alive, arent I?<br><br>SHEPPARD: Sounds like him.<br><br>McKAY: Yes, yes.  (He looks around at everyone.)  I cant hear one of your thoughts.  (He turns to Carson and points his fingers at him, trying to elevate him.   Nothing happens.)  The telekinesis has gone.  (He gets to his feet, thinking.)  Im still smart, I think ...  Yes!  Yes, Im me!  Im my old self!<br><br>BECKETT: Are you certain?<br><br>McKAY (excited): Yeah, Im alive!  I feel great!  I feel, uh ... um ...  (He wracks his brain for the right word.) ... Hungry?<br><br>SHEPPARD (to Carson, grinning): Hes fine.<br><br>(Carson smiles in delight.)<br><br>WEIR (to Rodney): And you said it was impossible.<br><br>McKAY: Yeah, it just came to me.  I was, I was, I was floating in this, this big black emptiness and then the answer just came out of nowhere.  Look, the device was designed to manipulate your D.N.A.  It couldnt reverse the evolutionary advancement process because everyones D.N.A. was different.  It makes certain changes that causes the D.N.A. to evolve in ways specific to your own unique physiology.<br><br>ZELENKA: Yeah.  In order to manipulate the D.N.A. back to the previous state, the programme required a precise reference point.<br><br>BECKETT: Fortunately I keep blood samples from all the Atlantis team members for baseline comparisons.<br><br>DEX: I dont understand what <I>any</I> of you are talking about.<br><br>(He walks towards Rodney and seizes hold of the neck of his medical top.)<br><br>McKAY (nervously): What -- what?<br><br>DEX: Its good to have you back, buddy.<br><br>(He pulls Rodney into a hug and growls affectionately.)<br><br>McKAY: Yes, well -- its good to <I>be</I> back.<br><br>DEX: Yeah!<br><br>(As he steps away, Rodney looks puzzled at Ronons unexpected affectionate gesture, then looks at Carson and jerks his head towards Ronon as if to ask, What was <I>that</I> all about?!)<br><br><br>SOME TIME LATER.  Elizabeth walks into Rodneys lab to find him staring at a laptop screen in puzzlement.<br><br>WEIR: Hey, how are you feeling?<br><br>McKAY: Terrible!<br><br>WEIR: Should I get Carson?<br><br>McKAY: No-no-no-no-no.  Physically I am fine, but, but, but this doesnt make any sense.  I cant figure out any of these, of these equations.  I mean, the algorithms are complete gibberish.  I mean, this is <I>torture</I>!  I can clearly remember <I>exactly</I> how important this all is, but I cannot figure out why, or how.<br><br>WEIR: Well, I just dropped by to show you this.  (She hands him a computer tablet.)  Your E.E.G. readings from your last meditation.<br><br>(Rodney takes the tablet with a look of distaste on his face.  He looks at the screen disinterestedly, then does a double-take.)<br><br>McKAY: Oh, my God!  Its point zero three Hertz.  I did it!  I mean, I was in the zone!  I could have actually ascended!<br><br>(Elizabeth smiles at him.)<br><br>WEIR: You said you were floating in a big empty space when the idea of how to save yourself came to you.<br><br>McKAY: I may have momentarily thought about how hard it is to rid oneself of ego ... and that existence without the individuality of consciousness would be pointless but ... Ooh!  Now I say that, thats probably what gave me the idea to reprogramme the device with my old D.N.A.<br><br>WEIR: Yeah, I thought so.<br><br>McKAY: Yeah, well, you know what?  I dont care if you dont think I was capable of ascension.  (Elizabeth looks at him as if to protest that she never thought that.)  I never wanted to do it anyways.  In fact, you know what?  I am very happy with who I am.  (He types on his laptop.)  And you love me.<br><br>WEIR: What?!  I never ...<br><br>McKAY: You so <I>did</I>!  Yeah, I may not be able to understand this new math I created, but I distinctly remember that you said you love me.  (He smiles smugly at her.)<br><br>WEIR: Actually, I said <I>we</I> love you and ...<br><br>McKAY: And, what?  What, you were just saying that because you thought I was dying?<br><br>WEIR: No -- I said it because ...<br><br>McKAY: See?!  You love me!  Its true -- youve said it, now I know.  I always suspected it.  In fact, you know what?  Ive always noticed that theres been a, um, indefinable and yet magical chemistry between us ... (Elizabeth shakes her head ruefully) ... that I think I covered in Chapter ten.<br><br>WEIR: Hmm.  Rodney ...<br><br>McKAY: You had lunch yet?<br><br>WEIR: Yes.<br><br>McKAY: Mid-afternoon snack, then?<br><br>(Elizabeth smiles.)<br><br>WEIR: I will keep you company.<br><br>McKAY: Ah.  (They start to walk out of the room.)  Now, is Sheppard still bugging you to let him use the ascension device to turn himself into some kind of a superhero?<br><br>WEIR: Oh yes.<br><br>McKAY: Despite the fact that the Ancient database states that its effects on people are wildly unpredictable and that Im just lucky I wasnt instantly melted down into a pool of protoplasm.<br><br>WEIR: Yes.<br><br>McKAY: Yes.  Well, maybe you should let him.<br><br>WEIR: I think not.
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="313.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s3/314.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="315.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s3/index.shtml">
+<IMG SRC="/graphics/title_s3episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Three Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="301.shtml" CLASS="list">No Man's Land</A><BR><A HREF="302.shtml" CLASS="list">Misbegotten</A><BR><A HREF="303.shtml" CLASS="list">Irresistible</A><BR><A HREF="304.shtml" CLASS="list">Sateda</A><BR><A HREF="305.shtml" CLASS="list">Progeny</A><BR><A HREF="306.shtml" CLASS="list">The Real World</A><BR><A HREF="307.shtml" CLASS="list">Common Ground</A><BR><A HREF="308.shtml" CLASS="list">McKay and Mrs. Miller</A><BR><A HREF="309.shtml" CLASS="list">Phantoms</A><BR><A HREF="310.shtml" CLASS="list">The Return, Part 1</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="311.shtml" CLASS="list">The Return, Part 2</A><BR><A HREF="312.shtml" CLASS="list">Echoes</A><BR><A HREF="313.shtml" CLASS="list">Irresponsible</A><BR><A HREF="314.shtml" CLASS="list">Tao of Rodney</A><BR><A HREF="315.shtml" CLASS="list">The Game</A><BR><A HREF="316.shtml" CLASS="list">The Ark</A><BR><A HREF="317.shtml" CLASS="list">Sunday</A><BR><A HREF="318.shtml" CLASS="list">Submersion</A><BR><A HREF="319.shtml" CLASS="list">Vengeance</A><BR><A HREF="320.shtml" CLASS="list">First Strike</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B000RW3YYA/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B000RW3YYA/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Three</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B000RW3YYA/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B000XEMDQC/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B000RW3YYA/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B000RW3YYA/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls3.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="313.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s3/314.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="315.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

@@ -1,0 +1,527 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Identity" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s5/518.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s5/transcripts/518.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=652">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=725">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s5/518.shtml#production">Production</A>
+				 | <A HREF="/universe/s5/518.shtml#news">News</A>
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=61832">Fan Reviews</A>
+				 | <A HREF="http://forum.gateworld.net/forumdisplay.php?f=144">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s5/518.shtml"><IMG SRC="/atlantis/graphics/518_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="IDENTITY" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://click.linksynergy.com/fs-bin/stat?id=2cvd55rHd*s&offerid=78941&type=3&subid=0&tmpid=1826&RD_PARM1=http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewTVShow?id=179127311&partnerId=30"><img height="15" width="61" border="0" alt="iTunes" src="/store/graphics/itunes_button.gif"></img></a> &nbsp; <a href="http://www.amazon.com/gp/product/B001NRZIAG/?tag=bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 518<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 5, Disc 5<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 12.12.08<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 05.03.10<BR>
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0082772/" TARGET="_blank">Carl Binder</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0912272/" TARGET="_blank">William  Waring</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">Dr. Keller's body is taken over by a cunning thief, while Keller finds herself imprisoned with a death sentence on another planet.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    <I>Czech translations by g.o.d. and Ava H.</I><br><br>ATLANTIS.  A woman in an Atlantis uniform stands in a corridor of the city.  We will later learn that her name is Neeva.  She looks around the corridor as if bewildered.  Hearing voices behind her, she looks around as two members of the expedition walk into view around the corner.  She hurries away from them, taking cover behind a column as she sees another couple of crewmembers ahead of her.  Once the people have walked away, she looks around and sees an open doorway nearby.  She goes through it and finds herself in a small lab.  Looking around the room at all the equipment and screens, she walks over to the largest screen which shows a schematic of the city.  Just then, a voice comes from behind her.<br><br>ZELENKA: Oh!  Sorry, I didn't know anybody was in here.<br><br>(Radek Zelenka walks in with a tray of food.)<br><br>ZELENKA: You looking for Rodney?  'Cause I saw him in the Mess Hall.<br><br>(He puts the tray down and goes over to a console.)<br><br>NEEVA: Rodney?<br><br>ZELENKA: Yeah.<br><br>(He looks at her as she stands there, looking vague.)<br><br>ZELENKA: You all right?<br><br>NEEVA: Yeah.<br><br>ZELENKA: You just seem a little confused.<br><br>(He activates his computer as Neeva continues to look around the room, then looks at him nervously.  He turns towards her, frowning.)<br><br>ZELENKA: Are you ill?<br><br>NEEVA: No.  No, no, no, I just, uh ... I don't ...  Where am I?<br><br>ZELENKA: You're in one of our auxiliary labs.  East pier, level four.<br><br>(When Neeva still looks uncertain, he reaches for a stool and moves it towards her.)<br><br>ZELENKA: Here, why don't you sit down?<br><br>NEEVA: It's OK.<br><br>ZELENKA: No, really, I mean, I'll radio Rodney and I'll just ...<br><br>(He reaches for his radio headset.)<br><br>NEEVA: No, no, you don't need to do that.<br><br>ZELENKA (taking his hand away from his headset and looking at her in concern): Better yet, why don't you lie down?  Walk with me to the Infirmary and ...<br><br>(He reaches forward to take her arm.)<br><br>ZELENKA: ... they'll examine you.  They'll-they'll just see if there's anything ...<br><br>(Looking around as he tries to lead her away, Neeva picks up a pair of pliers from a nearby table and viciously stabs him.  He gasps in anguish and crumples to the floor.  As he drops, Neeva looks across to the nearby mirrored door of a cabinet.  As Radek lies on the floor groaning quietly, Neeva walks towards the cabinet, staring at her reflection in amazement.  It's not her own reflection in the mirror  it's that of Jennifer Keller.  She stares at it for a moment, then lifts her hand to her mouth.  In the mirror, Jennifer does the same.  Confused, Neeva hurries away.  Radek lies on the floor, a bleeding wound in his stomach.  He gasps in agony, unable to move.)<br><br><br>LATER.  Neeva makes her way through the city, avoiding eye contact with people who pass her by, and walks out onto a balcony.  She stares, awestruck, as she walks to the edge of the balcony and gazes out over the city.  A Puddle Jumper flies overhead and she watches it in amazement.  After it has passed she looks around to make sure that she's alone, then takes the pliers out of her sleeve and drops them over the balcony into the water far below.  She turns and heads back into the city, stopping for a moment as she passes a glass wall that shows her reflection  or, rather, that of Jennifer.  Again she stares at it in confusion, then turns as Rodney McKay walks over to her.<br><br>McKAY: There you are!  Been looking all over for you!<br><br>(She backs away from him nervously.)<br><br>McKAY: Is your radio not working?  I called, like, a thousand times!<br><br>NEEVA (JEN): Um, er ...<br><br>McKAY: Come on, here ...<br><br>(He reaches his hand towards her head.  Instantly she grabs his wrist, pushing it away.)<br><br>McKAY: Whoa-whoa-whoa-whoa-whoa-whoa.  Just wanna check your earwig.  Here we go.<br><br>(Gently pulling his arm free, he brushes her hair back, takes her earpiece off and looks at it.)<br><br>McKAY: There we go.  Look, it's probably just a dead battery.  Come on  it's Schnitzel Day.  We've gotta hurry, though, 'cause it's goin' fast.<br><br>(He walks away.  Reluctantly she follows him.)<br><br>McKAY: So what happened?<br><br>NEEVA (JEN): What do you mean?<br><br>McKAY: Well, hullo!  Our lunch date?  You were supposed to meet me, like, half an hour ago.<br><br>NEEVA (JEN): I must have forgotten.<br><br>(Frowning, Rodney stop and turns to her.)<br><br>McKAY: Hey.  What's wrong?  You seem distracted.  Is something bothering you?  Did I do something?<br><br>(She looks at him blankly.  He looks upset.)<br><br>McKAY: Oh, I did, didn't I?  What did I do?<br><br>NEEVA (JEN): Nothing.  I just ... I'm not ...<br><br>(The voice of Marie, the head nurse, comes out of her earpiece.)<br><br>MARIE's VOICE: Doctor Keller.  Doctor Keller, please respond.<br><br>(Rodney looks down at the earpiece he's holding, surprised that it's working, then he looks hurt as he realises that Jennifer must have been ignoring his earlier calls.  He raises the earpiece to his mouth.)<br><br>McKAY: Just a second.<br><br>(He hands it to Neeva/Jen with a petulant look on his face.)<br><br>McKAY: It's for you.  Working fine, apparently.<br><br>(Struggling to get the earpiece into the right position, Neeva/Jen eventually manages to put it back on.)<br><br>NEEVA (JEN): Uh, hello?<br><br>MARIE's VOICE: Doctor Keller, we have an emergency.  Doctor Zelenka has been seriously injured.<br><br>NEEVA (JEN): Doctor Zelenka?<br><br>(Sighing, Rodney activates his own headset.)<br><br>McKAY: What's wrong with Zelenka?  Is he complaining about another one of his so-called migraines, 'cause if he is you can just send him right down to the ...<br><br>MARIE's VOICE: He's been stabbed.<br><br>McKAY (shocked): Stabbed?  What do you mean, stabbed?  Like, with a knife stabbed?  By who?<br><br>(Neeva/Jen looks around nervously as an armed marine walks into view behind her, presumably deployed by the Control Room to check the city for intruders.)<br><br>MARIE's VOICE: I don't know.  An S.O. just radioed us.  They found him on the floor of his lab.  He's unconscious, losing a lot of blood.  They're rushing him to the Infirmary.<br><br>McKAY: All right, we're on our way.<br><br>(He hurries off.  Neeva/Jen has no choice but to follow him.)<br><br><br>INFIRMARY.  Medics are tending to Radek as Rodney and Neeva/Jen come in.  Marie hurries over to them and reports to the woman she believes is Jennifer.<br><br>MARIE: His pressure's dropping  sixty over forty.  Pulse rapid; skin diaphoretic; the scan shows internal bleeding and laceration of the liver.<br><br>McKAY (anxiously): Well, so, what, is he gonna die?<br><br>MARIE: He needs immediate surgery.  He's in hypovolemic shock.<br><br>(Neeva/Jen stares at Radek as the medics continue treating him.)<br><br>MARIE: Doctor.<br><br>NEEVA (JEN): Yes.  Yes, he needs surgery.<br><br>MARIE: We're prepping the O.R.  Doctor McBride will assist you.  He's already scrubbing.  We'll be all set to go as soon as you're ready.<br><br>(Neeva/Jen sighs anxiously.)<br><br>McKAY: Jennifer.  Jennifer!  You're acting weird.  What's wrong with you?<br><br>NEEVA (JEN): Nothing.  Nothing.  I need to get ready.<br><br>(Marie ushers her away as Rodney watches her, confused by her lack of reaction to Radek's plight.)<br><br><br>OPERATING ROOM.  Marie and other medics are preparing Radek for surgery.  Neeva/Jen, wearing a surgical gown, gloves and mask, walks in and stands at the doorway looking nervously at all the activity.  Rodney is standing outside the room watching Radek anxiously through the window.  Neeva/Jen walks over to the side of the operating table and Marie hands her a scalpel.  She gingerly takes it and looks down at it, then turns her head to look at the feed from one of the cameras in the room which shows Jennifer looking into the camera nervously.<br><br>MARIE: Doctor?<br><br>(Neeva/Jen looks at her for a moment, then pulls down her own face mask.)<br><br>NEEVA (JEN): I'm not feeling very well.<br><br>(She puts the scalpel down.)<br><br>NEEVA (JEN): Take over for me.  I'm gonna go lay down.<br><br>(She leaves the room as the medics and Rodney frown in confusion.)<br><br><br>LATER.  Rodney and John Sheppard walk into Richard Woolsey's office.<br><br>WOOLSEY: How'd it go?<br><br>McKAY: They've managed to stop the bleeding but he's lost a lot of blood.<br><br>WOOLSEY: Is he awake yet?<br><br>SHEPPARD: No, he's in a coma.<br><br>McKAY: It's a <I>light</I> coma.  They figure he should recover, barring any complications.<br><br>WOOLSEY: I hear Doctor Keller didn't perform the surgery.<br><br>McKAY: No.  No, she excused herself.  She said she wasn't feeling well.<br><br>WOOLSEY: What's wrong with her?<br><br>McKAY: Well, you've got me.  I mean, she's been acting strange all day.  She's, like, aloof, distracted.  I found her wandering Atlantis looking lost.  You know, I got her to the Infirmary but she just stood there like she'd never held a scalpel before.<br><br>WOOLSEY: Where is she now?<br><br>McKAY: She's in her quarters, resting.<br><br>WOOLSEY: Doctor Beckett is due back soon.  I'll have him examine her for any possible contagion or  God forbid  another one of those parasitic organisms.  Better safe than sorry.<br><br>(He looks at John.)<br><br>WOOLSEY: Any leads yet as to who might have done this to Doctor Zelenka?<br><br>SHEPPARD: No witnesses, no sign of struggle.<br><br>WOOLSEY: I want a full investigation.  Use every resource; no stone unturned.  One of our people is lying in a coma ...<br><br>McKAY: It's a light coma, but, yeah.<br><br>WOOLSEY: ... and I wanna know who's responsible.<br><br><br>JENNIFER'S QUARTERS.  Neeva/Jen is searching the cupboards and drawers, possibly looking for something she can use as a weapon to protect herself.  She looks at the top of one of the cabinets and picks up a framed photograph of Jennifer in her graduation gown, posing happily with her father.  Recognising Jennifer's face as the one she's been seeing in her reflection, she stares at the photograph, then turns to a full-length mirror and stares at Jennifer's reflection.<br><br>NEEVA (JEN): What the hell's going on here?<br><br>(The doors to her room slide open and Ronon Dex is standing there with his hands braced on the door posts.  He looks in at her straight faced as she turns and smiles at him nervously.)<br><br>DEX: Hey.  Heard you weren't feeling well.<br><br>NEEVA (JEN): No.<br><br>DEX: Can I come in?<br><br>NEEVA (JEN) (a little nervously): All right.<br><br>(He walks into the room.)<br><br>DEX: So, what's wrong with you?<br><br>NEEVA (JEN): I don't know.  I'm just tired.<br><br>DEX (nodding): Been pushing yourself real hard lately.<br><br>(He smiles and walks a little closer.  Neeva/Jen tries to stop herself backing away from him.)<br><br>NEEVA (JEN): Yes, well, I mean, you know me.  I'm always pushing myself real hard.<br><br>(He looks at her closely.)<br><br>NEEVA (JEN): What?<br><br>(Ronon shrugs.)<br><br>DEX: Nothin'.<br><br>(He steps even closer.)<br><br>NEEVA (JEN): Anyway, I'll be fine.  I just need to ...<br><br>McKAY: Hi.<br><br>(She turns and sees Rodney standing at the doorway looking in at Jennifer and Ronon suspiciously.)<br><br>McKAY: Am I ... interrupting?<br><br>NEEVA (JEN): No!<br><br>McKAY: Good.<br><br>(He walks into the room, trying to smile although he's obviously still suspicious of the two of them alone in her room.)<br><br>McKAY: I mean, um, I just dropped by to let you know that Beckett is on his way back.  He'll be able to fill in for you while you're, um, ill.<br><br>NEEVA (JEN): Great.<br><br>McKAY: Yeah, we've sent a Puddle Jumper for him.<br><br>NEEVA (JEN): A Puddle Jumper?<br><br>McKAY: Well, he's in some remote desert village and it'll take too long to walk back to the Gate, so it's easier just to, you know, hitch a ride.<br><br>NEEVA (JEN): A ride on a Puddle Jumper.<br><br>McKAY: Yeah.<br><br>(Ronon's eyes narrow as he looks at Neeva/Jen.  She looks away awkwardly.  Ronon turns to Rodney and the two of them exchange a long glance.)<br><br>McKAY (to Ronon): Maybe we should leave  you know, let her get some rest.<br><br>DEX: Yeah.<br><br>(Neeva/Jen tries to smile reassuringly.  Ronon turns and leaves the room but Rodney looks at her for a long moment.)<br><br>McKAY: Call me if you need anything.<br><br>NEEVA (JEN): I will.<br><br>(Looking concerned, Rodney turns and leaves.)<br><br><br>LATER.  Carson Beckett has returned to the city and is in the Infirmary where Neeva/Jen is lying on a bed as the scanner runs over her body.  As it shuts down, Carson  standing nearby with Rodney and Richard  looks at the results on a screen as Neeva/Jen sits up and swings her legs over the side of the bed.<br><br>BECKETT: Nothing out of the usual.  No sign of trauma or any kind of organism.<br><br>WOOLSEY: What about her blood work?<br><br>BECKETT: The same.<br><br>(He turns and walks over to Neeva/Jen.)<br><br>BECKETT: How long have you been feeling like this?<br><br>NEEVA (JEN): Um, a day or so.<br><br>BECKETT: Have you been sleeping all right?<br><br>NEEVA (JEN): No.  I've been pushing myself real hard.<br><br>BECKETT: Aye.  Well, I'd like to keep you overnight for observation.  I'll give you something to help you sleep and we'll monitor your condition.  Then hopefully you'll wake up in the morning refreshed, back to your old self, OK?<br><br>(He smiles at her and pats her leg before walking away with the others.)<br><br>WOOLSEY: You're certain you saw nothing at all?<br><br>BECKETT: She's fine ...<br><br>(He lowers his voice as they get further away.)<br><br>BECKETT: ... physically speaking.  If there's something wrong with her, I'm afraid it's most likely psychological in nature.<br><br><br>NIGHT TIME.  Neeva/Jen lies in bed in the Infirmary. She waits until the room is empty, then gets out of bed and rummages in the cabinet beside the bed to retrieve her clothes before hurrying away.  Later, dressed, she walks through the city until she finds a technician working on a console in the corridors.  Smiling, she walks over to him.<br><br>NEEVA (JEN): Hello.  All these corridors  I keep getting turned around.  Um, the Puddle Jumper is where?<br><br>TECHNICIAN: The Jumper Bay?<br><br>NEEVA (JEN): Yes.<br><br>TECHNICIAN: Top of the central tower.<br><br>NEEVA (JEN): Right, yeah, I know that.  I just need to, um ... How do I ...?<br><br>TECHNICIAN: Oh, the transporter's at the end of the corridor.  It'll take you there.<br><br>NEEVA (JEN): Transporter.  Of course!  Thank you.<br><br>TECHNICIAN: You're welcome.<br><br><br>SHORTLY AFTERWARDS.  Transporter doors open into the Jumper Bay and Neeva/Jen comes out and sees a Puddle Jumper in front of her.<br><br>NEEVA (JEN): Hmm!<br><br>(Checking that there's no-one around, she trots into the open rear of the ship and starts rummaging through cases on the benches.  She finds something useful inside the second one.)<br><br>NEEVA (JEN): Ah, perfect.<br><br>(She takes a pistol out of the case and tucks it into the back of her trousers, then goes into the cockpit.  Sitting down in the pilot's seat, she starts pressing random buttons on the console in an attempt to activate the ship.)<br><br>NEEVA (JEN): Ah, come on, come on!  Come on!<br><br>McKAY: What are you doing?<br><br>(She turns and sees Rodney standing behind her.)<br><br>NEEVA (JEN): I couldn't sleep.<br><br>McKAY: What, so you came up to the Jumper Bay?<br><br>NEEVA (JEN): Yeah.  I thought I'd go for a ride.<br><br>McKAY: In a Puddle Jumper?<br><br>NEEVA (JEN): Is there a problem with that?<br><br>McKAY: A few.  For starters, you don't have the Ancient gene so you can't fly one, but you already know that.<br><br>NEEVA (JEN): Can <I>you</I> fly it?<br><br>McKAY: Of course I can!  That's not the point.  Look, you should be back in the Infirmary.<br><br>NEEVA (JEN) (standing up and walking closer to him): But you ... take me for a ride.<br><br>McKAY: What, now?<br><br>NEEVA (JEN): Yeah!  It'd really help me relax.<br><br>McKAY: But I thought Beckett gave you pills for that.<br><br>NEEVA (JEN) (stroking his arm): They didn't work.<br><br>McKAY: Oh.<br><br>(She ushers him closer to the pilot's seat.)<br><br>NEEVA (JEN): Yeah, c'mon.  Please?  Just you and me ... (she steps closer to him, acting seductive) ... alone.<br><br>(She puts her arms around his neck.)<br><br>NEEVA (JEN): Oh, you could take me somewhere secluded and we could make love underneath the stars.<br><br>(Rodney's eyes widen as she rubs her nose against his.)<br><br>McKAY: Really?!<br><br>NEEVA (JEN) (softly): Would you like that?<br><br>McKAY: Well, yeah!  I mean, I'd have to get a blanket, though, because the mainland's ground cover is loaded with allergens ...<br><br>NEEVA (JEN): Oh, let's just go now.<br><br>McKAY (reluctantly): Wait.  W-w-wait.  No-no-no-no-no, look, you should just go back to the Infirmary.<br><br>(He moves away from her.)<br><br>NEEVA (JEN) (moving close to him again): OK, forget about the Infirmary.  I need to be with <I>you</I>.<br><br>McKAY: Jennifer, please!<br><br>NEEVA (JEN): C'mon!  Just a quick ride!  (She snuggles up to him.)  Don't you wanna be with me?<br><br>McKAY: No!  No-no, I just, yes!  I just  will you stop!<br><br>(He pulls himself away from her.)<br><br>McKAY: Look, I don't know what is wrong with you, but you are clearly not yourself.  I'm taking you back to the Infirmary.<br><br>(He reaches for her hand but she pulls it away.)<br><br>NEEVA (JEN): No.<br><br>McKAY: Well, you can argue all you want, I'm not letting ...<br><br>(He reaches for her hand again but she slaps him in the chest.)<br><br>NEEVA (JEN) (firmly): You are not taking me anywhere.<br><br>McKAY (nervously): Jennifer?  I need you to listen to me.  As soon as you are cured of whatever it is that is affecting you, you're gonna thank me for this, so, let's go.<br><br>(He grabs for her hand again.)<br><br>NEEVA (JEN): No.  Don't ...<br><br>(They struggle for a moment, then she pulls herself free, snatches out her pistol and points it at him.  He stares at her wide-eyed.)<br><br>McKAY: What are you doing?<br><br>NEEVA (JEN): Should've taken me on that ride.<br><br>(She aims at him, about to fire, but then she is struck in the back by Ronon's blaster fire.  She crumples to the floor as Ronon comes into view at the rear of the Jumper.  Rodney stares down at Jennifer's unconscious body, bewildered by her actions, then looks up at Ronon wide-eyed as he walks into the Jumper.)<br><br><br>LATER.  Neeva/Jen is in the Isolation Room, strapped to a bed.  Cameras watching her show Jennifer lying on the bed.  Richard, John, Rodney, Carson, Ronon and Teyla Emmagan are in the Observation Room looking down at her.<br><br>WOOLSEY: I don't care <I>what</I> the scans say.  Either she's suffered a serious mind-altering brain trauma, or some kind of entity has taken control of her.<br><br>TEYLA: Has she been injured recently?<br><br>McKAY: Not that I know of.  I mean, she was perfectly fine up until yesterday.<br><br>BECKETT: I'm telling you, her brain scan would have revealed any kind of physical trauma as well as any foreign organism.<br><br>DEX: Unless the organism's good at hiding.<br><br>SHEPPARD: Yeah, it wouldn't be the first time.  It took days to figure out Rodney was infected.<br><br>BECKETT: I still don't think that we should rule out the possibility of a psychological event.  We sometimes forget that working in this environment in a whole other galaxy can be emotionally overwhelming.  Such acute stress has often been linked to various dissociative disorders.<br><br>McKAY: "Disorders"?  She tried to kill me!<br><br>BECKETT: Och, Rodney, I don't think she would have pulled the trigger.<br><br>McKAY: Hey, I saw the look in her eyes.  She ...  (He trails off for a moment as a horrible realisation hits him.)  Wait a second.  What if she had something to do with Zelenka?  What if she's the one who stabbed him?<br><br>TEYLA: Doctor Keller?!<br><br>DEX: That woman down there is not Jennifer Keller.  Look, Woolsey's right.  Something <I>has</I> taken control of her.<br><br>TEYLA: Well, how can we be sure of this?<br><br>SHEPPARD: Well, we can start by asking her.<br><br>(Teyla turns to look at the camera screen behind her, which shows Jennifer awake and looking up at the camera.  John, Richard, Carson and Rodney head off to the stairs and go down into the Isolation Room.  Neeva/Jen looks around at the screen beside her, seeing again the image of Jennifer lying on the bed.  The boys come in and stand around her bed.)<br><br>SHEPPARD: Let's make this simple.  Who the hell <I>are</I> you?<br><br>NEEVA (JEN): What?<br><br>WOOLSEY: If you are in fact Jennifer Keller, you would know what town you're from, what your father's name is, so go ahead: tell us.<br><br>NEEVA (JEN): All right, look.  I know I've been acting strange ...<br><br>McKAY: "Strange"?  Doctor Keller wouldn't point a gun at me  and she <I>certainly</I> wouldn't stab Zelenka.<br><br>SHEPPARD: Well?<br><br>WOOLSEY: You did it, didn't you?  <I>You</I> stabbed him.<br><br>(Neeva/Jen looks around at them and realises that she has no choice but to tell the truth.)<br><br>NEEVA (JEN): It was self defence.  I didn't wanna hurt anybody but he attacked me.<br><br>SHEPPARD: Zelenka attacked you?!<br><br>BECKETT: He couldn't harm a fly.<br><br>NEEVA (JEN): He tried to grab me.  I thought he was gonna turn me in and I was afraid of being caught.<br><br>WOOLSEY: The fact of the matter is you <I>have</I> been caught, so I would advise you to tell us exactly who  or what  you are.<br><br>(Neeva/Jen looks at them for a moment, then takes in a deep breath.)<br><br>NEEVA (JEN): My name is Neeva Casol.  I have no idea what I'm doing here or how I came to be in this person's body.<br><br>BECKETT: In her body?<br><br>NEEVA (JEN): Yes.  One moment I was myself, searching through some artefacts in a village.  The next moment I'm stuck in some strange woman's body standing in the middle of this city.  (She looks at the camera screen again.)  Every time I look at my reflection I see <I>her</I> staring back at me.<br><br>BECKETT: How is that even possible?<br><br>NEEVA (JEN): I wish I knew.<br><br>McKAY: What artefacts?<br><br>NEEVA (JEN): Me and my associates, we travel around planet to planet searching for valuables to acquire.<br><br>SHEPPARD: Oh, you mean "steal."<br><br>NEEVA (JEN): We heard about a planet that supposedly held a trove of Ancestral artefacts.<br><br>(FLASHBACK.  A man, Jannick, cuts open the bars covering the window of a building in a village.)<br><br>NEEVA (JEN) (voiceover): So we made our way there and broke into the vault.<br><br>(Jannick hands his equipment to his colleague, Bordal, and climbs in through the window.)<br><br>JANNICK: Yeah, yeah, yeah!<br><br>(Bordal and Neeva follow him through the window.  They look around at the various artefacts in the room.)<br><br>BORDAL (to Neeva): You see?  I told you.  There is all kinds of treasure in here.<br><br>(They spread out and start to investigate.)<br><br>NEEVA: OK, move fast.  Take only what we can carry.<br><br>(They start putting the smaller items into bags.  Neeva walks across to a table where a large item has been covered with a cloth.  She lifts the cloth and finds a large Ancient artefact underneath.  <I>"Stargate SG-1"</I> viewers immediately recognise the device from  "Avalon part 2" and "Origin"  it's identical to the one that transported Daniel's and Vala's minds into the bodies of a couple of people in the Ori galaxy.  Jannick walks over to the device.)<br><br>JANNICK: What is that?<br><br>NEEVA: I don't know.  It's too big to haul out of here.<br><br>(She walks over to the next table and puts a small box into her bag.  Another larger box is on the table and she opens it.  Inside are four small black stones.  She picks up one and looks at it, then turns back to the device, realising that there are recesses in it into which the stones should probably be put.  She walks back to the device and puts the stone into one of the slots.  The crystal in the top of the device lights up and suddenly Neeva, wearing an Atlantis uniform, is standing in a corridor of the city.  End flashback.)<br><br>NEEVA (JEN): I have no idea how this happened or why.  Believe me, I'm just as confused by it as you are.  But I <I>am</I> telling you the truth.  Look, I'm sorry for hurting one of your people but I felt threatened, and I only know of one way to deal with threat.  I don't wanna hurt anybody else  I just, I just wanna get back into my own body.<br><br><br>LATER.  Richard, John and Carson come into Rodney's lab.<br><br>WOOLSEY: What have you got?<br><br>McKAY: Well, I think I figured out what happened.  The artefact that woman described  it rang a bell, so I did a little research.  Turns out a few years ago SG-1 encountered a similar device in the Glastonbury cavern.<br><br>WOOLSEY: The Ancient communication terminal?<br><br>McKAY: Exactly.<br><br>WOOLSEY: Of course!  The stones, the psychic link.<br><br>SHEPPARD: <I>What</I> terminal?  <I>What</I> stones?<br><br>McKAY: OK, look: SG-1 discovered an Ancient device.  There are these stones and if you place them in one of several recesses around the outside of the device, it activates it and allows you to connect to someone far, <I>far</I> away across the galaxy  <I>inter</I>galactically, even, as was the case with Daniel Jackson and Vala.<br><br>BECKETT: So this woman activated one of these devices?<br><br>McKAY: I think so, yes.<br><br>SHEPPARD: Why'd she connect with Keller?<br><br>McKAY: Ah, my first question as well, then I remembered Janis' lab.<br><br>(FLASHBACK.  Rodney is working in Janis' lab while Jennifer sits on a stool nearby.)<br><br>McKAY (voiceover): We have recovered tons of Ancient technology from there.  We're still in the process of cataloguing it all.  Anyways, a few weeks ago, Jennifer visited me while I was working there.<br><br>KELLER: Rodney, if we don't leave soon, we're not gonna get a good seat.<br><br>McKAY: Yeah, almost  almost there.<br><br>KELLER: C'mon, it's "Dr. No"!  The first Bond movie!  I don't wanna get stuck sitting behind Ronon again like last week.<br><br>McKAY (still busily working on a console): I know, I know, I know, I know.<br><br>(Bored, Jennifer stands up and wanders over to a nearby table.)<br><br>KELLER: Not to mention all the popcorn's gonna be gone.<br><br>(She opens a box on the table and sees two small black stones inside.)<br><br>McKAY (looking at his console): God, this is amazing!  I mean, this is the original design concept for a personal cloaking device.  I never actually got around to making it but I think, you know, given enough time, I might be able to actually ...<br><br>(He looks up as he sees that Jennifer has picked up one of the stones.)<br><br>McKAY: Hey, d-d-d-d-d!  We haven't catalogued those yet!<br><br>KELLER: Sorry.<br><br>(Grimacing in embarrassment, she puts the stone back and closes the lid.)<br><br>McKAY (sternly): What did we say about that?<br><br>(End flashback.  In Rodney's lab he has got the box on the table and has opened the lid so that the others can see the stones inside.)<br><br>McKAY: These stones must somehow be connected to the Ancient terminal that woman Neeva found.<br><br>BECKETT: But how could Jennifer activate one of these stones?<br><br>WOOLSEY: He's right.  It's Ancient technology.  Don't you need to have the A.T.A. gene?<br><br>McKAY: Well, they must have been initialised already.  Maybe Janis did it thousands of years ago, or maybe a tech initialised it after we discovered the lab.  Look, the point is that Jennifer was obviously the last person to touch this, which is why it connected to her.<br><br>WOOLSEY: If I remember the case report correctly, disconnecting the device proved difficult.<br><br>McKAY: Yes.  I've been going over the S.G.C. files on that, and there's still a lot of unanswered questions about how it works.<br><br>SHEPPARD: Hold on: if this woman's mind is in Keller's body, does that mean Keller's mind is in <I>her</I> body?<br><br>McKAY: I don't know.  Maybe.  I mean  probably.<br><br>WOOLSEY: Then the question is: where is Doctor Keller?<br><br><br>Doctor Keller is in a jail cell, that's where.  On an alien planet, she is sitting on a bench in the cell, wearing a black leather outfit and staring in continued disbelief at a dirty mirror hanging on the opposite wall which shows her reflection  except it's not showing her own face but Neeva's.  She finally drags her gaze away as she hears approaching footsteps.  A man comes to the cell doorway and looks in at her as she walks over to him.<br><br>KELLER (NEEVA): What happened?  Did you contact Atlantis?<br><br>MAGISTRATE: No.<br><br>KELLER (NEEVA): Why not?<br><br>MAGISTRATE: I chose to first contact a few of my trading partners on other planets.  It appears you and your accomplices have made quite the name for yourselves.<br><br>KELLER (NEEVA): I already told you: I am not who you think I am.<br><br>MAGISTRATE: I suppose I should feel fortunate.  I mean, your crimes elsewhere far exceed the mere robbery charges you've been accused of here.  I've counted no less than five murders committed on other planets by your hand alone  several more with the aid of your two accomplices.  Well, they may have eluded capture so far but, mark my words, we <I>will</I> find them.<br><br>KELLER (NEEVA): Listen to me: my name is Doctor Jennifer Keller.  I am the Chief Medical Officer from Atlantis.  I don't know what's going on or how my mind ended up in this woman's body, but if you contact them, ask for Doctor Rodney McKay ...<br><br>MAGISTRATE (interrupting): You are also said to be a highly effective liar, willing to fabricate any story, broker any kind of deal, to get yourself free.  Rest assured, I will not fall for your tricks.  As Magistrate of this village, I hereby pronounce sentence upon you for the crimes you have committed, not only on this planet but on all the other planets in the Coalition.  Tomorrow you shall be taken from this cell and executed.<br><br><br>ATLANTIS.  DAY TIME.  Team Sheppard, Carson and Richard are in the Conference Room.<br><br>WOOLSEY: What are the options?<br><br>McKAY: There is only <I>one</I> option.<br><br>SHEPPARD: We have to go to the planet, find the communications terminal and shut it off.<br><br>McKAY: It was activated on that end, it's the initial transmitter.  The only way to sever the connection is to shut it down at the source.<br><br>WOOLSEY: And have you figured out how to safely do that?<br><br>McKAY: Well, no, not yet.<br><br>SHEPPARD: We're not gonna know until we get a good look at this thing.<br><br>BECKETT: Well, the sooner the better.  I've been studying the SG-1 report.  The device connects beyond merely the psychological.  It's also a physiological connection as well.<br><br>TEYLA: What does that mean?<br><br>BECKETT: It means, should Neeva's body be killed, Jennifer's mind would perish along with her.<br><br>McKAY: And we'll be stuck with this other woman in Keller's body?<br><br>DEX: We need to get moving.<br><br>WOOLSEY: Agreed.  Do we know which planet this device is on?<br><br>SHEPPARD: We <I>will</I>.<br><br><br>ISOLATION ROOM.  Neeva/Jen is still strapped to the bed.<br><br>NEEVA (JEN): I would be happy to take you to the planet.  I'll lead you straight to the device  on one condition.<br><br>McKAY: Heh, you are in no condition to make demands, young la ...<br><br>SHEPPARD (talking over him): What is it?<br><br>NEEVA (JEN): When you sever that connection, you have to agree not to pursue me or my accomplices.<br><br>SHEPPARD: Fine.<br><br>NEEVA (JEN): And I want you to give me one of those Puddle Jumpers.<br><br>McKAY: What?!  Forget it!<br><br>NEEVA (JEN): Why not?  I've been out there; I know how many you have.  You've more than enough.<br><br>SHEPPARD: Well, you're not getting anything.<br><br>NEEVA (JEN): Weapons, then.<br><br>SHEPPARD: You take us to the planet; we agree not to pursue you.  That's it.  Take it or leave it.<br><br>NEEVA (JEN) (sighing): All right.  All right.  Let's go.<br><br><br>WORMHOLE TRAVEL.<br><br><br>ALIEN PLANET.  John, Rodney and Teyla come through the open Stargate, followed by Carson, Neeva/Jen and Ronon.  The Gate shuts down behind them as they look around the forest surrounding them.<br><br>SHEPPARD: Which way?<br><br>NEEVA (JEN): This way.  It's not far  a few hours' walk.<br><br>(She leads them away.)<br><br>McKAY: A few hours?!  You could have told us that before!<br><br>SHEPPARD: Wouldn't make any difference, Rodney, we can't get a Jumper in this forest.<br><br>TEYLA: And the Daedalus is back on Earth.<br><br>McKAY: Yeah, but I could have packed some extra power bars, some water  not to mention proper insoles.<br><br>NEEVA (JEN) (to John): He complains a lot.<br><br>SHEPPARD: Only when he's awake.<br><br>NEEVA (JEN): Is it true that Doctor Keller and he are ...?<br><br>SHEPPARD: Hard to believe, huh?<br><br>(Neeva/Jen looks back at Rodney.)<br><br>McKAY: Yeah, keep walkin'!<br><br><br>JAIL CELL.  Jennifer/Neeva looks up anxiously as the Magistrate approaches the door to the cell with two guards.<br><br>MAGISTRATE: It's time.<br><br>(One of the guards unlocks the door and he and his colleague walk in, pull her to her feet and hustle her out of the cell.)<br><br><br>FOREST.  The team reaches a rise and looks down at a village in the distance.<br><br>NEEVA (JEN): That's it.  The vault containing the artefact is near the centre of the village so we'll have to be quiet.  Maybe only a few of us should go in, and I'm gonna need a weapon in case we run into some ...<br><br>SHEPPARD: No  we're not breaking into the room.<br><br>NEEVA (JEN): What?<br><br>SHEPPARD: We're just gonna go talk to these people and ask 'em for help.<br><br>NEEVA (JEN): Ah, they're not gonna help us.  I tried to rob them.<br><br>McKAY: They won't know you.  You're in Jennifer Keller's body, remember?<br><br>TEYLA: If you do not say anything, it should not be a problem.<br><br>NEEVA (JEN): OK, but what if they've captured her  me?  Once we sever the connection, what's to stop them from keeping me locked up?<br><br>SHEPPARD: Mmm, nothing.<br><br>NEEVA (JEN): Ah, "nothing."<br><br>SHEPPARD: You said <I>we</I> couldn't pursue you  you didn't say anything about <I>them</I>.<br><br>NEEVA (JEN): So you tricked me.<br><br>SHEPPARD: Hey, just take it easy.<br><br>NEEVA (JEN): Listen, I am not going to let you disarm this device without first knowing where my body is.<br><br>McKAY: You don't have a choice.<br><br>BECKETT: We're wasting valuable time here, people.<br><br>DEX: Maybe she should stay here.<br><br>NEEVA (JEN): No.  I'll go.<br><br>SHEPPARD: Ronon?<br><br>DEX: Yeah, I got her.<br><br>SHEPPARD: Let's go.<br><br><br>OFFICE.  The team walks into an office in the village where a woman is standing at a desk with a male colleague.  Another woman is nearby.<br><br>SHEPPARD: Hi.  It's OK, we're friends.  We're from Atlantis.  I'm Colonel John Sheppard.<br><br>(The woman at the desk, who turns out to be the Magistrate's Second-in-Command, speaks to him.)<br><br>MAGISTRATE'S SECOND: What is it you want?<br><br>SHEPPARD: Well, we have a problem and we need some help.<br><br>McKAY: We hear that this village holds a number of Ancient artefacts, mostly notably a communication terminal about yea big ... (he holds his hands out to show the size) ... roundish, grooves along the outside ... yes?<br><br>(The Second walks closer to the team.)<br><br>MAGISTRATE'S SECOND: Why do you ask about this device?<br><br>SHEPPARD: So you have it.  Where is it?<br><br>MAGISTRATE'S SECOND: It's hidden, and well protected, so if you have any designs on removing it ...<br><br>McKAY: No-no-no-no-no.  Look, we just wanna take a look at it.  This may sound strange but we think it may have been inadvertently activated and it's ... well, it's causing some problems for us in Atlantis.<br><br>SHEPPARD: Long story short, we're just gonna shut it off and, well, we'll be on our way.<br><br>BECKETT: We're not here to cause any trouble.  We'd just like some assistance.<br><br>MAGISTRATE'S SECOND: I do not have the authority to grant such assistance.  For that, you will need to speak to the village Magistrate.<br><br>SHEPPARD: All right.  Let's, uh, let's talk to him.<br><br>MAGISTRATE'S SECOND: He's not here.<br><br>McKAY: Oh, for God's sake!<br><br>SHEPPARD: How long is he gonna be gone?  This is urgent.<br><br>MAGISTRATE'S SECOND: He will return when the execution is completed.<br><br><br>FOREST.  Jennifer/Neeva is being marched along a track by the two guards who are holding her arms.  Ahead of her she sees a clearing where the Magistrate is waiting together with a couple of guards holding rifles and a man dressed in a black mask and holding a huge axe.  Nearby is a tree stump which is obviously the execution block.  Jennifer/Neeva whimpers and tries to pull back as the guards drag her onwards.<br><br>KELLER (NEEVA): Oh my God!<br><br><br>Some distance away, the Atlantis team and Neeva/Jen are racing through the forest.<br><br><br>At the execution site, the guards march Jennifer/Neeva to the tree stump and force her down onto her knees in front of it.<br><br>MAGISTRATE: Neeva Casol.  You have been found guilty of the crime of murder and so you shall be put to death.<br><br>KELLER (NEEVA) (anguished): I am not Neeva Casol!<br><br>(The Atlantis team continues running to Jennifer's rescue.  At the execution site, Jennifer/Neeva stares up at the Magistrate, tears in her eyes.  She shakes her head at him, pleading.  He looks at her for a moment, then nods to his guards who force her head down onto the block.  She stares at the executioner in terror.)<br><br>MAGISTRATE: Don't worry.  The executioner is strong, his blade sharp.  Your death will be far less painful than those of your victims.<br><br>KELLER (NEEVA): Please!  Please don't do this!<br><br>(The Atlantis team is still running.)<br><br>(The executioner looks to the Magistrate for final confirmation.  The Magistrate nods to him and he raises his axe and lays the blade gently on Jennifer/Neeva's neck to get his aim right.  He raises the blade above his head, ready to deliver the killing stroke.  Just then a single gunshot hits him in the heart.  As he falls, the Magistrate ducks down, calling out as more gunshots come out of the trees.)<br><br>MAGISTRATE: Ambush!<br><br>(He rushes into the forest away from the direction of the gunfire.  The guards holding Jennifer/Neeva down release her as they snatch out pistols and return fire.  Jennifer/Neeva scrambles to her feet, her hands still tied behind her, and runs into the forest as the gunfight continues.  She trips over a root and falls, then recovers herself and looks back in the direction she just came from.  Nobody appears to be chasing her.  She sighs in relief and gets to her feet with difficulty.  She turns to continue onwards but gasps as two men  who we recognise as Jannick and Bordal, Neeva's cronies  walk into view, Jannick holding his finger to his mouth to indicate that she should keep quiet.  He pulls out a knife and walks towards her.  Her eyes widen as he approaches, brandishing the knife threateningly, but as he reaches her he moves the knife around to her back and cuts her ties.  She frowns uncomprehendingly as he steps away from her, smiling smugly at Bordal as he tosses him the tethers.  Jannick looks back at her.)<br><br>JANNICK: What?  No "thank you for the rescue"?<br><br>(Jennifer/Neeva smiles faintly at him.)<br><br>JANNICK: Let's go.<br><br><br>Back at the execution site, Team Atlantis has finally arrived.  They watch from the trees as the Magistrate returns from the safety of the forest while his guards continue looking around for their assailants.<br><br>MAGISTRATE: She went that way!  Find her!<br><br>(As some of his guards head into the trees, he calls out to the others.)<br><br>MAGISTRATE: Go back to the village!  Gather more men!  I want that Ancestral Ring guarded!  No-one leaves this planet!<br><br>NEEVA (JEN): We're too late.<br><br><br>LATER.  Team Atlantis is searching for Jennifer.<br><br>McKAY: I don't believe this!  How did she escape?<br><br>NEEVA (JEN): My accomplices no doubt intervened.  This is not the first time we've been in this situation.<br><br>BECKETT: How many accomplices do you have?<br><br>NEEVA (JEN): Two.<br><br>DEX: That's all?<br><br>NEEVA (JEN): It's more than enough, trust me.  You don't wanna challenge them.<br><br>DEX: Yeah, we'll see about that.<br><br>TEYLA: Where would they have gone?<br><br>NEEVA (JEN): I've no idea.<br><br>SHEPPARD: All right, Chewie.  Start tracking.<br><br>DEX: Yeah, I'm on it.<br><br>(He heads off, the rest of the team following him.)<br><br><br>CAVE.  Bordal and Jannick lead Jennifer/Neeva into a cave.  Bordal sits down while Jennifer/Neeva stops just inside the entrance, looking at the men nervously.<br><br>JANNICK: You looked frightened out there.  What, you didn't think we'd save you?<br><br>KELLER (NEEVA): What, just, no, I just ...<br><br>BORDAL: After how many times you saved <I>our</I> hides?  We weren't gonna let you down.<br><br>(Again Jennifer/Neeva smiles faintly.)<br><br>JANNICK: You all right?  You look confused.<br><br>KELLER (NEEVA): Uh, no, I'm just, you know ... happy to be out of there.<br><br>BORDAL: So, what's the plan?<br><br>KELLER (NEEVA): The plan?<br><br>JANNICK: Yeah.  What do we do now?<br><br>KELLER (NEEVA): Uh, I don't know.<br><br>(The men frown at each other.)<br><br>KELLER (NEEVA): ... yet.  Yet.  I don't know <I>yet</I>.  I just need to, um, more time to ... think.<br><br>JANNICK: Well, think faster, 'cause sooner or later those villagers are going to find this cave, and I don't wanna be here when they do.<br><br>KELLER (NEEVA): Right.  Good point.<br><br><br>FOREST.  Ronon beckons the team onwards.<br><br>DEX: This way.<br><br>(The team progresses onwards, then stops as they see guards ahead of them, also searching for Neeva.)<br><br>BECKETT: That's the third patrol in the last ten minutes.<br><br>TEYLA: Seems as if the entire village is out looking for her.<br><br>McKAY: Let's hope we find her before they do.<br><br>(Neeva/Jen, realising that the team is watching the guards, breaks and runs off from them.  Rodney sees her go.)<br><br>McKAY: Hey!<br><br>(The team begins to chase after her.  She races through the trees pursued by the team with Ronon in the lead.  After a long run Ronon skids to a halt, looking at the ground.  The others catch up to him.)<br><br>SHEPPARD: What the hell happened?<br><br>DEX (still looking at the ground): I lost her.<br><br>TEYLA: Are there no tracks?<br><br>DEX: There's nothing.  She's good.<br><br><br>CAVE.<br><br>KELLER (NEEVA): Listen.  I think the best plan of action is to leave this planet.  Now, I know of another planet.  We'll be safe there.<br><br>JANNICK: They'll be guarding the Ring.<br><br>KELLER (NEEVA): I know.  Maybe we could create some kind of diversion.<br><br>BORDAL: Well, how do we do that?<br><br>KELLER (NEEVA): I-I don't know.  Um ... maybe ... maybe we could set an explosion.<br><br>JANNICK (sarcastically): And why would they run <I>towards</I> an explosion?<br><br>KELLER (NEEVA): Or ... something else!<br><br>JANNICK: I say we wait 'til nightfall, then we launch an attack on the Ring, catch 'em by surprise.<br><br>KELLER (NEEVA): Uh, an attack?<br><br>JANNICK: We'll kill the guards, activate the Ring and we'll make our escape.<br><br>KELLER (NEEVA): Um ...<br><br>BORDAL: I agree.<br><br>KELLER (NEEVA): OK, but if I think of something else before then, maybe we could ...<br><br>(Simultaneously, Jannick and Bordal draw their pistols and aim them at her.  Her eyes widen in terror and she raises her hands in surrender.  But it's not her they're aiming at, because a moment later Neeva/Jen walks into the cave, her hands also raised.)<br><br>NEEVA (JEN): All right, don't shoot.<br><br>JANNICK: Who are you?<br><br>NEEVA (JEN): I'm Neeva Casol.<br><br>(She looks across to her own body standing beside her, then turns back to the men.)<br><br>NEEVA (JEN): All right, let me explain.  Back at the artefact vault, I accidentally activated some kind of Ancestral communications device that caused my mind to transfer into this woman's body and hers into mine.<br><br>JANNICK: You expect us to believe that?<br><br>NEEVA (JEN): Yeah, Jannick, I do.  I expect you to believe that  just as you did on Versall when I brokered that deal with the fish merchant to save your life.  And you, Bordal  if you didn't trust me back when you got caught in that brothel, those women would have made sure the thought of procreating never again entered your mind.<br><br>BORDAL: How do you know about that?<br><br>NEEVA (JEN): Because I'm Neeva.  There's a link between this woman and me.  Her mind is in my body and mine is in hers.<br><br>(The men frown in confusion.)<br><br>KELLER (NEEVA): Look, whatever's happening here, I had nothing to do with it.<br><br>NEEVA (JEN): No, she didn't, but if we're gonna fix this, we need to move fast.  We need to go back to the village, break into the vault and turn off that device.  We need to be really careful because not only are the villagers out looking for us but so are the people from Atlantis.<br><br>KELLER (NEEVA): Wai-wai-wait a second.  They're here?  Who?  Colonel Sheppard?<br><br>NEEVA (JEN): Among others.  But they're gonna turn us in to the villagers if they catch us, so we need no problems from you, do you understand me?<br><br>(She turns back to her men.)<br><br>NEEVA (JEN): All right.  We need to find this device ...<br><br>JANNICK: Stop.<br><br>(He had started to lower his pistol as Neeva/Jen was talking but now he raises it again.  Bordal does likewise.)<br><br>JANNICK: I don't know what's going on here.<br><br>NEEVA (JEN): I just told you, all right?  I am Neeva ...<br><br>JANNICK: I've never seen you before.<br><br>NEEVA (JEN): Jannick, listen to me.  This is not the time to be stupid.<br><br>KELLER (NEEVA): Uh, I wouldn't make him angry.<br><br>NEEVA (JEN) (to Jannick): You're gonna put down the gun and you're gonna listen to what I'm saying.<br><br>JANNICK: No.  I'm not.  I'm gonna take the both of you with me, we're going to attack the Ring now, and we'll sort out who's really who on another planet.  (He raises his pistol higher as he points it at Neeva/Jen.)  And if you're lying to me, you're as good as dead.<br><br><br>LATER.  Bordal is leading the girls through the forest, Jannick following behind.<br><br>NEEVA (JEN): This Doctor McKay.<br><br>KELLER (NEEVA): What about him?<br><br>NEEVA (JEN): You can do better.<br><br>JANNICK: Be quiet.<br><br>NEEVA (JEN): Jannick, I know this is difficult to understand.  I mean, I was equally confused by it at the beginning, but you have to ...<br><br>(A gunshot impacts the tree beside Jannick's head.  Everybody dives for cover as guards from the village continue to fire at them.  Bordal and Jannick return fire from their cover.  Jannick turns to Bordal.)<br><br>JANNICK: How many?<br><br>BORDAL: I don't know!<br><br>(Neeva/Jen listens for a moment.)<br><br>NEEVA (JEN): I count four.<br><br>(The men continue firing at the guards.)<br><br>NEEVA (JEN): It'd be a lot better off if you'd give us weapons.<br><br>(Bordal stands up to get a better shot at one of the guards but one of the others shoots him in the chest.  He crashes to the ground.  The women both scramble towards him.  Jennifer/Neeva gets to him first and checks his pulse.)<br><br>KELLER (NEEVA): He's dead.<br><br>(Neeva/Jen slumps down, exasperated and annoyed.  Jannick surges up out of cover and fires with both hands at the guards, gunning one of them.)<br><br>(In the distance, Team Atlantis hears the gunfire and breaks into a run.)<br><br>(As Jannick continues firing at the guards, Jennifer/Neeva takes the opportunity and starts to make her escape.)<br><br>JANNICK: Hey!  Come back here!<br><br>(He turns, aiming his weapons towards the fleeing woman.  Neeva/Jen, knowing that she mustn't allow her body to be killed, grabs at him.)<br><br>NEEVA (JEN): Jannick!  No!  No!<br><br>(As she grapples with him, one of the village guards fires and shoots her in the side.  She gasps and falls to the ground.  As Jannick stares down at her in shock, the guards begin to move forward, still firing.  Jannick realises that he can't hold them off forever and makes a break for it, leaving Neeva/Jen lying on the ground.  Some of the guards chase off after him while one of them makes his way slowly forward towards Neeva/Jen as she writhes in pain, reloading his rifle as he comes.  Gasping in agony, she rolls over and tries to drag herself away as the guard finishes reloading his rifle and aims it towards her.  She's never going to get away in time  but then a stunner blast hits the guard in the back and he drops.  Team Atlantis runs in and takes up protective positions around her.  Rodney and Carson kneel down to her.)<br><br>McKAY: Is she gonna be all right?<br><br>BECKETT: Aye, for now, but I need to stop the bleeding here.  Hold her steady, Rodney.<br><br>(Rodney gently rolls Neeva/Jen onto her back as Carson gets to work.)<br><br><br>SOME TIME LATER.  The door to the office in the village bursts open and Rodney and Carson lead the team quickly inside, running straight for a large table in the office.  Carson calls out to the two aides in the room.<br><br>BECKETT: You two, give us a hand here, please.<br><br>(As they begin to clear the table and move the chairs out of the way, Ronon carries Neeva/Jen into the room.)<br><br>BECKETT: On the table, Ronon.<br><br>(As Ronon carries her over to the table and lays her on it, the Magistrate's Second turns to the Magistrate.)<br><br>MAGISTRATE'S SECOND: These are the people from Atlantis I was telling you about.<br><br>MAGISTRATE: What happened?<br><br>SHEPPARD: She was shot by one of your men.<br><br>MAGISTRATE'S SECOND: I warned you it was dangerous to venture out there.<br><br>MAGISTRATE: Well, is she dead?<br><br>BECKETT: No, but she's badly wounded.  Teyla, I'm going to need a hand here.  I need to remove the bullet and then stop the bleeding.<br><br>McKAY (turning to the Magistrate): And we need access to that communication terminal and we need to shut it down right now.<br><br>MAGISTRATE: Why?  What's it doing?<br><br>McKAY: Look, simply put, it creates a psychic link between two people, so Doctor Keller and this Neeva Casol have switched places.  They're in each other's bodies.<br><br>(The Magistrate frowns, bewildered.)<br><br>SHEPPARD: You know about Atlantis, right?<br><br>MAGISTRATE: Yes.<br><br>SHEPPARD: Then you know you're better off being our friend than our enemy, so why don't you be our friend and show us where that terminal is?<br><br>(The Magistrate stares at them for a moment, then turns and heads out of the room.)<br><br>MAGISTRATE: This way.<br><br>McKAY (relieved): All right.<br><br>(He, John and Ronon follow the Magistrate while Carson and Teyla get to work on Neeva/Jen.)<br><br><br>FOREST.  Jennifer/Neeva is racing through the trees.<br><br><br>VILLAGE.  VAULT.  The Magistrate opens the door to the room and points towards the device on the table.  The crystal is still glowing.  The boys hurry over to it.<br><br>McKAY: Still on.<br><br>SHEPPARD: Obviously.  So turn it off.<br><br>McKAY: There's no switches, but it looks almost identical to the one SG-1 found.<br><br><br>OFFICE.  Carson gently reaches into the wound in Neeva/Jen's side with surgical tweezers and carefully extracts the bullet.<br><br>BECKETT: There's the bullet.<br><br>(He drops it into a dish which Teyla is holding with one hand while she holds up a drip bottle with the other.)<br><br>BECKETT: Now to stem the bleeding.<br><br><br>FOREST.  Jennifer/Neeva skids to a halt as Jannick walks into her path.<br><br>JANNICK: I don't know who you are ... (he points at her) ... but you are definitely not Neeva.<br><br>KELLER (NEEVA): No, I'm not, but I'm not your enemy either, and if you'd just let me, I think I can help ...<br><br>(She stops and cringes as Jannick pulls out his pistol and aims it at her head.)<br><br>JANNICK: You're not helping anyone.<br><br><br>VAULT.  Rodney has attached a small tablet to the device and is looking at it.<br><br>SHEPPARD: C'mon, hurry up.<br><br>McKAY: Believe me, I'm trying.  Look, there's no way to access the control crystal.  There doesn't seem to be a way to shut this thing off.<br><br>SHEPPARD: All right, what if ... what if we blow it up?<br><br>McKAY: Well, <I>I</I> don't know.  I mean, maybe.  I just, I'm not sure if the explosion could cause a sudden power surge.<br><br>SHEPPARD: What the hell did the other guys do?<br><br>McKAY: Well, SG-1 dialled the Gate and tossed the device into the vortex of a forming wormhole  it disintegrated instantly, but, you know, it's too far to carry it back to the Gate.<br><br><br>FOREST.  Jannick is still aiming his pistol at Jennifer/Neeva's head as she stares at him wide-eyed.<br><br>JANNICK: You've got Bordal killed.  You've almost got <I>me</I> killed.  I'm gonna return the favour.<br><br><br>VAULT.<br><br>SHEPPARD: All right, well, we may not have much of a choice, so give me a hand with this.<br><br>McKAY (sighing and reaching for the device): I'm not sure we've got the time ...<br><br>DEX: Hold up.<br><br>(He pulls out his blaster.)<br><br>DEX: Move.<br><br>(Without waiting for them to get out of the way  although luckily they do anyway  he fires his blaster at the device.  As the blast impacts the device, it begins to power down.)<br><br><br>OFFICE.  Lying on the table, Jennifer Keller frowns and opens her eyes.  She looks around in confusion, finally seeing Teyla standing at her side.<br><br>TEYLA: Doctor Keller?<br><br>KELLER: Teyla!<br><br>BECKETT: You're back.<br><br>KELLER: I'm back!  How?  Ow!<br><br>(This last in reaction to Carson continuing to tend to her dressed wound.)<br><br>BECKETT: Shh.  You've been shot, love.  Don't worry  we've removed the bullet.  You'll be just fine.<br><br><br>FOREST.  Neeva Casol opens her eyes and looks around briefly before turning her concentration to Jannick standing in front of her and pointing his pistol at her face.<br><br>NEEVA: Wait, Jannick, this is me  Neeva.  They must have turned off the device.<br><br>JANNICK: Nice try.<br><br>(He cocks his pistol.)<br><br>NEEVA (desperately): Jannick.  No!<br><br>(A single shot rings out.)<br><br><br>ATLANTIS.  Richard is standing in a corridor talking with a woman.<br><br>WOOLSEY: I appreciate that, Dayna.  Say hullo for me.<br><br>(Dayna smiles and walks away.  Nearby, transporter doors open and Rodney walks out, holding a small bunch of flowers and a box wrapped in a ribbon.)<br><br>WOOLSEY: Well, well, well!  What's the occasion?<br><br>McKAY: Oh, just visiting a friend in the Infirmary.<br><br>WOOLSEY: That's very thoughtful of you, Rodney.<br><br>McKAY: I know.<br><br>WOOLSEY: Major Lorne and his team just returned.  They did a full sweep of the planet.  No sign of Neeva Casol.  She must have managed to escape.<br><br>McKAY: I don't know about that.  According to Jennifer, her accomplice was just about to kill her when we shut down the communication terminal.<br><br>WOOLSEY: Well, either he <I>did</I> kill her and disposed of the body before escaping himself or she got away from him somehow.<br><br>McKAY: Well, I guess we'll never know.<br><br>WOOLSEY: Well, we may.  Word has gone out to several planets in the Coalition.  If Neeva <I>is</I> alive and roaming free, she won't be for long.<br><br>(He walks away.  Rodney watches him go thoughtfully.)<br><br>McKAY: Hmm!<br><br><br>INFIRMARY.  Carson is standing at Jennifer's bedside.<br><br>BECKETT: Now, promise you'll take it easy.<br><br>KELLER: Yes, Doctor!<br><br>McKAY (arriving at the other side of the bed): Don't worry.  I will make sure of it.<br><br>KELLER (smiling up at him): Hey, you.<br><br>McKAY (smiling back at her): Hey, you.<br><br>BECKETT: Well, thank you, Rodney!  Flowers and chocolates.  I'm impressed!<br><br>(He holds his hands out for them.)<br><br>McKAY: Right.  No.  Um, she's all alone in the Infirmary  I just thought I would, you know, brighten the room up a bit.<br><br>(A male voice clears its throat pointedly in the next bay.  Carson turns towards the sound as Rodney peers around him.  Radek is lying in the next bed.)<br><br>McKAY: Oh.  Hey, Radek.  How you doin'?<br><br>ZELENKA (in a sulky voice): Better, thanks.<br><br>KELLER: Again, Radek, I am <I>so</I> sorry for what happened.<br><br>ZELENKA (smiling across to her): It's not your fault.  I told you  don't worry.  I'm fine.<br><br>McKAY: Yeah-yeah, of course he's fine.  He's all perky and rosy-cheeked and ready to go back to work.<br><br>ZELENKA: I don't know about that.<br><br>BECKETT: He needs to get rest too, Rodney.<br><br>KELLER: I agree.  His wound was much more serious than mine.<br><br>McKAY: Really?  I mean, you were shot.  He was just stabbed.<br><br>(Carson turns to Radek.)<br><br>BECKETT: Perhaps I should wheel you to another room.<br><br>ZELENKA: Just until he's gone, please.  Thank you.<br><br>BECKETT: Aye, right.<br><br>(He turns back to the others.)<br><br>BECKETT: Rodney.<br><br>McKAY (smiling smugly): Hmm!<br><br>(Carson turns and goes over to Radek's bed and starts disconnecting his monitors as Radek starts grumbling angrily.)<br><br>ZELENKA (in Czech): I should have stabbed him.  That would be best.<br><br>BECKETT (not understanding, but getting the gist from his tone of voice): Yes.<br><br>ZELENKA (in Czech): I've had enough of this.<br><br>BECKETT: I completely agree.<br><br>(He and a medic wheel Radek's bed away as Jennifer and Rodney watch him go, smiling.  She turns to Rodney, still smiling, as he brandishes the box at her.)<br><br>McKAY: Chocolates?<br><br>KELLER: Thank you!<br><br>(Putting the box and the flowers onto the bedside table, Rodney sits down on a stool beside the bed.)<br><br>McKAY: So, I was thinking that when you're feeling better, we could maybe, um, you know, go for a ride.<br><br>KELLER: A ride?<br><br>McKAY: Yeah, you know, take the Puddle Jumper, go to the mainland, maybe have a picnic, maybe lay out under the stars.<br><br>(She stares at him a little wide-eyed.)<br><br>McKAY: What?<br><br>KELLER: You did turn off that communication terminal, right?  (She points to his head.)  There's no-one else in there?<br><br>McKAY: No, it's really me.<br><br>KELLER: 'Cause a Puddle Jumper ride and a picnic under the stars?  I mean, that's just so ...<br><br>McKAY: ... so not me.  Right.  OK, no.  Bad idea.<br><br>KELLER: No!  (She reaches over and takes his hand, smiling.)  I think it's a <I>great</I> idea.
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="517.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s5/518.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="519.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s5/index.shtml">
+<IMG SRC="/graphics/title_s5episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Five Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="501.shtml" CLASS="list">Search and Rescue</A><BR><A HREF="502.shtml" CLASS="list">The Seed</A><BR><A HREF="503.shtml" CLASS="list">Broken Ties</A><BR><A HREF="504.shtml" CLASS="list">The Daedalus Variations</A><BR><A HREF="505.shtml" CLASS="list">Ghost In the Machine</A><BR><A HREF="506.shtml" CLASS="list">The Shrine</A><BR><A HREF="507.shtml" CLASS="list">Whispers</A><BR><A HREF="508.shtml" CLASS="list">The Queen</A><BR><A HREF="509.shtml" CLASS="list">Tracker</A><BR><A HREF="510.shtml" CLASS="list">First Contact</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="511.shtml" CLASS="list">The Lost Tribe</A><BR><A HREF="512.shtml" CLASS="list">Outsiders</A><BR><A HREF="513.shtml" CLASS="list">Inquisition</A><BR><A HREF="514.shtml" CLASS="list">The Prodigal</A><BR><A HREF="515.shtml" CLASS="list">Remnants</A><BR><A HREF="516.shtml" CLASS="list">Brain Storm</A><BR><A HREF="517.shtml" CLASS="list">Infection</A><BR><A HREF="518.shtml" CLASS="list">Identity</A><BR><A HREF="519.shtml" CLASS="list">Vegas</A><BR><A HREF="520.shtml" CLASS="list">Enemy At the Gate</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Five</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B002ACP0MO/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B002612S6A/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls5.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="517.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s5/518.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="519.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

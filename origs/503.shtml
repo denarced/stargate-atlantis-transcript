@@ -1,0 +1,527 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Broken Ties" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s5/503.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s5/transcripts/503.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=578">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=742">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s5/503.shtml#production">Production</A>
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=56398">Fan Reviews</A>
+				 | <A HREF="http://forum.gateworld.net/forumdisplay.php?f=123">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s5/503.shtml"><IMG SRC="/atlantis/graphics/503_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="BROKEN TIES" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://click.linksynergy.com/fs-bin/stat?id=2cvd55rHd*s&offerid=78941&type=3&subid=0&tmpid=1826&RD_PARM1=http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewTVShow?id=179127311&partnerId=30"><img height="15" width="61" border="0" alt="iTunes" src="/store/graphics/itunes_button.gif"></img></a> &nbsp; <a href="http://www.amazon.com/gp/product/B001DAH0J0/?tag=bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 503<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 5, Disc 1<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 07.25.08<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 09.28.09<BR>
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0540695/" TARGET="_blank">Joseph Mallozzi</A> & <A HREF="http://www.imdb.com/name/nm0612283/" TARGET="_blank">Paul Mullie</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0320987/" TARGET="_blank">Ken Girotti</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">Ronon once again comes face-to-face with Tyre, one of his people who became a Wraith worshiper -- but who now claims he has broken free of their influence.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    ALIEN PLANET.  Teyla Emmagan and Ronon Dex are walking through a forest.  He is carrying a couple of sacks and she holds a basket of fruit, so presumably they have been on some kind of trading mission.<br><br>DEX: Gettin' any sleep these days?<br><br>TEYLA: Not much, I'm afraid, although things are a little easier now that Kanaan's request has been granted and he's been allowed to return from the mainland.<br><br>DEX: How's he liking life in the big city?<br><br>TEYLA: He's happy to be reunited with Torren and I but he's having difficulty adjusting to life in Atlantis.<br><br>(Ronon laughs.)<br><br>DEX: Yeah, I hear the shower scared him!<br><br>TEYLA: And you once stunned Doctor Garrett at your own surprise birthday party.<br><br>DEX: He spooked me.<br><br>TEYLA: Uh-huh!  It's difficult for Kanaan.  He has Torren and me, of course, but I still think he feels isolated.<br><br>DEX: Yeah, well, he just needs to make some new friends.  You should get him to come by the gym some time.  We could spar.<br><br>TEYLA: Thank you(!)  That's very kind of you, but I need him in one piece for the foreseeable future!<br><br>DEX: Ah, you're no fun!<br><br>(They laugh, but then Ronon spots something nearby.  Someone wearing a black cloak is lying face down on the forest floor.)<br><br>DEX: Hey, hey.<br><br>(He drops his sacks to the ground.  As Teyla puts her basket down, he hurries towards the person.)<br><br>DEX: Hey!<br><br>(He steps on a trigger and something explodes under his foot.)<br><br>TEYLA: Ronon!<br><br>(As Ronon falls, the cloaked figure rises to its feet and fires a Wraith stunner at him.  Ronon manages to get onto his knees, snatches out his blaster and fires it towards the man.  The man shoots him again.  Ronon reels from the blast and the man fires a third time.  Ronon collapses, unconscious.  The man pulls back the hood from his face.  It's Tyre of Sateda, last seen in "Reunion.")<br><br>TEYLA: Tyre!<br><br>(Tyre aims his stunner and fires at her.)<br><br><br>ATLANTIS.  John Sheppard, Rodney McKay, Richard Woolsey and Teyla enter the Conference Room and sit down.  The doors close behind them.<br><br>WOOLSEY: The Daedalus confirms the results of your preliminary search.  There's no sign of Ronon's subcutaneous transmitter anywhere on that planet.<br><br>SHEPPARD: That means he's still alive.<br><br>(Woolsey looks at him.)<br><br>SHEPPARD: If Tyre wanted him dead, we would have found the body.<br><br>WOOLSEY: Unless he just took him somewhere to exact a slow revenge.  I don't mean to sound overly negative but, from what I've heard, his mind is seriously warped.<br><br>TEYLA: And yet he didn't kill me.  It would have been safer for him to leave no witnesses, so perhaps -- despite what the Wraith did to him -- Tyre still possesses his Satedan sense of honour.<br><br>McKAY: It didn't stop him from ambushing you.<br><br>SHEPPARD: We can use that "Satedan sense of honour" to help us find Ronon.<br><br>WOOLSEY: How do you propose we do that?<br><br>SHEPPARD: We get a Satedan to help us.<br><br>McKAY: You happen to have one handy, do you?<br><br>SHEPPARD: Teyla know where one is.<br><br>TEYLA: Solen Sincha.<br><br>WOOLSEY: Who?<br><br>TEYLA: He is a survivor of the Wraith attack on Sateda.  Ronon and I encountered him on a trade mission to Belkan two years ago.<br><br>McKAY: Judging by your description, he isn't exactly the settle-down kind of guy.  I mean, what are the chances he's still gonna be there?<br><br>SHEPPARD: There's only one way to find out.<br><br>(He, Teyla and Rodney get to their feet and head for the doors, which obligingly open.  Woolsey, still seated, pointedly clears his throat.  Sighing, John turns back to him.)<br><br>SHEPPARD: Mr Woolsey, permission to go off-world?<br><br>(Deliberately Woolsey takes his time, thinking about it and then closing a file in his folder.)<br><br>WOOLSEY: You have a go.<br><br>SHEPPARD: Great!<br><br>(The team turns to leave again.)<br><br>WOOLSEY: Oh, and Teyla.  Will you be accompanying Colonel Sheppard and Doctor McKay?  I only ask because I've yet to receive your formal request to return to active duty.<br><br>SHEPPARD: Of <I>course</I> she'll be returning, right?  (He looks at Teyla expectantly.)<br><br>TEYLA: I have yet to make a decision about my future with the team.<br><br>SHEPPARD (surprised): Oh!  Well, OK.<br><br>TEYLA (turning to Woolsey): However, I would still like to accompany Colonel Sheppard and Doctor McKay to Belkan.<br><br>WOOLSEY: Of course.<br><br>(The team leaves.  Woolsey caps his pen, closes his folder, stands up and heads for the doors but they're already closing again.  He stops in front of them, looking up in surprise, then takes a step back and steps forward again.  They remain stubbornly closed.  He waves his hand near them, trying to activate them, but they refuse to budge.)<br><br><br>ANOTHER ALIEN PLANET.  Sitting on a chair with his ankles and wrists bound to it, Ronon jerks awake and looks around as he tries to pull himself free.  He is in a darkened room.<br><br>DEX: Teyla!<br><br>(Looking to his right, he sees Tyre sitting in the shadows watching him.)<br><br>DEX: Where's Teyla?<br><br>TYRE: I left her back on the planet.  Don't worry, she's fine.  You know I wouldn't hurt her.<br><br>DEX: <I>Do</I> I?<br><br>TYRE: I accept the fact that you no longer trust me, but I'm hoping that will change in time.<br><br>(He leans forward so that his face comes into the light.  He looks exhausted and unwell and has dark rings under his eyes.)<br><br>TYRE: Sateda is gone.  We're the last of our kind, Ronon.  We're brothers, not enemies.<br><br>DEX: We're brothers?!  So I should just forgive you for setting me up last year?!<br><br>(Tyre stands up.)<br><br>TYRE: If you had just listened to reason, things could have been different.  Ara and Rakai would still be alive and we'd all be working together again.<br><br>DEX: As Wraith worshippers and traitors to the memory of Sateda?  <I>Hell</I>, no!<br><br>TYRE: Of course not.  I see that now.  You're blinded by the past; lied to by your so-called friends on Atlantis.  But I still have faith in you, old friend.  You just need to open your eyes to the truth.<br><br>DEX: All right.  Just untie me and I'll listen to what you have to say.<br><br>(Tyre chuckles and picks up a cup.)<br><br>TYRE: Would that be before or after you try to beat me unconscious?<br><br>DEX (smiling unpleasantly): I don't know.  You choose.  Or I could just surprise you.<br><br>TYRE: I don't doubt it.<br><br>(He lifts the cup towards his mouth, but his hands are shaking so violently that he can't get it there.)<br><br>DEX: What's wrong with you?<br><br>TYRE: I'm not well.  (He puts the cup down.)  But I've been worse.  D'you know where we are?<br><br>(Ronon shakes his head.)<br><br>TYRE: You remember Sarif Sur, don't you?<br><br>DEX: Yeah, you almost died on that run.<br><br>TYRE: We <I>both</I> nearly died because you refused to leave me behind.  You risked your life to save me.<br><br>(He walks closer to Ronon and takes a pendant from around his own neck.  He holds it up, his hands still shaking.)<br><br>TYRE: Today I return the favour.<br><br><br>BELKAN.  John, Rodney and Teyla walk across the tavern to where Solen Sincha is sitting at a table with his head on his arms.  A bottle is on the table in front of him.<br><br>TEYLA: Solen Sincha?<br><br>SINCHA (groaning): Go away.  Can't you see I'm trying to sleep?<br><br>(John drops his pistol noisily onto the table in front of Solen's head.  Solen lifts his head and looks at it, then straightens up and looks up at the team.)<br><br>SHEPPARD: We need your help.<br><br>McKAY: Ronon Dex is in trouble.<br><br>SINCHA: Ronon Dex is <I>always</I> in trouble.<br><br>McKAY: Well, his <I>life</I> is in danger.<br><br>SINCHA: Again, what <I>else</I> is new?  What kind of trouble has he gotten himself into this time?<br><br>TEYLA: He was abducted by a fellow Satedan -- a Wraith worshipper by the name of Tyre.<br><br>(Solen sighs in exasperation.)<br><br>SINCHA: You mean <I>former</I> Wraith worshipper.  Word is, the dog disappointed his masters, so they turned him loose.<br><br>McKAY: That's uncharacteristically kind of them.<br><br>SINCHA: Not exactly.  So long as he's on the run, he's a living breathing example of what happens to humans who disappoint them.  Tyre's a marked man now.  Most anyone I know would kill him on sight.  It's just a matter of time.<br><br>TEYLA: He was once a proud Satedan, not unlike yourself.  He was subjected to unimaginable torture.  Perhaps he had no choice.<br><br>SINCHA: There's <I>always</I> a choice.  He could have chosen death like a <I>true</I> Satedan.<br><br>SHEPPARD: Any idea where we can find him?<br><br>SINCHA: If I knew that, he'd already be dead.<br><br>SHEPPARD: All right.  Tyre's not thinking straight, right?<br><br>SINCHA: Sure.<br><br>SHEPPARD: So it's probably just a matter of time before he slips up, and when he <I>does</I>, I'm assuming your leads will hear about it.<br><br>SINCHA: Probably.<br><br>SHEPPARD: So what do you say you contact us when you hear something, we'll deal with Tyre and save you the trip?<br><br>SINCHA: All right.  (He picks up his bottle and raises it in a toast.)  To Ronon.<br><br>(He drinks.)<br><br><br>SARIF SUR.  Ronon watches Tyre as he stumbles across the room.<br><br>DEX: <I>Look</I> at you.  You can barely walk.  Let me get you some help.<br><br>TYRE (slumping onto a chair): I'm beyond <I>your</I> help.<br><br>DEX: So why're you doing it?  What did they do to you?<br><br>TYRE: At this point, it's not so much what they did to me as what they <I>aren't</I> doing to me.<br><br>DEX: Keeping you alive?  Reverse-feeding or whatever the hell it's called?<br><br>TYRE: It's hard to describe.  The sense of euphoria it offers is ...<br><br>(He trails off, unable to find the words.)<br><br>DEX: You became addicted to it.<br><br>TYRE: You can't understand unless you've experienced it yourself.  It was a gift -- one that was denied me after I allowed you and your friends to escape us.<br><br>DEX: Hey, free me and I'll get you some help.  I promise.<br><br>TYRE: Help is already on the way -- for <I>both</I> of us.<br><br>DEX: What does <I>that</I> mean?<br><br>(He turns his head as he hears footsteps approaching.)<br><br>DEX: What the hell did you do?<br><br>(The door opens and two Wraith guards walk in, followed by a male Wraith.  Tyre stares at it hopefully, then turns to Ronon.)<br><br>TYRE: I've saved us.<br><br>WRAITH: Ronon Dex.  I looked forward to the day when you would finally serve me.<br><br>DEX: Well, then, I'm gonna feel real bad disappointing you.<br><br>WRAITH: Oh, I'm sure you'll <I>try</I>, but in the end, you'll come around.<br><br>(It slams its hand onto Ronon's chest and begins to feed.)<br><br><br>ATLANTIS.  Teyla walks to the doorway of Woolsey's office.  He is unpacking boxes as he makes the office his own, and has his hands full of books.<br><br>TEYLA: Mr Woolsey.<br><br>WOOLSEY: Teyla.  Any news on Ronon?<br><br>TEYLA: Not yet.<br><br>WOOLSEY: I'm sorry.  I suppose we can draw comfort from the fact that he is a proven survivor.  He defied the odds for many years as a Runner.<br><br>TEYLA: Yes, he did.<br><br>(Woolsey indicates with his head that she should come in.  She comes a few paces further into the room as he continues to unpack.)<br><br>WOOLSEY: How can I help you?<br><br>TEYLA: I wanted to apologise for not having come to you sooner with a decision regarding my position on the Colonel's team.<br><br>WOOLSEY: Take whatever time you need.  If necessary, I can assign someone to fill in for you.<br><br>TEYLA: Oh.  Mr Woolsey, do you have children?<br><br>WOOLSEY: Uh, no, but I did have a Yorkie for many years.<br><br>(Teyla looks at him uncomprehendingly.  He smiles.)<br><br>WOOLSEY: It's a small dog.<br><br>TEYLA: Ah.<br><br>WOOLSEY: But my wife got him in the divorce.  (He gazes into the distance mournfully.)  I loved that dog.  Never really had the chance to say goodbye.<br><br>(Teyla raises her eyebrows in disbelief.  He turns back to her.)<br><br>WOOLSEY: So, no.  No children.<br><br>TEYLA: Then, with all due respect, you may not understand how difficult this is for me.  For most of my life, I never imagined the possibility of leaving my people, not even for a moment, and then circumstances changed.  And after realising a far more important role on Colonel Sheppard's team, I never imagined the day would come when I would have to let it go.  Now here that day is.<br><br>WOOLSEY: Five years ago, if anyone had asked me if I ever planned on taking a job outside of the Milky Way, my answer would have been a definite "no."  And now ... (he gestures around the city) ... look at me.<br><br>(Teyla smiles.)<br><br>WOOLSEY: So, while I can't empathise, I certainly do sympathise.  Believe me, I know -- priorities change.<br><br>TEYLA (thoughtfully): And sometimes they don't.<br><br>WOOLSEY: Teyla, I'm sure Kanaan will support you, <I>whatever</I> decision you make.<br><br>TEYLA (smiling): Yes.  Of course he will.  Thank you, Mr Woolsey.<br><br><br>SARIF SUR.  The Wraith still has its hand on Ronon's chest.  Ronon looks old and grey and ravaged, but slowly his youth returns to him and his appearance goes back to normal.  The Wraith pulls its hand away.  Ronon gasps in exhaustion.<br><br>WRAITH: How does it feel to have your life stolen -- to be pushed so close to the darkness, only to be pulled back from the brink?  From what I understand, it's a magnificent sensation.<br><br>DEX: To be honest, I've felt better.<br><br>(He grins at it with contempt.)<br><br>WRAITH: Defy me all you want.  Your fellow Satedans were no different.  Like them, you will eventually submit.<br><br>(Ronon glares at it.)<br><br>DEX: I'll die before I submit.<br><br>WRAITH: No.  You won't.<br><br>(It slams its hand back onto his chest and begins to feed again.  Ronon screams.)<br><br><br>ATLANTIS.  MESS HALL.  Rodney walks in and grimaces at the selection of food on the table.  It looks like Woolsey has initiated a healthy eating regime, as the choices seem to consist mostly of fruit and juice.  Sighing in exasperation, he looks around and sees John sitting at a table.<br><br>McKAY: Hey.  You're up early.<br><br>SHEPPARD: It's ten a.m.<br><br>McKAY (looking at his watch): It is?  (He groans.)  Ah, God!  I didn't sleep at all!  I was up all night, thinking about this Ronon situation.<br><br>(He sits down opposite John.)<br><br>SHEPPARD: You got anything?<br><br>McKAY: Ah, nothing.  I tried everything: pacing, snacking, bathing ...<br><br>SHEPPARD: Bathing?<br><br>McKAY: Yeah, like Archimedes.<br><br>SHEPPARD: You mean the Greek scientist who had a crush on Teyla?<br><br>McKAY: No, like the Greek mathematician who came up with the Archimedes principle.  The physical laws of buoyancy?  According to legend, the idea came to him when he was sitting in the bath, so ...  Look, the point is that the revelation occurred while he was, you know, relaxing, not thinking about the problem.  The solution, as it turns out, was right in front of him all along.<br><br>SHEPPARD: You think we've overlooked something?<br><br>McKAY (exasperated): I don't know.  Maybe.  Look, all I know is I was up all night going over it and I'm drawing a blank, so, look, I could use a fresh perspective.<br><br>SHEPPARD: I'm not takin' a bath with you.<br><br>McKAY (ignoring him): Let's just go over what we know.<br><br>SHEPPARD: According to Solen, Tyre's on the run, and we can assume he's operating alone because if he had back-up, they would've been in on the ambush.<br><br>McKAY: Right.  He's alone, with Ronon, on the run.  So where would someone like that go?  Well, I can think of something like two hundred planets that would be perfect.  Where d'you wanna start?<br><br>(Major Lorne comes over to the table.)<br><br>LORNE: How about Sarif Sur?<br><br>SHEPPARD: What?<br><br>LORNE: We just got a message from Ronon's buddy Solen.  He hears that Tyre and Ronon are holed up on a planet called Sarif Sur.<br><br>McKAY: Thank you, Archimedes!<br><br>SHEPPARD: Major, get your team and gear up.<br><br>LORNE: Yessir!<br><br><br>SARIF SUR.  Ronon sits in the chair, his head lowered in exhaustion.  Tyre crouches beside him, looking almost as exhausted himself.<br><br>TYRE: There's no point in holding on.  You're just putting off the inevitable.  It's better if you just accept it.<br><br>DEX: You mean better for <I>you</I>, don't you?  The Wraith cut you off and this is your way back in, by offering me up as sacrifice.<br><br>TYRE (shaking his head): No.<br><br>DEX (tearfully): You are <I>not</I> the man I risked my life for.  You are a traitor to the memory of our people.  You have no honour.<br><br>(The door opens and the Wraith comes back in.)<br><br>WRAITH: Things are progressing too slowly.  I have other matters to attend to.  We can continue this process back at the lab.<br><br>(It turns to leave.  Tyre stands up and stumbles towards it.)<br><br>TYRE: And when will I receive my reward?<br><br>(Behind him, the guards walk over to Ronon and shoot him with a stunner.  The Wraith turns back to Tyre.)<br><br>WRAITH: Your reward?<br><br>TYRE: I brought him here as we agreed.  In exchange, you promised to restore our previous arrangement.<br><br>WRAITH: Huh.  Did I?<br><br>(It turns away.)<br><br>TYRE (heatedly): <I>You promised!</I><br><br>(The Wraith turns, surges back towards him and seizes him around the throat with one hand.)<br><br>WRAITH: I'm afraid I'm going to have to disappoint, since your usefulness has come to an end.<br><br>(It hurls him across the room.  He slams into the wall and crumples to the floor.  The Wraith turns and leaves.  The guards, having untied Ronon, drag him out of the room.) <br><br><br>ATLANTIS GATE ROOM.  The Stargate kawhooshes.  John, Rodney and Team Lorne come into the room, loading their rifles.  John looks up at the Control Room balcony where Woolsey is standing.<br><br>SHEPPARD: We'll get him.<br><br>WOOLSEY: See that you do, Colonel.<br><br>(The teams head into the Gate.)<br><br><br>WORMHOLE TRAVEL.<br><br><br>SARIF SUR.  NIGHT TIME.  The men make their way into an abandoned village.  John, Rodney and one of Lorne's team go in one direction while the other three go another way.  Some time later, John sounds exasperated as they search the umpteenth house.<br><br>SHEPPARD: Nothing.<br><br>McKAY (sighing): So we were wrong.  It <I>has</I> been known to happen.  Hey, I <I>always</I> said this was a long shot.<br><br>LORNE (over radio): Colonel, this is Lorne.  We've got something.<br><br>McKAY: I <I>knew</I> it!<br><br>(They hurry outside.  Lorne comes to meet them.)<br><br>LORNE: Over here.<br><br>(He leads them back into a house where Tyre is lying unconscious on the floor.)<br><br>LORNE: We checked his pulse.  It's barely there.  We've gotta move him or we lose him.<br><br>McKAY: Where's Ronon?<br><br>SHEPPARD: Good question.<br><br><br>ATLANTIS INFIRMARY.  Tyre, twitching in his sleep, is lying on a bed, his wrists and ankles held in restraints.  Jennifer Keller reports to John and Rodney.<br><br>KELLER: His injuries are minor but both his heart rate and blood pressure are elevated.  He woke up about an hour after you brought him in.  He was delirious.  He was sweating, nauseous, trembling, so I sedated him and ran some tests.<br><br>(She leads them to a wall screen and pulls up a scan of Tyre's brain.)<br><br>KELLER: After giving him a drug that blocks opioid receptors, I noticed a drop in dopamine levels here -- a central link in the brain's reward circuit.<br><br>SHEPPARD: Meaning ...?<br><br>KELLER: Meaning this type of neurochemical activity is identical to that of reforming substance users.  He's going through withdrawal.<br><br>(The three of them leave the Infirmary.)<br><br>SHEPPARD: I need you to save him, Doc.  Right now, he's our only lead.  If he dies, our chances of finding Ronon go with him.<br><br>KELLER: Of course, but it could be days before he's coherent enough to tell us anything.<br><br>(Teyla runs to join them.)<br><br>TEYLA: John.  Why wasn't I informed about the mission to rescue Ronon?<br><br>SHEPPARD: We were playing on a hunch.  We had to act fast.<br><br>(Realising how this conversation is going to continue, Rodney looks awkward.)<br><br>McKAY: I'm gonna, um, see if they're still serving lunch.  It's Taquito Tuesday.<br><br>KELLER: I think I'll join you.<br><br>(They hurry away.)<br><br>TEYLA: I'm surprised that you would be so quick to move forward without me.<br><br>SHEPPARD: Don't put this on me.  <I>You're</I> the one having second thoughts about returning to the team.  I can<I>not</I> give you the option every time we're going off-world.<br><br>TEYLA: This is not an easy decision for me.<br><br>SHEPPARD: You think you're the only one feeling pressure?  I've got Woolsey pushing me hard to find a replacement for you.<br><br>TEYLA: What did you tell him?<br><br>SHEPPARD: I told him that I wasn't gonna do anything until I talked to you.  Now, if you wanna join the team, great.  I'll call Woolsey, I'll make it happen.  But if you wanna spend time with your son, I understand.  I <I>do</I>, I <I>really</I> do.  You've gotta make a decision.<br><br><br>YET ANOTHER ALIEN PLANET.  A derelict Wraith Cruiser lies in the middle of a desert.  Inside, Ronon has been tied to a wall.  The Wraith approaches him.<br><br>WRAITH: You are finally awake.  The procedure can be very taxing.  You've been unconscious for the better part of a day.<br><br>DEX: You're wasting your time.  I'll die before I turn, just like Merika and Hemi.<br><br>(The Wraith chuckles.)<br><br>WRAITH: I'm afraid you're mistaken.  Your friends didn't die because they were strong.  They died because they were too weak to withstand the process.  Their minds and bodies eventually shut down under the strain.  But you ...<br><br>(It starts to walk towards him.)<br><br>WRAITH: ... you're stronger, and it is your strength that will prove your undoing.<br><br>(Once again its hand descends onto Ronon's chest and it begins to feed.  He screams.)<br><br><br>ATLANTIS ISOLATION ROOM.  Tyre screams, writhing on the bed as he tries to pull free of his restraints.  Up in the Observation Room, John, Jennifer and Woolsey are watching him.<br><br>KELLER: He broke through his restraints this morning and injured two guards, so I thought it would be best to put him in Isolation.  At least this way, if he breaks free again, he won't be an immediate danger to anyone.<br><br>SHEPPARD: How long's it gonna take him to go through this?<br><br>KELLER: To be honest, I'm not even sure he <I>will</I>.<br><br>TYRE: Please!  You're killing me!  <I>Please!</I><br><br>WOOLSEY: Can't you give him something for the pain?<br><br>KELLER: Sedatives'll make him more comfortable, but they'll also slow down his recovery.<br><br>SHEPPARD: I want this to go as quick as possible.  No sedatives.<br><br>(Down in the Isolation Room, Tyre writhes, convulses and screams.)<br><br>(In the Wraith Cruiser, Ronon writhes, convulses and screams as the Wraith withdraws its hand after another session.)<br><br>(In the Isolation Room, Tyre thrashes, his eyes wide in agony.)<br><br>(Ronon grimaces as the Wraith approaches again, its hand outstretched, and begins to feed again.)<br><br>(Tyre sobs in anguish.)<br><br>(Ronon's hair, grey with age, restores to its normal colour.  As the Wraith withdraws its hand once again, he grimaces, then stares ahead blankly.  The Wraith looks at him with interest.)<br><br>(Tyre is finally calm.  His eyes close and he falls asleep.)<br><br><br>ATLANTIS.  TEYLA'S QUARTERS.  Baby Torren lies asleep in an Athosian cradle which Teyla is gently rocking.  The doors open and Kanaan -- now fully restored to humanity -- comes in.  He looks at them in surprise.<br><br>KANAAN (whispering): He's already sleeping?!<br><br>(Teyla smiles at him as he walks over.)<br><br>KANAAN (whispering): Why does it take so much longer when I try to put him down?<br><br>TEYLA (whispering): You worry too much.  Perhaps he senses your anxiety.<br><br>KANAAN: Or maybe he prefers the comfort of his mother's presence.<br><br>(Teyla closes her eyes briefly, then stands up.)<br><br>TEYLA: Well, there may be times when he will have to learn to do without.<br><br>KANAAN: Does that mean you've decided?<br><br>TEYLA: I thought so.  How can I return to the team with the knowledge that every time I step through the Gate, there is a chance that I might not come back?  That, given the dangers, there is a possibility that our son will grow up without a mother?<br><br>(They both look down at Torren for a moment, then Kanaan turns back to Teyla.)<br><br>KANAAN: You have a responsibility to him, but you also have a responsibility to the people of this galaxy.<br><br>(She looks at him in surprise.  He smiles and takes her arms.)<br><br>KANAAN: Follow your heart without remorse and take comfort in knowing that you'll be doing so to safeguard the future of many, <I>including</I> your son.  Just promise me you'll be careful out there.<br><br><br>CORRIDORS.  John and Jennifer are walking along.<br><br>KELLER: He's been awake and lucid for about ten minutes now.<br><br>SHEPPARD: What'd he say?<br><br>KELLER: Only that he wanted to talk to you.<br><br>(She leads him into the Isolation Room where Tyre lies weakly on the bed.)<br><br>TYRE: I know where they've taken Ronon.<br><br>SHEPPARD: Can you give us a Gate address?<br><br>TYRE: Better: I'll lead you right into the heart of the facility.<br><br>SHEPPARD: Well, you're still recovering.<br><br>TYRE: Doctor Keller told me there were no longer any traces of the Wraith enzyme in my system.<br><br>SHEPPARD: That's not the point.<br><br>TYRE: Colonel, <I>please</I>!  Let me help you get Ronon back.<br><br><br>WRAITH CRUISER.<br><br>WRAITH: No retreat in the face of battle.  No sympathy for the fallen.  No mercy for our enemies.<br><br>(Ronon, released from his restraints, is kneeling in front of the Wraith.  He looks up into its eyes, his face savage.)<br><br>DEX: No retreat in the face of battle.  No sympathy for the fallen, and no mercy to your enemies.<br><br>WRAITH: <I>Our</I> enemies.<br><br>(It is holding Ronon's sword and now holds it out to him.)<br><br>WRAITH: Atlantis.<br><br>(Ronon stands and takes the sword.)<br><br>DEX: Atlantis.<br><br>(The Wraith grins.)<br><br>WRAITH: No mercy.<br><br>(As it walks away, Ronon tosses his sword into the air, catches it and then swings it around experimentally, preparing for battle.)<br><br><br>ATLANTIS.  John and Woolsey are talking in a corridor.<br><br>SHEPPARD: He seems rational.  Says he wants to help us.<br><br>WOOLSEY: I say we trust him only as much as we have to.  Use his intel, but he stays <I>here</I>, under guard.<br><br>SHEPPARD: Well, if you wanna hit that Wraith facility, we're gonna need all the help we can get, and apparently he knows that place inside and out.<br><br>WOOLSEY: Yes, and is thus in the perfect position to lead you right into a trap.<br><br>SHEPPARD: All right, all right, look.  I think as much as he'd like us to believe it, this is not about regaining some lost honour or some Satedan revenge thing.  Pure and simple, this is about a desperate guy who is willing to do anything to help his buddy.<br><br>WOOLSEY: And how can you be so certain of that, Colonel?<br><br>SHEPPARD: Because I've been there.  Now, we have a chance to get Ronon, and I'm gonna take it, and you're gonna need to trust me on this.<br><br>(Teyla has just walked past, cradling Torren in her arms, but comes back as she hears the conversation.)<br><br>WOOLSEY: All right.<br><br>(John turns and walks away.  Woolsey calls after him.)<br><br>WOOLSEY: Major Lorne's team will be accompanying you.<br><br>TEYLA: What is it?  What's happening?<br><br>SHEPPARD: We know where Ronon is.<br><br>TEYLA: I'm coming with you!<br><br>SHEPPARD: Gear up.<br><br>WOOLSEY: Uh, Teyla, this is exactly the kind of decision we were discussing ...<br><br>TEYLA (talking over him): I was just about to meet Kanaan in the cafeteria.  Would you please explain to him the situation?<br><br>(She hands Torren over to Woolsey.  He flusters nervously.)<br><br>TEYLA: Please!<br><br>WOOLSEY: All right.<br><br>(He takes the baby.  Teyla strokes Torren's head for a moment, then turns and races off after John.  Woolsey smiles down at Torren.)<br><br>WOOLSEY: Well, well, well!  Who have we here?!<br><br>(Torren starts to wail.  Woolsey looks around nervously.)<br><br>WOOLSEY: Cafeteria.  Cafeteria!<br><br>(He hurries off down the corridor, turning right, then comes back out again, looks around in confusion for a moment and then heads off in another direction.)<br><br><br>WRAITH CRUISER.  As two guards walk along a corridor, Tyre comes out of hiding and slashes at both of them with his sword, killing them.  He turns to Teams Sheppard and Lorne.<br><br>TYRE: This way.<br><br>(They make their way to a room containing Wraith computers.  A guard is in there but Tyre hurls a knife at it and the blade impacts right in the middle of its forehead and it crashes to the floor.  He runs over and retrieves his knife.)<br><br>TEYLA: What is this place?<br><br>TYRE: You were looking for a target area that'll maximise the effects of your explosives.  Well, this is it -- the facility's power relay chamber.<br><br>(Lorne unzips a bag and starts handing out blocks of C4 to the team.)<br><br>TYRE: Hide your charges to avoid discovery.<br><br>SHEPPARD: Let's go.<br><br>(The team gets busy secreting their C4 around the room.)<br><br>TYRE: I assume you have a means to remote detonate from a safe distance?<br><br>SHEPPARD: Well ...<br><br>(He takes out a detonator control and demonstrates it to Tyre.)<br><br>SHEPPARD: ... just flip, and click.<br><br>(Later, the group is back in the corridors.)<br><br>TYRE: This way.<br><br>(They make their way into the Wraith equivalent of an elevator.  Once everyone is inside, Tyre activates the controls and a transporter beam whisks them away and deposits them elsewhere in the facility.  The group moves on, then stops as Ronon walks into view.)<br><br>SHEPPARD: Ronon!<br><br>DEX: Sheppard.  (He smiles.)  It's about time.<br><br>SHEPPARD: What's going on, buddy?<br><br>(The Wraith walks into view behind Ronon.)<br><br>WRAITH: We were beginning to wonder if you'd <I>ever</I> show up.<br><br>(Team Lorne spins around as Wraith guards walk in behind the group, aiming their stunners at them.)<br><br>WRAITH (still standing behind Ronon): You're at a disadvantage.  You can attempt an escape but you'll have to sacrifice your friend's life to do so.<br><br>SHEPPARD (aiming his rifle at it): Ronon, get out of the way.<br><br>DEX: I can't do that.<br><br>SHEPPARD: Ronon.  Step aside.<br><br>(Ronon doesn't budge.  As John stares at him in shock, Tyre grabs Teyla from behind, wrapping his arm around her neck and holding a knife to her throat.)<br><br>TYRE: His life won't be the only one forfeit.<br><br>TEYLA: Tyre!<br><br>TYRE: Lower your weapons.<br><br>(Everyone looks to John, who reluctantly lowers his rifle.  The others follow suit.  Ronon walks towards John.)<br><br>WRAITH: Take them away.<br><br>SHEPPARD: Ronon, what's happening here?<br><br>(Ronon punches him ferociously in the face.)<br><br>TEYLA: Ronon!<br><br>(Two guards seize a dazed John and drag him away.  The rest of the guards escort the other Atlanteans away.  Tyre and Ronon walk over to the Wraith.)<br><br>TYRE: I assume this is a prize worthy of reward?<br><br>WRAITH: Welcome back.<br><br>(It walks away.  Ronon claps Tyre on the back and they follow.)<br><br><br>WRAITH CELL.  John sits on the floor with his back against the wall while Teyla stands at the doorway looking out.  Rodney is pacing and talking nervously.<br><br>McKAY: Well, you know, on the bright side, at least we'll never have to go back to Atlantis and hear Woolsey say, "I told you so."<br><br>SHEPPARD: We're gonna get out of here.<br><br>McKAY: Oh, sure.  I mean, all we have to do is escape from this cell, right?  I mean, get past all of the armed Wraith that are guarding the facility, and free Lorne and his team from wherever <I>they're</I> being held, to get back to the Jumper which is probably being disassembled as we speak, and -- right, of course -- we've got to rescue Ronon who -- I don't know if you happened to notice or not -- isn't quite himself.<br><br>SHEPPARD: We're gonna get Ronon and we're gonna go back to Atlantis.<br><br>McKAY: And even if we do, <I>then</I> what, huh?  I mean, Tyre's recovery hasn't exactly been the rousing success we were hoping for.<br><br>(John speaks slowly, emphasising the point as he sternly stares up at Rodney.)<br><br>SHEPPARD: We're going to get Ronon back.<br><br>(Rodney wilts under his gaze.)<br><br>McKAY: Yeah.  Of course.<br><br>(He paces across the cell again, rubbing his hands nervously.  When he reaches Teyla, he gives her a thumbs-up.)<br><br>McKAY (unconvincingly): We're gonna get him back.<br><br><br>Elsewhere in the facility, Ronon and Tyre are talking with the Wraith.<br><br>DEX: You waste a huge opportunity by killing them.<br><br>WRAITH: They have no use to me beyond the information they can provide.<br><br>DEX: You underestimate their value.<br><br>WRAITH: Is it their value I underestimate, or your loyalty I <I>over</I>estimate?<br><br>TYRE: Ronon's right.  They're much more useful to you alive and co-operative.<br><br>DEX: They just need some convincing.<br><br><br>WRAITH CELL.  In brainwave mode, Rodney goes into one of his finger-clicking routines.<br><br>McKAY: All right, I got it.  We tell them we have some vital information that we're willing to give up, but we will only share it with Ronon.  So, they send Ronon, he shows up, we appeal to him ... I mean, the part of him that's still ... him.<br><br>SHEPPARD: Well, I can only think of three things wrong with that plan, but go on.<br><br>McKAY: He hasn't been brainwashed as long as Tyre, which means he might be more susceptible to our influence.  We convince him to let us out or, or, or lead us out of here and then, you know, worst case scenario, he's not entirely convinced ...<br><br>SHEPPARD: <I>That's</I> your worst case scenario?<br><br>McKAY: Hey, I'm just spinnin' here, but, um, we could, you know, take advantage of that moment of uncertainty and, and, and, and ...<br><br>TYRE: Sheppard.<br><br>(Everyone looks around as Tyre, accompanied by a Wraith guard, walks into view.  The cell door slides up.)<br><br>TYRE: You've been summoned.<br><br>McKAY (quietly to John): You wanna go over the plan one more time?<br><br>SHEPPARD: No, no, I think I'm good.  (He turns to Tyre.)  Guess it's my turn for the sales pitch, huh?<br><br>(Tyre nods and turns away.  Clapping Rodney on the arm encouragingly, John follows and the door closes behind him.  Tyre leads him along the corridor, followed by the guard, but after a while he stops.)<br><br>TYRE: Wait.<br><br>(He turns to the guard.)<br><br>TYRE: I need to get something.<br><br>(He turns down a side corridor.  The guard pushes John in the same direction.)<br><br><br>LATER.  The Wraith is waiting in a small chamber with Ronon standing nearby.  Tyre escorts John in, shoving him in the back to get him into position in front of the Wraith.  It smiles.<br><br>WRAITH: Kneel.<br><br>SHEPPARD: You know, what'd be really creepy and unexpected is if <I>you</I> knelt instead.<br><br>(The Wraith glowers at him.  Tyre fiercely kicks the back of John's knees.  Grimacing, he crumples into a kneeling position.)<br><br>SHEPPARD (painfully): I guess not.  All right, I'll try and make it work.<br><br>WRAITH: I appreciate your defiance.<br><br>(John looks at Ronon.)<br><br>SHEPPARD: Ronon, I really need you to snap out of it about now.<br><br>(Ronon stares down at him impassively.)<br><br>WRAITH: It will make turning you all the more enjoyable.<br><br>(Snarling in anticipation, it raises its hand palm-forward towards John and slowly reaches forward.  But just before it reaches his chest, Tyre snatches out his sword and slashes the Wraith's hand off at the wrist.  As the Wraith cries out in pain, Ronon unsheathes his own sword and he and Tyre begin to fight.  John pulls out a pistol from his waistband and fires four bullets into the Wraith, which falls to the floor.  As the swordfight goes on behind him, he pulls out a second pistol and starts gunning down the many guards that start to charge into the chamber.  Ronon and Tyre fight on until Ronon manages to slash Tyre across the stomach.  Tyre stumbles back in pain.  Ronon snarls.)<br><br>(Elsewhere, Lorne and his team look out of the cell in surprise at the sound of automatic gunfire.  The guards outside the cell crumple to the floor as Teyla and Rodney run into view and activate the wall control to open the door.)<br><br>LORNE: Teyla!  McKay!  How'd you get out?<br><br>McKAY: Tyre freed us.  (He hands out weapons to the team.)  Let's go.<br><br>LORNE: OK.  Come on, guys.<br><br>(In the chamber, Tyre charges at Ronon again while John continues gunning down guards approaching from two different directions.  Some way into the fight Tyre loses his sword but manages to keep ducking out of the way of Ronon's and gets in close enough to go hand to hand with him.  He punches him hard enough in the face to make him lose his grip on his sword but Ronon grabs him, lifts him and slam dunks him to the floor, dropping down with him and punching him repeatedly in the face.  At last the cavalry arrives in the form of Teyla who fires a stunner rifle at him.  It has no effect and he continues punching Tyre.  She fires again.  His punch rate slows down but he still keeps going.  She fires a third shot and finally he drops to the floor unconscious.  She turns to Rodney and a soldier.)<br><br>TEYLA: Go, go, go!<br><br>(They run over to join John.)<br><br>SHEPPARD: How's it going?<br><br>McKAY: Not so good!<br><br>(They keep firing at the guards.  Lorne runs in.)<br><br>LORNE: My guys are holding them off, but not for much longer.<br><br>(John runs over to Teyla and grabs her pistol.)<br><br>SHEPPARD: Give me that.<br><br>(He goes over to the Wraith lying on the floor and aims the gun down at it.)<br><br>SHEPPARD: Tell them to back off.<br><br>WRAITH: My life will be a small price to pay for the lives of you and your team.<br><br>(John kicks it savagely in the stomach where he shot it.  It grunts in pain.  Tyre walks over and takes the detonation device from John's pocket.)<br><br>TYRE: And how about the destruction of this facility?  (He shows the device to the Wraith.)  Is that a small enough price as well?<br><br>WRAITH: You lie.<br><br>TYRE: I told them where to hide the charges for maximum effect.  Enough explosives to destroy this place and all its research.  Any advantage your Hive may hold over its rivals will be gone with the push of a button.<br><br>(The Wraith glares up at him, still not sure whether to believe him or not.  He flicks up the cover and puts his thumb over the button.)<br><br>WRAITH: Wait!<br><br><br>Shortly afterwards, the team races down the corridors, dragging the Wraith and an unconscious Ronon with them.  They continue gunning down approaching guards but more are coming.<br><br>SHEPPARD: Tell them to let us through.<br><br>WRAITH: What's to stop you from triggering the explosives from a safe distance?<br><br>TYRE: My presence here.  (Grimacing against his injuries, he moves closer to the Wraith.)  You let them go, I'll remain behind.<br><br>TEYLA: Tyre?<br><br>TYRE (holding up the detonator): Once they have reached the Gate, I'll trade you this device for my freedom.  Or we all die together.<br><br>(The Wraith glares at him for a moment, then calls out.)<br><br>WRAITH: Let them go!<br><br>(Slowly the guards back away and disappear from view.  As the team stands up, Tyre walks over to John and gives him his sword.)<br><br>TYRE: I'll be right behind you.<br><br>(He looks at John and nods to him slowly.  John knows from his expression what he really means, and nods back in acknowledgement.  He jerks his head to his team.)<br><br>SHEPPARD: Let's go!<br><br>(Two of the soldiers haul Ronon up and pull his arms around their shoulders.  Everyone hurries off and they make their way through the corridors, undisturbed by guards, and finally reach the exit.  Back in the corridor, Tyre slams the Wraith against the wall, glaring up into its eyes.)<br><br>WRAITH: You turn your back on an incredible gift.<br><br>TYRE: Actually, you turned your back on me first -- and I thank you for it.<br><br>SHEPPARD (over radio): We're clear!<br><br>WRAITH: You are not beyond forgiveness.  It's not too late for you.<br><br>TYRE: Yes it is.  For <I>both</I> of us.<br><br>(Holding up the detonator, he presses the button.)<br><br>(From an external viewpoint, a huge explosion goes off near the bottom of the ship.  Secondary explosions begin to go off nearby and gradually the whole ship goes up.  And from out of the devastation soars a Puddle Jumper, flying safely away.)<br><br><br>ATLANTIS.  In the Observation Room, Teyla, Jennifer and Woolsey are watching as -- in the Isolation Room -- Ronon grunts and writhes furiously against his restraints.  John is near the others, looking into the room below with his face full of pain.  Rodney has turned away, unable to bear the sight any longer.<br><br>WOOLSEY: What kind of a time frame for recovery are we looking at?<br><br>KELLER: It's impossible to predict.  He has so much of the enzyme running through him that his body can hardly process it.  When it eventually does, that's when he'll come down.<br><br>DEX (furiously): Let me go!<br><br>(John grimaces.)<br><br>DEX: Sheppard!<br><br>KELLER: And he'll come down hard.<br><br>SHEPPARD: I'm gonna talk to him.<br><br>(He walks downstairs and goes to the doors, addressing the guard.)<br><br>SHEPPARD: Open it.<br><br>(The doors open and he goes inside.  Ronon glares at him.)<br><br>DEX: There he is.  (He sits up as far as his restraints will let him.)  Hey, buddy.<br><br>SHEPPARD: "Buddy"?<br><br>(Ronon stares at him wide-eyed.)<br><br>DEX: So -- how long are you planning on keeping me prisoner?<br><br>SHEPPARD: As long as it takes to clear your head.<br><br>DEX: My head <I>is</I> clear.<br><br>SHEPPARD: You may be feeling fine right now, but things are gonna get pretty rough for you.  We're gonna get you through this.<br><br>DEX: Whatever you've got planned, it's not gonna work.  You've got a choice: you can either kill me, or you let me go.  And if you let me go, I promise I won't come after you or Atlantis.  And you tell Tyre I won't come after him either.<br><br>SHEPPARD: Tyre's dead.<br><br>(Ronon narrows his eyes at him.)<br><br>SHEPPARD: He sacrificed himself taking out the Wraith lab.<br><br>DEX: Yeah, well, he was a traitor.<br><br>SHEPPARD: No, he was a good friend.  We <I>all</I> are.  You're gonna realise that pretty soon.<br><br>(He turns to leave.)<br><br>DEX: Yeah, well you just kill me or you set me free.<br><br>(John leaves the room without looking back.)<br><br>DEX: Sheppard!  (Yelling furiously) You kill me or set me free!  <I>Sheppard!</I><br><br><br>NIGHT TIME.  Teyla and John are in the Observation Room watching helplessly as Ronon weeps in agony, curled up against the pain of his withdrawal.  He rolls onto his back, his eyes wide and bloodshot, and screams up to the ceiling.<br><br>DEX: <I>Kill me, please!  Please, kill me!</I><br><br>(John and Teyla look away in anguish.)<br><br>(Time passes and still Ronon writhes, weeps, screams and struggles.  And all the time there's at least one member of his team watching over him from the Observation Room.  During one session, Rodney watches as Jennifer walks across to Ronon.  He stares at her wide-eyed as she mops his brow for him.  Later, John is in the Isolation Room with him as he is wracked with tremors.  And finally -- <I>finally</I> -- Ronon lies quietly with his eyes closed.  Rodney is sitting on a chair beside him chattering away.  He has probably been doing it for some time and isn't even looking at Ronon as he blathers on.)<br><br>McKAY: ... what they call "piano fingers," so slim, nimble, you know?  Really no surprise my family signed me up for lessons.  My first teacher, of course, hailed me as a natural.  (He smiles.)  Big Russian woman, er, Polanski or Branski ...<br><br>DEX (weakly): Sheppard.<br><br>McKAY: ... definitely a "ski."<br><br>(He looks around in surprise.)<br><br>McKAY: Ronon?<br><br>(Ronon groans.)<br><br>McKAY (standing up): Hey, uh, how d'you feel?<br><br>(Ronon opens his eyes and looks at him tiredly.)<br><br>DEX: Like hitting someone.<br><br>McKAY (nervously): Anyone in particular?<br><br>DEX: You, if you don't loosen these straps and get me something to eat.<br><br>McKAY (smiling): Hey, that is a good sign.  That's a good sign.<br><br>(He turns and hurries to the door, opening it.)<br><br>McKAY: He's back!  He's back!<br><br><br>CONFERENCE ROOM.<br><br>WOOLSEY: So he's fully recovered?<br><br>KELLER: Well, physically he's still weak, but his blood work shows no traces of the enzyme in his system, so he should be back to his old self in no time.<br><br>WOOLSEY: Good to hear.  Well, it's late.  (He stands.)  I think I'll head back to my quarters and change into something a little more relaxed.  Good night.<br><br>(He walks nervously towards the doors, which again refuse to open for him until Rodney also heads towards them.  Teyla turns to John.)<br><br>TEYLA: Uh, John.   May I have a word?<br><br>SHEPPARD: Yeah, sure.<br><br><br>LATER.  Loud classical music is coming from Woolsey's quarters.  Teyla is standing outside.  The doors open and Woolsey, wearing a suit and tie and holding a glass of red wine, looks out at her.<br><br>WOOLSEY: Teyla.  Come in.<br><br>(She goes inside as he picks up a remote control and turns the volume of the music down a little.)<br><br>TEYLA: I thought you said you were changing into something more relaxed.<br><br>WOOLSEY: For me, this is more relaxed.  Can I offer you a drink?<br><br>TEYLA: No, thank you.  I just spoke with John and now I would like to make it official.  I'm requesting a return to active duty.  I would like to resume my position on Colonel Sheppard's team.<br><br>WOOLSEY: You're sure this is what you want?<br><br>TEYLA: Very much so.<br><br>WOOLSEY: Well, then.  (He raises his glass to her.)  Welcome back.<br><br>TEYLA (smiling): Thank you, Mr Woolsey.  Good night.<br><br>WOOLSEY: Good night.<br><br>(She walks to the doors, swipes the wall panel to open them and leaves.  Woolsey turns the volume back up on the music.)<br><br>(As the music continues, Teyla returns to her quarters where Kanaan is sitting on the bed cradling their son.  He stands, brings him over to her and puts him gently into her arms and they stand close, looking down at him and smiling.)<br><br>(In Rodney's quarters, he is relaxing in a very sudsy bubble bath.  Suddenly he jerks upright as he gets an idea.  Shaking as many bubbles off his arms as possible, he reaches for a computer tablet on a cabinet beside the bath, picks it up and starts to type, smiling in satisfaction.)<br><br>(Ronon has been transferred to the Infirmary and is sitting up in bed and looking a lot better.  John comes in and holds out Tyre's sword in its scabbard.  Ronon looks at it for a long time, then John lays it gently down on the bed beside him.  They exchange a long look, then John leaves.  His face full of pain, Ronon picks up the scabbard and unsheathes the sword, holding it up and looking at it as the memories flood through him.  Eventually he lays it gently across his chest and begins to weep.)
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="502.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s5/503.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="504.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s5/index.shtml">
+<IMG SRC="/graphics/title_s5episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Five Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="501.shtml" CLASS="list">Search and Rescue</A><BR><A HREF="502.shtml" CLASS="list">The Seed</A><BR><A HREF="503.shtml" CLASS="list">Broken Ties</A><BR><A HREF="504.shtml" CLASS="list">The Daedalus Variations</A><BR><A HREF="505.shtml" CLASS="list">Ghost In the Machine</A><BR><A HREF="506.shtml" CLASS="list">The Shrine</A><BR><A HREF="507.shtml" CLASS="list">Whispers</A><BR><A HREF="508.shtml" CLASS="list">The Queen</A><BR><A HREF="509.shtml" CLASS="list">Tracker</A><BR><A HREF="510.shtml" CLASS="list">First Contact</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="511.shtml" CLASS="list">The Lost Tribe</A><BR><A HREF="512.shtml" CLASS="list">Outsiders</A><BR><A HREF="513.shtml" CLASS="list">Inquisition</A><BR><A HREF="514.shtml" CLASS="list">The Prodigal</A><BR><A HREF="515.shtml" CLASS="list">Remnants</A><BR><A HREF="516.shtml" CLASS="list">Brain Storm</A><BR><A HREF="517.shtml" CLASS="list">Infection</A><BR><A HREF="518.shtml" CLASS="list">Identity</A><BR><A HREF="519.shtml" CLASS="list">Vegas</A><BR><A HREF="520.shtml" CLASS="list">Enemy At the Gate</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Five</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B002ACP0MO/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B002612S6A/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls5.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="502.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s5/503.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="504.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

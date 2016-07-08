@@ -1,0 +1,527 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Remnants" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s5/515.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s5/transcripts/515.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=649">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=727">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s5/515.shtml#production">Production</A>
+				 | <A HREF="/universe/s5/515.shtml#news">News</A>
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=60868">Fan Reviews</A>
+				 | <A HREF="http://forum.gateworld.net/forumdisplay.php?f=140">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s5/515.shtml"><IMG SRC="/atlantis/graphics/515_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="REMNANTS" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://click.linksynergy.com/fs-bin/stat?id=2cvd55rHd*s&offerid=78941&type=3&subid=0&tmpid=1826&RD_PARM1=http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewTVShow?id=179127311&partnerId=30"><img height="15" width="61" border="0" alt="iTunes" src="/store/graphics/itunes_button.gif"></img></a> &nbsp; <a href="http://www.amazon.com/gp/product/B001L9Q3DW/?tag=bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 515<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 5, Disc 4<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 11.14.08<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 03.01.10<BR>
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0540695/" TARGET="_blank">Joseph Mallozzi</A> & <A HREF="http://www.imdb.com/name/nm0612283/" TARGET="_blank">Paul Mullie</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0912272/" TARGET="_blank">William  Waring</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">While being evaluated by the I.O.A. Richard Woolsey meets a beautiful scientist new to Atlantis, who is not what she appears.  Sheppard is captured and tortured by an enemy he thought was dead.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    ATLANTIS.  MESS HALL OUTSIDE BALCONY.  Teyla Emmagan and Ronon Dex are sitting opposite each other at a table at the edge of the balcony.  Ronon has his feet up on the chair beside him.  Rodney McKay walks over with a tray of food and sits down next to Teyla.<br><br>TEYLA: I find it sad.<br><br>McKAY: What?  What are you talking about?<br><br>TEYLA: Mr Woolsey.  He seems lonely.<br><br>(The three of them look across to the food table where Richard Woolsey is selecting items for his breakfast.)<br><br>McKAY: He does?<br><br>TEYLA: He never takes part in any of the city's social activities.<br><br>McKAY: Oh, please!  I mean ...<br><br>TEYLA: He always eats alone, either in his office or in his quarters.<br><br>McKAY: Maybe he has work to do, you know?  Some of us are busy people.<br><br>DEX: Sometimes when I walk by his quarters at night, I hear him crying.<br><br>(Rodney stares at him, shocked.)<br><br>McKAY: What?  Really?<br><br>DEX: No.<br><br>(Rodney slumps, annoyed that he fell for it.  Ronon laughs.  Richard starts to walk across the room and Teyla calls out to him.)<br><br>TEYLA: Mr Woolsey.  Would you ...<br><br>(She looks pointedly at Ronon, who takes his feet off the chair.)<br><br>TEYLA: ... care to join us?<br><br>WOOLSEY: Well, thank you, but I'll be taking breakfast in my quarters today.  I still have some final preparations for my impending performance evaluation.  I'm a little apprehensive.<br><br>TEYLA: You shouldn't be.  You've done a wonderful job as our new commander.<br><br>(Richard smiles gratefully at her.)<br><br>WOOLSEY: Well, let's hope the I.O.A. agrees.<br><br>(He walks away.)<br><br>McKAY: There you go.  He just prefers to be on his own.  Speaking of which, where's Sheppard?<br><br>TEYLA: He flew some astrobiologists to the mainland this morning.<br><br>DEX: And volunteered to stay with them overnight.<br><br>McKAY: What, he did?  Why-why would he do that?<br><br>(Ronon looks at him pointedly.  Rodney stares at him, still not understanding.  Ronon jerks his head suggestively.)<br><br><br>MAINLAND.  John Sheppard is sitting on a crate as a pretty young female scientist talks to him.<br><br>SCIENTIST: This planet's sun is a class G star and that fact, coupled with its Earth-like atmospheric composition, results in the predominance of green photosynthetic organisms.<br><br>SHEPPARD: Hmm!<br><br>SCIENTIST: Chlorophyll, of course, mostly absorbs the sun's blue and red wavelengths, reflecting green ones.<br><br>(John nods, trying not to look bored.)<br><br>SCIENTIST: But hang on a minute, you're probably thinking, that's strange.  I mean, why doesn't chlorophyll absorb green light?<br><br>SHEPPARD: Oh, yeah, weird(!)  Why-why doesn't it?<br><br>SCIENTIST: Well, the answer lies not so much in ...<br><br>(She is interrupted by a cry of shock from a male voice.)<br><br>VOICE (offscreen): Oh my God!<br><br>SHEPPARD: Wait here.<br><br>(He chases off in the direction of the voice.  Holding his rifle ready, he arrives in a clearing nearby.)<br><br>SHEPPARD: What happened?<br><br>(The voice belongs to Doctor Parrish, last seen in "Runner."  He is standing and pointing happily down at a plant with a red flower.)<br><br>PARRISH: Look at this!  Huh?!  It's a plant not unlike the begonia eiromischa!<br><br>(The female scientist has followed John and stares in delight at the plant.)<br><br>SHEPPARD (despairingly): Oh, God.  Lorne warned me about this.<br><br>PARRISH: You don't understand!  The woolly-stalked begonia went officially extinct back on Earth in 2007 ... (he squats down and touches the plant's leaves reverently) ... and yet here we are standing over a species that's shockingly similar ...<br><br>SHEPPARD: I'm gonna go back to the Jumper and set up for the night ...<br><br>PARRISH: ... and it's thriving in a climate that it normally shouldn't sustain.<br><br>SHEPPARD (to the female scientist): Wanna join me?<br><br>(She turns to Parrish.)<br><br>SCIENTIST: It's a very unusual find.<br><br>SHEPPARD: Right!  Well, knock yourself out.  That's what we're here for.<br><br>(Grimacing, he turns away as the scientists chatter happily to each other.)<br><br>SHEPPARD: Take your time.  We're here all night.<br><br>(He walks back towards the Puddle Jumper but as he progresses through the woods he hears movement nearby.  He stops and looks around suspiciously but can't see anything.  Slowly he moves forward, only to hear more movement behind him.  He spins around and is struck in the chest by the blast from a stunner.  He drops to the ground, unconscious.)<br><br><br>LATER.  John regains consciousness.  His hands have been tied behind his back with rope, and his ankles are also bound.  Groaning, he levers himself up into a sitting position.  Looking around, he sees a small sharp rock poking up from the ground nearby.  He shuffles across to it on his backside and starts to rub the rope binding his wrists against the rock.<br><br><br>ATLANTIS.  Richard walks into the open doors of a transporter.  He has the tray of food in one hand and a bottle of water in the other.  He tries to shove the bottle into his open jacket so that he can free up that hand to touch the panel at the back of the transporter.  While he's still struggling, a woman's voice speaks behind him.<br><br>CONRAD: Can I give you a hand with that?<br><br>WOOLSEY: Actually, if you wouldn't mind ...<br><br>(He turns and stops at the sight of a pretty woman wearing an Atlantis uniform with an Australian flag patch on the shoulder.)<br><br>WOOLSEY: Hello.<br><br>CONRAD: Hi.  Where're you headed?<br><br>WOOLSEY: Back to my quarters.<br><br>(She raises her eyebrows questioningly.)<br><br>WOOLSEY: Um, the south east pier.  Level nineteen.<br><br>CONRAD: Ooh, penthouse suite.  Nice!<br><br>WOOLSEY: Have we met?<br><br>CONRAD: Not yet.  I'm Vanessa Conrad.<br><br>(She offers him her hand.  Balancing the bottle of water on top of the tray, Richard takes her hand, only for the bottle to topple over.  She laughs.)<br><br>CONRAD: Doctor Vanessa Conrad.<br><br>WOOLSEY (releasing her hand and rescuing his bottle): Richard Woolsey.<br><br>CONRAD: I just recently arrived on the Apollo.<br><br>WOOLSEY: Oh.  Welcome to Atlantis.<br><br>CONRAD: Thank you.  (She smiles.)  It's beautiful – and <I>huge</I>.  It's probably gonna be weeks before I know my way around.<br><br>WOOLSEY: Well, I'm sure ... (he hesitates for a moment) ... the gang at Orientation will help you settle in.<br><br>CONRAD: I'm sorry.  I'm keeping you.<br><br>WOOLSEY: Oh, no, not at all ...<br><br>CONRAD (pressing the rear panel): South east pier, level nineteen.<br><br>WOOLSEY: ... I have all the time in the ...<br><br>(The doors close and the transporter fills with light briefly.  The light fades and the doors open in a different area of the city.  Richard doesn't move, still looking at Vanessa.)<br><br>CONRAD: This is you, I believe.<br><br>WOOLSEY: Oh, right.  Well, nice to meet you, Doctor.<br><br>(He walks out of the transporter.)<br><br>CONRAD: Vanessa.  You can call me Vanessa.<br><br>WOOLSEY (turning back and smiling at her): Very well.  Nice to meet you, Vanessa.<br><br>CONRAD (smiling): Thank you, Mr Woolsey.<br><br>(The transporter doors begin to close.)<br><br>WOOLSEY: Actually, you can call me ...<br><br>(The doors slam closed.  He turns away in frustration.)<br><br>WOOLSEY: ... Dick.<br><br><br>MAINLAND.  John rubs away enough of the rope on the rock to be able to free his hands.  He unties his ankles, scrambles up and checks his pockets.  His pistol has been taken and there's no sign of his rifle.  He makes his way to the Puddle Jumper and walks around to the rear.  Peering inside, he sees that the ship has been ransacked and the controls destroyed.  Smoke is rising from the front console and it's still sparking.<br><br>SHEPPARD: Crap!<br><br><br>ATLANTIS.  RODNEY'S LAB.  Rodney is sitting at a table working on a laptop.  Radek Zelenka walks in.<br><br>McKAY: Hey.  What happened to your offworld foofoora?  Thought you were the guest of honour at some big diplomatic dinner on M2J.<br><br>ZELENKA: Yeah, I was, but the festivities ended early when three members of Lieutenant Donovan's team suffered a severe allergic reaction to something that we were served at the grand banquet.<br><br>McKAY: Yeesh.<br><br>ZELENKA: Come to think of it, I think it might have been those little green berries with the purple specks on them, because my tongue did seem a little bit numb afterwards ...<br><br>McKAY (already bored): Yeah.  F.Y.I., this conversation ended six seconds ago.<br><br>ZELENKA: Yeah, um, anyway, on the way back I had an idea.<br><br>McKAY: Well, have a little lie down.  It'll pass.<br><br>ZELENKA: No, you should hear me out.<br><br>(Sighing, Rodney raises his eyes from the computer and looks at him.)<br><br>ZELENKA: I think we should run a scan of the ocean floor.  I've been noticing anomalous temperature variations in the waters surrounding the city and I think it bears further investigation.<br><br>McKAY: Not really.<br><br>(He turns back to his laptop.)<br><br>ZELENKA: We head through the Gate every day exploring distant worlds, and yet – with the exception of a few marine biology tests – we have barely scratched the surface of the very planet that we occupy.<br><br>McKAY: That's ‘cause there's nothing there.<br><br>ZELENKA: My point is, it wouldn't hurt to be thorough.<br><br>McKAY: <I>My</I> point is, your point is pointless – <I>and</I> a giant waste of time.<br><br>(Radek stares at him in exasperation.)<br><br><br>MAINLAND.  John is in the rear of the Puddle Jumper, trying to make some repairs.  He sticks a knife into a panel above his head but it just sparks out.<br><br>SHEPPARD: Ah, dammit!<br><br>(He walks outside and looks around.  Spotting something nearby, he walks forward and squats down to look at what may be footprints.  Standing up, he heads off.)<br><br><br>ATLANTIS GATEROOM.  Richard is pacing nervously, practising his greeting to the – as yet – unarrived I.O.A. representative.<br><br>WOOLSEY: Xiaoyi!  Welcome!<br><br>(He paces a little more, still rehearsing.)<br><br>WOOLSEY: Atlantis welcomes you.  It is with great pride that I ...<br><br>(Behind him, a transporter beam deposits Shen Xiaoyi into the Gateroom.  She smiles at him.)<br><br>SHEN: Hello, Richard.<br><br>(Smiling, he walks over to shake her hand.)<br><br>WOOLSEY: Xiaoyi, welcome to Atlantis.  With ... great pride.<br><br>(She chuckles at his awkwardness.)<br><br>SHEN: I'm looking forward to the grand tour.<br><br>WOOLSEY: Well, then.  Shall we?<br><br>SHEN: Yes.<br><br><br>MAINLAND.  John returns to the area where he had first been talking with the female scientist.  The equipment there has also been ransacked.  Hearing rustling in the trees nearby, he heads towards the sound.<br><br><br>ATLANTIS.  Richard escorts Xiaoyi up the stairs to the Control Room.<br><br>WOOLSEY: This is the Control Room – for all intents and purposes the city's nerve centre.  These technicians are the very best at what they do.<br><br>(He walks over to Technician Amelia Banks' console.)<br><br>WOOLSEY: How's the kick boxing going, Amelia?<br><br>BANKS: Great, sir.  Thanks for asking.<br><br>(Smiling back at Xiaoyi, Richard walks over to Chuck's console.)<br><br>WOOLSEY: Hello there, Chet.<br><br>CHUCK: It's Chuck.<br><br>WOOLSEY: Excuse me?<br><br>CHUCK: It's Chuck, sir.  My name is Chuck.<br><br>WOOLSEY: Oh, of course!  Chuck.  (He looks at Xiaoyi.)  Chet's on the late shift.<br><br>(He leads her away as Chuck glares after them and shakes his head in irritation.)<br><br>CHUCK: There <I>is</I> no Chet.<br><br><br>CORRIDORS.  Radek is trotting after Rodney.<br><br>ZELENKA: I think it would be a simple matter of reconfiguring the city's short range sensors in order to achieve a ...<br><br>McKAY (talking over him): You know, I can see your lips moving but I'm not hearing any sound.<br><br>ZELENKA: It would take ... (he trots to catch up with him again) ... it would take less than an hour to make the necessary adjustments that we would have to do.<br><br>(Rodney stops, fed up with him.)<br><br>McKAY: All right, you know what?  If it is <I>so</I> simple and <I>so</I> important to you, why don't you just go ahead and do it yourself?<br><br>ZELENKA: Because I require your authorisation.<br><br>McKAY: You got it.<br><br>ZELENKA: Thank you, Rodney.<br><br>(He turns and starts to walk away.)<br><br>McKAY: Whoa.<br><br>(Radek turns back to him.)<br><br>McKAY: You realise it's highly unlikely you're actually gonna find anything?<br><br>ZELENKA: Well, then I will have wasted an hour of my time and you'll be able to tell me "I told you so."<br><br>McKAY: Hmm!<br><br>ZELENKA: If, on the other hand, I <I>do</I> find something, perhaps they'll name something after <I>me</I> for a change.<br><br>(Smiling smugly, he turns and walks away again.  Rodney thinks about this for a moment, then chases after him.)<br><br>McKAY: Whoa!<br><br><br>CORRIDOR.<br><br>WOOLSEY: The prospect of commanding the Atlantis expedition was a daunting one.<br><br>SHEN: Mmm-hmm.<br><br>WOOLSEY: Doctor Weir and Colonel Carter were incredibly tough acts to follow.<br><br>SHEN: Yet you availed yourself nicely, Richard, and you survived your nine months here.<br><br>WOOLSEY: Well, I like to think I've accomplished a little more than mere survival, and I'm certain that once you've had a chance to review my report ...<br><br>SHEN: That won't be necessary.<br><br>WOOLSEY (smiling at her hopefully): So I'm receiving my graduation papers?<br><br>SHEN: Of course.<br><br>(He lowers his head, smiling in relief.)<br><br>SHEN: In recognition of the great job you've done here, the I.O.A. is appointing you as Chair of Earth's new environmental initiative.<br><br>(Richard's smile begins to fade.)<br><br>SHEN: Congratulations, Richard.  You're coming home!<br><br><br>CONTROL ROOM.  Rodney is sitting at a console while Radek stands nearby.<br><br>McKAY: All right.  Short range sensors are good to go.  (He points to Amelia.)  Start the sweep.<br><br>BANKS: Sweep initiated.<br><br>McKAY: Great!  (He stands up.)  So it should take about thirty minutes to scan the entire planet, which means I've got plenty of time to get down to the cafeteria and get myself some of that fine almond biscotti and a Yoo-hoo and be back in time for you to tell me you have found nothing.<br><br>(He turns to leave.  Amelia's console beeps.)<br><br>BANKS: We found something.<br><br>(Rodney turns back, looking awkward.)<br><br>McKAY: Yes, of course we did.<br><br>(He and Radek go over to Amelia's station and look at the nearby wallscreen.)<br><br>BANKS: Whatever it is, it's sitting approximately fifteen hundred feet below sea level.<br><br><br>MAINLAND.  John is walking through the woods.  Sensing something up ahead, he slows down and walks forward cautiously.  Taking cover behind a tree, he looks out and sees someone up ahead of him.  The man has his back to him and is squatting down behind a broken tree trunk.  He is wearing a uniform that looks suspiciously like that of a Genii.  Coming out from behind the tree, John trots carefully forwards, only to find the space by the trunk empty.  As he frowns, a man's voice speaks behind him.<br><br>VOICE: Hello, John.<br><br>(John whirls around to find the last man he ever expected to see again aiming a pistol at him.  He stares in total disbelief.)<br><br>SHEPPARD: Kolya?!<br><br>(A twig snaps behind him.  John spins around to find a Genii guard standing behind him, who clubs him over the head with his pistol.)<br><br><br>RICHARD'S QUARTERS.  Richard is sitting on his sofa while Xiaoyi stands nearby.<br><br>SHEN: I don't understand your reaction.  Nine months ago, you were <I>dreading</I> coming over here.<br><br>WOOLSEY: A lot has changed in nine months.  I like it here.  And quite frankly, I <I>don't</I> like the idea of leaving a job unfinished.<br><br>(He stands up.)<br><br>WOOLSEY: I've done good work.  My record speaks for itself.  What's <I>really</I> going on?<br><br>SHEN: The I.O.A. is concerned about some of the decisions you've made – decisions that have run counter to protocol and, quite frankly, common sense.  They – we – feel that the demands of this position have compromised your judgement and it's time for a change.<br><br><br>RODNEY'S LAB.  The "whatever it is" has been retrieved from the ocean and is being wheeled into the lab on a trolley pushed by a technician.  It's a metallic cylindrical device, about four feet long.  Rodney and Radek stand waiting for it.<br><br>McKAY: Right here.<br><br>(The technician pushes the trolley over to the men, then looks at them.)<br><br>McKAY: That'll do.<br><br>(The technician leaves the room.)<br><br>ZELENKA: I wonder how long it's been down there?  To think it would have remained undiscovered if we haven't have ...<br><br>(He looks at Rodney's expression.)<br><br>ZELENKA: Nice job on reconfiguring the short range sensors.<br><br>McKAY: Thank you.  Nice job on the wild guess.<br><br>ZELENKA: Thank you!<br><br>McKAY: Shall we?<br><br>ZELENKA: Yes.<br><br>(They pick up a couple of hand held scanners and get to work.)<br><br><br>MAINLAND.  Acastus Kolya is talking into a Genii radio.<br><br>KOLYA: Keep looking.  There's nowhere for them to go.  They're scientists.  Trust me, they don't run very fast.<br><br>(John is sitting nearby with his back against a tree.  His hands have been tied behind him again and the rope has been tied around the tree.  His ankles are also bound and he has a bleeding cut over his left eye.  Kolya looks around as John regains consciousness and begins to struggle against his bonds.)<br><br>KOLYA: Ah, you're awake.  Save your energy – you're not getting away this time.<br><br>SHEPPARD: I killed you.<br><br>KOLYA: You shot me.  There's a difference.<br><br>SHEPPARD: No – I <I>killed</I> you.  Beckett confirmed it – you were dead.<br><br>KOLYA: Yeah, I'm sure that's what he thought.  Let's just say your friend – what was his name?  Lucius? – he wasn't the only one using Ancient technology that day.<br><br>SHEPPARD: How'd you get here?  How'd you find us?<br><br>KOLYA: Turns out some of your offworld contacts aren't as trustworthy as you think.  Your secret's out, Sheppard.<br><br>(He looks into the distance.)<br><br>KOLYA: A half day's walk in that direction will bring us to the edge of the mainland.  I figure it'll take us maybe two days to reach Atlantis by boat.<br><br>SHEPPARD: Before you even get to the city they're gonna blow you out of the water.<br><br>KOLYA: No, they won't even see us coming.  They'll be too busy counting their dead.<br><br>(John glares up at him.)<br><br>SHEPPARD: What are you gonna do?<br><br>(Kolya takes a pair of leather gloves out of his belt.)<br><br>KOLYA: Send an explosive through your Gate, cripple the city's defences.  But, for that, I'm gonna need something from you.<br><br>(He starts to put one of the gloves on.)<br><br>KOLYA: I think you call it an I.D.C.<br><br>SHEPPARD: Go to hell.<br><br>(Kolya puts the other glove on.)<br><br>KOLYA: Yeah.  I <I>thought</I> you would need some convincing.<br><br>(He punches him hard across the face.)<br><br><br>ATLANTIS.  RICHARD'S QUARTERS.  Richard is standing in front of his mirror holding up his suit in front of himself.  He looks at the suit in dread at the thought of having to wear it again permanently.  He lowers it and looks at himself in his Atlantis uniform.  His doorbell bleeps and he puts the suit down and goes to the doors, swiping the wall panel to open them.  Vanessa is standing outside and smiling at him.<br><br>WOOLSEY: Doctor Conrad ... Vanessa.  Come in.<br><br>CONRAD (walking into the room): I hope I'm not intruding.<br><br>WOOLSEY: Not at all.  What brings you by?<br><br>(As he turns to escort her deeper into the room, she takes his arm.)<br><br>CONRAD: This may be wholly inappropriate, but I was wondering whether you'd like to catch a movie.<br><br>WOOLSEY: A movie?<br><br>CONRAD: They're screening two of my favourites tonight: "Planes, Trains and Automobiles" and "Dirty Rotten Scoundrels."<br><br>WOOLSEY: Truth be told, I'm having a horrible day and I'm not in much of a laughing mood.<br><br>CONRAD: Ah.  Then we can wait until tomorrow when they'll be screening "Mad Money" and "Kangaroo Jack."<br><br>(He smiles for a moment.)<br><br>CONRAD: Is it something you'd like to talk about?<br><br>WOOLSEY: It seems the time for talk has passed.  I've just been informed that I'm being relieved of my command here on Atlantis.<br><br>CONRAD: I'm sorry.  Why?<br><br>WOOLSEY: Apparently I'm not very good at toeing the company line.  I assumed I got this position on the strength of my record, but now it's clear that the only reason they appointed me is because they expected I would just roll over for them.<br><br>CONRAD: Then don't.<br><br>WOOLSEY: What?<br><br>CONRAD: <I>Don't</I> roll over for them.  Fight this.<br><br>WOOLSEY: I can't.  The decision's been made.<br><br>CONRAD: If that was true, then why didn't they just forward you a communiqué instead of sending a mouthpiece on a three week journey to the Pegasus galaxy?<br><br>(Richard looks thoughtful.)<br><br><br>MESS HALL OUTSIDE BALCONY.  Xiaoyi is sitting at a table eating a meal.  Richard walks over and sits down opposite her.<br><br>WOOLSEY: Did you really expect me to just give up without a fight?<br><br>SHEN: Honestly, yes.  I assumed you'd let common sense guide you on this one.<br><br>WOOLSEY: You weren't sent here to fire me.  You were sent here to evaluate my performance and make a recommendation based on your findings.  The I.O.A. may be leaning a certain way, but they've yet to make a decision on my fate, yet you – their representative – clearly have.<br><br>(He leans his arms on the table.)<br><br>WOOLSEY: Which leads me to assume something else is going on here.  Someone in the I.O.A. wants me gone and is using you to make sure that happens.  Tell me, Xiaoyi: what are you getting in return?<br><br>(She stares at him silently.  Richard smiles unpleasantly.)<br><br>WOOLSEY: Oh.  It's my job, isn't it?  They've promised you the Atlantis command if you help them get rid of me.<br><br>SHEN: This will all go a lot easier if you just accept where this is going.<br><br>WOOLSEY: The hell I will.<br><br>SHEN: Richard, I hold all the cards.  The decision is in <I>my</I> hands.  This is a fight you cannot win.<br><br>(Richard glares at her defiantly.)<br><br><br>MAINLAND.  Kolya continues punching John with alternate hands, then eventually straightens up, panting with the effort.<br><br>KOLYA: You can tolerate more than any man I've ever known.  Now why is that?<br><br>(John looks up at him blearily.)<br><br>SHEPPARD: I was married once.<br><br>(Kolya chuckles, then squats down to him.)<br><br>KOLYA: You're here in the Pegasus galaxy to protect your people, but half the time you can't even do that.  That's what drives you, isn't it?  Your past failures.<br><br>(He punches him again.)<br><br>KOLYA: You think by not giving me the I.D.C. you're keeping your people safe?  You're just putting off the inevitable.  It's over – you can't protect them.  You, those scientists, your friends back at Atlantis – they're as good as dead.<br><br>(John glares at him.  Kolya straightens up.)<br><br>KOLYA: I see that asking nice isn't working.  I'm gonna have to make other plans.<br><br>(He gets his radio out and activates it.)<br><br>KOLYA: Two men report to my position.<br><br>VOICE (over radio): On our way.<br><br>(Kolya deactivates the radio and looks down at John.)<br><br>KOLYA: In a couple of minutes you're gonna wish you'd given me that I.D.C.<br><br><br>ATLANTIS.  RODNEY'S LAB.  Radek comes over to Rodney who is looking at a hand held device.<br><br>ZELENKA: What are you working on?<br><br>McKAY: Well, according to this, the device is emitting a low-level energy signature – an oscillating pattern.<br><br>ZELENKA: Is it dangerous?<br><br>McKAY: No, radiation's minimal but, um ...<br><br>ZELENKA: ... unimportant.  We should be focussing on the data.<br><br>McKAY: I <I>was</I>.<br><br>(Annoyed, he turns to his computer.)<br><br>McKAY: Like, I've run every kind of decrypt sweep I can think of on this thing.  Still nothing.  I don't know <I>what</I> to do.<br><br>ZELENKA: Well, you'll think of something.<br><br>McKAY (tetchily): Really?  What makes you so sure?<br><br>ZELENKA (looking at his own screen): Well, because you're brilliant.<br><br>McKAY: It's true; doesn't mean I'm gonna sudd...<br><br>(He stops and frowns.)<br><br>McKAY: Wait a minute.  What did you just say?  Why'd you say that?  What, are you sick?  (His eyes widen.)  Am <I>I</I> sick?  What have you heard?<br><br>ZELENKA: No, nobody's sick, Rodney.  I said you're brilliant because ... because you are.<br><br>McKAY (surprised): Hmm!<br><br>ZELENKA: I rarely say it because you're a difficult man to compliment.  You're egotistical, you're arrogant, you're stubborn ...<br><br>McKAY: ... <I>and</I> brilliant.<br><br>ZELENKA (sighing a little): Yes, Rodney.  And brilliant.<br><br>McKAY: Right!<br><br>(He turns back to his computer, buoyed up by the compliment, and looks at the alien data scrolling up the screen.)<br><br>McKAY: Well, pull up a chair, Radek.  We've got some work to do.<br><br>(He gets back to work as Radek comes round the table to watch him.)<br><br>McKAY: All right ...<br><br><br>MAINLAND.<br><br>SHEPPARD: You gonna tell me what Plan B is or are you just gonna surprise me?<br><br>KOLYA: I'm gonna have my men repair the damage they did to your Puddle Jumper, then use it to attack the city.<br><br>SHEPPARD: Well, I hate to be Mr Negative but I can think of at least one problem you're gonna run into.<br><br>KOLYA: Yes, I know all about the Ancient gene needed to operate the Jumper.<br><br>(Two of his guards approach and start to cut John loose from the tree trunk.)<br><br>KOLYA: But that's not gonna be a problem – because you're gonna give us a hand.  (To the guards) Hold him.<br><br>(The guards drag John to his feet, walk him forward and then push him onto his knees and hold his arms out wide.  Kolya pulls out a large blade.)<br><br>KOLYA: Last chance, Johnny boy.  Are you gonna give me that I.D.C.?<br><br>(John stares up at him, clearly afraid of what might happen next, but still stubbornly silent.)<br><br>KOLYA: Didn't think so.<br><br>(He raises the blade above his head, then slashes it down towards John's left wrist.)<br><br><br>LATER.  John regains consciousness leaning against the tree, and looks down at his left arm.  It ends at the wrist.  The stump is firmly bound in white material.  He stares at it, grimacing in horror and trying not to vomit.  Kolya, standing nearby, turns and looks down at him.<br><br>KOLYA: You're an interesting man, Sheppard.  You travel to another galaxy, risk your life defending a bunch of people you don't even know.  You ask me, you're either someone with a death wish or someone running away from something.  (He squats down to him.)  So tell me: what <I>are</I> you running away from?<br><br><br>ATLANTIS.  RODNEY'S LAB.  Rodney comes back in carrying a hand held scanner.<br><br>ZELENKA: Where've you been?<br><br>McKAY: All over.  The electromagnetic radiation this device is giving off covers the entire city and well beyond.<br><br>ZELENKA: I thought you said it wasn't dangerous.<br><br>McKAY: Well, it's not.  (He points to the scanner he's holding.)  I mean, at least according to this, it's operating at a relatively low frequency.  I think, at worst, some people may experience headaches or have trouble sleeping.<br><br>ZELENKA: Well, then, we'll shut it off before bedtime!  In the meantime, you should be focussing on the data.<br><br>McKAY: Yeah, I'm not getting anywhere with that – I mean, despite the fact that I am a genius.<br><br>(Radek sighs.)<br><br>ZELENKA: I said you were brilliant.  I didn't say you were a genius.<br><br>McKAY: Ah, same diff.  (He looks at the computer screen.)  I don't get it, you know?  This script appears to be a lot less complicated than many we've encountered.  It's only twelve symbols in an endlessly repeating yet varying sequence.<br><br>ZELENKA: Yeah, I agree.  It's very curious.  It's like being asked to figure out the password for an alien laptop or something.<br><br>(Rodney's eyes widen and he bends down to the keyboard.)<br><br>ZELENKA: I think that if we ...<br><br>(He pauses as Rodney starts to type.)<br><br>ZELENKA: What?  What are you doing?<br><br>McKAY: I'm figuring out the alien's password.<br><br>ZELENKA: Rodney, I was kidding.<br><br>McKAY: No-no-no, it makes sense.  I mean, every kid with a computer password-protects.  Why wouldn't an alien?<br><br>(He types some more and the text stops scrolling.  The gaps between the sections of text become highlighted.)<br><br>McKAY: There.  Why didn't I see that before?<br><br>ZELENKA: What?<br><br>McKAY: Well, the pattern isn't <I>in</I> the text – it's in the space <I>between</I> the text, each exactly twelve symbols in length.  Each section of text is a multiple of twelve – twenty-four, forty-eight, ninety-six – separated by a twelve symbol space.  Look, it's a puzzle – it's a prompt!<br><br>(He types and the screen changes.)<br><br>ZELENKA: What are you doing?<br><br>McKAY: I'm running pattern recognition software on the twelve symbol sequence.  Hopefully I can come up with a twelve symbol permutation that I can feed directly back into the device and if I'm right ... if we're right ... we'll unlock the alien laptop.<br><br><br>EXTERIOR BALCONY.  Somewhere in the city Richard comes out onto a balcony and finds Vanessa standing there gazing out over the ocean.<br><br>WOOLSEY: You poached my private spot!<br><br>(She turns to him, bewildered.)<br><br>CONRAD: What?<br><br>WOOLSEY: Uh, what I meant to say is: you discovered my little personal area.<br><br>(She frowns, still unsure what he means.)<br><br>WOOLSEY: Uh, this is where I come to be alone with my thoughts.<br><br>CONRAD (smiling): Do you mind sharing it?<br><br>WOOLSEY (smiling): Not at all.<br><br>(He joins her at the railing and they look out at the view of the city and the water.)<br><br>CONRAD: It's beautiful.<br><br>WOOLSEY: Mmm.<br><br>CONRAD: I wish I could stay here forever.<br><br>WOOLSEY: By the way, I wanted to thank you for earlier today.  I took your advice.<br><br>CONRAD: Are they backing down?<br><br>WOOLSEY: Unlikely, but at the very least I have the satisfaction of knowing I went out swinging.<br><br>(Vanessa smiles.)<br><br>CONRAD: You're a good man, Richard.  I really wish they could see that.<br><br>(Richard turns to her.)<br><br>WOOLSEY: Vanessa, would you like to have dinner with me tonight?<br><br>CONRAD: It would be my pleasure.<br><br>WOOLSEY: Wonderful!  What time should I swing by to pick you up?<br><br>CONRAD: It might be easier if we just met up.<br><br>(Amelia approaches.)<br><br>BANKS: Mr Woolsey, you're off radio.  Doctor McKay needs to see you right away.<br><br>(Smiling at Vanessa, Richard turns and walks over to join Amelia, who leads him away.  Nearby, hidden from everyone's view, Xiaoyi has been lurking and listening to the whole conversation.)<br><br><br>RODNEY'S LAB.  Rodney is showing Richard the decoded information from the device.<br><br>McKAY: That is the historical, scientific and technological records of an extinct civilisation, and if this device is any indication, a highly advanced one at that.  I mean, medical breakthroughs, specifications for advanced weaponry ...<br><br>WOOLSEY: This is incredible!<br><br>McKAY: It ... is!<br><br>(He bites his lip.)<br><br>WOOLSEY: I sense a "but."<br><br>McKAY: No-no-no.  No-no-no, no "buts."  Uh, a "by the way," maybe.<br><br>WOOLSEY: I'm listening.<br><br>McKAY: Well, it's like I said: the device contains the records for a long-dead civilisation, but it also contains the chemical building blocks for a silicon-based life form.<br><br>WOOLSEY: What does that mean?<br><br>McKAY: This device was designed to seed planets with organisms that would, in time, evolve into a sentient race.  Once that sentient race reached a certain level of intellectual maturity, they could then benefit from the information left for them by their extinct ancestors.<br><br>WOOLSEY: So what happened?<br><br>McKAY: I'm not sure.  I mean, obviously they didn't complete their journey and it ended up here instead.  Still, with the help of the Daedalus, we could ensure that it finally reached its target destination.<br><br>WOOLSEY: OK.  Let's copy the data, then send it on its way.<br><br>McKAY (grimacing): Which is where the "Oh, by the way" comes in.  Look, this device is set up in such a way that accessing the data would do irreparable damage to the biological samples.<br><br>WOOLSEY: In other words, it's either/or.<br><br>McKAY (nodding): Either we take the data, or we send it on its way.  We can't do both.<br><br><br>MAINLAND.  John is lying against the tree, looking weak and only half conscious.  Kolya is squatting nearby.<br><br>KOLYA: You disappoint me, John.  I didn't think you'd be this easy to break.  Even those two scientists you came with put up more of a fight before we killed them.<br><br>(John glowers at him.  Kolya smiles smugly.)<br><br>KOLYA: Just another two you couldn't save.<br><br>(A guard trots over.)<br><br>GUARD: We're done.<br><br>(Kolya stands up and walks over to him.)<br><br>KOLYA: It's operational?<br><br>GUARD: Yes.  We used the genetic material to initiate it.<br><br>KOLYA: You hear that, Sheppard?<br><br>(He turns around again.)<br><br>KOLYA: We've got the Jumper ...<br><br>(He stops and stares.  John has disappeared.)<br><br>GUARD: Sir, we can come back and deal with him once we're done with Atlantis.<br><br>KOLYA: No.  We deal with him now.  Find him and kill him.<br><br>(Nearby, John is hidden behind a tree.  Grimacing in pain, he wraps his rifle shoulder strap around the stump of his arm like a sling, then tucks the end of his arm inside his jacket and heads off into the woods.)<br><br><br>ATLANTIS CONTROL ROOM.  Richard walks into the room and smiles at a technician at the nearest console.<br><br>WOOLSEY: Hello, Ellen.<br><br>(He walks past Chuck's station, pointing at him as he goes.)<br><br>WOOLSEY: Hello ... you.<br><br>(He walks to the next station.)<br><br>WOOLSEY: Amelia, could you please do me a favour and pass on a message to Doctor Vanessa Conrad.  She's in one of the science departments.  Please tell her that, given Doctor McKay's recent findings, we may have to reschedule our dinner tonight.<br><br>(Smiling, Amelia types on her laptop, then frowns.)<br><br>BANKS: Doctor Conrad?  Are you sure, sir?<br><br>WOOLSEY: Better yet, why don't you just tell me where her quarters are?  I suppose it's only proper that I tell her personally.<br><br>BANKS: There's nothing here, sir.<br><br>WOOLSEY: She hasn't been assigned quarters yet?<br><br>BANKS: No, sir, according to this, there's no Doctor Conrad on Atlantis.<br><br><br>MAINLAND.  Three Genii guards are running through woods searching for John.  The one in the rear steps into a rope trap which snares his ankle and hauls him up into the air.  John runs out of cover and shelters behind him as he dangles helplessly while the other two guards turn and open fire with their pistols.  Their bullets hit their colleague and John snatches out the man's own pistol and shoots them down.  Holstering the gun, he takes out the man's radio and shoves it into his jacket.<br><br><br>ATLANTIS CONTROL ROOM.<br><br>WOOLSEY: Amelia, the woman I was talking to when you approached me earlier today.<br><br>(Amelia frowns.)<br><br>BANKS: Sir?<br><br>WOOLSEY: On the balcony.  The woman I was speaking with when you delivered the message from Doctor McKay.<br><br>BANKS: She probably left before I got there, sir.  When I approached you on the balcony, you were alone.<br><br><br>MAINLAND.  Two Genii guards make their way cautiously through the woods.  Spotting one of their radios lying on the ground and crackling with static, they walk over and one of them picks it up.  John comes out of hiding nearby and shoots them down.<br><br><br>ATLANTIS INFIRMARY.  Richard lies on a bed with his eyes closed as the medical scanner runs over him.  Vanessa walks over to his bedside as the scanner shuts down.<br><br>CONRAD: There's nothing wrong with you.<br><br>(Her voice makes him jump.  He opens his eyes and sits up, swinging his legs over the edge of the bed.)<br><br>WOOLSEY: What's going on?<br><br>(Jennifer Keller turns around from the scanner screen nearby.)<br><br>KELLER: Uh, I'll let you know in a second.  I'm just looking over your results.<br><br>(Vanessa walks over to Jennifer's side.)<br><br>CONRAD: She won't find anything.<br><br>(Jennifer turns around and walks over to Richard.)<br><br>KELLER: According to this, you're fine, perfectly normal.<br><br>CONRAD (standing behind her): See?<br><br>WOOLSEY: Then what is going on?!  Why isn't your name in the database?  Why couldn't Amelia see you earlier today?<br><br>(Jen looks at him in confusion.)<br><br>KELLER: Uh, I'm pretty sure my name <I>is</I> in the database – and as for Amelia, if she has a medical concern, there's no reason why she shouldn't see me.  When did she come by?<br><br>CONRAD: She can't see me, Richard.  Only <I>you</I> can see me.<br><br>WOOLSEY: Why?<br><br>KELLER: I'd like to clarify the misunderstanding.  I don't want her thinking I turned her away.<br><br>WOOLSEY: Uh ... Amelia's fine.  I'll talk to her.<br><br>KELLER: Great!  Um, as for you ... (she walks over to a cabinet and takes out a bottle of pills) ... you said you'd been feeling unwell?<br><br>WOOLSEY: Uh, that's right.<br><br>KELLER: Tired?<br><br>WOOLSEY: Somewhat.<br><br>KELLER: Any visual symptoms – shadows or flashes in your field of vision?<br><br>WOOLSEY: Uhhh ... (he turns and looks at Vanessa, then turns back to Jennifer) ... sort of, yes.<br><br>KELLER: What about auditory symptoms?  The occasional ringing or buzzing or whistling?<br><br>CONRAD: We need to talk.<br><br>(Richard raises the hand nearest to Vanessa and wiggles his fingers.)<br><br>WOOLSEY: Yes, the occasional buzzing.<br><br>CONRAD: Somewhere private.<br><br>(Again Richard raises his fingers and wiggles them.)<br><br>WOOLSEY: There it goes again.<br><br>KELLER: I bet you haven't been sleeping very well, what with this whole probationary review.<br><br>WOOLSEY: Ah, of course.<br><br>(He jumps down off the bed.)<br><br>WOOLSEY: That's it exactly.<br><br>KELLER: You're obviously under a lot of stress and sometimes anxiety can manifest itself in a variety of ways.  (She hands him the pills.)  But these are gonna help you relax and sleep through the night.  And hopefully once you are rested, you'll be feeling much better and your symptoms will disappear – but if they don't, come back and see me, OK?<br><br>WOOLSEY: Thank you, Doctor.<br><br>(He turns to leave but stops as Vanessa speaks.)<br><br>CONRAD: I wouldn't advise taking those.<br><br>(Ignoring her, Richard leaves the room.)<br><br><br>RODNEY'S LAB.  Rodney is sitting at the table and looking at a couple of laptops thoughtfully.  He looks up and sees Radek standing in the doorway.<br><br>McKAY: How long have you been standing there?<br><br>ZELENKA: Sorry.  I just didn't want to disturb you.  You seemed deep in thought.<br><br>McKAY: I'm <I>always</I> deep in thought.  Makes me sharp – and sleepless.<br><br>ZELENKA: Hmm.  So what are you working on?<br><br>McKAY: I'm just analysing the readings from the radiation the device is emitting.<br><br>ZELENKA: Oh, Jeez, again with the radiation.<br><br>McKAY: Hey, I'm just killing time ‘til Woolsey gives us the green light to start data retrieval on that thing.<br><br>ZELENKA: You think he will?<br><br>McKAY: Of course.  This is <I>huge</I>.  I mean, the chronicled achievements of an alien race?  You kidding me?<br><br>(His screen changes and a new reading appears.)<br><br>McKAY: Whoa, wait a minute.<br><br>ZELENKA: What?<br><br>(He walks over to look at the readout.)<br><br>McKAY: The modulated ultra-low frequency emanating from the device – I've seen something like this before.<br><br>(He stands up as he begins to realise what it is.)<br><br>McKAY: Oh, no.<br><br><br>MAINLAND.  A Genii guard creeps through the woods.  He sees someone slumped on the ground ahead of him, wearing black.  He aims carefully and shoots him in the back, then walks forward to investigate.  As the figure becomes clearer, he realises that it's not John but one of his own men who has been dressed in John's black vest.  He turns around but is too late to stop John stepping out of hiding and hurling a knife into his chest.<br><br><br>ATLANTIS.  RICHARD'S QUARTERS.  Richard walks in to find Vanessa waiting for him.  He pauses for a moment, then walks in and the doors close behind him.<br><br>CONRAD: I'm sorry I made you doubt your sanity.<br><br>WOOLSEY: Who <I>are</I> you?  <I>What</I> are you?<br><br>CONRAD: I'm a physical manifestation of your subconscious romantic and sexual ideals.<br><br>(Richard's jaw drops.)<br><br>WOOLSEY: Oh God.  (He puts his hand to his head.)<br><br>CONRAD: You're not crazy.  You're really seeing me.<br><br>WOOLSEY: Why?<br><br>CONRAD: I'm sorry I had to deceive you but the survival of an entire civilisation is at stake.<br><br>WOOLSEY: This has something to do with that device Doctor McKay recovered, doesn't it?<br><br>(Someone knocks on the doors.)<br><br>SHEN's VOICE: Richard?<br><br>(Richard stares at Vanessa.)<br><br>CONRAD: She can't see me.<br><br>(Xiaoyi knocks again.  Richard walks across to the doors and swipes the wall panel to open them.)<br><br>WOOLSEY: Yes.<br><br>(Xiaoyi walks in as Richard looks across at Vanessa anxiously.)<br><br>SHEN: I thought I heard you talking with someone.<br><br>(He clears his throat nervously.)<br><br>WOOLSEY: No.  I was, uh, running through the pep talk I'm going to be giving the gang in Microbiology.<br><br>SHEN: Really?  You know, I saw you on the balcony this afternoon talking with ... yourself.<br><br>WOOLSEY: I ... occasionally do verbalise my thoughts.  It helps me put things in perspective.<br><br>SHEN: A casual observer might find that sort of behaviour a little disconcerting, especially coming from someone in your position faced with a very important decision.<br><br>WOOLSEY: Oh.  Another nail in my coffin.<br><br>SHEN: Doctor McKay briefed me on the device you recovered.<br><br>WOOLSEY: Yes, it is an impressive find ...<br><br>CONRAD: ... that doesn't belong to you.<br><br>WOOLSEY (gesturing angrily at her): Please ... <br><br>(He quickly moves his hand slightly so that it's pointing towards a chair near to where Vanessa is standing.)<br><br>WOOLSEY (to Xiaoyi): ... sit down.<br><br>(She sits down as Vanessa moves to stand beside her chair.)<br><br>SHEN: He tells me you've delayed giving the go-ahead on the data retrieval.<br><br>WOOLSEY (also sitting down): I'm not sure if Doctor McKay explained the dilemma we're facing.<br><br>SHEN: I can't even believe you're considering letting this slip away.<br><br>WOOLSEY: There are other issues to consider.<br><br>SHEN: Such as?<br><br>CONRAD: The fate of another race.<br><br>WOOLSEY (angrily surging to his feet): Will you stay out of this?!<br><br>(Xiaoyi stands up.)<br><br>SHEN: I will do no such thing.  Their civilisation is dead; <I>ours</I>, on the other hand, is very much alive and we could use that information.<br><br>WOOLSEY: We'd be robbing a civilisation of the opportunity to rebuild itself.<br><br>SHEN: There's no guarantee that a civilisation will evolve from the seeding process.  The entire race could die out before it even reached sentient status – and we would be throwing away an incredible opportunity.<br><br>WOOLSEY: Or consigning billions of potential lives to oblivion.<br><br>SHEN: I can't believe your good fortune, Richard.  This is your opportunity to show the team back home that you can play ball.  Follow procedure and save your job.<br><br>(Behind her, Vanessa looks horrified.)<br><br>SHEN: Or you can hand it to me on a silver platter.  Your choice.<br><br><br>MAINLAND.  Kolya is creeping around in the woods.  John, standing nearby and waiting for him, fires at him and hits him at least twice in the chest.  As Kolya falls, firing back towards him but missing, John runs forward.  He reaches the area where Kolya fell, but there's no sign of him.  As he stares around in confusion, Kolya runs up behind him and hurls himself at him.  They tumble forward, rolling down an incline and Kolya releases him.  John's impetus carries him over the edge of a cliff but he manages to grab hold of a root on the top of the cliff and dangles helplessly over an enormous drop.  As he tries in vain to pull himself up one-handed, Kolya walks to the edge of the cliff and looks down at him dispassionately.<br><br><br>ATLANTIS.  RICHARD'S QUARTERS.  Richard walks closer to Xiaoyi.<br><br>WOOLSEY: How <I>dare</I> you threaten me?<br><br>SHEN: It's not a threat, Richard.  I'm simply telling you how things are going to play out if we lose that device.<br><br>CONRAD: Richard, please.  They were a kind and peaceful race, one well worth saving.<br><br>(The doors open and Rodney walks in.)<br><br>McKAY: We need to get rid of it.  Look, the energy signature that device is giving off is very similar to one we encountered on M1B-129.  It can induce mass hallucinations.<br><br>CONRAD: Or function as a means of communication between two very different species.<br><br>SHEN: Let's act quickly.  (She turns to Rodney.)  Salvage the data and destroy the device.<br><br>WOOLSEY: Thank you all ... both ... for enlightening me.  I'll make my decision shortly.<br><br>(Taking Xiaoyi's arm, he ushers her towards Rodney.)<br><br>WOOLSEY: Please.<br><br>(Putting his hand on Rodney's shoulder, he gently but firmly shoves them both out of the room and swipes the wall panel to close the doors as quickly as possible.  He turns back to Vanessa.)<br><br>WOOLSEY: Now, why don't you tell me what's going on?<br><br><br>MAINLAND.  Kolya looks over the edge of the cliff as John continues to dangle from the root.<br><br>KOLYA: This has gone on long enough.  Use your other hand.  Go on.<br><br>(John pulls his left arm out of his jacket and stares at it in amazement as he finds that his hand has reappeared and the bandage has vanished.  Unknown to him, all the wounds on his face have also disappeared.)<br><br>KOLYA: I have no intention of letting you die.  Now climb back up, John.<br><br>(John unravels his arm from the rifle strap, swings himself around and reaches up with his hand to seize the root and start pulling himself up.)<br><br>KOLYA: That's it.<br><br>(John scrambles over the edge of the cliff and stands up.  His pistol has reappeared in its holster and he takes it out, holding it ready but pointed downwards as he looks at Kolya.)<br><br>SHEPPARD: What the hell's going on here?<br><br>KOLYA: Tens of thousands of years ago, a civilisation foresaw its end.  After millions of years of evolution, a race known as the Sakari faced extinction.<br><br>(The rest of the scene switches back and forth between the mainland clifftop and Richard's quarters.)<br><br>CONRAD: Knowing they couldn't save themselves, they spent their final days creating the means to start over.  They built seed carriers, each with a different target world programmed into its navigation system – worlds that would provide them with the chemical compounds necessary to produce, sustain and develop life.<br><br>KOLYA: Each seed carrier also held a repository containing the history of the Sakari people – their struggles, their achievements and the mistakes that ultimately led to their own destruction.<br><br>CONRAD: The seed carriers were outfitted with sub-space communicators designed to alert the group once a seeding was successful.  Over fifty were launched; none achieved their goal.<br><br>KOLYA: This unit malfunctioned.  I guided it to the nearest planet – this world – in the hope that it would prove suitable to the life-forming process.<br><br>CONRAD: It wasn't.  This device survived re-entry relatively unscathed and spent the next two thousand years at the ocean's bottom – until recently, when its dormant systems were awakened by its sensors picking up trace readings from one of your submerged Puddle Jumpers.<br><br>WOOLSEY: The one Doctor McKay flew up out of the underwater Bay several weeks ago.<br><br>CONRAD: I scanned your city and I linked with you.<br><br>WOOLSEY: What are you?<br><br>CONRAD: I'm the seed carrier's artificial intelligence.  My aim was to study you, to get to know you, and eventually direct you to help complete this unit's assignment.<br><br>WOOLSEY: By manipulating me.<br><br>CONRAD: No!  By finding out what kind of person you were, in the hope that we could place our trust in you.<br><br>WOOLSEY: Couldn't you have simply communicated your situation to us from the beginning?<br><br>CONRAD: Please understand – I am the last hope of the Sakari people.  I couldn't risk it.  I'm sorry.<br><br>(On the clifftop)<br><br>KOLYA: As a soldier, you were a threat.  If anyone was to use force to secure the repository, it would have been you, the military man.  So I connected with your mind to distract you.<br><br>SHEPPARD: "Distract" me?  Making me think the Jumper had been sabotaged would have been enough of a distraction.<br><br>KOLYA: You would have discovered the subterfuge.  I'm unable to maintain a static illusion over time.  It was necessary to keep your mind occupied.<br><br>SHEPPARD (glaring at the image of Kolya in front of him): And <I>that's</I> what you chose?<br><br>KOLYA: What <I>you</I> chose.  I didn't have full control over your hallucination or the direction it took.  It was <I>your</I> mind driving the diversion.  I merely played along.<br><br>SHEPPARD: You're saying I tortured myself?<br><br>KOLYA: You torture yourself every day, John – but in this case it was your mind manifesting your darkest fears.  You were the architect of your own self deception.<br><br>(In Richard's quarters)<br><br>CONRAD: Now you know the truth, and have a decision to make.<br><br><br>LATER.  John returns to the Puddle Jumper where Parrish and the female scientist are sitting waiting for him.  Parrish stands up as he sees him approaching.<br><br>PARRISH: Colonel, where <I>were</I> you?  Do you know how long we've been sitting here wait...<br><br>SHEPPARD (walking past him and into the ship): Shut up.  Get in the Jumper.<br><br><br>ATLANTIS.  XIAOYI'S QUARTERS.  As she types on a laptop computer, Amelia's voice comes over the comms.<br><br>BANKS: Sorry to disturb you, Ms Shen, but you've just received a secure transmission from Earth.  Can I patch it through?<br><br>SHEN: Go ahead.<br><br>(A man's face appears on the screen.)<br><br>SHEN: Luther!  How are things?<br><br>LUTHER: Well – but I felt it only fair to inform you of recent developments here.  As much as I believe you'd be a worthy candidate to replace Richard Woolsey, I'm afraid the rest of the Council feels otherwise.  It looks like we'll be going with James Coolidge instead.<br><br>SHEN: Coolidge?!<br><br>LUTHER: Don't worry.  You'll still be rewarded for facilitating the transition.  Congratulations – you'll be chairing the I.O.A.'s new environmental initiative.<br><br>(Xiaoyi glares at him angrily for a moment, then slams the lid of the laptop down.)<br><br><br>LATER.  Xiaoyi comes into the Gateroom as the Stargate begins to dial out.  She walks over to Richard.<br><br>SHEN: Well, I'm off.<br><br>WOOLSEY: I suppose I'll be joining you shortly.<br><br>SHEN: Don't make any holiday plans.  You're not going anywhere.  I gave you a glowing review, and since your future rests entirely on my report, I'd like to be the first to congratulate you as the new permanent commander of the Atlantis expedition.<br><br>(She shakes his hand as he stares at her in surprise.)<br><br>WOOLSEY: I don't understand.<br><br>(The Stargate kawhooshes.)<br><br>SHEN: Like you, Richard, I'm nobody's puppet.  You should have thought of that before delivering yesterday's update.  Good luck.<br><br>(She walks towards the Gate as Richard watches her go, still bewildered.  As she enters the event horizon and the Gate closes down, he turns to Amelia who is standing nearby.)<br><br>WOOLSEY: Yesterday's update?<br><br>BANKS: I don't know what she's talking about, sir.  We haven't had a scheduled dial-out in days.<br><br>(Richard frowns towards the Gate, then turns and sees Vanessa standing nearby, smiling at him.  He turns back to Amelia.)<br><br>WOOLSEY: Could I have a moment alone, Amelia?<br><br>BANKS: Yes, sir.<br><br>(She goes up the stairs to the Control Room as Richard turns back towards Vanessa.)<br><br>WOOLSEY: I assume that you're responsible for that?<br><br>CONRAD: Consider it a going away present.<br><br>WOOLSEY: Thank you.<br><br>(They smile at each other as John and Rodney wheel in the trolley holding the cylindrical device.)<br><br>McKAY: All righty!<br><br>(John smiles a little bitterly at Vanessa as he approaches her.)<br><br>McKAY: We are all fixed up and ready to roll.<br><br>WOOLSEY: So what happens to you when you reach your final destination?<br><br>(He's facing Rodney, who is standing in front of Vanessa.  Rodney stares at him.)<br><br>McKAY: "Destination."  Um, you're talking to the A.I., aren't you?<br><br>(He looks all around him and then steps aside, although he has no idea where she is.)<br><br>CONRAD: I'll start the process that will give life to the Sakari, then I'll go to sleep until a time when I'm needed again.<br><br>(Smiling, Richard nods at her.  Rodney watches him, knowing what he's doing but still finding it really odd that he's smiling at thin air.  Vanessa turns to John.)<br><br>CONRAD: John.  I realise it may have been an unpleasant experience.<br><br>SHEPPARD: Yeah, well, just a little bit.<br><br>McKAY: What ... you can see her too?!<br><br>CONRAD (to John): And I want you to know I'm sorry for what you had to go through.<br><br>(John nods, grimacing at the memory.  Amelia calls down from the Control Room balcony.)<br><br>BANKS: The Apollo is ready to beam.<br><br>WOOLSEY (to Vanessa): The ship'll take you to your target planet.<br><br>McKAY (irritably): I'm sorry, you know, I don't mean to complain or anything.  It's just that, you know, I <I>have</I> spent the better part of a day making sure this was in working order ... (He gestures at the device.)  It'd be kind of nice, you know, just to get a little face time with the ...<br><br>(He gestures angrily at the device again.)<br><br>CONRAD: Here you are, Doctor McKay.<br><br>(Rodney turns in surprise as he hears her voice.)<br><br>CONRAD: The true form of the Sakari.<br><br>(She morphs into a slender, bald, skeletal humanoid shape with a silver skin.  Rodney stares.)<br><br>McKAY: Neat!<br><br>(Richard smiles a little ruefully at the alien.)<br><br>WOOLSEY: Good luck.<br><br>(It bows its head to him.  A transporter beam whisks the device away and the image of the alien melts away.  John and Rodney start to leave the room.)<br><br>SHEPPARD: "Neat"?!<br><br>McKAY: What?  It caught me off guard!  What did you <I>want</I> me to say?!  What would <I>you</I> have said?<br><br>SHEPPARD: Uh, "weird."<br><br>(Richard smiles as the boys wander off.)<br><br><br>MESS HALL OUTSIDE BALCONY.  Team Sheppard is sitting at a table at the edge of the balcony and eating.  Richard walks past them holding a tray.<br><br>TEYLA: Mr Woolsey.  Would you care to join us?<br><br>WOOLSEY: Well, actually I have some reports to file ...  (He looks at her expression.)  Thank you.  I'd love to join you.<br><br>(He puts his tray onto the end of the table as the others shuffle sideways to make some space.  Walking over to the next table he picks up a chair, brings it back and sits down.)<br><br>McKAY: So you really had no idea that what you were seeing wasn't real?<br><br>WOOLSEY: Trust me, the manifestations were very convincing, Doctor.  You wouldn't have known.<br><br>McKAY: Well, with all due respect, I think they knew they couldn't fool me, so they, you know, didn't bother.  They just concentrated on you two.<br><br>SHEPPARD: You know what I don't get is the A.I. thing revealed itself that morning; you discovered the device that afternoon.  I mean, that's perfect timing.<br><br>WOOLSEY: The colonel's right.  That was <I>very</I> coincidental.<br><br>McKAY: And I know what you're implying, OK, but my mind was clear, all right?  That device was found because of my brilliant thinking and ... (he hesitates, then continues reluctantly) ... much as I hate to admit it, a little help from Zelenka.<br><br>SHEPPARD: What are you talking about?  Zelenka's offworld.<br><br>McKAY: No, he's not.  He came back yesterday.<br><br>(Ronon frowns.)<br><br>McKAY: Lieutenant Donovan had a nasty reaction to something he ate.  They came back early.<br><br>(Teyla and Richard exchange a long look.) <br><br>McKAY: ... Didn't they?<br><br>(John smirks at him.)<br><br>McKAY: Oh, son of a ...!<br><br>SHEPPARD: Guess it wasn't so much of a coincidence after all!<br><br>(Rodney sinks back in his chair.  Richard chuckles and pats his shoulder sympathetically.)
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="514.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s5/515.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="516.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s5/index.shtml">
+<IMG SRC="/graphics/title_s5episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Five Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="501.shtml" CLASS="list">Search and Rescue</A><BR><A HREF="502.shtml" CLASS="list">The Seed</A><BR><A HREF="503.shtml" CLASS="list">Broken Ties</A><BR><A HREF="504.shtml" CLASS="list">The Daedalus Variations</A><BR><A HREF="505.shtml" CLASS="list">Ghost In the Machine</A><BR><A HREF="506.shtml" CLASS="list">The Shrine</A><BR><A HREF="507.shtml" CLASS="list">Whispers</A><BR><A HREF="508.shtml" CLASS="list">The Queen</A><BR><A HREF="509.shtml" CLASS="list">Tracker</A><BR><A HREF="510.shtml" CLASS="list">First Contact</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="511.shtml" CLASS="list">The Lost Tribe</A><BR><A HREF="512.shtml" CLASS="list">Outsiders</A><BR><A HREF="513.shtml" CLASS="list">Inquisition</A><BR><A HREF="514.shtml" CLASS="list">The Prodigal</A><BR><A HREF="515.shtml" CLASS="list">Remnants</A><BR><A HREF="516.shtml" CLASS="list">Brain Storm</A><BR><A HREF="517.shtml" CLASS="list">Infection</A><BR><A HREF="518.shtml" CLASS="list">Identity</A><BR><A HREF="519.shtml" CLASS="list">Vegas</A><BR><A HREF="520.shtml" CLASS="list">Enemy At the Gate</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Five</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B002ACP0MO/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B002612S6A/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls5.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="514.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s5/515.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="516.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

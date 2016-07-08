@@ -1,0 +1,526 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Rising, Part 1" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s1/101.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s1/transcripts/101.shtml">Transcript</A>
+				 | <A HREF="/atlantis/s1/reviews/101.shtml">Review</A>
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=507">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=252">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s1/101.shtml#production">Production</A>
+				
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=1981">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s1/101.shtml"><IMG SRC="/atlantis/graphics/101_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="RISING, PART 1" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://www.amazon.com/exec/obidos/ASIN/B000IKAHN2/bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 101<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 1, Disc 1<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 07.16.04<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 09.19.05<BR>
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0942249/" TARGET="_blank">Brad Wright</A> & <A HREF="http://www.imdb.com/name/nm0178338/" TARGET="_blank">Robert C. Cooper</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0939869/" TARGET="_blank">Martin Wood</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">A new Stargate team embarks on a dangerous mission to a distant galaxy, where they discover a mythical lost city -- and a deadly new enemy.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    SEVERAL MILLION YEARS AGO.<br><br>A small spaceship flies over the top of clouds. As it reaches the edge of the clouds, we see a large star-shaped city on the ground, surrounded by what looks like a forcefield. Inside the city, a man and a woman dressed in futuristic-looking clothes stand at a window watching the ship approach, then turn and gaze at each other. The woman is Ayiana, last seen in the SG-1 episode "Frozen." Outside the window, the small ship bursts through the forcefield and comes in to land. The man and Ayiana gaze at each other for a moment longer, then the man turns and walks away. Ayiana watches him go, a look of longing or loss on her face.<br><br>After a few moments she turns to look out of the window again. Behind her we see an Ancient Control Chair, the same one that Jack O'Neill used to fight off Anubis's fleet in the SG-1 episode "Lost City." Outside, the city begins to rise into the air, leaving behind only the area that Ayiana is standing in. Once clear of the central area, engines kick in and the city shoots up into the sky. A shockwave of snow and ice rolls towards the camera and envelops it.<br><br><br>ANTARCTICA: PRESENT DAY.<br><br>As the snow clears, we see a small dome and outbuildings in Antarctica. The view moves inside the dome and an elevator descends down to the level where the Control Chair was found. The elevator arrives and we see a hive of activity in a large area carved out of the rock. Many scientists are working down there. As the doors to the elevator open, a little way away we see a man working on an unused attack drone from amongst those which took down Anubis's fleet. Doctor Elizabeth Weir, formerly Head of Stargate Command, comes out of the elevator and a scientist hands a computer pad to her.<br><br>VOICE OVER TANNOY: This is Operations. General O'Neill is en route. Twenty minutes out.<br><br>(Doctor Weir walks across the room. The man working on the drone, Doctor Peter Grodin, an Englishman, looks up and sees her.)<br><br>GRODIN: Doctor Weir.<br><br>WEIR: Peter.<br><br>(She writes something on the computer pad, puts it down and walks over to the Control Chair. Doctor Carson Beckett, a Scottish man, is sitting in the Chair with Doctor Rodney McKay standing beside him.)<br><br>BECKETT: You see? Nothing. (He gets out of the Chair and starts to walk away.)<br><br>McKAY: Carson. Get back here.<br><br>BECKETT: I could sit in that chair all bloody day long and nothing would happen. It's a waste of time. Excuse me, Doctor Weir. (He walks away.)<br><br>McKAY (to Weir): He's not even trying.<br><br>WEIR: But he's the one who discovered the gene this technology responds to.<br><br>McKAY: Yeah, well, he said he wished he never had it.<br><br>WEIR: Really?<br><br>McKAY (incredulously): I know, can you believe that?<br><br>(Weir smiles.)<br><br>WEIR: We could always test you a third time, Rodney.<br><br>McKAY (annoyed): That's very funny.<br><br>WEIR: We've only found a handful of people who are genetically compatible with the Ancient technology and despite your heroic efforts to interface ours with theirs, we need every one of them to sit in this Chair, including Doctor Beckett.<br><br>McKAY: What am I supposed to do? He's afraid of that thing.<br><br>WEIR: This Chair controls the most powerful weapons known to humankind. I'm afraid of the thing. But every time someone sits in it we learn something new about the Ancients who built this outpost. Doctor Beckett should be proud he's genetically advanced.<br><br>McKAY: It's not more advanced. It-it is a random characteristic.<br><br>WEIR: This really bothers you, this whole gene thing, huh?!<br><br>McKAY (sarcastically): Oh, clearly I am overcome with envy.<br><br>(Doctor Daniel Jackson runs into view.)<br><br>JACKSON: Ah, just the people I need to see.<br><br>(He turns and walks away again. Weir and McKay look at each other. After a few moments, Daniel comes back into view.)<br><br>JACKSON: Come with me.<br><br>(He walks away again. This time Weir and McKay follow him.)<br><br><br>SHORTLY AFTERWARDS. Daniel leads the other two into a lab.<br><br>JACKSON: We've gotten closer and closer to finding the location of the Lost City but it turns out we've been looking in the wrong place all along. (He walks over to a whiteboard on which are drawn six Stargate coordinates with the numbers 1-6 above them.) Now, we thought we had a Stargate address -- six symbols representing coordinates in space that determine the location of the planet the Ancients went to after they left Antarctica. Now, recently we determined a seventh symbol. (He picks up a pen and draws the symbol representing Earth on the board to the right of the other symbols.)<br><br>WEIR: The point of origin, Earth.<br><br>JACKSON: That's not it.<br><br>McKAY: Then your address must be incorrect.<br><br>JACKSON: Not incorrect incomplete.<br><br>(He draws another symbol in between the sixth symbol and the Earth symbol.)<br><br>WEIR: What are you saying, Doctor Jackson?<br><br>(Daniel numbers the newest symbol 7 and the Earth symbol 8.)<br><br>JACKSON: It's an eight symbol address. What we're looking for may be further away than we ever imagined, but it's not out of reach.<br><br>McKAY: Atlantis!<br><br>JACKSON: Atlantis. I think we can go there.<br><br><br>As the opening credits roll, a helicopter flies over the snow of Antarctica. Major John Sheppard is flying it, taking General Jack O'Neill to the outpost.<br><br>SHEPPARD: Apache, Black Hawk, Cobra, Osprey ...<br><br>O'NEILL: That's a lot of training for the Antarctic.<br><br>SHEPPARD: It was the one continent I never set foot on.<br><br>O'NEILL: It's one of my least favourite continents.<br><br>SHEPPARD: I kinda like it here.<br><br>(O'Neill turns and looks at him.)<br><br>O'NEILL: You like it here?!<br><br>SHEPPARD: Yes, sir. (He checks his instruments.) Be there in about ten minutes, sir.<br><br><br>ANCIENT OUTPOST. Doctor McKay is pushing Doctor Beckett back towards the Chair.<br><br>BECKETT: Look, we've been through this. I'm not your man.<br><br>McKAY: Keep moving.<br><br>BECKETT: I'm a doctor -- a medical doctor.<br><br>McKAY: There is nothing to be afraid of.<br><br>BECKETT: You don't understand. I break things like this.<br><br>McKAY: This device has survived for millions of years intact. It will survive you. Now sit down, close your eyes and concentrate.<br><br>(Beckett sighs in irritation, then sits down in the Chair. He puts his hands on the control pads on the arms of the Chair briefly.)<br><br>BECKETT: Again nothing.<br><br>(He tries to stand but McKay pushes him back down.)<br><br>McKAY: This time, just try to imagine an image of where we are in the solar system.<br><br>(Beckett sighs again and closes his eyes. He remains there for several seconds.)<br><br>BECKETT: I think I feel something. (He opens his eyes and looks at McKay.) It could be lunch related.<br><br>McKAY: Shut up and concentrate.<br><br>(Beckett looks at McKay for a moment, then closes his eyes. After several seconds the lights on the back of the Chair come on and the Chair reclines. As Beckett opens his eyes in panic, the drone that Peter Grodin was working on lights up. Grodin snatches his hands back in panic as McKay turns and stares. The drone shoots off its stand, flies out into the room and smashes through some equipment, which explodes and sends people flying.)<br><br>VOICE: What's happening?!<br><br>(The drone shoots around the room some more, smashing more equipment, then heads up the elevator shaft. Beckett stares at it as it goes.)<br><br>BECKETT: What did I do?<br><br>(The drone flies up the shaft and shoots past the elevator which is rising up the shaft. Doctor Weir is on board. She watches the drone zip past, then stares downwards and shouts at someone else on board.)<br><br>WEIR: Get us back down there!<br><br>(The drone bursts out through the dome and heads off into the sky.)<br><br><br>HELICOPTER.<br><br>VOICE (over radio): All inbound craft, we have a rogue drone that could seek a target on its own. Land immediately and shut down your engines. This is not a drill. I repeat <br><br>SHEPPARD: It's too late. Hang on!<br><br>(The drone flies at them but Sheppard swings the helicopter out of its way. The drone circles around and comes at them from behind. Again Sheppard yanks the helicopter out of the way. Again the drone swings around and heads towards them.)<br><br>O'NEILL: Break right.<br><br>(Sheppard banks hard to the left. The drone whizzes past them again.)<br><br>O'NEILL: I said right!<br><br>SHEPPARD: I'm gettin' to that, sir.<br><br>(He swings the helicopter to the right.)<br><br><br>ANCIENT OUTPOST. Weir gets out of the elevator, looks around at the damage the drone has caused, then runs over to the Chair. Beckett is still sitting in it and looks up at her plaintively.<br><br>BECKETT: I told you I was the wrong person.<br><br>McKAY: It doesn't matter now. Just do something!<br><br>BECKETT: Like what?<br><br>WEIR: Carson, concentrate on shutting that weapon down before it hurts someone.<br><br>(Beckett closes his eyes, takes a deep breath and concentrates.)<br><br><br>HELICOPTER. O'Neill and Sheppard are looking around for the drone.<br><br>SHEPPARD: I can't see it.<br><br>O'NEILL: Pull up! Pull up!<br><br>(He has seen the drone heading towards them from the front. Sheppard sees it and put the helicopter into a steep dive. The drone shoots over the top of them.)<br><br><br>ANCIENT OUTPOST. Beckett, his eyes screwed tight shut, continues to concentrate while the others watch him anxiously.<br><br><br>HELICOPTER.<br><br>O'NEILL: What about now?<br><br>SHEPPARD: Now's good.<br><br>(As the drone shoots underneath them, Sheppard brings the helicopter down and lands.)<br><br>O'NEILL: Shut it down!<br><br>(Sheppard yanks on a handle to shut the engines down.)<br><br>SHEPPARD: Sir? What the hell was that?<br><br>O'NEILL (holding up a finger): Wait for it.<br><br>(The drone smashes over the top of a snow dune ahead of them and heads for the helicopter, which is still shutting down.)<br><br>SHEPPARD: Get out!<br><br>(They unbuckle their seat belts and open their doors. Sheppard takes a flying leap out of his door, landing face down in the snow. The drone, its internal lights no longer on, crashes into the snow and skitters across the top of it, stopping a few inches away from O'Neill who is sitting on the snow just outside the helicopter door. O'Neill stares at it for a moment, then cautiously sits up.)<br><br><br>ANCIENT OUTPOST. Beckett gasps and opens his eyes, staring in amazement.<br><br>BECKETT: I think I did it!<br><br>(Weir sighs in relief.)<br><br><br>HELICOPTER. Sheppard, his uniform covered in snow, walks back to the helicopter and gets back in as O'Neill gets in the other side. They sit there for a moment, a little breathless and stunned.<br><br>SHEPPARD: That was different.<br><br>O'NEILL: For me, not so much.<br><br><br>ANCIENT OUTPOST. Lieutenant Aiden Ford runs over to report to Doctor Weir.<br><br>FORD: Major Sheppard is reporting the drone appears to have been incapacitated. (Weir sighs in relief. Beckett, still sitting in the Chair, does likewise.) General O'Neill's helicopter is unharmed and on its way again. Seven minutes out.<br><br>WEIR: Thank God.<br><br>BECKETT: Holy crap!<br><br><br>SHORTLY AFTERWARDS. Daniel Jackson walks over to the elevator as O'Neill and Sheppard get off it.<br><br>JACKSON: Jack!<br><br>O'NEILL: Daniel! Warm welcome.<br><br>JACKSON: Wasn't me. How did you manage to, uh ...?<br><br>O'NEILL: Keep my ass from gettin' blown out of the sky? (He turns and gestures to Sheppard.) The exceptional flying of Major John Sheppard. He likes it here.<br><br>JACKSON: Exceptional. (He looks at Sheppard in surprise.) You like it here?<br><br>(Sheppard shrugs. Jack turns to Daniel as the two of them start to walk away.)<br><br>O'NEILL: What say we skip to the part where you start talking real fast?<br><br>JACKSON : Ah. Weir's in here.<br><br>(He leads the way. O'Neill turns briefly to Sheppard.)<br><br>O'NEILL: Hey. Don't touch anything.<br><br>SHEPPARD: Yes, sir.<br><br>(He stands in the middle of the room and looks around, a little bewildered.)<br><br><br>LAB. O'Neill, Daniel, Weir and McKay are there.<br><br>JACKSON: I figure the Ancients packed up their entire city and left somewhere between five and ten million years ago.<br><br>O'NEILL: In their ... flying city.<br><br>JACKSON: Yes.<br><br>(O'Neill tries to hide a smile.)<br><br>JACKSON: What?<br><br>O'NEILL (smirking): Flying city.<br><br>JACKSON: Well, keep in mind this is the race that built the Stargates. They did everything big.<br><br>O'NEILL: So why'd they leave?<br><br>JACKSON: Why'd they leave? Um, who knows? We know the Ancients on Earth were suffering from a plague. Uh, maybe some of them were trying to start over, seeding life in a new galaxy. Maybe that's what Ancients do. The point is, we know where they went.<br><br>O'NEILL: Pegasus.<br><br>JACKSON: Yes, it's-it's the name of a dwarf galaxy in the local group.<br><br>McKAY: After all that time, is there any hope of actually meeting them?<br><br>JACKSON: Who knows, but isn't that reason enough to go?<br><br>WEIR: I've been choosing members for this expedition for months, Doctor. I'm not the one who needs convincing. (She looks at O'Neill.)<br><br>O'NEILL: Oh, I'm convinced. (He looks at Daniel.) Have fun.<br><br>JACKSON: Uh, it's-it's-it's a little more complicated than that.<br><br>McKAY: We need the ZedP.M. to power the Gate.<br><br>O'NEILL: What?<br><br>JACKSON: ZeeP.M. He's, uh, he's Canadian.<br><br>O'NEILL (sympathetically to McKay): I'm sorry.<br><br>McKAY: The Zero Point Module, General. The, uh, Ancient power source you recovered from Proclarush Taonas and that's now powering the outpost's defences. I have since determined that it generates its enormous power from vacuum energy derived from a self-contained region of subspace time.<br><br>O'NEILL: That was a waste of a perfectly good explanation. (He turns to the other two.) The answer's no.<br><br><br>MAIN ROOM. Sheppard is still wandering around. He walks over to the Chair Room and overhears Beckett talking to a couple of people.<br><br>BECKETT: The second I shut my eyes, I could see. I felt power I've never had before. I had it dancing all across the sky. It was magical, it really was. (He laughs.) They're lucky. I don't know where it came from. I just tried to concentrate and the drone shut itself down. (He laughs again.)<br><br>SHEPPARD: So you were the one.<br><br>(Beckett turns to him nervously.)<br><br>BECKETT: Me?<br><br>SHEPPARD (walking up to the Chair): You were the one who fired that thing at me.<br><br>BECKETT: Look we're doing research; working with technology that's light years beyond us and we make mistakes. I'm incredibly, incredibly sorry.<br><br>SHEPPARD: Well, next time just be a little more careful, OK?<br><br>BECKETT: That's what I said.<br><br>SHEPPARD: What the hell was that thing anyway?<br><br>BECKETT: You mean the drone? (Sheppard nods.) The weapon the Ancients built to defend this outpost.<br><br>SHEPPARD: The who?<br><br>(Beckett looks at him suspiciously.)<br><br>BECKETT: You do have security clearance to be here?<br><br>SHEPPARD: Yeah, yeah. General O'Neill just gave it to me.<br><br>(Beckett's eyes widen.)<br><br>BECKETT: Then you don't even know about the Stargate.<br><br>SHEPPARD: The what?<br><br><br>LAB.<br><br>JACKSON: Jack, you know that gating to another galaxy requires an enormous amount of power.<br><br>O'NEILL: Yes I do. Find another way.<br><br>JACKSON: There's no other way.<br><br>O'NEILL: You think there are more of these Zed things in Atlantis?<br><br>JACKSON: Yes, and who knows what else we could find? This isn't just some other civilisation we're talking about. These are the gate builders.<br><br>WEIR: The potential wealth of knowledge and technology, it outweighs anything we've come across since we stepped through the Stargate.<br><br>O'NEILL: Well, with the amount of power you'll need to make this trek, odds are it'll be one way.<br><br>WEIR: Yes, we know, but the benefit to humanity is far greater than the risk, General, and it is a risk that every one of my expedition members is willing to take.<br><br>(She and McKay look at O'Neill hopefully. O'Neill thinks about it, then looks at Daniel, who also looks at him hopefully.)<br><br><br>CHAIR ROOM.<br><br>BECKETT: They think the gene was used as a sort of genetic key, if you will, so that only their kind could operate certain dangerous and powerful technologies.<br><br>(He turns away from the Chair. Behind him, Sheppard pokes at the arm control panels tentatively.)<br><br>fSHEPPARD: So some people have the same genes as these Ancients. (He walks around the Chair.)<br><br>BECKETT: The specific gene is very rare, but on the whole they look very much like we do. In fact they were first. We're the second evolution of this form, the Ancients having explored this galaxy for millions of years before ... Major, please don't.<br><br>(Sheppard has started to sit down in the Chair.)<br><br>SHEPPARD: Come on -- what are the odds of me having the same genes as these guys?<br><br>(As he sits down, the Chair immediately lights up and reclines. Both he and Beckett stare in amazement.)<br><br>BECKETT: Quite slim, actually. (Shouting out) Doctor Weir! (He looks at Sheppard.) Don't move.<br><br>(He hurries off. Sheppard lies in the Chair, looking upwards nervously.)<br><br><br>SHORTLY AFTERWARDS. Beckett and the others run back to the Chair. Weir stops and looks at Sheppard.<br><br>WEIR: Who is this?<br><br>(O'Neill walks up onto the dais and looks down at Sheppard.)<br><br>O'NEILL: I said don't touch anything.<br><br>SHEPPARD: I-I just sat down.<br><br>McKAY: Major, think about where we are in the solar system.<br><br>(A holographic three dimensional map of a star system appears above Sheppard's head. Everyone gazes up at it. Weir smiles in delight. Sheppard looks up at the map, frowning.)<br><br>SHEPPARD: Did I do that?<br><br><br>LATER. O'Neill is walking through the outpost with Weir.<br><br>WEIR: We could be on our way to discovering an entirely new Ancient civilisation. At the best case scenario, we meet actual Ancients who are willing to help us, but if we don't ... (She trails off as she realises that O'Neill isn't paying attention to her.) General, we need him.<br><br>O'NEILL: Sorry, Doc. I need Daniel here.<br><br>WEIR: I'm talking about Major Sheppard.<br><br>O'NEILL: Oh. Don't you have a dozen or so people already who can use the Ancient technology?<br><br>WEIR: Yeah, with concentration and training they can make it work, but John Sheppard, he does it naturally.<br><br>O'NEILL: You know, I checked into his record.<br><br>WEIR: I know about the whole supposed black mark in Afghanistan. He was trying to save the lives of three servicemen.<br><br>O'NEILL: Disobeying a direct order in the process.<br><br>WEIR (smiling): I have read your own file, General. Please.<br><br>O'NEILL: Right. (He glances at her uncomfortably, blowing out a breath.) OK. It's your expedition. (He boards the elevator.) You want him, you ask him.<br><br>WEIR: That's the thing. I have.<br><br>(O'Neill turns and looks at her.)<br><br>O'NEILL: Really?<br><br><br>HELICOPTER. Sheppard is going through his pre-flight checks. O'Neill sits beside him.<br><br>O'NEILL: This isn't a long trip, so I'll be as succinct as possible.<br><br>(Sheppard continues with his checks, then looks round at O'Neill as he says nothing further, just looks at him.)<br><br>SHEPPARD: Well, that's pretty succinct.<br><br>O'NEILL: Thank you.<br><br>SHEPPARD: I told Doctor Weir that ... I'd think about it.<br><br>O'NEILL: And? So? Well? What?!<br><br>(The helicopter's engines start to fire up.)<br><br>SHEPPARD: All due respect, sir, we were just attacked by an alien missile. Then I found out I have some mutant gene. Then there's this Stargate thing and these expeditions to other galaxies.<br><br>O'NEILL: You know, this isn't about you, Sheppard. It's a lot bigger than that.<br><br>SHEPPARD: Right now, at this very second, whether I decide to go on this mission or not seems to be about me. (He puts his helmet on.)<br><br>O'NEILL: Let me ask you something. (He realises that Sheppard can't hear him, so takes down a headset, puts it on and speaks into the microphone.) Why d'you become a pilot?<br><br>SHEPPARD: I think people who don't want to fly are crazy.<br><br>O'NEILL: And I think people who don't want to go through the Stargate are equally as whacked. Now if you can't give me a yes by the time we reach McMurdo, I don't even want you.<br><br><br>HOUSE. In someone's house, Elizabeth Weir appears on the television screen. She has recorded a video message for someone.<br><br>WEIR (on the TV): Simon, if you're watching this, it means the President has been kind enough to grant you security clearance. (We see a man, obviously Simon, sitting in the living room of the house and watching the video.) I'm not going on a diplomatic mission to another country. I'm going to another planet in another galaxy by means of a device called the Stargate. Millions of years ago there was a race of beings we call the Ancients.<br><br>(As Weir continues to speak, we see various members of the expedition as they spend their last day on Earth. Lieutenant Ford is kissed goodbye by his grandmother, and she and his grandfather make a big fuss of him as he gets into a taxi.)<br><br>WEIR: They created a network of these Stargates throughout our galaxy in order to travel freely among their worlds.<br><br>(Doctor Beckett is having a last meal with his mother. It looks like she's bringing him a dish of haggis. She puts the dish down as he smiles delightedly, and kisses him on the cheek.)<br><br>WEIR: We don't know why, but they left for another galaxy somewhere between five and ten million years ago, taking their entire city along with them.<br><br>(Doctor McKay is giving his cat to a neighbour to look after. She is already holding the cat's bowl and a large bag of cat food. McKay strokes the cat one last time, then picks up his bag and walks away.)<br><br>WEIR: That city was called Atlantis.<br><br>(In a park somewhere, Sheppard is sitting on the grass. He flips a coin into the air, catches it with one hand, slaps it onto the back of his other hand, hesitates for several seconds, then reluctantly looks at the result.)<br><br>WEIR: I have been assembling an expedition team in order to try to find Atlantis, and hopefully the Ancients who left Earth all those years ago.<br><br>(The scene returns to Simon's house and the television screen.)<br><br>WEIR: I wanna do this, Simon, with all my heart. You know me well enough to know I could never turn down an opportunity like this but I wanted the chance to tell you ...<br><br>(Simon pauses the tape, walks over to his phone, picks it up and pushes a speed dial number.)<br><br>OPERATOR (over phone): The cellular customer you are trying to reach is currently outside the coverage area.<br><br>(Simon switches off the phone and stares into the distance.)<br><br>SIMON: No kidding.<br><br><br>CHEYENNE MOUNTAIN COMPLEX. STARGATE COMMAND. Down on the 28th floor, many people are milling around, moving equipment and talking to each other in various different languages. Lieutenant Ford is struggling to communicate with a couple of people.<br><br>FORD: I don't under ... (He looks around the room.) Does anyone else here speak whatever language these guys are speaking?<br><br>(The camera moves into the Gateroom, where Doctor Beckett is arguing with Sergeant Bates.)<br><br>BECKETT: I just need a couple of minutes to finish my work, and you're not helping by standing there.<br><br>BATES: You got five minutes to get it going or I'm leaving it.<br><br>(Colonel Marshall Sumner walks down the ramp that leads to the Stargate and goes over to the pair of them.)<br><br>SUMNER (to Beckett): Everything in here has been double checked and triple checked and cleared for take off. Leave it alone.<br><br>BECKETT: Look, Colonel, I don't answer to you.<br><br>BATES (to Sumner): He said the same to me, sir.<br><br>SUMNER: That's what your sidearm's for.<br><br>(He walks back onto the ramp as Beckett and Bates glare at each other.)<br><br><br>CONTROL ROOM. Doctor Weir is watching all the activity down in the Gateroom as Daniel walks in explaining something to a female scientist.<br><br>JACKSON: Each chevron tells our Gate to look for a point of space outside our galaxy, so we won't know until it locks.<br><br>(O'Neill walks in and goes over to Weir. He claps his hands together.)<br><br>O'NEILL: We there yet?<br><br>WEIR: Just waiting on Doctor McKay.<br><br><br>In another room, Technical Sergeant Siler is putting the finishing touches to a device that he has cobbled together to connect the Zero Point Module to the Gate system.<br><br>SILER: Should work now. (He stands up and walks over to a panel on the wall.)<br><br>McKAY: OK, Sergeant, give it a try. The ZedP.M. should light up when it senses the conductive connection to the Gate.<br><br>(He inserts the ZPM into the device, then points to Siler. Siler throws a switch and the ZPM lights up. McKay smiles in delight.)<br><br>McKAY: Oh yeah!<br><br><br>CORRIDOR. Major Sheppard, geared up and wearing a large backpack and carrying a P-90 rifle, walks into the Gateroom. He seems Colonel Sumner inside.<br><br>SHEPPARD: Colonel.<br><br>(He walks past him, looking around the Gateroom. Sumner looks at him, apparently not pleased that he is there. Just then, Weir walks into the Gateroom.)<br><br>WEIR (calling out): Could I have everyone's attention please? (Wearing a small backpack, she walks up the ramp and turns to face everyone as they gather round.)<br><br>(In the Control Room, Daniel stands up and walks over to stand next to O'Neill. They both look down into the Gateroom as Weir addresses the expedition members.)<br><br>WEIR: Alright, here we go. We are about to try to make a connection. We have been unable to predict exactly how much power this is gonna take and we may only get the one chance at this, so if we are able to achieve a stable wormhole, we're not gonna risk shutting the Gate down. We'll send in the M.A.L.P robot probe, check for viability and go. Everything in one shot. Now, every one of you volunteered for this mission and you represent over a dozen countries. You are the world's best and brightest; and in light of the adventure we are about to embark on, you are also the bravest. I hope we all return one day having discovered a whole new realm for humanity to explore, but as all of you know, we may never be able to return home. I'd like to offer you all one last chance to withdraw your participation.<br><br>(Some of the expedition members look around at each other, but nobody moves. Weir smiles, then looks up to the Control Room.)<br><br>WEIR: Begin the dialling sequence.<br><br>(She walks off the ramp as alarms sound and the Gate begins to spin. As Sheppard checks his equipment, Sumner walks over to stand beside him.)<br><br>SUMNER: Let me make myself clear, Major ...<br><br>DIALLING TECHNICIAN (from the Control Room): Chevron one encoded.<br><br>SUMNER: ... You are not here by my choice.<br><br>(Sheppard smiles ironically, rolls his eyes and speaks without looking at him.)<br><br>SHEPPARD: I'm sure you'll warm up to me once you get to know me, sir.<br><br>SUMNER: As long as you remember who's giving the orders. (He walks away.)<br><br>TECHNICIAN: Chevron two encoded.<br><br>SHEPPARD (to Sumner's departing back): That would be Doctor Weir, right?<br><br>(Sumner turns to stare at him as a couple of marines clip his backpack on. Sheppard smiles at him.)<br><br>TECHNICIAN: Chevron three encoded.<br><br>(Sheppard holds his smile for a moment but Sumner just glares at him. Finally Sheppard looks away and rolls his eyes again.)<br><br>(In the Control Room, Weir walks over to O'Neill.)<br><br>TECHNICIAN: Chevron four encoded.<br><br>O'NEILL (to Weir): Nice.<br><br>WEIR: Thank you.<br><br>TECHNICIAN: Chevron five encoded.<br><br>(As the Gate spins on, McKay walks into the Control Room.)<br><br>TECHNICIAN: Chevron six encoded.<br><br>WEIR (excitedly): This is it! (She looks at McKay, who is looking calmly into the Gateroom.) Guess I've got to calm down. How embarrassing.<br><br>TECHNICIAN: Chevron seven encoded.<br><br>McKAY (calmly): I've never been so excited in my entire life.<br><br>TECHNICIAN: Chevron eight is locked.<br><br>(The Stargate kawhooshes. The scientists in the Gateroom applaud and some of them whistle. In the Control Room, O'Neill smiles.)<br><br>WEIR (to the technician): Send the M.A.L.P.<br><br>(The technician activates a control and the M.A.L.P. which had been waiting on the ramp moves up the ramp and into the wormhole.)<br><br>(In the Control Room, the technician's screen initially shows NO SIGNAL but then beeps.)<br><br>TECHNICIAN: We have M.A.L.P. telemetry.<br><br>(As Weir looks up at a screen above her head, McKay sits down and looks at another screen.)<br><br>WEIR: What is it we're looking at?<br><br>TECHNICIAN: Switching to zero lux.<br><br>McKAY: Radar indicates a large room.<br><br>(The screens show some distant objects in the room.)<br><br>JACKSON: It's structurally intact?<br><br>McKAY: Sensors say there's oxygen, no measurable toxins. We have viable life support. (He stands up.) Looks like we're not getting out of this.<br><br>(He turns and leaves the room. Weir smiles and stares at the wormhole for a moment, then turns nervously to O'Neill. He smiles at her.)<br><br>O'NEILL: Doctor Weir, you have a go.<br><br>WEIR: Thank you. Sir. (She turns to leave the room.)<br><br><br>GATEROOM.<br><br>SUMNER: Let's go, people. We don't know how much time we've got. (He starts to walk up the ramp, followed by some marines.) Security teams one and two, you're up first. All other personnel will follow on our signal. Once on the other side, keep moving, clear the debarkation area. On my lead.<br><br>WEIR: Hold on, Colonel. (Walking into the Gateroom while zipping up her jacket, she picks up a backpack at the foot of the ramp, then walks up to join Sumner.) We go through together.<br><br>SUMNER: Fair enough.<br><br>(He walks to the top of the ramp with a couple of other marines, raises his P-90 and aims it forward, then walks into the wormhole. Sergeant Bates and another marine follow him, their weapons also raised. As another marine enters the wormhole, Weir stops at the top of the ramp and looks back. In the Control Room, O'Neill nods to her. She nods back, then turns and steps into the wormhole.)<br><br>(In the Control Room, Daniel, standing beside O'Neill, turns to him.)<br><br>JACKSON: Jack, it's not too late for me to ...<br><br>O'NEILL (interrupting): No.<br><br>JACKSON: I-I-I could just grab my ...<br><br>O'NEILL (interrupting): No.<br><br>JACKSON (under his breath): ... kit.<br><br>(In the Gateroom, Ford and Sheppard walk up the ramp. They stop at the top and wait for instructions. Ford turns his back to the wormhole. Sheppard looks nervous.)<br><br>(In the Control Room, Sumner's voice comes over the radio.)<br><br>SUMNER: All clear. Looks good.<br><br>(O'Neill leans down to speak into a microphone to the Gateroom.)<br><br>O'NEILL: Expedition team. Move out.<br><br>(At the top of the ramp, Sheppard takes a nervous breath.)<br><br>SHEPPARD: What's it feel like?<br><br>FORD: Hurts like hell, sir. (He looks at Sheppard seriously for a moment, then grins and hurls himself backwards into the wormhole.) Woo-hoo!<br><br>(His whoop is cut off as he disappears into the wormhole. Sheppard walks closer to the event horizon and looks at it for a moment, then screws his eyes shut and steps in.)<br><br><br>WORMHOLE TRAVEL.<br><br><br>At the other end of the wormhole, Sheppard steps out into a darkened room. The marines who already went through are cautiously checking out the area. Directly ahead of the Gate is a flight of steps leading up to another floor. Somewhere on the upper level, which has balconies overlooking the Gateroom, some lights come on.<br><br>SUMNER: Teams one and two, secure the immediate area.<br><br>(Behind Sheppard, we see the Stargate. It appears more modern than the Gates we have seen in the Milky Way: the symbols around the Gate are illuminated from within and the chevrons are glowing green. Sheppard turns to look in that direction as some more marines come through.)<br><br>(Back at S.G.C., the scientists begin walking up the ramp, hauling or carrying their equipment.)<br><br>(On the other side of the wormhole, the marines are still checking out the area. In a corridor off the Gateroom, a marine walks near to a closed door, which slides open automatically. Sumner looks at this in surprise, then turns back towards the Gateroom.)<br><br>SUMNER: Everyone else find an open space and park it until instructed otherwise.<br><br>(Weir stands in the middle of the Gateroom, gazing around the room. Sheppard and McKay head towards the steps. As Sheppard puts his foot on the first step, the stairs light up.)<br><br>WEIR: Who's doing that?<br><br>SUMNER (into radio): Security teams: any alien contact?<br><br>MARINE 1 (over radio): Negative, sir.<br><br>MARINE 2 (over radio): Team four. Negative, Colonel.<br><br>(Sheppard reaches the top of the stairs and turns to walk into a room full of consoles. The lights in that room come on. He turns back towards McKay.)<br><br>SHEPPARD: The lights are coming on by themselves.<br><br>(The two of them walk into that area. Downstairs, more members of the expedition team come through the Gate. Upstairs, McKay lifts a sheet covering one of the consoles as Sheppard walks over to the balcony to look down into the Gateroom as the last members of the team come through the Gate.)<br><br>SUMNER (to Weir): That's everyone.<br><br>(Weir turns towards the Gate and lifts her radio to her mouth.)<br><br>WEIR: General O'Neill. Atlantis base offers greetings from the Pegasus Galaxy. You may cut power to the Gate.<br><br>(A champagne bottle rolls out of the Gate and across the floor. The Gate shuts down. Weir picks up the bottle and looks at the label attached around its neck. It reads: Bon Voyage! General Jack O'Neill. Weir smiles up at Sheppard and McKay on the balcony, showing them the bottle. Sheppard nods down to her.)<br><br><br>Somewhere on the first floor level, a panelled set of doors opens in sections and a group of marines walks in, aiming their weapons cautiously. The lights come on to show a segmented table in a roughly circular shape in the centre of the room.<br><br>(Elsewhere, marines make their way through a corridor. The lights come on as they walk forward.)<br><br>(In another area, two scientists have entered a room and found a small lozenge-shaped ship inside. They walk to the front and peer in through the windshield.)<br><br>SCIENTIST 1: They look like ships. (He turns and gazes around the room.) Space ships!<br><br>SCIENTIST 2: I love it!<br><br>(They walk deeper into the room. As the lights come on, they see that there are several of the ships parked around the room. One of the scientists activates his radio.)<br><br>SCIENTIST 1: Doctor Weir. You have to see this.<br><br>(Weir has now walked up to the first level and is in a small room with glass windows which show the Gateroom below.)<br><br>WEIR (into radio): I have a lot of things to see. Just be careful.<br><br>(She walks back into the room with the consoles, where McKay is taking the sheeting off another one. Nearby, Sheppard is wandering around the room. As he approaches a screen on the wall, it activates and blue light starts to scroll across it. Sheppard turns and raises his hands to Weir.)<br><br>SHEPPARD: I didn't touch anything.<br><br>WEIR: Relax, Major. It's like the entire complex is sensing our presence and coming to life.<br><br>McKAY: This has got to be the Control Room. (He looks down at the console he just uncovered.) This is obviously their version of a D.H.D.<br><br>SHEPPARD: Oh, obviously(!)<br><br>(McKay walks over to another console.)<br><br>McKAY: This area could be, uh, power control systems, possibly a computer interface ...<br><br>WEIR: Hey, hey. Why don't you find out?<br><br>McKAY: Right.<br><br>SUMNER (over radio): Doctor Weir. Colonel Sumner. Can you come down and meet me, please? We're three levels down from you.<br><br>WEIR (into radio): Right away.<br><br>(She and Sheppard make their way down to meet with Sumner.)<br><br>SUMNER: We've only been able to secure a fraction of the place. It's huge.<br><br>WEIR: So it might really be the lost city of Atlantis?<br><br>SUMNER: I'd say that's a good bet.<br><br>(He leads them towards what he wants them to see. Weir stares in amazement.)<br><br>WEIR: Oh my God.<br><br>(Sumner has brought them to a large window. The view outside shows why Sumner now believes that they really are in Atlantis.)<br><br>WEIR: We're under water.<br><br>(They gaze out of the window. Looking up, they can see sunlight glinting on the surface of the water but it's a long way up. Outside, more of the city can be seen -- lots of different sized and shaped elegant towers.)<br><br>SUMNER: I'd say we're under several hundred feet of ocean. If we can't dial out, this could be a problem.<br><br>McKAY (from behind them): Colonel. Doctor Weir.<br><br>SHEPPARD: We're under water!<br><br>McKAY (walking over to join them): Yes I was just, uh, coming to tell you. Fortunately there is some sort of a forcefield holding back the w...water. (He stops and stares at the sight out of the window.) Oh, that is impressive, isn't it?<br><br>(They all stare out of the window for a few moments, then McKay remembers why he came down.)<br><br>McKAY: Um, Doctor Beckett has found something you should, uh, see.<br><br>(He walks away. The others drag themselves away from the window.)<br><br><br>ROOM. McKay leads the others into a room. A glowing hologram of a woman in a white robe is talking.<br><br>HOLOGRAM: ... in the hope of spreading new life in a galaxy where there appeared to be none. Soon the new life grew, prospered. Here ...<br><br>(As she continues speaking, the others walk over to Beckett, who is standing on a step behind a small podium.)<br><br>BECKETT: It's a hologram. The recording loops. This is my second time through.<br><br>SUMNER: What have we missed?<br><br>BECKETT: Not much.<br><br>HOLOGRAM: ... exchange knowledge and friendship. (Above her head a three dimensional holographic map of the galaxy appears.) In time, a thousand worlds bore the fruit of life in this form. Then one day our people stepped foot upon a dark world where a terrible enemy slept. Never before had we encountered beings with powers that rivalled our own. In our over-confidence, we were unprepared and outnumbered. The enemy fed upon defenceless human worlds like a great scourge until finally only Atlantis remained. This city's great shield was powerful enough to withstand their terrible weapons but here we were besieged for many years. In an effort to save the last of our kind, we submerged our great city into the ocean. The Atlantis Stargate was the one and only link back to Earth from this galaxy, and those who remained used it to return to that world that was once home. There, the last survivors of Atlantis lived out the remainder of their lives. This city was left to slumber, in the hope that our kind would one day return.<br><br>(Beckett steps off the podium and the hologram disappears.)<br><br>McKAY: Oh. So the story of Atlantis is true. A great city that sank in the ocean.<br><br>BECKETT: It just didn't happen on Earth.<br><br>McKAY: Well, the ancient Greeks must've heard it from one of the surviving Ancients.<br><br>(Peter Grodin hurries in and walks over to McKay, whispering something in his ear.)<br><br>SUMNER: I don't like the fact they got their asses kicked.<br><br>(Beckett gets back onto the podium and the holographic woman appears again.)<br><br>BECKETT: Let's hear it again from the beginning.<br><br>McKAY: Stop! Turn it off.<br><br>(Beckett steps off the podium.)<br><br>McKAY: Power levels throughout the city are dropping like a stone.<br><br>SUMNER: What does that mean?<br><br>McKAY: That if we don't stop everything we're doing right now, we are dead.<br><br>(He and Grodin hurry out. The others stare at each other in shock for a moment, then follow.)<br><br><br>CONTROL ROOM. McKay is working on a laptop hooked up to one of the consoles. Beckett walks over to him.<br><br>BECKETT: Please tell me this is not my fault.<br><br>McKAY: No.<br><br>BECKETT: Thank you!<br><br>McKAY: From what we've been able to ascertain, the city is powered by three Zero Point Modules. Two are entirely depleted and the third is reaching maximum entropy. When it does, it'll die too and nothing can reverse that.<br><br>SUMNER: Just tell me the bottom line.<br><br>McKAY: The forcefield holding back the ocean has collapsed to its minimum sustainable levels. Look, you can see: (he turns to a screen showing the star shape of Atlantis and indicates a couple of points on it) here, and here, where the shield's already failed and the city's flooded. It could have happened years ago. This section is likely more protected because of the Stargate.<br><br>SHEPPARD: What if it fails completely?<br><br>McKAY: It's a matter of when, not if.<br><br>WEIR: Colonel Sumner, you need to order your security team to stop searching the city immediately.<br><br>SUMNER (into radio): All security teams fall back to the Gateroom.<br><br>McKAY: It's not going to be good enough.<br><br>WEIR: Alright, well, how much time do we have?<br><br>McKAY: It's hard to say. Hours, maybe days if we minimise power expenditure.<br><br>BECKETT: What about our own power generators?<br><br>McKAY: We're working on that, but even with our most advanced naqahdah power generators, the equations are coming up far short.<br><br>WEIR: So we need to find more ZeeP.Ms.<br><br>SUMNER: Now how do we do that if we can't search the city?<br><br>McKAY: If there were more here, we'd be able to detect them.<br><br>SUMNER: Can we use the Stargate?<br><br>McKAY: There's nowhere near enough power to open a wormhole back to Earth.<br><br>SHEPPARD: Maybe somewhere in this galaxy.<br><br>McKAY: That's relatively easy. (He leads Weir and Sheppard over to the console that acts as a D.H.D., where Grodin is already working.) Fortunately some Ancient technology still uses good old-fashioned push buttons, so we've been able to access the Stargate control system and a library of known Gate addresses in the database.<br><br>GRODIN: That's not all. Look at this.<br><br>(He pushes a button and a shimmering force shield appears across the Stargate.)<br><br>SUMNER: Just like the iris on the Earth Gate.<br><br>McKAY (quietly but pointedly): Using power, using power, using power.<br><br>(Grodin finally realises what he means and shuts the shield off.)<br><br>WEIR: At least we don't have to deal with any uninvited guests. (She turns to Sumner.) Colonel, assemble a team. We need safe harbour, or better still another power source.<br><br>SUMNER (into radio): Lieutenant Ford, gather security teams one and two. Everyone gear up.<br><br>WEIR (to Sheppard): Major, I want you to go along.<br><br>SHEPPARD: Yes, ma'am.<br><br>(As he heads for the Gateroom, Weir turns to McKay.)<br><br>WEIR: Alright. Pick an address, start dialling.<br><br>(McKay reaches down and pushes one of the glass panels on the D.H.D. Lights run around the symbols on the Stargate, then the first chevron lights up.)<br><br>McKAY: Chevron one encoded.<br><br>(Weir blinks, then looks at McKay.)<br><br>WEIR: Rodney.<br><br>(McKay looks at her, realising that this routine isn't necessary.)<br><br>McKAY: Fine.<br><br>(He pushes the next five panels in more rapid succession. Lights run around the Gate and the corresponding chevrons light up.)<br><br>GRODIN (into radio): Ready M.A.L.P. Four for offworld recon.<br><br>(McKay pushes the central panel on the D.H.D. Lights run around the Gate, the top chevron lights up and the Gate kawhooshes.)<br><br><br>SHORTLY AFTERWARDS. Grodin grabs a case from the floor and runs down the steps into the Gateroom. The search teams enter the room, geared up. Weir and McKay walk to the edge of the Control Room balcony and look down into the Gateroom. Grodin checks a small handheld computer.<br><br>GRODIN: M.A.L.P. reads full viability and no immediate signs of activity around the Stargate, but it's pitch black. (The team starts to put on night goggles, leaving them up on their foreheads for the time being.) For now, we're going to use the tried and true system for identification for inbound Gate travellers.<br><br>(Sumner looks up to Weir, who nods at him.)<br><br>SUMNER: Let's move out!<br><br>(Pulling his goggles down over his eyes, he heads into the Gate. The others follow. Sheppard is the last to leave. He turns and waves up to the balcony before pulling down his own goggles and heading into the wormhole.)<br><br><br>ALIEN PLANET. NIGHT TIME. The team spreads out, checking the area surrounding the Gate as it shuts down. There's a D.H.D. a few yards in front of the Gate. The area around the Gate is open grassland surrounded by forest. The team progresses forward cautiously, Sheppard nearest to the forest. Seen dimly through his night goggles, someone runs through the trees. Sheppard raises his fist to make the rest of the team stop. After a few seconds he gestures for them to continue cautiously, and he and Ford head towards the treeline. Suddenly a small figure bursts out of the trees, then stops at the sight of the soldiers. Ford raises his rifle. We see that the figure is a young boy, about eleven years old. He whimpers in terror. A moment later, another young boy, wearing what looks like a Halloween mask with a scary face and long white hair, bursts out of the trees, growling. Not noticing the soldiers, he throws himself at the first boy and wrestles him to the ground. The first boy looks up at Ford.<br><br>JINTO: Please, don't hurt us!<br><br>(As Sumner runs up to join them, the second boy takes his mask off and both of the boys stare up at the soldiers in terror. Just then, an adult man races out of the trees towards the boys. Ford and Sumner raise their rifles higher. The man holds his hand out to the soldiers as he runs to join the boys and bends over them protectively.)<br><br>HALLING: Please! They're just playing.<br><br>(The other marines gather around as the man continues to hold out his hand to them.)<br><br>SUMNER: Is everything OK here, Sheppard?<br><br>SHEPPARD (pushing his night goggles up onto his forehead): Yes, sir. Just a couple of kids<br><br>(As the marines lower their weapons, the man stands up. He is much taller than anyone else. He helps the boys to their feet, then turns to Sheppard, gesturing to himself.)<br><br>HALLING: Halling.<br><br>SHEPPARD: I don't know what that means.<br><br>SUMNER (sarcastically): It's his name!<br><br>SHEPPARD: Oh. Halling, it's nice to meet you.<br><br>HALLING:: Are you here to trade?<br><br>SHEPPARD: Trade. Yes. We're t-traders.<br><br>(Halling turns to the first boy, Jinto, puts his hands on his shoulders and kneels down in front of him.)<br><br>HALLING: Now, how many times have I told you not to play in the forest after dark? (Jinto bows his head. Halling puts his thumbs on either side of Jinto's face to lift his head again.) I'm just glad you're safe.<br><br>(The two of them touch their foreheads together for a moment, then Halling stands and turns to Sheppard.)<br><br>HALLING: Teyla will wish to meet with you. Come.<br><br>(He leads the boys away. Sumner calls out to two of his men.)<br><br>SUMNER: Parker, Smitty, you're on Gate duty. Dial Atlantis base and let the good Doctor know we've made contact with the indigenous people.<br><br><br>FOREST. As the team follows Halling, Ford walks with Sumner.<br><br>FORD: Sir, if you don't mind my asking, I noticed you got a problem with Major Sheppard.<br><br>SUMNER: My problem, Lieutenant, is with his record. I don't like anybody who doesn't follow the proper chain of command.<br><br>FORD: Yes, sir.<br><br>(A little distance behind them, Sheppard is walking with the two boys. The second boy, Wex, is wearing his Halloween mask again.)<br><br>JINTO (to Sheppard): What was that mask you had on?<br><br>SHEPPARD: Helps you see in the dark. (He takes off his night goggles and hands them to Jinto.) Check it out.<br><br>(Jinto holds them up and looks through them.)<br><br>JINTO: Woah!<br><br>WEX: Let me see. (Jinto hands the goggles to him and he looks through them.) Woah! Can I have it?<br><br>SHEPPARD: No. (He takes the goggles back and puts them back onto his head.) What's the mask you've got on?<br><br>WEX: This? Wraith. (He takes the mask off and hands it to Sheppard.)<br><br>SHEPPARD: Wraith? What's that?<br><br>JINTO: You don't know?<br><br>WEX: What world did you come from?<br><br>JINTO: Can we go there?<br><br>SHEPPARD: Afraid not. I'm from a galaxy far, far away.<br><br>(The team approaches a village of tents.)<br><br><br>TENT. Inside one of the tents, a group of people is sitting around a table eating a meal and talking. Halling calls from outside.<br><br>HALLING: It is Halling. I bring men from away.<br><br>(A woman in her late twenties looks up.)<br><br>TEYLA: Enter.<br><br>(Halling comes in and holds the tent flap aside so that Sumner, Sheppard and Ford can come in. Teyla stands as they walk across to the other side of the tent and turn to face her and the others. Halling walks over to Teyla.)<br><br>HALLING: These men wish to trade.<br><br>SHEPPARD: Ah, it's, uh, (he takes off his goggles, fixes his hair and smiles at Teyla) it's nice to meet you.<br><br>TEYLA: I am Teyla Emmagan, daughter of Turghan.<br><br>SUMNER: Colonel Marshall Sumner, Major Sheppard, Lieutenant Ford. We have very few specific needs.<br><br>TEYLA: We do not trade with strangers.<br><br>SUMNER: Is that a fact?<br><br>SHEPPARD: Well, then, we'll just, uh, we'll have to get to know each other. Me, um, I like, uh, Ferris Wheels and, uh, college football; anything that goes more than two hundred miles per hour.<br><br>(Ford leans towards Sheppard and speaks quietly.)<br><br>FORD: Sir, that's not going to mean anything to them.<br><br>SHEPPARD (equally quietly): Feel free to speak up. I'm just trying to break the ice.<br><br>SUMNER (similarly quietly): if these people can't help us, I'd rather not waste the time.<br><br>TEYLA: Each morning before dawn our people drink a stout tea to brace us for the coming day. Will you join us?<br><br>(Sheppard steps towards her, smiling.)<br><br>SHEPPARD: I love a good cup of tea. Now there's another thing you know about me. (He smiles round at Sumner before turning back to Teyla.) We're practically friends already!<br><br>(Teyla smiles at him as he walks towards the table to sit down. Sumner can't help but smile to himself in acknowledgement of Sheppard's easy breaking of the ice.)<br><br><br>DAY TIME. Sumner walks to the end of the village where Sergeant Bates is looking through a pair of binoculars at something in the distance. On seeing Sumner beside him, he hands over the binoculars. Sumner takes them and looks where Bates had been looking. Some distance away is a ruined city.<br><br>BATES: We didn't even know it was there until the sun came up.<br><br>SUMNER: Looks more promising than anything else these folks have to offer. Plenty of shelter, a nice little valley. (He lowers the binoculars.) Location, location, location. (He gives the binoculars back to Bates and walks back into the village.)<br><br><br>TENT. Sumner, Sheppard and Ford are talking with Teyla and a young man, Toran.<br><br>TORAN: The City of the Ancestors is not safe.<br><br>SUMNER: We can handle ourselves.<br><br>TORAN: The Wraith will come.<br><br>SUMNER: Who are these Wraith?<br><br>(Teyla and Toran look at each other in surprise.)<br><br>TEYLA: We have never met anyone who did not know.<br><br>SUMNER: You have now.<br><br>TEYLA: If the Wraith have never touched your world, you should go back there.<br><br>SHEPPARD: Oh, we'd like to, but we can't. See, here's the thing, ma'am: we've got ourselves into a bit of a bind and we may need a safe place to stay for a while.<br><br>TEYLA: Our people have long believed that the Wraith will come if we venture into the old city ... but it is a belief we have not tested in some time.<br><br>SUMNER: Gentlemen.<br><br>(He and his colleagues leave the tent and walk outside.)<br><br>SUMNER: Look, I don't care what they say. That city's worth a look, not to mention the possibility there could be ZeeP.Ms there that they don't know or care about.<br><br>SHEPPARD: What if the Wraith are the enemy the Ancient hologram lady was talking about?<br><br>SUMNER: All the more reason for us to have a defensible position should we have to abandon Atlantis. Stay here and find out what you can. Ford, you head back to the Gate, report in to Weir. Tell her we'll have answers for her in a few hours.<br><br>FORD: Yes, sir.<br><br>(As Sumner heads off, Sheppard and Ford exchange a glance, then Sheppard goes back into the tent.)<br><br>SHEPPARD: Well, guess it's just you and me. (Toran, sitting nearby, stands up.) And him.<br><br>TEYLA: Your leader looks through me as if I were not there.<br><br>SHEPPARD: Do I?<br><br>TEYLA: No. You truly cannot return to your world?<br><br>SHEPPARD: No.<br><br>TEYLA: Then there is something you must see.<br><br>(She leaves the tent. Sheppard follows her.)<br><br><br>FOREST. Teyla climbs over the roots of a large old fallen tree and down into the hole its roots left when it fell. Sheppard looks over the top of the roots.<br><br>SHEPPARD: How much further is this place?<br><br>TEYLA: Not far.<br><br>(Sheppard climbs over the roots, slips and skids clumsily down into the hole. As Teyla turns to look at him he jumps up and dusts his hands off nonchalantly.)<br><br><br>ATLANTIS. Weir has set up office in a small room just off the Control Room. McKay and Grodin come in.<br><br>WEIR: Tell me some good news, Rodney.<br><br>McKAY: I can't do that.<br><br>WEIR: The shield has held back the ocean for centuries.<br><br>McKAY: And probably would have kept going for years more, but our arrival changed that. Now it's nothing more than a thin shell between the buildings and the water.<br><br>WEIR: We stopped exploring.<br><br>McKAY: The damage was already down. Another section of the city on the far side was flooded an hour or so ago.<br><br>GRODIN: Even occupying this room is draining power.<br><br>McKAY: We need to evacuate the moment Colonel Sumner reports back it's safe.<br><br>WEIR: You're saying we have to abandon the city?<br><br>(A brief rumbling comes from nearby.)<br><br>McKAY: The sooner we leave, the longer that shield holds.<br><br><br>ALIEN PLANET. ANCIENT CITY. Teyla has brought Sheppard to the entrance to an underground cavern. She picks up a torch from its wall bracket and walks deeper into the entrance.<br><br>TEYLA: I used to play here as a child. I believe this is where the survivors hid from the Wraith during the last great attack.<br><br>(She turns her attention to the torch. Sheppard takes out a lighter.)<br><br>SHEPPARD: Let me.<br><br>(As he flicks the lighter into life, Teyla takes out a device of her own, aims it at the torch and a flame shoots towards it and lights the torch.)<br><br>TEYLA: We mastered fire long ago.<br><br>SHEPPARD (closing his lighter): Guess so!<br><br>(They walk deeper into the brick-lined cavern. Something small on the ground reflects in the light. Sheppard spots it and picks it up. It's a pendant on a chain.)<br><br>SHEPPARD: What's this?<br><br>(Teyla looks round and gasps in delight.)<br><br>TEYLA: I lost this years ago. How did you?<br><br>SHEPPARD: It was just lying over there. It was reflecting off the light. (He fastens the pendant around her neck. As he takes his hands away Teyla puts her hand to the pendant, staring at him. He turns away and shines the light from his P-90 at drawings on the walls.) Someone's been busy, you know?<br><br>TEYLA: The drawings in the caves are extensive. Many must date back thousands of years -- or more.<br><br>(Sheppard makes his way around the walls, looking at the drawings. He points to one.)<br><br>SHEPPARD: Does this represent the destruction of your city?<br><br>TEYLA: This drawing far predates that.<br><br>SHEPPARD: So, what, someone knew it was going to happen?<br><br>TEYLA: I believe it happens again and again. The Wraith allow our kind to grow in numbers, and when that number reaches a certain point they return to cull their human herd. Sometimes a few hundred years will pass before they awaken again. We've visited many, many worlds -- I know of none untouched by the Wraith. The last great holocaust was five generations ago, but still they return, in smaller numbers, to remind us of their power.<br><br>SHEPPARD: It's a hell of a way to live.<br><br>TEYLA: We move our hunting camps around. We try to teach our children not to live in fear, but it is hard. Some of us can sense the Wraith coming. That gives us warning. (She looks back towards the entrance.) We should go. It will be dark soon.<br><br><br>ALIEN STARGATE. It's night time again. Ford and two other marines are watching the Gate.<br><br>FORD: Man, days are short here.<br><br>SUMNER (over radio): Major Sheppard, this is Colonel Sumner, come in?<br><br>FORD (activating his radio): Colonel, this is Lieutenant Ford. Major Sheppard's out of radio range at the moment.<br><br>(Sumner is back at the village.)<br><br>SUMNER (into radio): Where the hell is he?<br><br>FORD (over radio): I think Teyla wanted him to see something.<br><br>(Back at Ford's position, the Gate begins dialling in.)<br><br>FORD (to the marines, as he ducks behind the D.H.D.): Defensive positions! (Into radio) Colonel, we have Gate activity here.<br><br>(He takes off his night goggles and aims his P-90 at the Gate. A small pointed ship screams through the Gate and heads off in the direction of the village. As Ford jumps up and watches it go, two similar ships come through the Gate and follow after the first one.)<br><br>FORD (into radio): Colonel. Three bandits headed your way.<br><br><br>VILLAGE. The villagers scream and run as they hear the ships approaching. Sumner runs into the camp.<br><br>SUMNER: Take cover!<br><br>(The villagers run, screaming. An old man, looking up into the sky, trips over something and falls. Sumner runs over and helps him up.)<br><br><br>FOREST. Sheppard and Teyla are walking back towards the village when she stops, gazing at the ground as she senses something. She looks up as the sound of the ships can be heard in the distance.<br><br>SHEPPARD: What is it?<br><br>TEYLA: The Wraith!<br><br>(She races towards the village, Sheppard following her.)<br><br>TO BE CONTINUED.
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+
+<A HREF="/atlantis/s1/101.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="102.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s1/index.shtml">
+<IMG SRC="/graphics/title_s1episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season One Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="101.shtml" CLASS="list">Rising, Part 1</A><BR><A HREF="102.shtml" CLASS="list">Rising, Part 2</A><BR><A HREF="103.shtml" CLASS="list">Hide and Seek</A><BR><A HREF="104.shtml" CLASS="list">Thirty Eight Minutes</A><BR><A HREF="105.shtml" CLASS="list">Suspicion</A><BR><A HREF="106.shtml" CLASS="list">Childhood's End</A><BR><A HREF="107.shtml" CLASS="list">Poisoning the Well</A><BR><A HREF="108.shtml" CLASS="list">Underground</A><BR><A HREF="109.shtml" CLASS="list">Home</A><BR><A HREF="110.shtml" CLASS="list">The Storm</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="111.shtml" CLASS="list">The Eye</A><BR><A HREF="112.shtml" CLASS="list">The Defiant One</A><BR><A HREF="113.shtml" CLASS="list">Hot Zone</A><BR><A HREF="114.shtml" CLASS="list">Sanctuary</A><BR><A HREF="115.shtml" CLASS="list">Before I Sleep</A><BR><A HREF="116.shtml" CLASS="list">The Brotherhood</A><BR><A HREF="117.shtml" CLASS="list">Letters From Pegasus</A><BR><A HREF="118.shtml" CLASS="list">The Gift</A><BR><A HREF="119.shtml" CLASS="list">The Siege, Part 1</A><BR><A HREF="120.shtml" CLASS="list">The Siege, Part 2</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season One</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B000BVXPGY/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B000CEVUIK/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls1.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  
+	  <A HREF="/atlantis/s1/101.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="102.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

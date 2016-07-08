@@ -1,0 +1,527 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "The Last Man" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				
+				<A HREF="/atlantis/s4/transcripts/420.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=576">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=331">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s4/420.shtml#production">Production</A>
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=50919">Fan Reviews</A>
+				 | <A HREF="http://forum.gateworld.net/forumdisplay.php?f=116">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s4/420.shtml"><IMG SRC="/atlantis/graphics/420_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="THE LAST MAN" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://click.linksynergy.com/fs-bin/stat?id=2cvd55rHd*s&offerid=78941&type=3&subid=0&tmpid=1826&RD_PARM1=http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewTVShow?id=179127311&partnerId=30" TARGET="_blank"><img height="15" width="61" border="0" alt="iTunes" src="/store/graphics/itunes_button.gif"></img></a> &nbsp; <a href="http://www.amazon.com/exec/obidos/ASIN/B0015NAZJW/bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 420<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 4, Disc 5<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 03.07.08<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 04.06.09<BR>
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0540695/" TARGET="_blank">Joseph Mallozzi</A> & <A HREF="http://www.imdb.com/name/nm0612283/" TARGET="_blank">Paul Mullie</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0939869/" TARGET="_blank">Martin Wood</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">Sheppard returns to Atlantis after a mission and finds the city abandoned, all systems dead -- and instead of ocean, sand dunes as far as the eye can see.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    M4S-587.  John Sheppard returns to the planet's Stargate where Major Lorne and his team are waiting.<br><br>LORNE: So, how'd it go, sir?<br><br>SHEPPARD: The Genii contact didn't show up.<br><br>LORNE: Can't say I'm surprised.<br><br>SHEPPARD: What are you saying, Major?  The Genii can't be trusted?(!)<br><br>LORNE: Well, they <I>did</I> try and kill you and Doctor McKay along with that little girl.<br><br>SHEPPARD: True, true – and normally that's the kind of thing I'd take personally, but Ladon claims he didn't order the hit.  He's trying to get on our good side.<br><br>LORNE: You really think they know anything about where Michael took Teyla?<br><br>SHEPPARD: Well, they get solid intel.  We're following up every lead, no matter how thin.<br><br>LORNE: OK.  So what do you wanna do?<br><br>(John steps over to the D.H.D. and starts to dial an address.)<br><br>SHEPPARD: Well, I'm gonna go ahead.  You stay behind for a few hours; tell me if he shows up.<br><br>LORNE: Will do.<br><br>(The Stargate kawhooshes.)<br><br>SHEPPARD: We're gonna find her, Major.<br><br>LORNE: Yes, sir.<br><br>(John walks forward and steps into the Gate.)<br><br><br>WORMHOLE TRAVEL.<br><br><br>ATLANTIS.  John walks through the Gate into the Gateroom.  There are no lights on and the area is lit only by a reddish daylight coming through the windows.  There's no sign of anyone in the Gateroom or the Control Room.  John notices something else different about the place.<br><br>SHEPPARD: Somebody turn up the heat?<br><br>(He looks around.)<br><br>SHEPPARD: Hello?<br><br>(Nobody replies.  Frowning, John walks towards the stairs, turning around frequently to try and spot anyone.)<br><br>SHEPPARD: If this is a surprise party, it's not my birthday.<br><br>(Biting his lip anxiously, he walks slowly up the stairs and into the dark Control Room.  Frowning, he turns around and activates his headset radio.)<br><br>SHEPPARD: This is Sheppard.  Anyone read?<br><br>(There's no reply.)<br><br>SHEPPARD: I repeat: this is Sheppard.  Anyone on this channel?<br><br>(Still nobody answers.  He walks across to the door which leads to the outside balcony.  It remains closed as he approaches it.  He puts his hands on it and starts to push sideways.  After a few moments, he manages to slide the door open.  He looks outside and stares in total amazement.  Walking out onto the balcony, he gazes in disbelief at the sight.  The ocean has gone and the city is surrounded by sand dunes.  He goes to the edge of the balcony and looks down.  The lower levels of the city are half buried in sand.  As he looks around, still in shock, the camera pulls back to show a high overhead view of the city and the surrounding area.  There is sand for as far as the eye can see.)<br><br><br>SHORTLY AFTERWARDS.  John walks back into the Control Room and waves his hand over the panels of the various consoles as he talks to himself.  Nothing activates.<br><br>SHEPPARD: All right.  This isn't good.  The most elaborate practical joke of all time, or I'm in serious trouble here.<br><br>(Just then sound begins to come over his radio.  It's mixed with a lot of static and is unintelligible.  John taps his headset.)<br><br>SHEPPARD: This is Sheppard.  Anyone on this frequency?<br><br>(There's another burst of static, then Rodney McKay's voice comes over the radio.)<br><br>McKAY (over radio): Sheppard?  Is that really you?<br><br>SHEPPARD (sighing in relief): McKay.<br><br>McKAY (over radio): I can't believe it!  It actually worked!<br><br>SHEPPARD: What are you talking about?  What the hell's going on here?<br><br>McKAY (over radio): I imagine you're a little confused right now.  God!  For you, like, what, five minutes has passed?<br><br>SHEPPARD: Rodney!<br><br>McKAY (over radio): Look, I need you to describe exactly what you're seeing.  Where are you?<br><br>SHEPPARD: I'm in the Control Room.  It's deserted.<br><br>McKAY (over radio): Is there any power?<br><br>SHEPPARD: No.  Everything's dead – and, oh yeah, did I tell you the ocean's gone?<br><br>McKAY (over radio): Sorry, what?<br><br>SHEPPARD: The big blue thing out the window.  It's gone.  It's – it's – it's a desert – and it's about a hundred and twenty degrees in here.<br><br>McKAY (over radio): Oh, jeez, the planet must have undergone some serious climate changes.<br><br>SHEPPARD: If you don't start giving me some answers pretty soon here ...<br><br>McKAY (over radio): OK, look, I understand this is hard for you.  Just do me a favour and go to the Hologram Room.<br><br>SHEPPARD: Why?<br><br>McKAY (over radio): Just do it.  Please.<br><br>(John turns and trots down the stairs.  Using the light on his P-90 to light his way, he jogs along the dark corridors.  Eventually, breathing heavily, he reaches the Hologram Room and goes inside.)<br><br>SHEPPARD: All right.  I'm here.<br><br>McKAY (over radio): Well, activate the hologram projector.<br><br>SHEPPARD: There's no power.<br><br>McKAY (over radio): It's connected to an independent power source.  Don't worry – it will work.<br><br>(John steps over to the console and waves his hand over it.  Immediately Rodney appears behind him.)<br><br>McKAY: Hey there.<br><br>(John turns, startled.  He is even more startled when he sees Rodney for the first time – for this is not the Rodney McKay that we have known for the past four years.   Wearing green trousers and a blue top, Rodney has his hands stuffed inside a tatty old grey cardigan ... and he looks like he is in his mid-seventies.  His face is wrinkled and his hair and eyebrows are grey.  He smiles at John as he stares back at him in amazement.)<br><br>SHEPPARD: Rodney!<br><br>McKAY (smiling): God, it's good to see you again.<br><br>SHEPPARD: You're a hologram!<br><br>McKAY (shocked): No!<br><br>(He takes his hands out of his pockets and looks at them, then laughs.)<br><br>McKAY: Of course!  I tapped into the city's internal sensors, so I've got eyes and ears – so to speak.  You look good.<br><br>SHEPPARD: You look, uh ...<br><br>(He reaches out to touch Rodney's chest.  His fingers sink straight into it and a glow surrounds them.)<br><br>SHEPPARD: ... different.<br><br>McKAY: That's ‘cause you remember me the way I was.<br><br>SHEPPARD: What, you mean <I>earlier today</I>?<br><br>McKAY: Ah, it's funny, you know?  I spent the last twenty five years of my life trying to figure out how to make this work, and I never once thought what I was gonna say to you when you got here.<br><br>SHEPPARD: You can start by telling me what the hell's going on here!<br><br>McKAY: Ah.  Right, right.  OK.  Um, remember that mission report?  SG-1 stepped through the Gate.  Their wormhole accidentally intersected with a solar flare and they were sent back to 1969.<br><br>SHEPPARD: Uh, well, vaguely.<br><br>McKAY: Well, something similar has just happened to you.<br><br>SHEPPARD: I was sent back in time?<br><br>McKAY: Uh, no.  In fact, you were sent <I>forward</I> into the future.<br><br>SHEPPARD: How <I>far</I> into the future?<br><br>McKAY: Huh, an interesting question – and one that was not easy to figure out.  I had to determine the exact characteristics of the solar flare in question ...<br><br>SHEPPARD (irritated): Rodney!<br><br>McKAY: Forty eight thousand years, give or take.<br><br>(John stares.)<br><br>SHEPPARD: This <I>is</I> a practical joke.<br><br>McKAY: No, I'm afraid not.  Freak accident.  Sorry.<br><br>SHEPPARD: You're telling me I just travelled forty eight thousand years into the future in ten seconds?<br><br>McKAY: I know – it <I>is</I> kind of cool when you think about it, isn't it?<br><br>SHEPPARD: Surfing a thirty foot wave in Waimei is cool.  Dating a supermodel is cool.  (Angrily) This is not cool!<br><br>McKAY: All right, calm down.<br><br>(John opens his mouth, then pauses as he realises something else.)<br><br>SHEPPARD: If I'm in the future, that means you're, uh ...<br><br>McKAY: ... dead.  Dead and buried and turned to dust a long, long time ago, along with everyone you ever knew.  There's no way of knowing what the state of human civilisation is; whether it even still exists.  I mean, we've obviously abandoned the city.<br><br>SHEPPARD: Obviously(!)<br><br>McKAY: There's not enough power for you to gate back to Earth, and without a M.A.L.P., going anywhere else would be far too risky.  It is entirely possible that you are the last human being alive.<br><br>SHEPPARD: You're not doing a very good job of cheering me up here.<br><br>McKAY (mildly): Oh, consider yourself lucky, young man.  While I was figuring out this plan, I had no way of knowing whether the city would even survive this long.<br><br>SHEPPARD: What – what plan?<br><br>McKAY: I took advantage of some progress in hologram technology to create this simulation.  (He chuckles.)  I'm able to move anywhere inside the city.  I'm fully interactive, and I'm designed to mimic the exact response and appearance of the great Doctor Rodney McKay.<br><br>(John grimaces.)<br><br>SHEPPARD: Couldn't use anyone else, huh?<br><br>(Rodney chuckles again.)<br><br>McKAY: Funny.  I'm linked to the city's main systems, but I have an independent core drive which is sealed in the foundation of one of the outer buildings – along with a Mark Twelve naqahdah generator and a couple of other key components.  It's kind of like a, um, well, what do you say – like a time capsule, so to speak.<br><br>SHEPPARD: It's really nice to have company, but if what you're saying is true, what good does it do me?<br><br>McKAY: Oh, trust me, I wouldn't go to all this trouble just so we could have a chat.  No, no – I'm here to bring you back.<br><br>(He turns and starts to leave the room.)<br><br>McKAY: Come on.<br><br>(Bewildered, John follows him.  As they walk, the lights come on automatically in front of them.  As they continue along the corridors during the following conversation, the lights go off again behind them.)<br><br>fSHEPPARD: Where are we going?<br><br>McKAY: Stasis chamber.<br><br>SHEPPARD: Why?<br><br>McKAY: To buy some time.<br><br>SHEPPARD: Well, that really explains everything(!)<br><br>McKAY: Theoretically, we can send you back exactly the way you got here, using the Gate, the right address and a solar flare.  The only problem is, we're waiting for something very specific – a prominence with exactly the right shape, size, characteristics and relative position in space so that it will interact with the wormhole in exactly the right manner and send you back exactly the right amount of time.<br><br>SHEPPARD: And that doesn't happen every day.<br><br>McKAY: Exactly.<br><br>SHEPPARD: How long are we talking about?<br><br>McKAY: Oh, seven, eight hundred years.  A thousand, tops.<br><br>SHEPPARD (stopping): Whoa, whoa, whoa, whoa.  That's your plan?  I'm forty eight thousand years into the future and you wanna put me on ice for another thousand?<br><br>McKAY: Tops.<br><br>(John looks shocked.)<br><br>McKAY: We need to be precise.  If I don't get you back within two months of the moment you left, then ... it'll be too late.<br><br>SHEPPARD: Too late?  What the hell's <I>that</I> supposed to mean?<br><br>(Rodney sighs, his face full of memories.)<br><br>McKAY: Things didn't exactly go well for us after your disappearance.  Once I figured out what happened to you, I realised there was nothing we could do.  The Air Force pronounced you K.I.A. – gave you a very nice military funeral back on Earth.  Obviously the casket was empty ...<br><br>(John grimaces in distaste.)<br><br>McKAY: ... but, you know, it's the thought that counts.  From there ... well, from there things went from bad to worse.<br><br><br>FLASHBACK.  On an offworld planet, Rodney, Lorne and Ronon Dex make their way into a building.<br><br>McKAY (voiceover): We kept searching for Teyla but we just didn't have the resources to cover enough ground.<br><br>(Searching the building cautiously, they enter a room and see Teyla Emmagan lying on the floor, her eyes closed.)<br><br>McKAY (voiceover): It took us two months before we finally found her in one of Michael's hideouts.<br><br>(Checking first to make sure that there is nobody else around, Ronon goes over to Teyla, bends down to her and checks her neck for a pulse.  He looks up at Rodney and Lorne in despair.)<br><br>McKAY (voiceover): But by then it was too late.<br><br>(The image of Rodney's face, full of loss, merges into the future Rodney's face, identically anguished.)<br><br>McKAY: She'd had the baby.  I guess after that he didn't have any use for her any more.<br><br>(Reluctantly, he meets John's eyes.)<br><br>McKAY: So he killed her.<br><br><br>LATER.  John and Hologram Rodney are walking through the city again.<br><br>McKAY: It's not your fault.<br><br>SHEPPARD: I should have been there.<br><br>(Rodney sighs.)<br><br>McKAY: And you <I>will</I> be – and knowing the address where we eventually found Teyla, you will be able to get there much quicker.  You'll save Teyla, save the baby, change the fate of the galaxy.<br><br>SHEPPARD: What do you mean?<br><br>McKAY: Well, it was the turning point.  It was the key to <I>everything</I>.  Once Michael had that baby, he was able to complete his research and perfect the hybrids.  After that, well, he <I>really</I> kicked things into gear.<br><br><br>FLASHBACK.  In a town on an offworld planet, a makeshift hospital has been set up in a house.  Atlantean medics, led by Jennifer Keller, are helping the planet's doctors tend to many sick people.  Jennifer pulls a blanket over the face of the person she has been treating.<br><br>McKAY (voiceover): He stepped up his campaign of exposing human populations to the Hoffan drug.  Jennifer did her best to find a way to combat the effects, with trying to lower the mortality rate ...<br><br>(Jennifer straightens up sadly from her dead patient, then watches in despair as medics bring in even more people.)<br><br>McKAY (voiceover): ... but ultimately, it was a losing battle.<br><br><br>FLASHBACK.  In space, two Wraith hive ships are exchanging gunfire.<br><br>McKAY (voiceover): With their food supplies tainted, the infighting between the Wraith factions got worse.  Michael waited until they were at each other's throats, and then he made his move.<br><br>(As the hive ships continue firing at each other, a third hive jumps out of hyperspace.  On board, Michael walks onto the Bridge where one of his hybrids is flying the ship.)<br><br>MICHAEL: Status?<br><br>HYBRID: Both hives are heavily damaged.  They've lost hyperdrive and are venting atmosphere.<br><br>MICHAEL: Well, then, let's finish it.<br><br>(His hive opens fire on the other two ships, and they disintegrate and explode under the onslaught.)<br><br>(Some time later, on a planet, two hybrids drag a struggling Wraith Queen into a tent.)<br><br>McKAY (voiceover): He took advantage of their weakened state and their internal divisions – and in less than a year, he had the Wraith on their knees.<br><br>(The hybrids push the Queen down onto her knees.)<br><br>McKAY (voiceover): Literally.<br><br>(Michael turns slowly to face the Queen, who glares at him.  He turns away again and picks up a large knife.)<br><br>MICHAEL: You know, the irony is, I never asked for any of this.<br><br>(He turns and looks at her.)<br><br>MICHAEL: I was taken prisoner by the humans, tortured, experimented on ...<br><br>(Slowly he walks towards her.)<br><br>MICHAEL: ... and when I finally escaped and returned to my Wraith brothers, instead of being welcomed back, I was met with scorn.<br><br>HIVE QUEEN: You will pay for this.<br><br>MICHAEL: You still have your pride.  (Sarcastically) Good for you.<br><br>(He glares down at her for a moment, then steps forward and savagely slashes her throat.  She crumples to the floor.)<br><br>(Shortly afterwards, Michael throws back the flap of the tent and walks outside.  He walks forward onto a rise outside the tent, stops and then raises up his hand which is holding the severed head of the Queen.  Cheers erupt and we see that he is facing a huge crowd of hybrids and mercenaries.  They continue to cheer, holding their fists in the air triumphantly as Michael gazes at his army in satisfaction.)<br><br><br>FUTURE ATLANTIS.  John and Hologram Rodney are still making their way through the city.<br><br>McKAY: With the Wraith in disarray, Michael returned to the human populations he'd infected with the Hoffan drug.  He selected the strongest and the healthiest of the survivors and converted them to hybrids.  The rest he exterminated.<br><br>SHEPPARD: You think by saving Teyla, we can change all this?<br><br>McKAY: I <I>know</I> it.  All I have to do is get you safely to a stasis chamber.  I will reprogramme the sensors ...<br><br>(He trails off as the lights come on ahead of them down the corridor.  Sand has broken in from outside and has blocked the route ahead of them.)<br><br>McKAY: Oh.  <I>That</I> could be a problem.<br><br>SHEPPARD: No, no, that's not a problem.  We'll just find another way around.<br><br>(Rodney's hologram flickers a few times.)<br><br>SHEPPARD: Rodney?<br><br>McKAY: There <I>is</I> no other way around.  The sand has penetrated the lower levels.<br><br>SHEPPARD: Forty eight thousand years into the future, you've still got a knack for stating the obvious.  All right, what do we do?<br><br>McKAY: I don't know.<br><br>SHEPPARD: What do you mean, you don't know?<br><br>McKAY: Well, I wasn't programmed for this variable!<br><br>SHEPPARD: You said you had twenty five years to work on this plan!<br><br>McKAY: Well, McKay <I>did</I> – and he brilliantly anticipated a lot of potential problems.  It's just that, well, this wasn't one of them.<br><br>SHEPPARD: All right.  We go up two levels, turn right, there's an outer door.  It's only a quarter of a mile across the plaza.<br><br>McKAY: You can't do that.<br><br>SHEPPARD: Why not?<br><br>McKAY: Not only is it extremely hot out there, but for the last half an hour the barometric pressure has been dropping and the wind speeds have increased significantly.<br><br>SHEPPARD: A storm's coming?<br><br>McKAY: A <I>sand</I>storm.  Ever been in one of those?<br><br>SHEPPARD: As a matter of fact, I have.<br><br>McKAY: Oh.  Oh, then, then you know what that means.<br><br>SHEPPARD: It's not like we have a lot of options here.<br><br>(He turns and trots off back the way they came.  Rodney sighs and follows him.  Some time later they reach a corridor on the outer edge of the building.  A ferocious wind can be heard howling outside.  John stops at the exit door and listens to the wind.)<br><br>SHEPPARD: Sounds pretty nasty out there.<br><br>McKAY: The winds are gusting over fifty miles an hour and increasing.  Look, the visibility's basically zero.  You can't go out there!  You're just gonna have to wait it out.<br><br>SHEPPARD: For how long?<br><br>McKAY: Well <I>I</I> don't know.  Maybe a couple of hours.<br><br>(John sighs, then walks wearily over to the wall and sits down on the floor.)<br><br>McKAY: Are you hungry?  Do you have any food?<br><br>(John shakes his head.)<br><br>McKAY: Oh.  Well, I suppose it doesn't really matter anyways.  We'll just wait for the storm to blow over and have you out of here in no time at all.<br><br>(He smiles, then looks awkward.)<br><br>McKAY: Well, you'll actually be here for seven hundred years but you know what I mean.<br><br>(John grimaces, then looks up at Rodney.)<br><br>SHEPPARD: What about everyone else?  I mean, you told me about Teyla, but what about the rest of ‘em?  There's no way we would have rolled over and let Michael take over the whole galaxy.<br><br>McKAY: No.<br><br>SHEPPARD: Well, what happened?<br><br>McKAY: The I.O.A. and the military were reluctant to commit a lot of resources to protecting the human populations of another galaxy.<br><br>(He smiles fondly.)<br><br>McKAY: But Sam?  Sam wouldn't take "no" for an answer.<br><br><br>FLASHBACK.  Samantha Carter is walking with Rodney through the corridors of a Daedalus-class battle cruiser.  Scientists are working to get it ready.<br><br>McKAY (voiceover): Finally they decided to give her a new ship – Phoenix.  Barely off the assembly line; half the Asgard systems weren't finished; the other half weren't working.<br><br>(Sam and Rodney walk into a room.  The place is a mess: wires are hanging from the ceiling and equipment is lying around everywhere.  Despite that, Sam smiles proudly.  Rodney doesn't look so happy at the amount of work that he's going to have to do.)<br><br>(Time passes.  Sam is soldering a wall panel.)<br><br>McKAY (voiceover): We spent the better part of a month getting her ready for combat.<br><br>(Sam looks across the room to where Rodney, looking weary, is working on putting a console together.)<br><br>McKAY (voiceover): We worked day and night, side by side.  Zelenka might have been there as well.  I don't really remember.<br><br>(Radek Zelenka walks across and puts a cup of coffee onto the console for Rodney, then walks away.)<br><br>McKAY (voiceover): I <I>do</I> remember never feeling so drained in my entire life.<br><br>(Some time later, Rodney inserts the last crystal into a tray and it slides into its console.  Sam looks at a computer tablet she's holding as it beeps, then smiles in satisfaction at Rodney.  He sighs in relief and slumps on the console, exhausted.)<br><br>McKAY (voiceover): Eventually, though, we managed to get her in working order.<br><br>(Later, Sam is standing on the Bridge of her ship.  Rodney walks in.)<br><br>McKAY: All right.  Everything checks out.  Weapons, shields, long-range sensors all in the green.  She's good to go.<br><br>CARTER: Great work, Rodney.  Now, I want you, Radek and your team to head back to Atlantis and take a couple of days off.  When you're good and rested, get to work on the city's shields.  Do <I>anything</I> you can to maximise efficiency.  You're gonna need them.<br><br>McKAY: Well, what about you?<br><br>CARTER: I'm gonna take her out.  For the time being, Major Lorne is in command of Atlantis.<br><br>McKAY: You need to take some time.  You're as exhausted as <I>we</I> are.<br><br>CARTER: Intel suggests that Michael's about to move against several human worlds.  We have to get out there now.<br><br>McKAY: So let someone else go!<br><br>(Sam looks at him.  Eventually he sighs.)<br><br>McKAY: All right.<br><br>(He turns to leave.)<br><br>CARTER: Hey.<br><br>McKAY (turning back to her): Hmm?<br><br>(She raises her eyebrows at him.)<br><br>McKAY: Uh, good luck.<br><br>(Sam smiles.)<br><br>CARTER: Thanks, Rodney.<br><br>(She walks over to him and hugs him.) <br><br>CARTER: For everything.<br><br>(Rodney looks at her a little puzzled as she releases him, but smiles at her.)<br><br>McKAY: Right.<br><br>(He turns and leaves the Bridge, half-glancing back at her as he goes.  Sam turns and gazes out of the windshield.)<br><br>McKAY (voiceover): They started a series of hit and run ops – real guerrilla style.<br><br>(In space, two hive ships fly side by side.  Phoenix soars in and fires three Asgard beams at one of the ships and it explodes.  She heads for the second hive and fires at it.  On the Bridge, Sam's Weapons Officer reports.)<br><br>WEAPONS OFFICER: One of the hives has been neutralised.<br><br>CARTER: What about the other one?<br><br>WEAPONS OFFICER: Minimal damage.  They're powering weapons.<br><br>CARTER: Dammit.<br><br>WEAPONS OFFICER: Should we swing around for another pass?<br><br>CARTER: Forget it.  Get us out of here.<br><br>(As the hive fires at Phoenix, she races away and jumps into hyperspace.)<br><br>(Back in future Atlantis, Rodney is standing near John as he sits on the floor.)<br><br>McKAY: For a while, it really worked.  They were able to inflict considerable damage, despite terrible odds.  But eventually their luck ran out.<br><br><br>FLASHBACK.  Phoenix leaps out of hyperspace just above the surface of a planet.<br><br>McKAY (voiceover): Michael deliberately leaked some intel that he was about to attack a heavily populated human world.  Sam thought she could get there first, but she was wrong.<br><br>(As Phoenix soars over the planet, a hive ship above her opens fire.  As it bombards the ship, consoles on the Bridge explode.  Sam runs to try and fix the damage.)<br><br>WEAPONS OFFICER: We've got a hive ship – six o'clock.<br><br>CARTER: It's an ambush.<br><br>WEAPONS OFFICER: Here comes another one, dead ahead.<br><br>CARTER: Evasive manoeuvres!<br><br>(Phoenix races away from the ship above her and swings to the left to avoid the hive in front.  A third hive is waiting in her path and fires an onslaught as she swings right to avoid it.  As Sam runs to a console near the front of the Bridge, more consoles and panels explode.)<br><br>WEAPONS OFFICER: We're boxed in.<br><br>CARTER: Return fire!<br><br>(There's a massive explosion in the middle of the Bridge and the pilot is thrown from his seat and crashes to the floor.  Alarms sound as another member of the crew runs to the pilot's station and tries to activate the controls.)<br><br>WEAPONS OFFICER: We've lost Asgard weapons.<br><br>CARTER: Switch to missiles.  Fire all batteries!<br><br>(She runs to the pilot's console and pats the crewmember on the shoulder, pointing him towards the pilot lying on the floor.)<br><br>CARTER: Help him.  Go.<br><br>(As he moves away, she takes the pilot's seat.  Phoenix fires her missiles towards the two hives in front of her.  They return fire.)<br><br>WEAPONS OFFICER: We've got an overload.  It's the hyperdrive!<br><br>CARTER: Reroute the power!<br><br>WEAPONS OFFICER: No response.  System is going critical.<br><br>(Sam gets up and hurries to a panel in the ceiling.)<br><br>CARTER: I'm beaming you to the planet.  Head to the Gate as soon as you can.<br><br>WEAPONS OFFICER: What about you?<br><br>CARTER: I'll be right behind you!<br><br>(Unhappily, the Weapons Officer takes her hands off her console and straightens up in her seat.  An Asgard transporter beam whisks her away.  All around the ship, the crewmembers are beamed away until Sam is alone.  She hurries back to the main consoles.)<br><br>McKAY (voiceover): After she got the crew off, she must have lost the transport system.  With her engines about to go critical, I guess she figured she didn't have anything to lose.<br><br>(With her engines trailing smoke behind her, Phoenix turns and soars into the middle of the trio of hive ships surrounding her.  As the Bridge continues exploding all around her, Sam stands and stares defiantly through the windshield as Phoenix races straight towards the hive in front of her and plunges into the side of the ship.  It explodes and the shockwave radiates out in all directions, impacting the other two hives and destroying them as well.)<br><br>McKAY (voiceover): With her last breath, she took out three of Michael's hive ships.<br><br>(In future Atlantis, Rodney smiles ruefully down at John.)<br><br>McKAY: And we buried another empty casket.<br><br><br>LATER.  John is standing alone at the doorway to the outside.  The wind is still howling outside.  There's a shimmer behind him and Rodney's hologram comes back online.  John turns to face him.<br><br>SHEPPARD: Where the hell have <I>you</I> been?<br><br>McKAY: I was inputting our new solar flare requirements into the long-range sensors. ... And I found out what happened to the ocean.<br><br>SHEPPARD: Well, are you gonna tell me or are you gonna keep it a secret?<br><br>McKAY: The sun in this system is dying.  It's running out of fuel.<br><br>SHEPPARD: Wouldn't that make it colder?<br><br>McKAY: No.  As it consumes the heavier elements, it begins to expand.  It's basically turning into a red giant.<br><br>SHEPPARD: OK, so mystery solved.  Let's move on.<br><br>McKAY: No, no.  You don't get it.  This isn't some kind of cyclical climate change.  This is – this is a one-way ticket.  This planet is going to get hotter and hotter.  Eventually the atmosphere is gonna burn off.<br><br>SHEPPARD: All right.  How long before that happens?<br><br>McKAY: It is impossible to say, but my best estimate is under five hundred years.<br><br>SHEPPARD: But you said I'd be in stasis for at least seven hundred.<br><br>McKAY: Right.  So the moment you step out of the stasis chamber, you'll be killed.<br><br>SHEPPARD: Rodney, you've gotta think of something!<br><br>McKAY: I am <I>trying</I>.  It's like I said ...<br><br>SHEPPARD: ... you didn't anticipate the variable.  I get it.<br><br>(He paces, thinking.)<br><br>SHEPPARD: All right: can the Mark Twelve power the shields?<br><br>McKAY: Theoretically, but there'd never be enough power left over to maintain my systems, the long-range sensors, the stasis chamber ...<br><br>SHEPPARD: The city has solar-powered generators, right?<br><br>McKAY (sarcastically): Yes, which would come in very handy if we were trying to power a couple of electric golf carts.<br><br>SHEPPARD: See, you're still thinking like the old McKay.<br><br>McKAY: I can't really help that!  Look, what are you saying?<br><br>SHEPPARD: The sun's going red giant, right?  Increased solar energy.  The worse it gets, the more power we'll have.<br><br>McKAY: Oh my God.  That could work!  We use the shields to protect the atmosphere.<br><br>SHEPPARD: Exactly.<br><br>(Reaching into his vest, he pulls out a scarf.)<br><br>McKAY: We wouldn't be able to do it indefinitely, but it would buy us a hundred years or so.<br><br>SHEPPARD: That's gonna have to do for now.  Open up the door.<br><br>(He folds the scarf into a triangle shape and starts to tie it around his neck.)<br><br>McKAY: What about the storm?<br><br>SHEPPARD: It's been going on for seven hours.  For all we know, it could go on for days.<br><br>McKAY: It'll be dark soon.<br><br>SHEPPARD: All the more reason to get going.  All I've gotta do is walk in a straight line.<br><br>McKAY: That may not be as easy as you think!<br><br>(John rolls his sleeves down to cover his arms.)<br><br>SHEPPARD: I never said I thought it would be <I>easy</I>.  Look, I haven't eaten.  I was hungry on my way back to Atlantis.  The longer we wait, the weaker I get.<br><br>(He pulls the scarf up so that it covers his nose and mouth.)<br><br>McKAY: All right.  Look, I can't go outside, but I can stay in contact with you over the radio.<br><br>(John takes out his sunglasses and puts them on, then walks to the door.  It opens and the wind howls in, billowing sand through Rodney's hologram, which ripples under the impact.  Holding his hands up in front of him to try to protect his face a little, John heads out into the storm.  Rodney calls after him.)<br><br>McKAY: It's like you said: keep walking in a straight line.  When you hit the building on the other side, feel your way to the door.  I'll be waiting for you there!<br><br>(The door closes behind John.  Totally blind, he staggers forwards.  Rodney's hologram rematerialises in the building that John's trying to reach.  He turns and looks at the closed door.)<br><br>McKAY: Sheppard.  Sheppard, can you hear me?<br><br>SHEPPARD: Yeah, I hear you.<br><br>McKAY: How're you doing?<br><br>SHEPPARD: Never better(!)<br><br>(He stumbles and falls to his knees.  Dragging himself up again, he presses on.)<br><br>SHEPPARD: Rodney!<br><br>McKAY: Yeah, I'm still here.<br><br>SHEPPARD: Tell me about Ronon.<br><br>McKAY: What, now?!<br><br>SHEPPARD: Yes, now.  Talk to me, Rodney.<br><br>McKAY: Right.  Uh, well, after what happened to you and then Teyla, I guess he didn't feel comfortable on the base any more ...<br><br><br>FLASHBACK.  Ronon, accompanied by a couple of men, walks into a village of tents.  About twenty people – both men and women – are waiting there for him.<br><br>McKAY (voiceover): He persuaded Sam to let him go offworld and recruit a strike force.  By this time, the galaxy was in a panic.  Word was spreading that Michael's agenda was to wipe out Wraith and human alike.  Ronon didn't have much trouble finding volunteers.<br><br>(Later, several of his recruits are working in pairs in an area of ground set up as a training ring.  They are practising hand-to-hand fighting techniques that Ronon has taught them.  He watches them as he calls out instructions.)<br><br>DEX: One!<br><br>(Each of the pairs carries out a set move.)<br><br>DEX: Two!<br><br>(The pairs perform the next move.)<br><br>DEX: Three!<br><br>McKAY (voiceover): They were just simple villagers with no military experience but he trained them in all forms of combat.<br><br>(Later, the recruits are being handed packs of gear which have been supplied by Atlantis.  Taking the packs, they go over to another area where someone has opened a crate containing blocks of C4 and is handing them out.)<br><br>McKAY (voiceover): He even convinced Sam to let him have some of our equipment: radios, explosives, P-90s. It wasn't long before he had himself a pretty effective combat force.<br><br>(Near the tent village, a recruit fires a P-90 at a stuffed mannequin hanging by its neck from a wooden frame.  The bullets all impact squarely in the mannequin's chest.  The man smiles in delight, proud of himself.  Standing behind him, Ronon smiles, impressed.)<br><br>McKAY (voiceover): They ran a few successful ops against some of Michael's ground facilities and then, one day, they got a key piece of intel.<br><br>(On another planet stands a large Wraith facility similar to the one seen in "Reunion."  Inside, a couple of hybrids are walking along a corridor.)<br><br>McKAY (voiceover): Michael had taken over a Wraith lab and was using it to create more of his hybrids.<br><br>(From around the corner, Ronon rolls a stun grenade across the floor.  It explodes and knocks the hybrids off their feet.  Ronon and several of his recruits run out and check the area.  He makes some hand signals and four of them head off.  Ronon and two other recruits go in a different direction.)<br><br>McKAY (voiceover): They decided to take it out.<br><br>(Ronon and his team make their way cautiously along the corridors.)<br><br>McKAY (voiceover): That's when they ran into someone ... unexpected.<br><br>(Ronon turns a corner and aims his blaster at a Wraith, who aims its own stunner pistol at him.  A moment later, Ronon recognises who it is.  It's Todd.)<br><br>DEX (still aiming his blaster at it): What the hell are you doing here?<br><br>TODD (also still aiming its stunner): I suspect the same as you.  Michael is using this facility to create more of his soldiers.  I intend to destroy it.<br><br>DEX: By yourself?<br><br>TODD: There's something to be said for stealth over brute force.<br><br>(A man's voice comes over the radio.)<br><br>VOICE (over radio): Ronon, come in.<br><br>(Ronon pulls a radio out of his vest and speaks into it.)<br><br>DEX: Go ahead.<br><br>VOICE (over radio): One of the guards must have got a signal off, because a cruiser just landed.  We're about to be overrun.<br><br>TODD: As I was saying ...<br><br>(One of Ronon's team speaks behind him.)<br><br>MAN: We have to abort.<br><br>(Ronon never takes his eyes off Todd.)<br><br>DEX: Give me the C4.<br><br>(The man takes off his backpack and puts it into Ronon's outstretched hand.)<br><br>DEX: Take the men back, meet up with Second Squad, and then head for the Gate.  Signal me when you get there.<br><br>(As the man hesitates, Ronon glances round at him.)<br><br>DEX: Go!<br><br>(As the man and his colleague head off, Ronon turns back to Todd.)<br><br>TODD: You intend to complete your mission.<br><br>DEX: You're damned right.<br><br>TODD: As do I.<br><br>(Finally, both of them lower their weapons.)<br><br>TODD: I <I>was</I> going to write an elaborate programme designed to slowly create a fatal error in the primary capacitor, but I doubt there'll be time for that now.<br><br>DEX: I was just gonna blow it up.<br><br>(He turns and walks away.  Todd sighs and follows him.)<br><br>TODD (a little exasperated): Naturally.<br><br>(They make their way along the corridors, covering each other's backs at junctions.  A hybrid run out of the darkness and takes a flying leap at Ronon, kicking his blaster from his hand.  A second one similarly disarms Todd.  The new allies back into a round chamber and go hand to hand with the hybrids.  Ronon pulls out his sword and fights with his attacker, who has a knife, while Todd manages to get its own man down and stabs him.  Ronon forces his opponent down onto his knees and, standing behind him while pulling his hair back, holds his sword across his throat and then abruptly pushes his head forward onto the blade.  Swinging round immediately, he lashes out with his sword but stops it just in time to prevent him from decapitating Todd.  They both freeze in position, with the edge of Ronon's sword still against Todd's throat.  For a moment, Ronon looks at Todd thoughtfully, then he shrugs slightly.)<br><br>DEX: Force of habit.<br><br>TODD: Indeed.<br><br>(It glances down.  Ronon follows its gaze and sees that Todd is holding the point of its own knife against Ronon's heart.)<br><br>(A little later, they make their way into the control room of the facility.)<br><br>TODD: This is it.  If we detonate it here, the secondary explosions will certainly take out the entire facility.<br><br>(Ronon runs over to the main console and opens up the bag containing several blocks of C4.  He takes out the activation device.)<br><br>DEX: All right.  You know another way out of here?<br><br>TODD: Follow me.<br><br>(It leads him out of the door but Wraith stunner blasts fire towards them from further down the corridor.)<br><br>TODD: Fall back!<br><br>(They run back into the control room.  A hybrid calls out to his colleagues.)<br><br>HYBRID: In here!<br><br>(Ronon and Todd take cover behind the consoles.)<br><br>TODD: I suggest you detonate now while we still have a chance.<br><br>DEX: We'll wait for my people to clear.  Period.<br><br>TODD: Very well.<br><br>(Several hybrids try to run into the control room but Ronon and Todd gun each of them down as they come into view.)<br><br>TODD: We can't hold them off forever.<br><br>DEX: Just keep firing.<br><br>(They gun down a couple more hybrids, then a man's voice comes over the radio.)<br><br>VOICE (over radio): Ronon.  We've reached the Gate.<br><br>(Ronon snatches his radio out and activates it.)<br><br>DEX: All right.  I want you to head back now.  No questions asked.  Is that understood?<br><br>VOICE (over radio): Understood.<br><br>(While he was talking, Todd has taken out another hybrid.  Dropping the radio on the floor, Ronon guns down another one.  They duck down behind the consoles and Todd turns to Ronon.)<br><br>TODD: Are we done?<br><br>(They look at each other for a moment, then Ronon flicks up the safety switch on the detonator.)<br><br>DEX: Yeah.<br><br>(They smile at each other.  As the sound of many approaching footsteps can be heard, Ronon grins and presses the button.  The complex explodes.)<br><br><br>FUTURE ATLANTIS.<br><br>McKAY: I'm sorry.  I wish some of these stories had happier endings.<br><br>(John doesn't reply.)<br><br>McKAY: Sheppard?  Sheppard?  Are you still with me?<br><br>(There's still no reply.  Rodney turns to the door.)<br><br>McKAY: Sheppard?<br><br>(The door slides open and John staggers in, falling straight through Rodney's hologram, and crashes to the floor on his face.  As the door closes behind him, Rodney stares down at him, his face panic stricken.)<br><br>McKAY: Your biosignature's barely registering!  Sheppard!<br><br>(John doesn't move.  Rodney stares in horror.)<br><br>McKAY: Oh God!<br><br><br>LATER.  Groaning, John regains consciousness and lifts his head.  Squatting beside him, Rodney sighs in relief.<br><br>McKAY: There you go.  You can do it.<br><br>(Grunting with the effort, John rolls onto his back and pulls his scarf down.)<br><br>SHEPPARD: Hullo, Rodney.<br><br>McKAY: Yeah, I'm still here.  Look, I'd help you up but I'm – I'm, um ...<br><br>(Painfully John pulls himself up into a sitting position against the wall.)<br><br>SHEPPARD: How long was I out?<br><br>McKAY: All night!  You don't look so good.  Maybe we should get you to the stasis chamber as soon as possible.<br><br>SHEPPARD (wearily): Agreed.<br><br><br>STASIS ROOM.  John and Rodney walk in.<br><br>McKAY: I've already prepped the solar panels.  You're good to go.<br><br>(He leads John across to the stasis pod and holds out his hand.  A panel beside the pod opens.)<br><br>McKAY: Here.  Take the first crystal.  I've loaded all the intel we got on Michael after your disappearance, including the address where we found Teyla.<br><br>(John takes the crystal, then turns to Rodney.)<br><br>SHEPPARD: You know, you never told me what happened to <I>you</I> – I mean, in the past.<br><br>McKAY: Oh, you don't wanna hear about that.<br><br>SHEPPARD: Well, why not?  Obviously you survived.<br><br>McKAY: Only ‘cause I quit.<br><br>SHEPPARD: Quit what?<br><br>McKAY: Lantis, Stargate Command – the whole thing.<br><br>SHEPPARD: That doesn't sound like you.<br><br>McKAY: Yeah, well, we were under new management ...<br><br><br>FLASHBACK.  In the Atlantis Infirmary, medics are preparing packs and crates of medical supplies.<br><br>McKAY (voiceover): I was down in the Infirmary, having suffered a, uh, well, pretty serious injury.<br><br>(Rodney is lying on a bed while Jennifer examines his finger.)<br><br>KELLER: It's a splinter.<br><br>McKAY: Doesn't mean it doesn't hurt.<br><br>KELLER: All right.  It's just kind of come at a bad time.  It's a little busy in here right now.<br><br>McKAY: Yeah, I can see that.<br><br>(A familiar man's voice comes from a little distance away.)<br><br>VOICE: Doctor Keller?  Doctor McKay?<br><br>(Looking to see who it is, Rodney gets off the bed and he and Jennifer look at Richard Woolsey, who is dressed in a standard Atlantis command uniform.)<br><br>McKAY: Mr Woolsey.  I understand you've managed to get yourself appointed our new commander.<br><br>WOOLSEY: That's right.  (He fidgets uncomfortably with the neck of his uniform.)  I only wish it were under better circumstances.<br><br>(Rodney and Jennifer nod unhappily.)<br><br>WOOLSEY: May I ask what's going on here?<br><br>KELLER: We're organising some medical supplies for one of our offworld refugee camps.<br><br>WOOLSEY: I see.  Well, I'm going to have to ask you to stop.<br><br>KELLER: I'm sorry?<br><br>WOOLSEY: The I.O.A. is initiating a new policy: immediate recall of all base personnel.  From now on, we'll be focussing entirely on the defence of this city.  (He looks at Jennifer.)  Furthermore, Doctor, your department is going to be scaled back.  Without the Gate Bridge, and with the need to keep at least one ship in orbit at all times for defensive purposes, re-supply is going to be difficult.  We need to prioritise.<br><br>KELLER: I don't understand this.  I'm <I>already</I> under-staffed as it is.<br><br>WOOLSEY: Only because you've over-extended yourself with all these humanitarian efforts and your continued attempts to find an antidote for the Hoffan drug.  Once you have refocussed your attention back to the medical needs of this base and its personnel, I don't think you'll have a problem.<br><br>(He turns to leave.)<br><br>KELLER: Wait a second!  People are <I>dying</I> out there!<br><br>(Woolsey turns back, looking at her sympathetically.)<br><br>WOOLSEY: I know, and – believe me – if I thought there was anything <I>I</I> could do about it, I would.<br><br>McKAY: What about Michael?<br><br>WOOLSEY: Michael knows the defensive capabilities of this base and our ships.  The I.O.A. thinks it's highly unlikely he will launch an unprovoked attack.<br><br>KELLER: So, that's it, then?  We're supposed to just stand back and let him take over the rest of the galaxy?<br><br>WOOLSEY: How many more of our own people have to die, Doctor?  Colonel Sheppard, Colonel Carter, Ronon, Teyla – they were your friends.<br><br>McKAY: Sheppard is not dead.<br><br>WOOLSEY: Right.  He's just been transported forty eight thousand years into the future.  I guess that makes him one of the lucky ones.<br><br>(He turns and walks away.)<br><br>(Some time later, in her quarters, Jennifer is packing clothes into a small case.)<br><br>McKAY (voiceover): The idea of standing by and doing nothing while the rest of the galaxy was suffering was too much for Jennifer to take.<br><br>(Walking over to a table on which is a small crate for more of her belongings, Jennifer picks up a framed photograph of her father.  Looking at it fondly, she sighs and puts it into the crate.)<br><br>McKAY (voiceover): The more I thought about it, the more I realised she was right.<br><br>(The doors to Jennifer's quarters open and Rodney walks in.  She turns to him.)<br><br>KELLER: If you've come here to try and convince me to stay, Rodney, you're wasting your time.  I've already made up my mind.<br><br>McKAY: No.  I've come here to tell you I'm leaving too.<br><br>McKAY (voiceover): We had three weeks on the Daedalus with nothing else to think about but everything that had happened.<br><br>(In Daedalus' Mess, Rodney and Jennifer sit at a table talking.)<br><br>McKAY (voiceover): We went over it a thousand times, trying to imagine what we might have done differently.  It was awful.<br><br>(As they continue talking, Jennifer smiles at him sympathetically, then takes his hand.)<br><br>McKAY (voiceover): At least we had each other.  By the time we got back to Earth – well ...<br><br>(Daedalus has reached Earth.  Standing at a large window looking down at the planet below, Rodney and Jennifer turn to each other.  She runs her hand down his arm, then they lean closer and kiss.)<br><br>McKAY (voiceover) (laughing in a slightly embarrassed way): ... we weren't just colleagues any more.<br><br><br>FUTURE ATLANTIS.  John frowns as he takes his vest off.<br><br>SHEPPARD: Wait a minute.  You and Keller?<br><br>McKAY: Why do you find that so surprising?<br><br>SHEPPARD: I'm just saying, if we start monkeying around with this time line here, there's no guarantee it's gonna turn out the same for you two.<br><br>McKAY: Yeah, that's what I'm counting on.<br><br>SHEPPARD: Why's that?  You survived; you got the girl.  It doesn't sound so bad.<br><br>McKAY: No.  (He smiles.)  No, at first it was great.<br><br><br>FLASHBACK.  Arm in arm, Rodney and Jennifer are walking along a leafy road on Earth, smiling and chatting.<br><br>McKAY (voiceover): I got a high paying job with an aerospace engineering firm.  Jennifer started her own practice.  Things were just starting to come together.<br><br>(Jennifer starts to cough.  Covering her mouth with her fist, she coughs several times, doubling up with the effort.  Rodney puts his hand on her back, concerned.  When she gets the cough under control, she looks at her hand.  It has blood on it.)<br><br>McKAY (voiceover): We should've known we wouldn't get off so easy.<br><br>(Later, Rodney stands in a hospital room while a doctor shows him X-rays of Jennifer's chest.)<br><br>DOCTOR: I'm sorry to say, but all her internal organs are failing.<br><br>McKAY (voiceover): Of course, no regular doctor could diagnose what was wrong with her.<br><br>DOCTOR: ... exposure to the Hoffan drug.<br><br>McKAY (voiceover): We wound up back at Stargate Command less than a year after we'd left.<br><br>(The doctor continues talking, but Rodney is barely listening, lost in grief.)<br><br>McKAY (voiceover): Complications due to repeated exposure to the Hoffan drug.<br><br>DOCTOR: I'm so sorry.<br><br>McKAY (voiceover): No cure.<br><br>(Slowly Rodney turns around and looks at Jennifer lying in a bed in the S.G.C. Infirmary.  She has an oxygen mask over her face.)<br><br>(Later, Rodney stands in a corridor of S.G.C. lost in thought.)<br><br>McKAY (voiceover): I thought I was gonna lose my mind.  I – I didn't know what to do.  After everything we'd been through, to have <I>this</I> happen, it was – it was too much.<br><br>(Suddenly Rodney's eyes widen.)<br><br>McKAY (voiceover): And that's when I had my idea.<br><br>(Rodney turns and hurries away.  Later, he returns to the Infirmary.  Jennifer, no longer wearing an oxygen mask, smiles at him.)<br><br>KELLER: Hi.<br><br>McKAY (smiling): Hey.<br><br>KELLER: Where have you been?<br><br>McKAY (showing her a notebook): I've been working.<br><br>KELLER: Working?  On what?<br><br>McKAY: The solution – to everything.  You, this, <I>all</I> of this – I mean, Atlantis, Pegasus, Michael, <I>everything</I>.<br><br>KELLER: What are you talking about?<br><br>McKAY: I'm gonna change the time line.  I'm gonna make it so none of this ever happened.  I mean, you won't get sick, Teyla won't die, Michael won't complete his research, none of it.<br><br>(Jennifer sighs.)<br><br>KELLER: Oh, Rodney.<br><br>McKAY: OK, I've already worked out the basic plan.  I mean, the details will be a bit more complicated.  I'll probably have to create a whole new form of math just to do the calculations, but I know I can do it.<br><br>KELLER: What's done is done.<br><br>(Rodney stares at her, his smile fading.)<br><br>KELLER: You can't change the past.<br><br>McKAY: You <I>can</I>.  <I>I</I> can – and I'm <I>going</I> to, even if it takes the rest of my life.<br><br>(Jennifer reaches out and takes his hand.)<br><br>KELLER: You think that's what I want?<br><br>McKAY: Well, why not?<br><br>KELLER (tearfully): The year I spent in Atlantis, I – I saw more things than people even dream about in their lifetime.  I don't have any regrets.<br><br>McKAY: But I <I>do</I> – a whole <I>boatload</I> of ‘em.  I wanna do something about it.<br><br>KELLER (firmly): No.  Just promise me that you're not gonna waste the rest of your life chasing after something that's already gone.<br><br>McKAY (voiceover): But I couldn't let it go.<br><br>(Rodney holds her hand and looks at her in grief.)<br><br>McKAY (voiceover): She died three days later.<br><br><br>Some time later, Rodney is writing on a whiteboard in a small cluttered apartment.<br><br>McKAY (voiceover): I quit the research firm; took a job teaching physics at a local community college.  Not much money, but it gave me the free time I needed.<br><br>(He walks from the whiteboard to a desk, sits down and continues writing on a notepad.)<br><br>(Time passes.  Rodney is again working on the whiteboard.)<br><br>McKAY (voiceover): I'll admit it wasn't much of a life.<br><br>(The camera pulls back and we see that Rodney's sister, Jeanie Miller, is sitting and watching him.)<br><br>McKAY (voiceover): Jeanie came by every once in a while to check up on me.<br><br>(As he writes some calculations on the board, Jeanie stands up, takes the pen off him and wipes off the last part of the calculation.)<br><br>McKAY (voiceover): When she realised she wasn't gonna be able to convince me to stop, she decided to pitch in and help me with the calculations.<br><br>(Jeanie writes her own figures at the end of her brother's calculation.)<br><br>McKAY: Well, obviously.  I did that yesterday.<br><br>JEANIE: Just ...  Oh, you did not!<br><br>McKAY: Look, look, this is what I'm thinking.  This is what I'm thinking.<br><br>(They continue arguing and Rodney wipes her calculation off the board with his fingers.  Jeanie sighs in exasperation.)<br><br>McKAY (voiceover): But eventually even <I>she</I> got fed up.  But I never wavered.<br><br>(Years pass.  An elderly Rodney is still in the same apartment, but technology has moved on.  There are still whiteboards around the room covered in calculations, but the main board has been replaced with a clear computer screen on a stand.  Rodney is wearing a black glove on his right hand.  He gestures at the screen and the calculations on it whisk off the screen and new figures appear.)<br><br>McKAY (voiceover): Years went by – twenty five years, to be exact.<br><br>(Rodney flicks his fingers and some of the figures on the screen change.)<br><br>McKAY (voiceover): Then suddenly I had it.<br><br>(He stares at the screen in amazement.)<br><br>McKAY (voiceover): Only one problem.  I needed to get back to Atlantis.<br><br>(At Stargate Command, a technician escorts Rodney across the Briefing Room to the open door of the General's office.  Rodney coughs to attract the General's attention.)<br><br>McKAY (voiceover): I didn't have a lot of friends at Stargate Command.<br><br>(Inside the office, the General turns and smiles as he sees him.)<br><br>McKAY (voiceover): But I only needed one.<br><br>LORNE: Doctor McKay.  Good to see you.<br><br>(He stands up from his desk, walks over and shakes Rodney's hand.)<br><br>McKAY: General Lorne.<br><br>LORNE: Come on in.  Have a seat.<br><br>(They sit down either side of the desk.)<br><br>LORNE: I read your proposal.<br><br>McKAY: You didn't tell anyone else, did you?<br><br>LORNE: I'm not quite as stupid as you might think, Doc.<br><br>(Rodney sighs in relief.)<br><br>LORNE: But I'm sorry.  There's just no way I'd ever be able to get this authorised.<br><br>McKAY: Well, then, don't.  You don't have to tell them what it is.  Tell them it's a research project.  Tell them whatever the hell you want.<br><br>LORNE: Rodney, you're talking about altering the time line here.  Changing history; changing <I>everything</I>.  Do you <I>really</I> think that either of us has the right to make that call?<br><br>McKAY: Just cut to the chase.  You saw what happened in Pegasus; you know what's happening here.  Do you really think this is the way it's supposed to be?<br><br>(Lorne thinks about it.)<br><br><br>FUTURE ATLANTIS.<br><br>McKAY: Maybe he felt sorry for me.  Maybe he figured it wasn't gonna work anyway, but he let me through.  The rest  you know.<br><br>SHEPPARD: Yeah.  I guess I've had a tough day, but you've had a tough twenty five years.<br><br>(Rodney smiles briefly.)<br><br>McKAY: OK.  We're ready.<br><br>(The stasis pod hisses as the hologram "thinks" it into life and John steps inside and turns to face the front.)<br><br>McKAY: Now, if this works, I'll be waiting right here when you come out.  I may not have much time to get you through the Gate, but I think we can manage it.<br><br>SHEPPARD: And if it <I>doesn't</I> work?<br><br>McKAY: Well, you won't <I>feel</I> a thing, but basically you just ... won't wake up.<br><br>SHEPPARD: Right(!)<br><br>(He grimaces.  Rodney looks awkward.  John looks at him.)<br><br>SHEPPARD: In the past twenty five years, d'you happen to notice who won the Superbowl?<br><br>McKAY: Oh.  Uh, ‘fraid not.<br><br>SHEPPARD: Oh.  Stanley Cup?  World Series?<br><br>McKAY: I was never really much of a sports fan.<br><br>SHEPPARD: Right.  Had to ask.<br><br>(Rodney nods, then raises his hand to him.)<br><br>McKAY: Good luck, John.<br><br>(John nods.  The stasis field begins to activate and slowly envelops him.  Rodney, looking very tired and alone, turns away from the pod and his hologram flickers out.)<br><br><br>ATLANTIS.  THE PRESENT.  Chuck scrambles for his console as the Stargate begins to dial in.<br><br>CHUCK: Unscheduled offworld activation!<br><br>(Sam hurries out of her office.)<br><br>CARTER: What have you got?<br><br>(The Gate kawhooshes as Rodney walks over to Chuck.)<br><br>CHUCK: Receiving an I.D.C.<br><br>(He looks up in surprise.)<br><br>CHUCK: It's Colonel Sheppard!<br><br>CARTER: Lower the shield.<br><br>(She and Rodney run for the stairs and trot down them as the shield lowers.  Sam calls out as she goes.)<br><br>CARTER: Security!<br><br>(Marines hurry into the Gateroom and aim their rifles at the Gate.  After several seconds John runs through the event horizon, then skids to a halt and holds his hands out as he sees all the weapons pointed at him.)<br><br>SHEPPARD: Whoa!<br><br>CARTER: John!<br><br>SHEPPARD: Colonel!<br><br>(He looks around the Gateroom.)<br><br>SHEPPARD: It worked!  It worked.  Rodney, you're a genius.<br><br>McKAY (uncertainly): OK.<br><br>CARTER: John, what happened?<br><br>SHEPPARD: How much time has gone by?<br><br>CARTER: You've been missing for twelve days.<br><br>SHEPPARD (to himself): Twelve days, twelve days.  OK, she won't have had her baby yet.  (He looks at Sam.)  Look, I know this sounds kinda weird, but we're on the clock.<br><br>CARTER: John, what are you talking about?<br><br>SHEPPARD: I know where Teyla is.<br><br><br>LATER.  John is pacing angrily around the Isolation Room.  Sam is with him.<br><br>SHEPPARD: We don't have time for this.<br><br>CARTER: John, there are procedures we have to follow.  You know that.<br><br>SHEPPARD: I am <I>not</I> a clone.  Is that what you're worried about?<br><br>CARTER: No, your medical came back clean, telomeres and all, but there are other things we need to discuss.  I mean, you have to admit: this is a pretty wild story, even for <I>this</I> place.<br><br>SHEPPARD: But that's my whole point!  How could I make this up?<br><br>McKAY (over comms from the Control Room): Sam.  Believe it or not, I found it.  It was in the sensor log.  It's a solar flare capable of interfering with the wormhole from M4S-587 at exactly the moment that Lorne says he dialled.<br><br>CARTER: Well, why didn't the Gate's failsafe prevent the wormhole from locking?<br><br>(Rodney looks uncomfortable.)<br><br>McKAY: Umm, well, we've had a number of glitches since we, uh, last updated the operating system.<br><br>SHEPPARD: Oh, that's what you call a "glitch," huh?!<br><br>McKAY: Yes, well, you should know that, uh, I'll be giving Zelenka a stern talking to.<br><br>(John turns to Sam.)<br><br>SHEPPARD: Can we go now?<br><br><br>LATER.  The Stargate is dialling out.  In the Gateroom, John, Lorne and a group of marines are making last minute checks of their gear.  Rodney and Ronon come in.  Rodney goes over to John and speaks to him quietly.<br><br>McKAY: Look, um, I know you've already been debriefed about the future events – all the things we were hoping to avoid – but there's just one more thing I need to know.<br><br>SHEPPARD: What?<br><br>McKAY: Did I still have hair?<br><br>(John looks away.)<br><br>SHEPPARD: No.<br><br>(He calls out to the team.)<br><br>SHEPPARD: Let's go!<br><br><br>WORMHOLE TRAVEL.<br><br><br>OFFWORLD PLANET.  The team has arrived at the building where the future Lorne, Rodney and Ronon found Teyla.  Team Lorne together with Rodney has split off and gone in another direction while John and Ronon, accompanied by two marines, make their way into the building.  John gestures to the marines and they head off while he and Ronon progress on.  Nearby, Team Lorne and Rodney come to a door and open it.<br><br>SHEPPARD (over radio): Rodney, you got anything?<br><br>McKAY: Hold on.<br><br>(He goes inside the room, followed by the others, and walks over to a large Wraith device with a T.V. screen nearby.)<br><br>McKAY: Yeah.  Yeah, I've got some kind of a data terminal.  Let me see if I can power it up and hack in.<br><br>(As he gets to work, John and Ronon reach the room where Teyla's body was discovered in the future.)<br><br>SHEPPARD: This is it.  This is where they found her.<br><br>DEX: How do you know?<br><br>SHEPPARD: ‘Cause he described it to me.<br><br>(Growling, Ronon races to the doorway and aims his blaster in.  John joins him and they go inside.  There's nobody there, but Ronon notices something on a side table.)<br><br>DEX: Hey.<br><br>(He picks up a wicked looking knife and shows it to John.)<br><br>DEX: Look at this.<br><br>(In the other room, Rodney has his hands deep in the Wraith console.)<br><br>SHEPPARD (over radio): McKay, we've got something.<br><br>McKAY: What is it?<br><br>SHEPPARD: Some twisted version of a maternity ward.<br><br>(He is looking at what looks like the Wraith equivalent of an incubator.)<br><br>SHEPPARD: I think we're too early, though, but he's gonna bring her here to have the baby.<br><br>McKAY: Hold on.  I'm in.<br><br>(He pulls his hands out of the console and looks at the T.V. screen as information appears on it.)<br><br>McKAY: Woah!  Jackpot!<br><br>SHEPPARD: What've you got?<br><br>McKAY: I've got everything!  I've got Gate addresses, I've got sub-space communication codes.  I've even got his research into the hybrids!<br><br>(He looks round and grins at Lorne.)<br><br>McKAY: He's history!<br><br>(Just then the screen blinks out.  It remains blank for a moment, then a single symbol appears on it.)<br><br>McKAY: No-no.  No-no-no-no-no.  What happened?<br><br>(The symbol blinks out and is replaced by another one.  A second later, another symbol appears.  A second later, another ...)<br><br>LORNE (pointing at the screen): What's that?<br><br>McKAY: Oh no.<br><br>LORNE: Doc?<br><br>McKAY: It's a countdown!<br><br>(In the maternity ward, John and Ronon look up at the sound of an explosion.  From the other room, Lorne yells into his radio.)<br><br>LORNE: Colonel, it's a booby trap!<br><br>(The building starts to shake.)<br><br>LORNE: We've gotta get out of here now!<br><br>(He runs for the door.  Rodney follows him but part of the ceiling crashes down and blocks his way.  In the maternity ward, a large metal support falls from the ceiling, narrowly missing John and Ronon.  They race out of the room but then duck as more of the ceiling falls in.  Back at the other room, Rodney, Lorne and the others cower as debris tumbles from the ceiling.  We switch to an external shot of the building just as explosions go off all around its base and the entire building disintegrates.  The walls fall inwards and tumble to the ground ... and every viewer and all of your humble transcriber's faithful readers scream out loud as the most hated words in the world appear on the screen ...<br><br>TO BE CONTINUED.
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="419.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s4/420.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="../../s5/transcripts/501.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s4/index.shtml">
+<IMG SRC="/graphics/title_s4episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Four Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="401.shtml" CLASS="list">Adrift</A><BR><A HREF="402.shtml" CLASS="list">Lifeline</A><BR><A HREF="403.shtml" CLASS="list">Reunion</A><BR><A HREF="404.shtml" CLASS="list">Doppelganger</A><BR><A HREF="405.shtml" CLASS="list">Travelers</A><BR><A HREF="406.shtml" CLASS="list">Tabula Rasa</A><BR><A HREF="407.shtml" CLASS="list">Missing</A><BR><A HREF="408.shtml" CLASS="list">The Seer</A><BR><A HREF="409.shtml" CLASS="list">Miller's Crossing</A><BR><A HREF="410.shtml" CLASS="list">This Mortal Coil</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="411.shtml" CLASS="list">Be All My Sins Remember'd</A><BR><A HREF="412.shtml" CLASS="list">Spoils of War</A><BR><A HREF="413.shtml" CLASS="list">Quarantine</A><BR><A HREF="414.shtml" CLASS="list">Harmony</A><BR><A HREF="415.shtml" CLASS="list">Outcast</A><BR><A HREF="416.shtml" CLASS="list">Trio</A><BR><A HREF="417.shtml" CLASS="list">Midway</A><BR><A HREF="418.shtml" CLASS="list">The Kindred, Part 1</A><BR><A HREF="419.shtml" CLASS="list">The Kindred, Part 2</A><BR><A HREF="420.shtml" CLASS="list">The Last Man</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Four</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B0019J2UHW/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B0017MO11O/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls4.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="419.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s4/420.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="../../s5/transcripts/501.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

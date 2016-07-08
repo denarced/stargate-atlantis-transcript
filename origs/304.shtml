@@ -1,0 +1,527 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Sateda" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s3/304.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s3/transcripts/304.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=552">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=295">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s3/304.shtml#production">Production</A>
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=31841">Fan Reviews</A>
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=30971">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s3/304.shtml"><IMG SRC="/atlantis/graphics/304_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="SATEDA" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://click.linksynergy.com/fs-bin/click?id=2cvd55rHd*s&offerid=78941.10001326&type=4&subid=0" TARGET="_blank"><img height="15" width="61" border="0" alt="iTunes" src="/store/graphics/itunes_button.gif"></img></a> &nbsp; <a href="http://www.amazon.com/exec/obidos/ASIN/B000ICKPVE/bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 304<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 3, Disc 1<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 08.04.06<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 10.08.07<BR>
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0178338/" TARGET="_blank">Robert C. Cooper</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0178338/" TARGET="_blank">Robert C. Cooper</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">Ronon Dex is captured by the Wraith and returned to his homeworld, where he is haunted by his past as he is forced to once again become their prey.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    OFFWORLD PLANET. In a forest, Ronon Dex pauses by the side of a tree, looking around suspiciously. Lieutenant Colonel John Sheppard, who has either taken a quick trip back to Earth recently or sent back an order with the Daedalus and is now wearing a cool black leather jacket complete with his usual arm patches, walks up behind him, followed by Teyla Emmagan and Doctor Rodney McKay.<br><br>SHEPPARD: Something wrong?<br><br>DEX: I have a bad feeling.<br><br>McKAY: Yeah, I <I>always</I> feel like that. Like something horrible's about to happen.<br><br>TEYLA (a little sarcastically): How do you live?<br><br>McKAY: I get used to it. Thing is, when someone else <I>also</I> has that feeling, mine gets worse.<br><br>(The team starts to walk again.)<br><br>SHEPPARD (to Ronon): D'you recognise this place?<br><br>DEX: I don't remember.<br><br>TEYLA: You must have visited many planets when you were running from the Wraith.<br><br>DEX: I didn't count.<br><br>SHEPPARD: I don't know how you tell them apart.<BR><br><br>LATER. The team has arrived at a village. It's winter and the ground is covered with a light covering of snow. The village is very basic, made up of tents. The villagers are dressed in leathers and furs against the cold weather. None of them react too much to the new arrivals, just looking at them cautiously as they approach.<br><br>SHEPPARD: See? There you go. Nothing to worry about. Seems like a perfectly nice village to me, just like dozens of others we've visited.<br><br>TEYLA: It appears to be the type of encampment my people trade with all the time. I see no evidence of threatening behaviour or danger.<br><br>McKAY: I also see nothing we might be interested in trading for.<br><br>(The team walks further along the path which bisects the village. One of the villagers, carrying a bundle of sticks, looks at them. John smiles at him.)<br><br>SHEPPARD: Hi. How you doing?<br><br>(The man stares in shock, dropping his sticks.)<br><br>MAN: Wraithbringer!<br><br>(He runs away from them. Others take up his cry as they too start to run away.)<br><br>VILLAGERS: Wraithbringer!<br><br>SHEPPARD: <I>That</I> can't be good.<br><br>TEYLA (calling after the villagers): You don't have to be afraid! (To the team) Where are they going?<br><br>DEX: We need to get out of here now.<br><br>(The villagers have run into their tents. Now some of the men come back out, all of them carrying crossbows. Rodney rolls his eyes and turns to Ronon.)<br><br>McKAY: I take it he was talking to you?<br><br>(One of the villagers aims his crossbow and fires at the team. The arrow impacts Rodney's left buttock. Rodney screams and clutches at the arrow.)<br><br>McKAY (high-pitched and horrified): That did <I>not</I> just happen!<br><br>SHEPPARD (to Ronon and Teyla): Warning fire only!<br><br>(John and Teyla fire their P90s over the heads of the villagers while Ronon fires shots from his blaster into the air. As Ronon and Teyla continue to fire, John grabs Rodney and helps him as they turn and run from the village.)<br><br>SHEPPARD: Go! <br><br>(The team beats a hasty retreat into the forest. Rodney, his arm draped around John's shoulder as John supports him with an arm around his back, is screaming in pain.)<br><br>McKAY: Oh my God, it hurts! I can't feel my leg!<br><br>SHEPPARD: Is it pain or numbness?<br><br>McKAY (screaming): Both!<br><br>(The team hurries on, Teyla and Ronon pausing occasionally to fire back towards the pursuing villagers.)<br><br>McKAY: What the hell did you do to these people?!<br><br>DEX: Don't listen to him.<br><br>McKAY (angrily): How could he not recognise the Gate address?<br><br>SHEPPARD: Do you know the symbols of every address of every planet we've been to?<br><br>McKAY: Yes, as a matter of fact!<br><br>(The team continues on. John pauses slightly as an arrow impacts a tree beside him, punching right through the trunk. He looks back at Teyla and Ronon who are a few yards behind him, firing at the villagers.)<br><br>TEYLA: Go! Get to the Gate!<br><br>(John and Rodney hurry away as Teyla and Ronon, behind the cover of a couple of trees, continue trying to hold the villagers off. John and Rodney reach the clearing where the Stargate is and limp towards it, Rodney whimpering in pain at every step. John takes him to the D.H.D.)<br><br>SHEPPARD: Go on! We'll be right behind you!<br><br>(Leaving him at the D.H.D, he turns and races back towards the forest. Rodney starts to dial.)<br><br>(Back in the forest, Teyla and Ronon are doing their best to hold off the villagers. As Teyla leans out from the cover of her tree to fire at them, one of the villagers lifts a blowpipe to his lips and fires a small dart at her. It hits her left upper arm. Teyla pulls the dart out. Ronon pauses from firing to look at her. Teyla looks down at the dart, then her knees buckle as her eyes roll back in her head and she drops to the ground, unconscious. At the same moment, a dart hits Ronon in the left shoulder. Instantly he pulls it out, glaring at the villagers. They duck down cautiously. Ronon raises his blaster and points it at them, but then he too collapses.)<br><br>(At the D.H.D, Rodney finishes dialling and pushes the central button. The Gate kawhooshes. Just then, an arrow fires past him. Rodney ducks.)<br><br>McKAY: Whoa! Jesus!<br><br>(He turns to see a villager at the edge of the clearing, firing at him. Rodney fires his P90 wildly back towards him as he limps towards the Gate. He reaches the Gate and heads into it.)<br><br>(In the forest, John stops as he sees Teyla unconscious on the ground. Just then, a small dart hits him in the right shoulder. [That'll put a hole in his nice new jacket.] John looks at the dart for a moment.)<br><br>SHEPPARD: Oh crap.<br><br>(He crumples to his knees, then keels over sideways onto the ground, unconscious.)<BR><br><br>ATLANTIS. Doctor Elizabeth Weir runs from the Control Room down into the Gateroom as we hear someone coming through the Gate's event horizon. Shortly afterwards, there's a thudding sound.<br><br>WEIR: Rodney! Medical team to the Gateroom!<br><br>(She runs across the Gateroom to Rodney who is lying face down on the floor, the arrow still sticking up from his backside.)<br><br>WEIR: Rodney? (She squats down to him.) Hey, where are the others?<br><br>McKAY: They're right behind me.<br><br>(The Gate closes down. As a medical team runs into the room, Elizabeth and Rodney stare back at the closed Gate.)<BR><br><br>VILLAGE. John regains consciousness to find himself sitting on the ground and leaning against the wooden bars of a small stockade in the middle of the village. He looks up and sees Ronon standing on the other side of the stockade with his back to him.<br><br>SHEPPARD: Well ... I guess it could be worse.<br><br>(Teyla, also sitting on the ground, smiles ruefully.)<br><br>SHEPPARD (to Ronon): Look, I know you must be thinking this is your fault.<br><br>(Ronon doesn't reply. Teyla looks up at Ronon briefly.)<br><br>TEYLA: I have already tried to console him.<br><br>(John gets to his feet. Ronon is glaring out into the village.)<br><br>SHEPPARD: We were bound to run across a planet you'd been to sooner or later.<br><br>DEX (without looking round): It was night last time.<BR><br><br>FLASHBACK. Ronon, in the clothes that he saw him wearing in “Runner,” stumbles into the village at night. He looks around the village, then crumples to the ground, exhausted. As he lies on the ground convulsing gently, a young woman runs across to him and kneels down beside him. Behind her, an older man calls out to her in warning.<br><br>KETURAH: Linor! Stay away.<br><br>LINOR: It's a man, father. He's near death.<br><br>END FLASHBACK.<BR><br><br>In the village, Keturah limps into view, leaning heavily on a stick. He glares angrily at Ronon.<br><br>KETURAH: Do you think we would not remember you? We offered you food and shelter.<BR><br><br>FLASHBACK. Ronon has been taken to a tent and is lying on a bed. Linor lifts his head and helps him to drink from a bowl. Keturah stands nearby, watching suspiciously. As Linor lowers Ronon's head and then looks at her father, Ronon reaches out and takes her wrist. Keturah starts forward anxiously but stops again as Ronon speaks to Linor.<br><br>DEX: Thank you.<br><br>END FLASHBACK.<BR><br><br>KETURAH: Maybe you did not remember our village. We were forced to rebuild after the Wraith came.<BR><br><br>FLASHBACK. Wraith walk into the village, firing at the villagers as they scream and run. A Wraith guard holds Linor down on a table, its hand on her chest, presumably feeding on her. She screams. Keturah limps towards her.<br><br>KETURAH: Linor! No!<br><br>(Linor continues to scream as explosions go off all around the village.)<br><br>END FLASHBACK.<BR><br><br>KETURAH: They were not merely culling us as they had in the past. They were looking for you.<br><br>DEX: I'm sorry.<br><br>KETURAH: Sorry? I doubt that. You will not bring death and destruction on us again.<br><br>SHEPPARD: Look, I can't say the Wraith won't be back here again, but I can promise you they're not coming back here because of him.<br><br>KETURAH: No. Not once we've sacrificed the Wraithbringer to his masters.<br><br>SHEPPARD: He prefers “Ronon.” Probably also prefers not to be sacrificed to the Wraith.<br><br>TEYLA: He is a victim of the Wraith, like all of us. His planet was destroyed. He was captured and made a Runner, but he is not one any more. They cannot track him as they once did.<br><br>KETURAH: They did not feed on us all last time. They promised that if he ever came back and we captured him, we would be forever free from culling in the future.<br><br>TEYLA : They “promised”?! They are Wraith! I promise you that killing Ronon will not change what happened, and it will not protect you in the future.<br><br>KETURAH: I said nothing of killing.<br><br>SHEPPARD: Isn't that what “sacrifice” means?<br><br>KETURAH: I know not what his masters will do to him once we turn him over.<br><br>SHEPPARD: You're <I>giving</I> him to the Wraith?<br><br>(Keturah reaches into his clothing and takes out a small round Wraith device. A light is flashing in the middle of it.)<br><br>KETURAH: They left this behind so that we could call them.<br><br>Teyla (to John): He has already activated it.<br><br>SHEPPARD: They're gonna kill all of us, you included.<br><br>(Ignoring his warning, Keturah turns and limps away.)<BR><br><br>ATLANTIS INFIRMARY. Rodney, dressed in hospital whites, is lying face down on a bed with a canula in his nose feeding him oxygen. He is staring off to the side dopily.<br><br>McKAY (slurred): So many colours. All the pretty horses.<br><br>WEIR: What's he talking about?<br><br>BECKETT: I gave him some morphine for the pain.<br><br>(A soldier stands at the head of Rodney's bed. He never gets named [unless in the closing credits, which I didn't see] so I will just have to call him “Major” in this transcript. He leans down and talks sternly to Rodney.)<br><br>MAJOR: I need to know how many villagers. How far is the Gate from the village?<br><br>(Rodney raises his head and looks up at him blearily.)<br><br>McKAY (slurred): Have you seen a guy around? He looks like you, but he's got messy hair. I think I lost him somewhere. And ... and a ... and a pretty girl and a caveman. (He grins at the major.)<br><br>BECKETT: I may have given him a wee bit too much, but he was making it impossible for me to treat him.<br><br>MAJOR: Snap out of it, McKay! It's important!<br><br>(Rodney, taking no notice of him, is fiddling with his nose and the canula.)<br><br>MAJOR: Come on! What kind of weapons did they have?<br><br>BECKETT: I'd say something that shoots arrows is a good guess.<br><br>McKAY: Excuse me. Why am I lying here?<br><br>BECKETT: You have an arrow, Rodney, in your gluteus maximus.<br><br>McKAY: Oh. Well, that sounds painful. (He puts his head back down on the bed and sighs contentedly.) Gluteus maximus. (Slurring, almost singing) Glootus ... maaxim ... (He turns his head drowsily, still speaking calmly.) Oh my God! That's my ass, isn't it?!<br><br>BECKETT: Aye.<br><br>WEIR: Call me if he makes any sense.<BR><br><br>VILLAGE. STOCKADE. Ronon is still leaning against the bars. He glares at one of the villagers.<br><br>DEX: Get him back here, the leader of your village.<br><br>VILLAGER 1: Why?<br><br>DEX: ‘Cause I need to talk to him.<br><br>VILLAGER 1: It's too late for you. (He walks towards Ronon aggressively.) The Wraith will be here soon.<br><br>(He makes the mistake of stepping too close to Ronon, who grabs him and hauls him closer, then flips him around so that his back is to him. Ronon then pulls a knife out of his sleeve. Other villagers raise their crossbows, and one lifts a blowpipe to his mouth. Ronon holds the villager's hair with one hand and holds the knife to his throat with the other as he looks at the other villagers.)<br><br>DEX: Shoot me with one of those darts and I promise he'll be dead before I go down.<br><br>VILLAGER 2: Let him go.<br><br>(John walks over to Ronon.)<br><br>SHEPPARD: Hey, buddy, you wanna fill me in on this plan?<br><br>VILLAGER 2: Let him go, now.<br><br>VILLAGER 1: Get Keturah!<br><br>(Keturah has already arrived and limps forward.)<br><br>KETURAH: I'm here. Unhand him now! I will not free you. These men will kill your friends first.<br><br>SHEPPARD: I don't think that'll be necessary. Uh, why don't we all put our weapons down and talk about this nicely?<br><br>DEX (to Keturah): Let them go. It's <I>me</I> the Wraith want. They had nothing to do with what happened here.<br><br>TEYLA: Ronon!<br><br>SHEPPARD (quietly to Ronon): Don't.<br><br>(Ronon looks at the villagers aiming their crossbows and blowpipes at him.)<br><br>DEX: They won't shoot me. They must know the Wraith still want me alive.<br><br>SHEPPARD: I was a little more worried about them shooting <I>us</I>.<br><br>VILLAGER 1: Please, Keturah.<br><br>KETURAH: Let him go now!<br><br>(Ronon shoves the villager away from him, then backs into the stockade, holding the knife to his own throat.)<br><br>SHEPPARD: What the hell are you doing?<br><br>DEX: Back off, Sheppard.<br><br>SHEPPARD: Drop the knife, now!<br><br>DEX: No. (He looks at Keturah.) I didn't mean to bring the Wraith here, but it was my fault.<br><br>TEYLA: That isn't true.<br><br>DEX: You know it is. I should never have come here. (He looks at Keturah, his face anguished.) I should never have stayed. I'm sorry about what happened to your village, but if you think turning me over to the Wraith will keep you safe, fine. Do it. I'll do whatever I have to to make up for what happened, but don't punish them for my mistake. They're good people. You let them go, or I'll be dead before the Wraith get here, I promise.<br><br>(Keturah hesitates. Ronon pushes the knife even deeper into the skin of his own throat.)<br><br>DEX: <I>Then</I> see what the Wraith do to you.<br><br>SHEPPARD: We're not leaving. Not without you.<br><br>DEX (to Keturah): You let ‘em go.<br><br>(The villager who Ronon was holding hostage turns to Keturah.)<br><br>VILLAGER 1: We have no issue with the other two.<br><br>(Keturah looks at Ronon and his fiercely determined _expression as he holds the knife at his throat.)<br><br>KETURAH: Let them go.<br><br>(The gate to the stockade is opened and a couple of villagers come in, grab John and start to haul him out. Teyla hesitates, stepping towards Ronon with her arm outstretched in a pleading gesture.)<br><br>KETURAH: Resist and you will be killed.<br><br>(The hostage villager comes in, grabs her arms and bundles her out of the stockade. As soon as they are both outside, Ronon lowers his knife. As John and Teyla are marched away, one of the villagers with a blowpipe fires it at Ronon. He grunts and collapses.)<BR><br><br>ATLANTIS. CONTROL ROOM. The Canadian technician [who has obviously not had much time off recently and is <I>badly</I> in need of a haircut] looks up as the Gate starts to dial in.<br><br>TECHNICIAN: Incoming wormhole.<br><br>(The Gate kawhooshes. The technician looks at his screens, then reports to Elizabeth who is standing beside him.)<br><br>TECHNICIAN: It's Colonel Sheppard's I.D.C, ma'am.<br><br>WEIR: Lower the shield.<br><br>(She heads for the stairs as the technician lowers the shield. Downstairs, John and Teyla walk through the Gate. John immediately talks to the soldiers guarding the Gateroom.)<br><br>SHEPPARD: Someone get us some vests and guns.<br><br>(The major walks over to him.)<br><br>MAJOR: Colonel, Teyla.<br><br>SHEPPARD: Major.<br><br>MAJOR: We were just about to come get you guys. Where's ... where's Ronon?<br><br>SHEPPARD: Still back there. (To Elizabeth, as he and Teyla start getting into the vests that the soldiers are bringing them.) Did McKay get through OK?<br><br>WEIR: Yeah, he's gonna be fine. What happened?<br><br>TEYLA: Ronon bargained for our freedom.<br><br>SHEPPARD: By sticking a knife to his own throat. We're going back.<br><br>(Elizabeth looks up to the Control Room.)<br><br>WEIR: Dial the Gate.<br><br>(The Gate starts to dial out.)<br><br>SHEPPARD: It took us fifteen minutes to get to the Gate.<br><br>TEYLA: The place could be crawling with Wraith by now.<br><br>MAJOR: Let's go get him.<BR><br><br>WRAITH HIVE SHIP. Two Wraith guards haul Ronon into the throne room. A figure is sitting on the throne. The guards drop Ronon to his knees in front of it. The figure stands and walks forward towards him. It's not a Queen -- it's a male Wraith, but this one is bald apart from a long braided strand of white hair hanging down the right side of its head. It snarls at Ronon, who looks up at it as if he recognises it.<BR><br><br>VILLAGE. John and his team have arrived back at the village. There is no sign of life, and fires are burning everywhere.<br><br>SHEPPARD: We couldn't have been gone for more than a half hour.<br><br>TEYLA: It doesn't take long.<br><br>MAJOR: Alright, everybody, fan out!<br><br>(The team walks deeper into the village. There are bodies sprawled on the ground in various places. Teyla walks over to the body of a villager and checks it for signs of life. She looks up at John.)<br><br>TEYLA: As we suspected, the deal did not go as planned.<br><br>(The major comes towards them with a couple of his men, all of them carrying items which belong to Ronon.)<br><br>MAJOR: There's a few dozen bodies here at most.<br><br>TEYLA: The rest were culled.<br><br>(The major holds out what he is carrying. It's Ronon's blaster.)<br><br>MAJOR: We found these.<br><br>(John takes it and looks at it, then looks across to Teyla.)<br><br>TEYLA: We'll find him.<BR><br><br>SPACE. The Wraith hive ship comes out of hyperspace and flies towards a planet. Inside, Ronon is breathing rapidly in pain as he lies face down on a table, undressed from the waist upwards. Nearby, a Wraith takes a tracking device from a pot of liquid and walks over to him. The Wraith Leader stands nearby.<br><br>WRAITH LEADER: I once fed from the humans of your homeworld. That is where I will watch you die.<br><br>(There's an unpleasant squelching sound as the Wraith ‘medic' inserts the tracking device into Ronon's back. Ronon groans, grimacing in agony.)<BR><br><br>On the planet below the hive ship, a Dart swoops over a ruined city. Its transport beam activates and Ronon is deposited onto the street. He stands up and looks around. He is, of course, on Sateda, his homeworld. As he gazes around, he gets flashbacks of the final battle there. A massive explosion goes off and Satedan soldiers are caught in the blast. In a second flashback -- which we saw before in “Runner” -- Ronon and a couple of other Satedans, one male and one female, all in uniform, flinch as an explosion goes off near them. Ronon jumps up.<br><br>DEX: Alright, boys, let's go! Move, move, move! (He fires up into the air as the other two run for cover.)<br><br>(In the present, Ronon turns and runs off. He races through the streets, pounding through the rubble that lies all over the roads, jumping off stairwells on his way to somewhere specific and then climbing an external ladder up the side of a building until he reaches the roof. He walks to the edge of the roof and looks over the ruined city. We realise why he did this -- he's looking towards the Stargate which is several blocks away. Satisfied that it is still intact, he turns to leave the roof but then flinches as a massive blast comes down from the sky behind him. The hive ship has just fired at the Gate and has presumably destroyed it. Ronon looks back for a moment, then turns and walks away as a Dart swoops over the city. Nearby, the Dart's transport beam deposits someone onto a street. The camera pans up the new arrival's body and we see that it's a male Wraith, wearing a bizarre-looking set of goggles. The Wraith looks around, snarls, and then takes a stunner pistol out of its belt before heading off.)<BR><br><br>ATLANTIS. CONFERENCE ROOM. John, Teyla, Elizabeth and Carson are standing in the room, together with Rodney who is now dressed and is fidgeting uncomfortably.<br><br>SHEPPARD: He's alive.<br><br>BECKETT: Don't get me wrong, I hope he is, but how can you be certain?<br><br>TEYLA: They made a sport out of trying to kill him in the past.<br><br>SHEPPARD: He was the one that got away.<br><br>TEYLA: I believe they will try again.<br><br>SHEPPARD: Ronon will not go down easily.<br><br>WEIR: But they must know how dangerous he can be. It's not like they're gonna give him a fair chance.<br><br>SHEPPARD: Well, obviously we don't have much time.<br><br>WEIR: How do we find him?<br><br>TEYLA: If the Wraith placed a tracking device in him the way they did last time ...<br><br>(John turns to Rodney.)<br><br>SHEPPARD: Can you pick up a signal?<br><br>McKAY (irritated): Oh, of course. If it sounds like it might be impossible, you look at me.<br><br>BECKETT: We still have the tracking device we took out of him.<br><br>McKAY (losing his irritation as he starts to think about the problem): We might be able to tune the long-range sensors to pick up any similarly generated subspace transmissions.<br><br>WEIR: Good.<br><br>McKAY: But we are still assuming that the Wraith actually put another one in him.<br><br>SHEPPARD: I'll take whatever odds I can get.<BR><br><br>SATEDA. Ronon has gone into a house and is rummaging amongst the rubble on the floor looking for anything that he can use to protect himself. He finds a blade, picks it up off the floor and looks at it. For some reason, this brings on a flashback of himself and a woman making love. The flashbacks flit through various moments of their lovemaking, then move on to another moment. Ronon, fully dressed, walks across the room. The woman, Melena, grabs his wrist as if to stop him. <br><br>MELENA: Ronon!<br><br>(The flashback moves on again -- Melena is standing against a wall by a window as, from Ronon's point of view, he moves towards her. Again the flashback moves on: now Ronon watches as Melena, dressed in what looks like a white nurse's uniform, stands in a hospital ward with a window behind her. A massive blast takes place outside -- the shockwave smashes the window and the blast heads towards her. Before it reaches her, the flashback ends.)<br><br>(In the present, Ronon stares at the blade a little longer, then continues his search around the room. He finds a piece of metal that he can use as a handle for the blade, then tears down some material and uses it to bind the two pieces together. His head snaps round as he hears a door squeak nearby as it opens.)<br><br>(Nearby, the Wraith, still wearing its weird goggles, comes down some stairs. It looks down at a device strapped to its arm. The device is a tracker and shows that Ronon is nearby. The Wraith takes off its goggles, snarls ferociously and heads in Ronon's direction. It walks into another room and closes the door behind it. The room is dark and, as the door closes and shuts off the light from outside, the Wraith's eyes begin to glow brightly.)<br><br>(We switch to a Wraith's-eye view -- despite the fact that the room is now totally dark, the Wraith can still see in a night-vision sort of way. It walks around the room cautiously. Suddenly Ronon surges out of the darkness and, too fast for the Wraith to react, attacks it. A long fight ensues. Each time the Wraith fires its stunner, the room is lit up briefly but then plunges back into darkness. However, there is some electrical equipment in the room which, struck by a stunner blast, sparks sporadically and also sheds light on the fight in progress. We also get occasional Wraith-eye views of Ronon as the fight continues but because of the intermittent moments of darkness, it's really hard to see which of the two is getting the upper hand. The fight carries on and Ronon goes into one of his flying leaps into the air as the Wraith surges towards him.)<br><br>(The scene cuts to the outside of the closed door. We wait in breathless anticipation for several seconds, then Ronon kicks the door open, storms out and walks away.)<BR><br><br>ATLANTIS. LAB. John comes in and looks around.<br><br>SHEPPARD: McKay?<br><br>McKAY (offscreen): I'm here.<br><br>(John looks in the direction Rodney's voice came from, then looks down and walks over to where Rodney is lying on his stomach on the floor with his laptop and various other bits of equipment also on the floor.)<br><br>McKAY: You know, you really don't appreciate the simple things in life. Like ... <br><br>(John sits down cross-legged on the floor beside him.)<br><br>McKAY: ... sitting.<br><br>SHEPPARD: I don't envy you. It must be a real pain in the ass.<br><br>(Rodney rolls his eyes.)<br><br>McKAY: Oh. How long d'you work on that?<br><br>SHEPPARD: Longer than I care to admit. (He looks at the tracking device, held in a clamp.) How's it coming?<br><br>McKAY: Well, I think I'm almost there.<br><br>SHEPPARD (still looking at the tracking device): Is this thing active?<br><br>McKAY: Don't worry, I limited the power so it won't transmit our location to the Wraith. I just needed enough juice to determine the subspace frequency it broadcasts on ... (he types on his laptop) ... and now I need to re-calibrate the city's long-range sensors to pick up on it.<br><br>SHEPPARD: Yeah, but these sensors only cover a small corner of the galaxy.<br><br>McKAY (looking up in irritation): Unless they're calibrated to pick up a signal being transmitted using subspace. How ‘bout I leave the bad jokes to you, and you leave the brilliant science stuff to me?<br><br>SHEPPARD: So, uh, what are we lookin' at?<br><br>(Rodney calls up a map of space on the screen. It shows several dots.)<br><br>McKAY: These dots represent transmitters broadcasting from various locations in the Pegasus galaxy.<br><br>SHEPPARD: So there are ... (he looks at the screen) ... seven Runners out there right now?<br><br>McKAY: We don't know for sure that they're Runners, but I'll bet anything ... (he zooms in on one of the dots) ... that one's Ronon.<br><br>(A Gate address appears above the dot.)<br><br>SHEPPARD: Why? How do you know?<br><br>McKAY: That's Sateda. It's Ronon's home planet.<br><br>SHEPPARD: That's a good enough place to start.<BR><br><br>SATEDA. Ronon is running, then pounds up an external flight of stairs. Behind him, a small round device whizzes past. Ronon comes through a doorway, trots down some stairs, then jumps over the balcony of the stairs to the ground below. He runs to a hatch in the floor, opens it and disappears from view as he starts to climb down a ladder. The small round device comes into view again, hovering over the hatch opening for a few moments while it whizzes and whirrs to itself as it picks up Ronon's signal, then it drops down into the opening.<BR><br><br>ATLANTIS. CONFERENCE ROOM.<br><br>WEIR: We have no choice. We've been unable to dial in to Sateda's Stargate.<br><br>WEIR: The Wraith likely disabled it.<br><br>(We see who they're talking to. Colonel Steven Caldwell is in the room with them.)<br><br>CALDWELL: Which means, if the Wraith are hunting Ronon, there's a very good chance that there's a hive in orbit. I shouldn't have to remind you the Daedalus has not done well in its last few engagements with Wraith hive ships.<br><br>McKAY: We drop out of hyperspace, we beam him onboard, we get out of there.<br><br>CALDWELL: You know damned well we can't come out of hyperspace and get close enough to a planet to beam someone off the surface. We'll be detected.<br><br>(Rodney looks defeated.)<br><br>CALDWELL: Look ... you know I wanna help, but I will not put my crew and the only ship that we have in this galaxy at risk for one man.<br><br>SHEPPARD (quietly angry): One man who isn't a member of the US military.<br><br>CALDWELL (angrily): I didn't say that!<br><br>(John storms towards Caldwell, pointing a finger at him.)<br><br>SHEPPARD: He's a member of my team, and he deserves the same respect as anyone on this expedition.<br><br>(Elizabeth comes over to join John as she looks at Caldwell.)<br><br>WEIR: We don't leave our people out there, Colonel, not if there's <I>any</I> chance.<br><br>CALDWELL: Don't preach to me about leaving people behind, Doctor Weir.<br><br>(He pauses for a moment while the others exchange glances. Recognising their determination, Caldwell wilts a little.)<br><br>CALDWELL: I'm just saying it's a very bad risk/reward situation.<br><br>SHEPPARD: Fine. Then just get us close. We'll take a cloaked Jumper the rest of the way.<br><br>BECKETT: I'll go with them, remove the tracking device before we get back on board.<br><br>SHEPPARD: We'll be out of there before the Wraith even know what happened.<br><br>CALDWELL: I won't bail you out if you get in trouble.<br><br>SHEPPARD: You say that as if we're <I>always</I> getting in trouble!<BR><br><br>SATEDA. Ronon walks along an underground corridor and comes across some skeletal bodies, all of them wearing the remains of Satedan military uniform. As he looks down as three of the corpses, he gets flashes of his former Satedan team mates, walking along the same corridor. He bends down and takes a rifle from one of the bodies, flashing back briefly to himself walking along the corridor with the men. He crouches down by another of the corpses, almost overcome with grief for a moment, then reaches out and starts to unbuckle the man's chest armour.<BR><br><br>SHORTLY AFTERWARDS. Ronon, now wearing the chest armour and aiming his rifle, walks into a room filled with boxes of ammunition. He starts to open the boxes.<BR><br><br>FLASHBACK. Ronon and his Satedan comrades are firing both at Wraith on the ground and up at Darts flying overhead. One of his colleagues runs over to him.<br><br>SATEDAN: I'm out of ammo!<br><br>DEX: There's a depot two blocks down. Go!<br><br>(The man runs off as Ronon covers his back.)<br><br>END FLASHBACK.<BR><br><br>Ronon opens a box and finds some ammunition. He drapes it over his shoulder.<br><br>(Nearby, a Wraith is walking down the corridor. It stops and checks the tracking device on its wrist. It shows Ronon's signal very close by. The Wraith looks around cautiously, then looks upwards at the dark ceiling. As its vision switches to night-vision, Ronon comes into view, holding himself up with his hand and feet braced on pipes on the ceiling and aiming his pistol down at the Wraith with his other hand. He fires and kills the Wraith. Ronon drops to the floor and aims his pistol at the Wraith until he's sure that it is dead, then stands and looks along the corridor. Behind him, there's a whirring sound. Ronon spins around, aiming his pistol, and sees the round device that was following him. He lowers his pistol and walks over to the device as it hovers at about eye level. He obviously knows what it is, but now for the first time we see that it is not only tracking him but broadcasting his image back to the hive ship. Ronon glares into the camera.)<br><br>DEX: You're going to have to do better than that.<br><br>(On the hive ship, the Wraith Leader, sitting on its throne, snarls as Ronon turns and walks away.)<br><br>(On Sateda, in glorious slow motion, Ronon flicks the pin out of a grenade as he walks along. Almost casually, he tosses the grenade back over his shoulder. The grenade drops to the floor and bounces along a couple of times, then explodes underneath the tracker, destroying it. Ronon keeps walking. As he goes, he begins to hear an announcement from his past.)<BR><br><br>FLASHBACK.<br><br>ANNOUNCEMENT: Sateda will not bow to invaders. The time has come for us to put our bravery on the line ...<br><br>(In the flashback, Ronon -- dressed in non-military clothes -- opens the door to his house and walks in.)<br><br>ANNOUNCEMENT: ... and defend our nation, our planet. All that we have built over these past two centuries ...<br><br>DEX: What are you doing?<br><br>(Melena is standing against a wall by a window listening to what is presumably a radio announcement. This is part of the flashback we saw earlier.)<br><br>MELENA: I'm listening to the Chieftain's speech.<br><br>DEX: Why aren't you packing?<br><br>(He pulls an open and empty suitcase across the bed and starts throwing clothing into it from a chest of drawers.)<br><br>DEX: I traded every last thing we had to get you on Kell's personal staff.<br><br>MELENA: He's a criminal. He's using people's fear for his own gain.<br><br>DEX: He's a commander, and his staff gets to go through the Gate.<br><br>MELENA: The hospital's gonna need me.<br><br>(Ronon angrily slams the drawer shut.)<br><br>DEX: There's not going to be any need for hospitals, Melena! That's just a bunch of words meant to make the people who don't get to leave think there's a chance for them. We shot down two ships that came through the Gate. Two small ships. Do you really think that's all they're going to send?<br><br>MELENA: Of course not.<br><br>DEX: Ships as big as our city have attacked other planets. No-one that stays here is going to survive.<br><br>(Melena starts to cry.)<br><br>MELENA: Then why are you staying?<br><br>DEX: I have no choice.<br><br>MELENA: Yes, you do. You believe in this fight! You know that they'll eventually find us, no matter where we go. Our only hope is to show them that we're not worth the effort, to go feed on some other planet that won't fight back as hard as we will.<br><br>(Ronon walks past her. She grabs his wrist to turn him back towards her. This too is part of the flashback we saw earlier.)<br><br>MELENA: Ronon! (She looks up into his face.) You can't run forever.<br><br>END FLASHBACK.<BR><br><br>Out in the street, a Dart's transporter beam deposits another Wraith, this one accompanied by four guards, onto the road. They head off in search of Ronon.<BR><br><br>In a warehouse nearby, pistols and rifles of varying sizes are lying on top of boxes, are propped up on the floor against boxes, or are lying on the floor. As a Wraith guard walks in through the open doorway, we see Ronon sitting on the floor, hidden from the guard's view behind some large boxes. The guard walks forward, then pauses, looking around. Ronon judges his moment, then cocks his rifle and, roaring, surges up from behind the box and fires at the guard. The blast hits it in the chest and sends it flying across the floor. Ronon ducks back down again as the Wraith and the other guards burst out of hiding behind various other boxes in the warehouse and fire at him. Ronon stays behind his cover, but won't be able to stay there long because the repeated blasts are starting to demolish the boxes he's hiding behind.<br><br>(As Ronon waits for as long as he can, he gets another flashback. This is a memory of his team's final stand. They stand in the open, firing all around them. One by one, his colleagues are gunned down and fall dead. Finally only one of his team is left, standing beside him. He too takes a blast and crashes into Ronon, who catches him and lowers him to the ground. The man stares up at him as he grunts in his death throes.)<br><br>(In the present, Ronon grimaces in grief and rage at the memory.)<br><br>(In flashback, we see through Ronon's eyes as he looks around at all his dead colleagues.)<br><br>(In the present, Ronon screams and surges up, rolling over the top of the boxes. Stunner blasts whizz past, narrowly missing him. Ronon raises his rifle and fires it, then drops it to the floor and drops down onto one knee, reaching for the boxes either side of him. A pistol is on the top of each box. He seizes them, stands up and walks forward firing them, taking down one of the guards. He drops the pistols and picks up the one propped against the side of another box, swings around and fires it at another guard, killing it. Dropping that pistol, he throws himself across the floor to grab a rifle which he fires at the Wraith, gunning it down. He stands and walks forward as the Wraith drops. A stunner blast comes from above him. Ronon ducks out of its way. Another rifle is at his feet. He rolls it over with his foot and then flicks it up into the air. Catching it, he fires up into the ceiling where the final guard is up on a gantry. The blast hits it and it dramatically drops to the floor. Ronon stands over it, grinning in satisfaction.)<br><br>(Moments later, a device on the guard's chest starts to beep and lights start running around the device. It's the self-destruct. Ronon's smile drops and he breaks into a run, heading for the door of the warehouse. We switch to an external view as a massive explosion goes off, blowing the inside of the warehouse to bits. There's no sign of Ronon exiting the building.)<BR><br><br>HYPERSPACE. DAEDALUS. John is sitting at a table in the Commissary with a tray in front of him. He is working on a small P.D.A. but looks up as Teyla comes in.<br><br>SHEPPARD: Hey.<br><br>TEYLA: Am I disturbing you?<br><br>SHEPPARD: No. What's up?<br><br>(Teyla sits down opposite him. John puts the P.D.A. away.)<br><br>TEYLA: I just wanted to thank you.<br><br>SHEPPARD: For what?<br><br>TEYLA: For going after Ronon this way. (She gestures around at the Daedalus.)<br><br>SHEPPARD (picking up his cup and drinking): Did you think we wouldn't?<br><br>TEYLA: He is an outsider.<br><br>SHEPPARD (putting his cup down): Not to me.<br><br>TEYLA: I have often felt like an outsider among your people.<br><br>SHEPPARD: Well, maybe at first, but ... well, you know I've always trusted you.<br><br>TEYLA: Yes. You -- and Doctor Weir -- have been very accepting, but this has shown me how far you would go, even for someone who is not from your world.<br><br>(There's a long pause while John looks a little uncomfortable.)<br><br>SHEPPARD: Look, Teyla. I'm not really good at, uh ... (He pauses.) Actually, I'm ... I'm <I>terrible</I> at expressing ... I don't know what you'd call it, uh ...<br><br>TEYLA: Feelings?<br><br>SHEPPARD: Yeah, sure, OK. The point is, I don't really have good, uh ... <br><br>TEYLA: Social skills.<br><br>SHEPPARD: Well, that <I>is</I> why I enjoyed flying choppers in the most remote part of my world before all this craziness happened, but, uh, you should know, I don't have, uh ...<br><br>TEYLA: Friends?<br><br>(John looks at her indignantly.)<br><br>SHEPPARD: No -- I have friends. (Long pause.) You, Elizabeth, Ronon, Carson, even Rodney, are the closest thing I have to a ...<br><br>TEYLA: A family?<br><br>SHEPPARD (nodding): I'd do anything ... for any one of you. If I had to give up my life the way Ronon was going to, I would.<br><br>(Teyla smiles beautifully at him. John reaches a hand out hesitantly and, without having the courage to meet her eyes, pats her hands which are clasped on the table in front of her. He then picks up his tray, still not looking at her and, sighing, starts to walk away. Teyla looks round at him.)<br><br>TEYLA: Thank you.<br><br>(John half turns towards her but still can't look at her.)<br><br>TEYLA (smiling): For everything you ... <I>meant</I> to say.<br><br>(John stands with his back to her for a moment, then walks away.)<BR><br><br>SATEDA. WAREHOUSE. Smoke is rising from the warehouse. Inside, small fires are burning all around. Ronon, who didn't get out in time, regains consciousness and, groaning in pain, drags himself up off the floor. Limping heavily on his right leg, he stumbles out of the warehouse.<BR><br><br>DAEDALUS. INFIRMARY. Rodney is lying face down on a bed clutching a pillow and grimacing in pain as Carson stands beside him checking his wound. To the massive disappointment of David Hewlett's fans, the camera is at Rodney's head and is cunningly angled so that we can't see the rest of his body.<br><br>McKAY (groaning in pain): Son of a ... you're <I>killing</I> me!<br><br>BECKETT: I'm not even touching you. Seriously, Rodney, I've never treated a bigger baby in my life.<br><br>McKAY: Just ... are we done?<br><br>BECKETT (stepping back and taking his gloves off): Yes. It looks fine, considering.<br><br>(He walks away as Rodney painfully rolls off the bed, revealing his trousers at half-mast and a hilarious pair of red boxer shorts with a pattern that looks, to me anyway, like slices of lemon. He pulls up his trousers and does them up.)<br><br>BECKETT: Why did you come?<br><br>McKAY: What do you mean?<br><br>BECKETT: On this mission. You're injured. You can't even sit down. People wouldn't think any less of you.<br><br>McKAY: What, you think that's all I care about: what people think of me?<br><br>BECKETT: Well, actually ...<br><br>McKAY: Hey, I am a very caring person. (Carson looks round at him.) OK, maybe it's not always obvious to everyone, but, um ... <br><br>BECKETT: You care about what happens to Ronon?<br><br>McKAY: Yes, of <I>course</I> I do. What makes you think I wouldn't?<br><br>BECKETT: Oh, I don't know, the fact that you refer to him as “the caveman” behind his back.<br><br>McKAY: That is a nickname. Buddies have nicknames for each other.<br><br>BECKETT: Buddies? Oh, you're buddies now, are you?<br><br>McKAY: Yeah. More than that, he saved my life. He's like a brother to me.<br><br>BECKETT: Aye, a brother who got every gene you didn't, and vice-versa.<br><br>McKAY: You are just jealous of our relationship.<br><br>BECKETT: <I>Am</I> I?! In the year or so he's been with us, have you <I>ever</I> had a conversation with the man?<br><br>McKAY: We have an unspoken bond. I mean, there are things that go deeper than words, my friend, deeper than words, but <I>you</I> wouldn't know anything about that because you never look past the surface of anyone, do you?<br><br>(He walks out. Carson smiles.)<BR><br><br>SATEDA. Ronon, breathing heavily, limps painfully towards a building. Going inside, he limps along a corridor. His progress along the corridor is interspersed with flashbacks to the time when Sateda was under attack. The building is a hospital and doctors and nurses -- overloaded with patients -- are treating people everywhere, even in the corridor. Ronon pushes his way through the melee, calling out.<br><br>DEX: Melena! Melena!<br><br>(In the present, Ronon continues to make his way along the corridor. In the flashback, the younger Ronon does the same.)<br><br>DEX: Melena!<br><br>(In the present, Ronon reaches the end of the corridor and enters a room. Walking into the middle of it, he drops his rifle to the floor and starts to rummage through the debris. He picks up a few items, including a large triangular piece of mirror. Sinking down onto the floor with his back against the wall, he props the mirror up on some rubble on the floor so that it is angled for him to be able to see his right leg. He unscrews the lid of a bottle of alcohol which he has also collected and pours it over a wound in the side of his upper leg. He screams, whimpers and almost breaks down in tears at the pain.)<BR><br><br>FLASHBACK. Ronon is still walking along the corridor.<br><br>DEX: Melena!<br><br>(He reaches the end of the corridor and walks into the room. Beds are all around the room and various doctors and nurses are helping people both in the beds and up on their feet.)<br><br>DEX: Melena.<br><br>(Melena, in a white nurse's uniform, walks over to Ronon, crying in relief at seeing him again. They embrace as she sobs.)<BR><br><br>PRESENT. Ronon picks up a surgical clamp and, using the mirror to see his leg, probes into the wound. He screams in agony.<BR><br><br>FLASHBACK. <br><br>MELENA: Where's your squad?<br><br>DEX: They're all dead. Kell used us to ensure his own escape. But come on, there's still a chance. I can get us out of here. I can get us to the Gate. Even if I can't, I know where to hide.<br><br>(He turns to leave, but Melena calls out to him.)<br><br>MELENA: Ronon!<BR><br><br>THE PRESENT. Ronon continues probing inside his wound, whimpering, then screaming in pain.<BR><br><br>FLASHBACK. Melena looks at a little girl lying in a bed nearby.<br><br>MELENA: What about her? Her parents are both dead.<br><br>(Ronon walks over to the girl and picks her up.)<br><br>DEX: Come here. (To Melena) Come on.<br><br>(He starts to walk out of the room.)<br><br>MELENA: Ronon, wait!<br><br>(Ronon turns around again with the girl in his arms.)<BR><br><br>THE PRESENT. Ronon screams as blood drips from his wound. Finally he manages to drag a piece of metal out of his leg.<BR><br><br>FLASHBACK. Melena looks around the room at all the injured Satedans.<br><br>MELENA: What about all these people?<br><br>DEX (staring at her in anguish): They're all dead.<BR><br><br>THE PRESENT. Haunted by the memories, Ronon slams his hand against the wall behind him.<BR><br><br>FLASHBACK. Melena shakes her head.<br><br>MELENA: I can't. (She sobs.) I can't, Ronon. I can't go.<br><br>(Ronon gazes at her pleadingly.)<BR><br><br>THE PRESENT. Ronon wails in pain and anguish, knowing what's coming next in his memories.<BR><br><br>FLASHBACK. Ronon stares in horror, unable to do anything as a blast takes place outside the window behind Melena. The shockwave smashes the window and the blast heads towards her and envelops her.<BR><br><br>THE PRESENT. Ronon is shaken out of his grief by the sound of a Wraith Dart soaring overhead, followed by the sound of a transporter beam. Groaning in pain, he hauls himself to his feet, looks out of the window and sees about twenty Wraith guards making their way towards the hospital. Behind him, a new tracking device hovers into the room. Ronon turns and glares into its camera.<br><br>DEX: You're a coward.<br><br>(On the hive ship, the Wraith Leader snarls.)<br><br>(On Sateda, a hail of bullets from a P90 hits the tracking device and it drops to the floor. Ronon draws his pistol and aims it at the door, only to see John and Teyla standing there.)<br><br>SHEPPARD: Don't look so surprised.<br><br>(Ronon lowers his pistol and sinks back down to the floor.)<br><br>TEYLA: Are you OK?<br><br>(Ronon doesn't answer. John walks closer to him.)<br><br>SHEPPARD: Come on. You can thank us later. McKay and Beckett are waiting for us in a Jumper on the roof.<br><br>(Without looking at him, Ronon lifts his pistol and points it at John.)<br><br>DEX: Get out of here.<br><br>SHEPPARD: Oh, hey. I know you've been through a lot, but, uh ...<br><br>DEX (looking at him furiously): I'm not going anywhere.<BR><br><br>PUDDLE JUMPER. Rodney, in the pilot's seat, and Carson, sitting beside him, look at the heads-up display. Rodney speaks into the radio.<br><br>McKAY: What is going on down there? You have at least twenty-five Wraith closing in on your position from ground level.<br><br>(John reports from the hospital room.)<br><br>SHEPPARD: It seems Ronon doesn't want to leave.<br><br>McKAY: Well, too bad! You tell that ungrateful example of unevolved humanity that we came all this way to rescue him, so he'd better get off his a...<br><br>SHEPPARD (to Ronon): McKay says he's very hurt you won't come with us.<br><br>DEX (looking down at the floor): I can't. Keturah and his people -- they had a deal. They traded me for their freedom.<br><br>SHEPPARD: Are you doing this for <I>them</I>? <I>Those</I> people, the ones on the planet who turned you over to the Wraith?<br><br>DEX: It was my fault they were culled.<br><br>TEYLA: Ronon, the Wraith didn't honour the deal. Keturah and his village, they're all dead.<br><br>(Finally Ronon lifts his head and looks at her.)<br><br>SHEPPARD: Now ... can we go?<br><br>DEX: No. <br><br>SHEPPARD: Why not?<br><br>DEX: Because I'm gonna kill the Wraith responsible for all this.<br><br>SHEPPARD: I don't suppose he happens to be one of the ones out there that's about to come in here?<br><br>DEX: No. He's probably still up on the hive.<br><br>TEYLA: We can't take on a hive ship now.<br><br>DEX: We won't have to.<br><br>McKAY (from the Puddle Jumper): Why aren't you moving?<br><br>SHEPPARD: Ronon wants to take care of a few things first.<br><br>McKAY (annoyed): Oh, really? Like what?<br><br>(John walks closer to Ronon.)<br><br>SHEPPARD: Come on. (He holds out his hand to him.) Let's go kill some Wraith.<br><br>(Ronon takes his hand and lets John haul him to his feet. They look at each other for a moment, John smiling slightly.)<br><br>DEX: Just stay out of my way.<br><br>(He starts to hobble out of the room.)<br><br>SHEPPARD: Hey.<br><br>(Ronon turns to face him again. John unzips his jacket and takes Ronon's blaster out of it.)<br><br>SHEPPARD: Thought you might want this.<br><br>(He offers it to Ronon, who takes it and then turns and heads off out of the room.)<br><br>SHEPPARD: You're welcome! (He follows him.)<br><br>McKAY (from the Puddle Jumper): What the hell is going on down there?<br><br>SHEPPARD: Ronon thinks he can get the head Wraith responsible for all this to come down and fight him if we kill all these Wraith first.<br><br>(Ronon heads down some stairs, his stunner in one hand and a pistol in the other. He fires both simultaneously at two Wraith guards coming up the stairs and kills them both. He runs on.)<br><br>McKAY: That is the stupidest plan I have ever heard.<br><br>(John and Teyla hurry down the stairs in pursuit of Ronon.)<br><br>SHEPPARD: I don't know. Killing a bunch of Wraith always seems like a good idea to me.<br><br>McKAY: They outnumber you twenty-five to three.<br><br>BECKETT (looking at the H.U.D.): It's actually twenty-two to three ... twenty-one ...<br><br>TEYLA: And Ronon appears to be quite angry.<br><br>McKAY: Oh, <I>that</I> evens it out! You do realise that there is a hive ship in orbit capable of blowing us all off the face of this planet?<br><br>(John and Teyla stop at an intersection inside the hospital and fire at various approaching guards. John guns down a couple in one direction while Teyla, with her back to him, shoots another one. John turns ninety degrees and kills another one. Turning back the way he was previously looking, he sees one of the gunned-down guards sitting up and reaching for its weapon. He fires again, killing it.)<BR><br><br>PUDDLE JUMPER. Carson gets out of his seat and heads for the rear of the ship.<br><br>McKAY: Where do you think <I>you're</I> going?<br><br>BECKETT: I'm going to help them.<br><br>(He goes over to a case lying on one of the benches and opens it.)<br><br>McKAY: What, are you crazy?! You're a <I>doctor</I>!<br><br>BECKETT: What does that have to do with it?<br><br>(He takes out a P90 from the case and turns. Rodney walks over to him and tries to take the rifle off him.)<br><br>BECKETT: What are you doing?<br><br>McKAY: <I>I'm</I> going.<br><br>BECKETT: You can barely walk.<br><br>McKAY: I can walk fine. I just can't sit.<br><br>BECKETT: <I>And</I> you're a terrible shot.<br><br>McKAY: Oh, what, and you're Rambo now?!<BR><br><br>HOSPITAL. Ronon flattens himself against a wall and peers around the corner. He ducks back on seeing two guards walking towards him, and waits for them to get closer. Suddenly he notices a door starting to open slowly in front of him. Realising that another Wraith is going to come through there, he hurls himself into the air as he leaps into the corridor, firing at the two guards walking down it. As they drop, he flies across the corridor and crashes to the floor on his back on the other side, in the perfect position to gun down the guard coming through the door.<BR><br><br>HIVE SHIP. The Wraith Leader watches his screen as the image looks at John aiming his rifle at it. He fires and the picture goes offline as a Wraith guard's voice can be heard groaning. Another image comes up, this one showing Teyla. The picture turns away from her and tries to escape but Teyla guns it down. Finally we realise that the Wraith with the glowing eyes must have cameras fitted in their eyes so that they can relay what they are seeing up to the hive. The Wraith Leader roars and pounds its fists on the arms of its throne in fury.<BR><br><br>HOSPITAL. Teyla and John run into another room and gun down two more guards. Nearby, Ronon comes around a corner, twirling his blaster dramatically and gunning down two more guards, then a third as it comes out of a doorway. Two more guards come out of another doorway and Ronon takes them down too.<BR><br><br>PUDDLE JUMPER. Rodney and Carson are still both holding the P90 and trying to tug it away from each other.<br><br>BECKETT: There's more than one bloody gun. We can <I>both</I> go.<br><br>McKAY: Yeah, well, someone has to stay with the Jumper.<br><br>SHEPPARD (over radio): That's it. We got ‘em all. McKay?<br><br>(Rodney lets go of the rifle and walks to the cockpit to look at the H.U.D.)<br><br>McKAY: Yeah, it's just you guys left. Well, that was quick.<br><br>SHEPPARD (smiling proudly): Yeah. I got six. Teyla got ...<br><br>TEYLA: Eight.<br><br>(John glances at her, then continues his report into the radio.)<br><br>SHEPPARD: I got nine, Teyla got eight. Ronon got the rest.<br><br>(Teyla looks round at him, her eyebrows raised.)<BR><br><br>Somewhere nearby, Ronon has found either a tracker device or a Wraith with video eyes and is glaring into it as he addresses the Wraith Leader.<br><br>DEX: You wanna watch me die up close, you're just going to have to come down here and do it yourself.<br><br>(The Wraith Leader growls and snarls angrily.)<br><br>DEX: You want me?<br><br>(Roaring, the Wraith Leader surges out of its throne and storms towards the image.)<br><br>DEX: COME AND GET ME!<br><br>(The Wraith Leader walks straight through the image.)<br><br>DEX: I'll be waiting.<br><br>(The Wraith Leader roars as it heads off.)<BR><br><br>On the surface, Ronon walks over to John and Teyla but stares ahead, not looking at either of them.<br><br>DEX: You kill him before I do, I kill you.<br><br>SHEPPARD: What if he kills you first?<br><br>DEX: Then you kill him.<br><br>(He walks away. John nods.)<br><br>SHEPPARD: Got it.<br><br>(He and Teyla exchange a glance, raising their eyebrows at each other, then they both shrug and follow after Ronon.)<BR><br><br>STREET. A Dart soars down out of the sky towards Ronon, who is waiting for it in the middle of the street. The Dart swoops over his head, transporting the Wraith Leader down onto the street facing him. It growls and walks towards him, making “come on, then” gestures with its hands. Ronon gets into a fighting stance, roaring threateningly. He whips out a knife from his belt and screams, gesturing strangely, hitting himself on the head and generally working himself up into a frenzy, then he runs towards the Wraith Leader, leaping up into the air and hurling himself towards it as he slashes at it with his knife. The Wraith judges its timing perfectly and slams its hand into Ronon's chest as he descends, throwing him across the street to crash painfully against a closed metal door before dropping to the ground. He rolls off a step in front of the door and crashes down again.<br><br>(On a rooftop nearby, John and Teyla watch as Ronon slowly gets onto his hands and knees, trying to get up as the Wraith walks towards him. It punches him in the head, then grabs his hair and hauls his head up as Ronon yells in pain.)<br><br>SHEPPARD (aiming his rifle at the Wraith): I could shoot him right now.<br><br>(The Wraith hauls Ronon to his feet and pushes him back against the step.)<br><br>TEYLA: I wouldn't.<br><br>(Ronon surges forward and punches the Wraith in the face several times. The Wraith barely reacts, parrying the next few blows and punching Ronon back against the step.)<br><br>SHEPPARD: You really think Ronon would kill me?<br><br>TEYLA: I think he wouldn't forgive you.<br><br>(Ronon, screaming, charges at the Wraith but it grabs him and throws him across the street. He crashes into a wooden upright outside a building and drops to the floor, grimacing in agony, his face cut and his mouth bleeding.)<br><br>SHEPPARD: I think he'd get over it.<br><br>TEYLA: The hive has got to be watching. We shoot that Wraith, they blast us all from space.<br><br>(The Wraith walks across the street and kicks Ronon in the face, flipping him over onto his back. It bends down and punches him hard in the face twice, then reaches down, grabs his chest armour and hauls him half upright while aiming to punch him again. This time Ronon grabs its hand and pushes it back as he struggles onto his feet. He tries to punch it but it blocks the blow and punches him in the face again. As Ronon twists from the blow, the Wraith shoves him hard in the back, sending him crashing to the ground again. The Wraith snarls triumphantly. Ronon, too weak to get up, starts to drag himself across the ground as the Wraith walks casually over to him, reaches down and grabs his hair again. Ronon groans as the Wraith picks him up and throws him over onto his back. It kneels down beside him, looks into his face and snarls in triumph. It raises its hand, ready to strike down onto his chest and feed on him when suddenly it looks up as a Puddle Jumper uncloaks just a few yards ahead of it. John and Teyla stare in surprise. Inside the Jumper, Carson sits in the co-pilot's seat with a resolute look on his face.)<br><br>BECKETT: If he doesn't like it, he can sue me.<br><br>(He closes his eyes in concentration.)<br><br>(Outside, Ronon looks up at the Wraith in triumph.)<br><br>DEX: I win.<br><br>(A drone deploys from the Jumper, hitting the Wraith and sending it shooting down the street. The drone and Wraith crash through some barrels and continue down the street. Ronon rolls over onto his stomach and covers his head as the drone and its passenger smash into a wall and explode. As debris falls all around, Ronon grins triumphantly. John and Teyla jump up and head for the ground as the Jumper, which must have backed up and turned around, now backs into position and lowers the rear hatch. John and Teyla race out of the building, run over to Ronon and help him to his feet. As they run towards the Jumper, a blast comes out of the sky from the hive ship and impacts the ground behind them. The trio race into the Jumper and John and Teyla drop Ronon to the floor. John bangs on the closed bulkhead door between them and the cockpit.)<br><br>SHEPPARD: Go! <br><br>(The Jumper heads up into the sky as blasts rain down all around it.)<BR><br><br>SPACE. Safely out of range of the hive, Rodney and Carson get out of their seats, open the bulkhead doors and hurry into the rear of the Jumper.<br><br>BECKETT: Everyone OK?<br><br>Teyla (nodding): We are OK.<br><br>(Ronon, now sitting on one of the benches, looks up at Carson and Rodney.)<br><br>DEX: Which one of you killed the Wraith?<br><br>(The two of them smile proudly.)<br><br>BECKETT: That would be me.<br><br>(Rodney raises his hand, smiling.)<br><br>McKAY: My idea.<br><br>(Ronon, his face contorted in a grimace, hauls himself to his feet and faces them.)<br><br>TEYLA (sternly): Ronon.<br><br>(Carson and Rodney's smiles have dropped and they stare at him nervously.)<br><br>BECKETT: What? Don't tell me you're not happy that he's dead.<br><br>SHEPPARD: I had him in my sights, but Ronon said he'd kill me if I shot him.<br><br>McKAY (nervously, as he points at Carson): It was all Beckett's idea.<br><br>(Ronon gives him a long look, then looks at Carson. He grabs Carson's jacket with both hands and pulls him towards him, then wraps his arms around him and hugs him.)<br><br>DEX: Thanks, Doc.<br><br>(Carson smiles in relief. Ronon lets him go. Rodney looks indignant.)<br><br>McKAY: What, <I>him</I> you thank?<br><br>SHEPPARD (indignantly): I could have killed him at any time, but Teyla wouldn't let me.<br><br>DEX (patting Rodney's shoulder as he looks round at John and Teyla): Thank you. All of you.<br><br>McKAY: Oh, don't mention it.<br><br>SHEPPARD: It's nothing, really. I only killed eleven, twelve Wraith.<br><br>(Teyla looks at him, rolling her eyes.)<br><br>BECKETT (to Ronon): How about you sit down and I get that tracking device out of you and deactivated before that hive ship gets a bead on us?<br><br>(Ronon sinks back down onto the bench, exhausted.)<br><br>BECKETT: I take it this time you won't mind if I give you a sedative?<br><br>(Ronon looks up at him, then passes out and topples off the bench, falling to the floor of the Jumper with a crash.)<br><br>BECKETT: ... Or not.<br><br>(He and Teyla bend down to tend to Ronon. John looks at Rodney.)<br><br>SHEPPARD: Who's flying the ship?<br><br>McKAY (pointing to himself): Me.<br><br>(John tilts his head at him.)<br><br>McKAY: Oh.<br><br>(He turns and heads into the cockpit. Moments later, the Jumper flies off into space, cloaking as it goes.)
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="303.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s3/304.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="305.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s3/index.shtml">
+<IMG SRC="/graphics/title_s3episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Three Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="301.shtml" CLASS="list">No Man's Land</A><BR><A HREF="302.shtml" CLASS="list">Misbegotten</A><BR><A HREF="303.shtml" CLASS="list">Irresistible</A><BR><A HREF="304.shtml" CLASS="list">Sateda</A><BR><A HREF="305.shtml" CLASS="list">Progeny</A><BR><A HREF="306.shtml" CLASS="list">The Real World</A><BR><A HREF="307.shtml" CLASS="list">Common Ground</A><BR><A HREF="308.shtml" CLASS="list">McKay and Mrs. Miller</A><BR><A HREF="309.shtml" CLASS="list">Phantoms</A><BR><A HREF="310.shtml" CLASS="list">The Return, Part 1</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="311.shtml" CLASS="list">The Return, Part 2</A><BR><A HREF="312.shtml" CLASS="list">Echoes</A><BR><A HREF="313.shtml" CLASS="list">Irresponsible</A><BR><A HREF="314.shtml" CLASS="list">Tao of Rodney</A><BR><A HREF="315.shtml" CLASS="list">The Game</A><BR><A HREF="316.shtml" CLASS="list">The Ark</A><BR><A HREF="317.shtml" CLASS="list">Sunday</A><BR><A HREF="318.shtml" CLASS="list">Submersion</A><BR><A HREF="319.shtml" CLASS="list">Vengeance</A><BR><A HREF="320.shtml" CLASS="list">First Strike</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B000RW3YYA/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B000RW3YYA/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Three</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B000RW3YYA/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B000XEMDQC/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B000RW3YYA/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B000RW3YYA/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls3.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="303.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s3/304.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="305.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

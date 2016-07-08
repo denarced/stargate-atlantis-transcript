@@ -1,0 +1,527 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Midway" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				
+				<A HREF="/atlantis/s4/transcripts/417.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=573">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=328">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s4/417.shtml#production">Production</A>
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=50912">Fan Reviews</A>
+				 | <A HREF="http://forum.gateworld.net/forumdisplay.php?f=113">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s4/417.shtml"><IMG SRC="/atlantis/graphics/417_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="MIDWAY" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://click.linksynergy.com/fs-bin/stat?id=2cvd55rHd*s&offerid=78941&type=3&subid=0&tmpid=1826&RD_PARM1=http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewTVShow?id=179127311&partnerId=30" TARGET="_blank"><img height="15" width="61" border="0" alt="iTunes" src="/store/graphics/itunes_button.gif"></img></a> &nbsp; <a href="http://www.amazon.com/exec/obidos/ASIN/B00144WSIS/bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 417<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 4, Disc 5<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 02.15.08<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 03.16.09<BR>
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0082772/" TARGET="_blank">Carl Binder</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0586539/" TARGET="_blank">Andy Mikita</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">Teal'c visits Atlantis to counsel a headstrong Ronon, who is up for review by the I.O.A.  But the two must work together when the Wraith invade the Midway space station in order to reach Earth.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    ATLANTIS.  A heavily pregnant Teyla Emmagan walks into Samantha Carter's office where Sam and John Sheppard are waiting for her.  <br><br>CARTER: Welcome back, Teyla.<br><br>TEYLA: Thank you.  Believe me, it's good to <I>be</I> back.<br><br>(She sits down next to John.)<br><br>SHEPPARD: So, what's new on Earth?<br><br>TEYLA: I wouldn't know.  I saw nothing beyond the walls of Stargate Command for two days.<br><br>CARTER: How'd the interview go?<br><br>TEYLA: Exactly as you said it would.  The new member of the I.O.A., Mr Coolidge, was somewhat brusque and arrogant.  He insisted on doing most of the questioning himself.<br><br>CARTER: Yeah, I thought he would.  These interviews were the first item on his agenda.<br><br>SHEPPARD: Probably just a new guy marking his territory.<br><br>TEYLA: Yes, well, he is clearly distrustful of aliens participating in any aspect of the Stargate programme, let alone being active team members.<br><br>SHEPPARD: But you changed his mind, right?<br><br>TEYLA: I hope so, although he did seem distracted by my current condition.<br><br>CARTER: Really?  I informed the I.O.A. of your pregnancy.<br><br>TEYLA: Yes.  They knew, and most of the members were actually quite supportive, but Mr Coolidge  his demeanour toward women differs from his demeanour toward men.  He kept calling me "honey."<br><br>(She grimaces at Sam, who closes her eyes in disbelief.)<br><br>TEYLA: I admit, the urge to inflict harm on this man was quite strong but I managed to refrain from doing so.<br><br>SHEPPARD: Good call.  Bad idea to run around beatin' the crap out of people with a baby on the way.<br><br>TEYLA: In the end I don't think he'll have a problem with me, mainly because I think he believes I will not be returning to active duty after my child is born.<br><br>SHEPPARD: Well, won't <I>he</I> be surprised?!<br><br>(Teyla smiles at him but her expression doesn't seem to agree that she'll definitely be back at work after the birth.  John frowns.)<br><br>CARTER: Well, we'll cross that bridge when we come to it.  In the meantime it's important that we get through these interviews as smoothly as possible and not create any waves.  (She looks at Teyla.)  I'll inform you when the report comes in.<br><br>TEYLA: Thank you.<br><br>(She stands up and leaves the room.  John, who has stood up respectfully, sighs and sits down again as Sam walks over and sits next to him.)<br><br>SHEPPARD: Are you thinkin' what I'm thinkin'?<br><br>CARTER (sighing): Ronon's up next.<br><br>SHEPPARD: Big waves  we're talking tsunamis.<br><br>CARTER: I thought about that.  Now, his interview's not for three days, so I've asked somebody to come to Atlantis and coach him.<br><br>SHEPPARD: Who?<br><br><br>SOME TIME LATER.  The Stargate is open and Teal'c walks through.  His hair has grown a great deal since we last saw him, and he is wearing Jaffa robes.  He looks around the Gateroom, then turns and walks towards Sam as she approaches him, smiling.<br><br>CARTER: Teal'c.<br><br>(They clasp hands.)<br><br>TEAL'C: Colonel Carter.<br><br>CARTER: Welcome to Atlantis.<br><br>(Teal'c bows his head to her as she smiles in delight at seeing her old friend.)<br><br><br>SHORTLY AFTERWARDS.  Sam and Teal'c are walking through the city.<br><br>CARTER: So, Teal'c, the hair?<br><br>TEAL'C: You do not like it?<br><br>CARTER: Oh, I love it!  It's very ... Earth!<br><br>(They smile at each other, then he looks around the area.)<br><br>TEAL'C: This city is much larger than I expected.<br><br>CARTER: Oh, it's a remarkable feat of engineering.  The Ancients really knew what they were doing.<br><br>TEAL'C: Indeed.<br><br>(Sam smiles in delight at hearing his trade word again.)<br><br>TEAL'C: You look well, Colonel Carter.  Command has been good to you.<br><br>CARTER: Thanks, Teal'c!  It took some getting used to.  Military protocol's pretty relaxed, but I like it here.<br><br><br>GYM.  Ronon Dex is sparring with a marine.  The marine throws a couple of punches at him but he ducks under both of them, jabs him in the stomach and whacks him around the neck and then flips him the floor.  The marine scrambles up and punches him in the face.  Ronon kicks him in the back of the leg and the marine crumples to his knees.  Ronon cuffs him across the face and, as the marine jumps up again, hits him in the face and then pummels him several times in the stomach.  As they fight on, Sam and Teal'c are standing in the doorway.<br><br>TEAL'C: Is that him?<br><br>(The marine reels back from Ronon's latest onslaught and Ronon goes into one of his flying leaps and cuffs the marine to the floor.  The marine rolls over, exhausted.  The fight is over.)<br><br>CARTER: Yeah, that's him!  C'mon.<br><br>(As a couple of other marines walk over to help their colleague up, she leads Teal'c over to Ronon.)<br><br>CARTER: Ronon Dex.  I'd like you to meet Teal'c of the Jaffa.  He's the one I was telling you about.<br><br>(Teal'c bows to him.)<br><br>TEAL'C: It is a pleasure to meet you, Ronon Dex.  Colonel Carter has spoken highly of you.<br><br>(Ronon takes a swig from a water bottle and glares at him.  Teal'c gazes impassively back at him while Sam's smile fades.)<br><br>CARTER (to Ronon): Anyway, like I said, you two are similar in many ways, so you should have a lot in common.<br><br>(Ronon takes another swig from his bottle and then spits the water onto the ground.  Teal'c looks down at the water for a moment, raising his eyebrow slightly, then returns to gazing at Ronon.)<br><br>CARTER: Teal'c was a member of SG-1 for over ten years, so he knows all about dealing with the I.O.A. ...<br><br>(Ronon continues to glare at Teal'c silently.)<br><br>CARTER: ... which is why I thought he could pass along a few pointers  help you prep for the big interview.<br><br>(Still Ronon glares.  Teal'c returns his gaze calmly.)<br><br>TEAL'C (without looking away from Ronon): Colonel Carter.<br><br>CARTER: Yeah?<br><br>TEAL'C: Perhaps you could leave us to become better acquainted.<br><br>CARTER: Sure.  (She looks between the two of them for a moment, a little concerned about the animosity.)  Have fun.<br><br>(She leaves the gym.  Ronon and Teal'c continue their stare-off for a few moments.)<br><br>TEAL'C: Do you not speak, Ronon Dex?<br><br>DEX: Not when I've got nothing to say.<br><br>(Teal'c gazes at him for a moment longer, then bows to him in acquiescence.)<br><br><br>ALIEN PLANET.  A Wraith cruiser has landed on a sandy planet.  A large group of Wraith make their way towards the planet's Stargate and D.H.D., carrying all sorts of equipment.<br><br>WRAITH SCIENTIST: This is it.  Get to work.<br><br>(A Wraith technician bows to him and begins organising the equipment brought to it by various guards.  It takes a cable and begins to plug it into the D.H.D.)<br><br><br>ATLANTIS.  MESS HALL.  Ronon sits alone at a table, eating a meal.  Teal'c carries a tray over to his table and puts it down.<br><br>TEAL'C: May I join you?<br><br>(Without waiting for a reply, he sits down opposite him.  Ronon refuses to meet his eyes.)<br><br>TEAL'C: Salisbury steak.  We are often served this in the S.G.C. Mess Hall.  I must confess, however, that I am partial to the tater tots.<br><br>DEX (finally looking at him): Look  I don't need a coach to teach me how to act during the interview.  I've dealt with the I.O.A. before.<br><br>TEAL'C: The I.O.A. is comprised of more than just Mr Woolsey.  Their new member, Mr Coolidge, is far less pleasant.<br><br>DEX: Yeah, well, I can handle him.  I'll stay calm, answer all of his questions.  I know how to play the game.<br><br>TEAL'C: I am pleased to hear that.  Very well.  Let us speak of other things.<br><br>DEX: Such as?<br><br>TEAL'C: Tell me of Sateda.<br><br>DEX (glaring at him): What do you want to know?<br><br>TEAL'C: When did the Wraith destroy it?<br><br>DEX: Years ago.<br><br>TEAL'C: Your army was unable to fight?<br><br>DEX: Oh, we fought back.  The battle lasted days.<br><br>TEAL'C: And when you finally surrendered, what did the Wraith do then?<br><br>DEX (angrily): We didn't surrender.  We fought until every last one of us was either dead or captured.<br><br>TEAL'C: So tell me, then: is it true that negligence on your part is what first alerted the Wraith to your presence?  That your reckless actions brought about the deaths of thousands of innocent people ...<br><br>(Furious, Ronon sweeps his tray off the table.  Leaping to his feet, he snatches out his blaster, cocks it and aims it at Teal'c's head, snarling.)<br><br>DEX: That's a lie!<br><br>(Calmly, Teal'c lifts a piece of fruit to his lips.)<br><br>TEAL'C: Indeed it is.<br><br>(He bites into the fruit.)<br><br>TEAL'C: Yet, should such a question arise during your interview, I trust you will not respond in a similar manner.  You <I>do</I>, after all, know how to play the game.<br><br>(The doors to the Mess Hall open and John hurries in.)<br><br>SHEPPARD: Ronon!  Put ... the gun ... away.<br><br>(Instantly Ronon lowers his blaster and holsters it.  John looks at him and Teal'c.)<br><br>SHEPPARD: What's the problem here?<br><br>TEAL'C: There is no problem, Colonel Sheppard.<br><br>SHEPPARD: Well, that's good to hear.  Ronon?<br><br>(Ronon puts his hands onto the table, leans down and glares into Teal'c's eyes.  Teal'c meets his gaze impassively.)<br><br>SHEPPARD: All right.  Why don't you take Teal'c down to the gym  show him your fighting techniques?  I'm sure you guys could give each other a few tips.<br><br><br>LATER.  The gym is packed with spectators and various different types of currency are changing hands as crewmembers bet on the fight.  They are shouting encouragement to Ronon and Teal'c as they ferociously fight with sticks in the middle of the room.  Sam walks in and goes over to John.<br><br>SHEPPARD: Colonel?  Wanna place a bet?<br><br>CARTER: What's going on here?<br><br>SHEPPARD: Just a friendly sparring match.<br><br>CARTER: Well, it looks anything but friendly!<br><br>SHEPPARD: Oh, no.  It's good for 'em.  They're just blowing off some steam.<br><br>CARTER: How long have they been at it?<br><br>SHEPPARD: About an hour or so.<br><br>CARTER: An <I>hour</I>?!<br><br>SHEPPARD: They've not even taken any breaks.<br><br>CARTER: Well they are now.<br><br>(She starts to walk into the middle of the room.)<br><br>SHEPPARD: I don't think that's a good idea ...<br><br>(As Teal'c holds his stick up protectively above his head, Ronon does a flying leap and smashes his own stick down, breaking Teal'c's into two.  The crowd whoops and cheers appreciatively.)<br><br>CARTER: OK, that's enough!<br><br>(The two men circle each other slowly.  As Teal'c approaches Sam, he looks at her expression, then drops the two pieces of his broken stick to the floor.  The crowd groans silently.  Grinning, Ronon tosses his own stick aside, walks towards Teal'c as he turns towards him again and punches him across the face.  The fight starts again, to the delight of the crowd.  Sam wisely backs out of the way as the two of them trade blows but a few moments later when they briefly separate, she runs into the gap and holds her hands out.)<br><br>CARTER: Ronon, Teal'c!  Stop!<br><br>(Ronon, his mouth bleeding, surges towards Teal'c again but Sam puts her hand on his chest to stop him.  Behind her, John sighs in irritation.)<br><br>CARTER: Let's call it a draw.<br><br>(Angrily, Ronon storms away.  The disappointed crowd begins to disperse.  John turns to Chuck the technician who is standing beside him holding a handful of various different bank notes.  He snatches a few bank notes out of his hand, looks at them, gives him back a note that he can't use, then leaves the room.)<br><br><br>LATER.  Teal'c, again dressed in his Jaffa robes, is walking with Sam towards the Gateroom.  John and Ronon follow a little distance behind.  Ronon has a small bag over his shoulder.  He looks at John, gesturing angrily towards Teal'c.<br><br>DEX: Why does he have to go with me?<br><br>SHEPPARD: He's not actually going <I>with</I> you  he's returning home.  You just happen to be travelling at the same time.  One less dial-in on the Intergalactic Bridge.<br><br>DEX: That's the other thing: why don't we just dial Earth directly from here?<br><br>SHEPPARD: Well, we'd need the ZeeP.M. for that.  We don't wanna waste the extra power.  That was the whole point of the Gate Bridge in the first place.<br><br>DEX: But there's a twenty-four hour quarantine on the Midway Station.<br><br>SHEPPARD: Well, you're just gonna have to sit around a bit, all right?  Look, the guy's got years of experience  he's like a hundred years old or somethin', all right?  It won't kill you to listen to him.<br><br>(He smiles at Ronon and pats his chest.)<br><br>SHEPPARD: Good boy.<br><br>(He walks away.)<br><br>DEX (to his departing back): I hate you.<br><br>(In the Gateroom, Sam turns to Teal'c.)<br><br>CARTER: I'm sorry about breaking up the sparring match earlier, but if I didn't, you two would probably <I>still</I> be fighting.<br><br>(Teal'c bows to her.)<br><br>CARTER: Listen, I know that Ronon's been resistant but I really appreciate you coming here and helping us out.<br><br>TEAL'C: I too wish him to succeed.  There is great potential in him.<br><br>CARTER: I agree.<br><br>(She looks over to Ronon as he approaches sulkily.)<br><br>CARTER: All set?<br><br>DEX (grimly): Let's get this over with.<br><br>(Sam smiles in resignation as he walks past her.  She looks up to the Control Room.)<br><br>CARTER: Dial the Bridge, Chuck.<br><br>CHUCK: Yes, ma'am.<br><br>(As he walks over to the control console, Teal'c smiles at Sam.)<br><br>TEAL'C: It gives me great pride to see how the people of this expedition have embraced you as their leader  as I knew they would.<br><br>CARTER: Thanks, Teal'c.<br><br>(They hug each other.  Nearby Ronon rolls his eyes as the Gate begins to dial out.)<br><br><br>ALIEN PLANET.  A mass of cables now lead from the D.H.D. to the Stargate, which is dialling out.<br><br>WRAITH TECHNICIAN: The portal's activating.<br><br>(The scientist walks over to the D.H.D. and watches as the Gate kawhooshes.)<br><br>WRAITH TECHNICIAN: The patterns are stored in the buffer.  The portal should redial momentarily.<br><br><br>MIDWAY STATION.  An S.G.C. scientist reports as one of the Gates begins to dial in.<br><br>DEMPSTER: Incoming Pegasus activation.<br><br>(The Gate kawhooshes and Ronon and Teal'c walk through.  The Gate shuts down behind them and they walk down the ramp.  Two guards are standing at the bottom of the ramp.  In the Control Room of the Station, Bill Lee watches their arrival on a monitor.)<br><br>LEE: Right on schedule.  I'm gonna go get them settled in.<br><br>(He walks over to a console where Doctor Peter Kavanagh [boo! hiss!]  last seen in "Critical Mass"  is sitting.  Since we last saw him he has lost the ponytail and his hair is curlier than it used to be.)<br><br>LEE: <I>You</I> can get started on the attitude stabilisation diagnostics.<br><br>KAVANAGH: I thought Dempster was doing that.<br><br>DEMPSTER (turning around from a nearby console): Well, why do <I>I</I> have to do that?<br><br>LEE: You don't.  (He points to Kavanagh.)  I want <I>you</I> to do it.<br><br>KAVANAGH: I just finished five hours of power distribution upgrades!<br><br>LEE: You chose to be here!<br><br>KAVANAGH: No, I didn't.<br><br>LEE: Yes you did.<br><br>KAVANAGH: No, I didn't.<br><br>LEE: Regardless, I want you to learn everything there is to know about this Station, and the sooner you do that, the sooner I get to hand you the reins and go home.<br><br>(He turns and walks to a door which opens automatically in front of him.  As he heads off down the corridor, Kavanagh bows his head and speaks sulkily.)<br><br>KAVANAGH: You're not the only one who wants to go home.<br><br>LEE (calling back): I heard that!<br><br>(He carries on and meets Ronon and Teal'c.)<br><br>LEE: Gentlemen!  Welcome to the Midway Station  the halfway point between the Pegasus and Milky Way galaxies.<br><br>DEX: Yeah, we know.  We've been here before.<br><br>LEE: Right, of course.  So then you also know about the twenty four hour quarantine before it can let you carry on to Earth.<br><br>(As Ronon glares at Bill, Teal'c walks closer to Bill and looms over him threateningly.  Bill's voice becomes more uncertain as he continues talking.)<br><br>LEE: Don't wanna pass on any of those pesky Pegasus germs to the folks back home.<br><br>(He coughs nervously.)<br><br>LEE: Why don't I just show you to your quarters?<br><br>(He squeezes between the two men and starts to lead them along the corridor.)<br><br>LEE: Um, unfortunately, you're gonna have to share.  As you know, there's not much room on the Station.<br><br>(He leads them into a tiny room with a bunk bed in it.)<br><br>LEE: There's a D.V.D. player and a few movies.  Oh, we saw "Norbert" the other day  actually, it's kind of funny.  Um, there's some Sudoku books, although I think ...  (He looks at the books on the table.)  ... No, they're all solved.<br><br>(Teal'c and Ronon have walked into the room behind him.  There's barely room for the three of them to stand inside.)<br><br>LEE: Um, like I said, it's a bit small, but you're only here for a day, so kick back, relax ...<br><br>(He tries to back out of the room but is squeezed between the other two men who deliberately don't move out of his way.)<br><br>LEE: ... have an Earl Grey and get to know each other better ... or not.<br><br>(He hurries out of the room and shuts the door.  Ronon and Teal'c look at each other impassively, then simultaneously turn and bend down towards the lower bunk.  Realising that they both want the bottom bunk, they straighten up and glare at each other.)<br><br><br>ALIEN PLANET.  The Gate has shut down again and the Wraith technicians are working again on the D.H.D.  One of the technicians turns to the scientist.<br><br>WRAITH TECHNICIAN: I have deciphered the programme.<br><br>WRAITH SCIENTIST: Prepare the first wave!<br><br><br>MIDWAY STATION.  Bill walks back into the Control Room where Dempster appears to be working hard on a console, while Kavanagh is sitting at another one and looking bored.<br><br>LEE: How's it going?<br><br>(Kavanagh rolls his eyes at him.)<br><br>KAVANAGH: Peachy(!)<br><br>LEE: You're bored  I get it.  Welcome to Midway!<br><br>(On a wall monitor above their heads showing computer images of the two Stargates side by side, the right-hand image flashes up a message and the distinctive sound of the Pegasus Gate dialling in can be heard.)<br><br>KAVANAGH: Are we expecting another dial-in?<br><br>LEE: No.<br><br>(The Gate can be heard kawhooshing.  Bill goes over to Dempster's console and speaks into a microphone which relays his voice all around the Station.)<br><br>LEE: Unscheduled Pegasus activation.<br><br>(He walks over to another wallscreen which shows a live feed from the vicinity of the Pegasus Gate.  The two soldiers are still standing at the foot of the ramp.  Two Wraith guards walk through the Gate and shoot them with their stunner rifles.)<br><br>LEE: What the heck?!<br><br>KAVANAGH: Oh God!  The Wraith!<br><br>(Bill goes to the window of the room and looks down directly into the Gateroom as more Wraith guards come through.)<br><br>LEE: That's impossible!<br><br><br>BUNK ROOM.  Ronon and Teal'c are standing watching The Three Stooges on a small TV screen up on the wall.  They gaze up at the screen impassively.  Just then, an alarm starts to sound.  They look at each other for a moment, then Ronon takes his blaster from the top bunk and they leave the room.  Elsewhere on the Station, a couple of Wraith guards approach a door which slides open automatically, and gun down the staff inside.  Ronon and Teal'c walk through another doorway and see two Wraith guards.  Ronon instantly raises his blaster and shoots them.<br><br>DEX: What are the Wraith doing here?<br><br>TEAL'C: I was about to ask the same question.<br><br>(He bends down and picks up the guards' stunner pistols and they head on.  In the Control Room, blast doors are lowering over the window.  The door opens and the Wraith scientist walks in, followed by its technician and a couple of guards.  Kavanagh instantly raises his hands in terrified surrender.  The scientist looks at Bill who is sitting at the console and typing.)<br><br>WRAITH SCIENTIST: Stop!<br><br>(Bill stands up and nervously raises his hands as he steps away from the console.  Dempster also raises his hands.  The Wraith technician goes over to the console and shuts down the alarm, then sits down and begins to type.  The scientist walks over to the monitor and watches as many more Wraith come through the Gate, one of them carrying a large glowing sphere.  Finally the Gate shuts down.)<br><br>WRAITH SCIENTIST (to the technician): Dial Earth.<br><br>(Bill looks round anxiously at his colleagues.  Kavanagh's eyes are closed in terror and he appears to be whimpering.)<br><br><br>ATLANTIS.  John walks into the Control Room where Sam and Rodney McKay are sitting at separate consoles typing busily.<br><br>SHEPPARD: What's goin' on?<br><br>McKAY: Intergalactic Bridge is down.<br><br>SHEPPARD: How'd <I>that</I> happen?<br><br>McKAY: I don't know.  We're sending the daily status reports to the S.G.C. and we can't connect to Midway.<br><br>CARTER: Some kind of malfunction, either in one of the Gates or the call-forwarding macro.<br><br>McKAY: It's probably just a glitch  a simple software hiccup.<br><br>SHEPPARD: "Hiccup"?<br><br>CARTER: We hope.<br><br>(John's eyes widen as he realises something.)<br><br>SHEPPARD: Ronon and Teal'c!<br><br>McKAY: The malfunction occurred several minutes after they went through.  I'm sure they made it to Midway.<br><br>CARTER: But we can't be absolutely certain.<br><br>(Rodney looks round at her indignantly but she nods to him as if to say, "Well, we <I>can't</I>.")<br><br>SHEPPARD: Those Gates are in space.  If they walked through, then ...<br><br>McKAY: No-no-no-no-no.  Look, the glitch occurred at M4F-788.  That is a planetary Gate at the edge of the Pegasus galaxy which means  worst case scenario  they stepped through the puddle and they found themselves stranded on an uninhabited planet.<br><br>SHEPPARD: "Stranded."  More time together  just what they need!<br><br><br>MIDWAY STATION.  Teal'c has taken Ronon to the Armoury.  They begin to arm themselves.<br><br>DEX: All right, we need to secure the Gateroom.<br><br>TEAL'C: No.  We must get to the Control Room.<br><br>DEX: All the Wraith can get to the Gate.<br><br>TEAL'C: They cannot use the Stargate without the Control Room.  It is best.  If we just keep moving ...<br><br>(As he speaks, he leaves the room and sees two Wraith guards coming around the corner.  He opens fire with his rifle and guns them down.  Ronon comes out and shoots down more guards coming from another direction.  Once they have all been dispatched, Teal'c leads Ronon away.)<br><br>TEAL'C: This way.<br><br><br>MIDWAY CONTROL ROOM.  The Wraith technician types on the console but it beeps negatively.  It types again but still gets nothing.<br><br>WRAITH SCIENTIST: What's wrong?<br><br>WRAITH TECHNICIAN: I cannot activate the portal.  A lock-out command has been initiated.  It is preventing me from accessing the controls.<br><br>WRAITH SCIENTIST: Override it.<br><br>(The technician types again but still gets the negative beep.)<br><br>WRAITH TECHNICIAN: I'm trying.  It requires a code.<br><br>(The scientist looks around to the humans.)<br><br>WRAITH SCIENTIST: What is the code?<br><br>LEE: We don't know.  Honestly.<br><br>(The scientist walks towards them threateningly.)<br><br>LEE: We don't know.  There's only a handful of people who know that specific code, for obvious security reasons, and none of them are on the base right now, so ...<br><br>WRAITH SCIENTIST: You initiated the lock-out?<br><br>LEE: Well, it's not really a matter of who initiated it  it's a standard ...<br><br>WRAITH SCIENTIST: <I>Did</I> you?<br><br>LEE: Yeah ... but ... I mean, yeah, it was me, but like I said, initiating it and overriding it are two entirely separate ...<br><br>WRAITH SCIENTIST: Silence!<br><br>(It turns back to its technician.)<br><br>WRAITH SCIENTIST: Keep working!  Find a way around it.<br><br>WRAITH TECHNICIAN: It will take time.  The interface has several ...<br><br>WRAITH SCIENTIST: The more you speak, the less <I>time</I> you have.  (It looks round to the humans again.)  In the meantime, perhaps I can find a way to persuade you to give me that code.<br><br><br>ATLANTIS.  The Gate kawhooshes.<br><br>CARTER: We've got a lock.<br><br>SHEPPARD: <I>Finally</I>.<br><br>McKAY: Yeah.  It seems someone was dialling out from 788.  It was preventing us from dialling in until now.<br><br>SHEPPARD: That's Ronon and Teal'c?<br><br>McKAY: I doubt it.  Look, even if the malfunction spat them out on the planet, the only logical address they would dial was back to Atlantis, which, as we know, they didn't.<br><br>SHEPPARD: Well, maybe it's them and they can't get a lock.<br><br>(Rodney shrugs.  Sam activates the comms.)<br><br>CARTER: Ronon, Teal'c, are you there?<br><br>(There's no reply.)<br><br>CARTER: Ronon, Teal'c, this is Colonel Carter.  Please respond.<br><br>(Still no reply.)<br><br>McKAY: I'm telling you  they made it to the Midway Station before the malfunction.  I'm sure of it.<br><br>SHEPPARD: Wait a minute.  Didn't you say 788 is uninhabited?<br><br>McKAY: It is.<br><br>SHEPPARD: All right  if it's not Ronon and Teal'c, then who dialled out?<br><br><br>SHORTLY AFTERWARDS.  A M.A.L.P. drives towards the open Gate.  Sam and John stand on the balcony as it disappears into the Gate.  Rodney is sitting at a console watching his screens.<br><br>McKAY: M.A.L.P. is through.  Receiving telemetry.  Visual coming in now.<br><br>(Sam and John watch as the video feed comes onto a wallscreen and shows the sandy surface.)<br><br>McKAY: See?  No Ronon, no Teal'c.<br><br>CARTER: Pan left.<br><br>(Rodney types and the M.A.L.P.'s camera turns to the left.  It shows the D.H.D. and many cables trailing from it.)<br><br>McKAY: That's Wraith tech.  It's hooked up to the D.H.D.<br><br>CARTER: Pan right.<br><br>(Rodney turns the camera to the right and reveals a rocky ridge with something dark on top of it.  He tilts the camera up and it shows the cruiser at the top of the ridge.)<br><br>SHEPPARD: Oh crap!<br><br>(Just then a Wraith guard walks into view, aims its stunner rifle at the M.A.L.P. and fires.  The screen goes blank.)<br><br>McKAY: We lost the feed.<br><br>SHEPPARD: Yeah, not to mention the M.A.L.P.  Shut down the Gate.<br><br>(He and Sam walk over to Rodney.)<br><br>CARTER: Is it possible for them to have hijacked the Intergalactic Bridge?<br><br>SHEPPARD: This is a hell of a lot more than a "hiccup"!<br><br>McKAY: No-no-no-no, it's impossible!  I mean, first they'd have to <I>know</I> about the Bridge and even if they did, there's too many security barriers in place.  Look, encryption I used on the call-forwarding macros would take them <I>years</I> to try to ...<br><br>SHEPPARD: What if they knew the passwords?<br><br>McKAY: How?<br><br>SHEPPARD: We just had a Wraith on base, Rodney, working with you, side by side, on your computers.<br><br>McKAY: You mean Todd?  He was our ally!  Look, even if he wanted, there's no way he could hack into <I>my</I> system ... (he starts to look doubtful) ... could he?<br><br>SHEPPARD: You saw the tech hooked up to the D.H.D.  What else could they be up to?<br><br>CARTER: All right, listen, we have to get to Midway.  The Daedalus is back on Earth.  Is there another way we can get there?<br><br>McKAY: Well, connect to the Bridge via another Gate in Pegasus.<br><br>CARTER: Then we have to find one that's close to the outer edge.<br><br>(Rodney types and a star map shows several Gates near to M4F-788.)<br><br>McKAY: There's M6R-125.  We could connect to the Bridge through that, but I'd need to reconfigure the macro.<br><br>CARTER: OK, get on it.  Colonel, prepare a strike force.<br><br><br>MIDWAY CONTROL ROOM.  The Wraith scientist drops Dempster's shrivelled body to the floor.  Bill and Kavanagh stare down at it in horror.  The scientist walks slowly towards them.  Kavanagh looks at him in terror.<br><br>KAVANAGH: Honestly, if I knew the code, I would have given it to you by now.<br><br>WRAITH SCIENTIST: That depends on the strength of your allegiance.<br><br>KAVANAGH: No-no-no, trust me!  My allegiance is not that strong!<br><br>LEE: It really isn't.  Please!  <I>Please!</I>  I'm begging you!<br><br>(The Wraith raises its hand, ready to strike at Kavanagh.  Kavanagh's eyes roll up into his head and he collapses to the floor.)<br><br>LEE: Umm, I think he fainted.<br><br>WRAITH SCIENTIST: Then <I>you</I> shall be next.<br><br>LEE: Wait ...<br><br>WRAITH TECHNICIAN: I've got it!<br><br>(They turn to look at it.)<br><br>WRAITH TECHNICIAN: I've successfully gained access to override the lock-out.<br><br>WRAITH SCIENTIST: Good!  Dial the portal.<br><br><br>Elsewhere on the Station, Ronon and Teal'c climb down a ladder into a lower level, then look around as they hear the sound of approaching Wraith.<br><br>TEAL'C: In here.<br><br>(They hurry around a corner into a small room which has a couple of spacesuits in it.  They watch as many of the Wraith guards congregate around the ladder and begin to climb it.)<br><br>DEX: They're headed to the Gateroom.<br><br>TEAL'C: Indeed.<br><br>(The last of the guards climbs the ladder.)<br><br>DEX: If you wanna go to the Control Room, go ahead.  I'm going after 'em.<br><br>(He heads out.)<br><br>TEAL'C: Ronon!<br><br>(Angrily, he hurries after him.)<br><br><br>CONTROL ROOM.  The scientist activates the comms system.<br><br>WRAITH SCIENTIST: Send the device.<br><br>LEE: Uh, device?<br><br>(The scientist looks at him.  Bill raises his hand as if in school.)<br><br>LEE: Um, what device?<br><br><br>EARTH.  STARGATE COMMAND (S.G.C.)  The Stargate kawhooshes.  In the Control Room, Walter Harriman reports.<br><br>HARRIMAN: Offworld activation.  Midway's I.D.C.  Opening the iris.<br><br>(He puts his hand onto the palm scanner and the iris opens.  The large glowing sphere rolls out of the Gate and down the ramp.  It trundles across the floor and stops just short of the Control Room wall.  The S.F.s in the room aim their weapons down at it.  The Gate shuts down and the sphere emits a powerful field in all directions.  As it sweeps over the soldiers and spreads to the Control Room, everyone drops to the floor or falls back in their seat, unconscious.  The field sweeps on through the complex until everyone in the base is unconscious.)<br><br><br>ATLANTIS CONTROL ROOM.<br><br>McKAY: All right, we're re-directed.  We gate from Atlantis to M6R-125.  We insert this crystal with the Bridge macros into the D.H.D., dial the first Gate in the void and we're back on track all the way to Midway.<br><br>CARTER (to John): Is your strike force ready?<br><br>SHEPPARD: As soon as McKay gears up, we're ready to go.<br><br>McKAY: Well, I'm not ...  (He sighs.)  All right, I'm gearing up.<br><br><br>MIDWAY CONTROL ROOM.  The Wraith scientist activates the comms.<br><br>WRAITH SCIENTIST: Prepare the next wave.<br><br>(As the Milky Way Gate begins to dial, Ronon and Teal'c reach a window above the Gateroom and watch as Wraith guards begin to enter the Gate.)<br><br>TEAL'C: They've dialled the Milky Way Gate.<br><br>DEX: They're heading for Stargate Command.<br><br>TEAL'C: We must pursue them.<br><br>DEX: Now you're talkin'.<br><br>(As they turn to leave the room, more Wraith come into view.  The men open fire on them and gun them all down.)<br><br>DEX: Let's go before the Gate shuts down!<br><br>(Shortly afterwards, the Wraith scientist hears the sound of gunfire.  It looks at the monitor and sees Ronon and Teal'c backing up the ramp towards the Gate, firing at approaching guards.  It turns to the technician.)<br><br>WRAITH SCIENTIST: Shut it down  now.<br><br>(The technician types but the boys are already backing into the event horizon.  A guard runs up the ramp but the Gate shuts down before it can reach it.  The scientist turns to the technician.)<br><br>WRAITH SCIENTIST: Two were able to pass through  but they will be dispensed of soon enough.  Make ready the next ...<br><br>(Just then, on the monitor showing the Stargates, the right-hand image begins to show the message "INCOMING.")<br><br>WRAITH TECHNICIAN: The Pegasus portal is activating!<br><br>WRAITH SCIENTIST: The next inbound wave was supposed to wait for my command.<br><br>(The technician types and pulls up an image of the Pegasus Gate on the monitor.  John, Rodney and various marines run through, aiming their weapons in all directions.  The scientist stares in shock.  The strike force makes its way into the corridors.)<br><br>SHEPPARD: Teams Three and Four, take the lower level.  Teams One and Two, with me.  This way.<br><br><br>S.G.C.  Ronon and Teal'c come through the Gate and gaze in surprise at the unconscious bodies lying on the floor.  As the Gate closes down, they go down the ramp and Ronon checks the neck pulse of one of the soldiers.<br><br>DEX: Yeah, they're alive.  They're just stunned.<br><br>TEAL'C (walking over to the sphere): By this device, perhaps.<br><br>DEX: I don't know.  I've never seen one of these before.<br><br>TEAL'C (looking up into the Control Room): It appears other personnel have been disabled as well.  The question is, how much of this base has been compromised?<br><br>DEX: And where the hell are the Wraith?<br><br><br>MIDWAY STATION.  As John's team makes its way through the Station, more Wraith guards appear and fire at them.  The men take cover and return fire.  As the firefight continues, John leans back to safety for a moment to call into his radio.<br><br>SHEPPARD: Ronon, Teal'c, come in.<br><br>(There's no reply.)<br><br>SHEPPARD: Ronon, do you copy?<br><br>(In the Control Room, the Wraith scientist is watching the firefight on split screen images.  It turns to the technician.)<br><br>WRAITH SCIENTIST: Shut the door.<br><br>(The technician types, and the door to the Control Room slides closed.  In the corridors, John and his team continue firing at the Wraith until all of them have been gunned down or have run away.)<br><br>SHEPPARD: Clear.<br><br>(They progress forward cautiously.  A wallscreen nearby activates and the scientist's face appears on it.)<br><br>WRAITH SCIENTIST: Colonel Sheppard.<br><br>(Rodney, nearest to the screen, looks at it in surprise and calls John back.)<br><br>McKAY: Sheppard.<br><br>(John comes back to look at the screen.)<br><br>WRAITH SCIENTIST: You have no chance of re-taking this Station.  Therefore it is in your best interests to surrender immediately.<br><br>SHEPPARD: Do I know you?<br><br>WRAITH SCIENTIST: Not personally, no.  But I know a great deal about you.  You as well, Doctor McKay.<br><br>McKAY: Who <I>are</I> you?<br><br>WRAITH SCIENTIST: An acquaintance of someone you recently worked with to bring about the demise of those you refer to as Replicators.  It was from him that I was able to procure the necessary data to commandeer this base.<br><br>McKAY (angrily to John): It <I>was</I> Todd.  That bastard hacked my system.<br><br>SHEPPARD: So much for buddies!  (To the Wraith) So, what's the plan?  Take over Midway and then, what, Earth?<br><br>WRAITH SCIENTIST: My warriors are securing a beach head in your command centre as we speak.<br><br>SHEPPARD: Hate to break this to you, but the S.G.C. is heavily fortified.  You're walking into a world of hurt.<br><br>WRAITH SCIENTIST: Not to worry.  We have ways of evening the odds.<br><br><br>S.G.C.  Ronon and Teal'c walk into the Control Room and see that everyone there is also unconscious.  Ronon walks over to a screen showing a corridor elsewhere in the base.  Wraith are walking along it.<br><br>DEX: Look.  They're working their way to the surface  trying to get out.<br><br>(He looks at another screen which shows a Wraith opening a doorway which leads to the emergency ladders to the surface.)<br><br>TEAL'C: They will be unable to do so.  A pulse of energy  no doubt from that Wraith device  has triggered the S.G.C. automatic lockdown.<br><br>DEX: So no-one gets in and no-one gets out?<br><br>TEAL'C: Indeed.<br><br>DEX: Just the way I like it.<br><br><br>MIDWAY CONTROL ROOM.  The right-hand image of the Gates shows the message "UNSCHEDULED ACTIVATION."<br><br>WRAITH TECHNICIAN: We have activation.<br><br>WRAITH SCIENTIST: That will be our reinforcements.<br><br>(As the Gate activates, the scientist turns back to the camera transmitting its image to John and the others.)<br><br>WRAITH SCIENTIST: Soon it is <I>you</I> who will be in for a "world of hurt."<br><br>McKAY (wide-eyed): Oh, crap!<br><br>(Angrily, John slaps him on the arm.)<br><br>SHEPPARD (into the camera): Listen, love to sit around and chat, but gotta go.<br><br>(He raises his pistol and shoots out the camera.  Rodney cowers as it explodes.  John turns to the marines.)<br><br>SHEPPARD: Take positions.  Anything comes through the Gate, kill it.<br><br>MARINE: Yes, sir.<br><br>SHEPPARD (to two other marines): You two, with me.<br><br>McKAY: Where are we going?<br><br>SHEPPARD: We're going to the Control Room to shut down the Gate.<br><br>(They run to the corridor leading to the Control Room.  Two Wraith guards are outside but John runs across the corridor, firing rapidly with his rifle.  One of the guards goes down.  The other fires its stunner at John but he ducks out of sight, then reappears and fires again.  As the guard falls, its rifle goes off and the blast hits the marine beside John, who crumples to the floor.  Ignoring him, John runs down the corridor.  The door at the end opens and another guard appears in the doorway.  John promptly guns it down, then fires at the other one, which manages to stun another of the marines before John shoots it down.  The technician runs to grab one of the guard's rifles but John switches to his pistol and fires at it twice.  It falls to the floor.  Nearby, fingers appear over the edge of the console and a bald head lifts slowly into view.  John spins around to aim his pistol at it but relaxes when he realises that it's Bill.)<br><br>LEE: Whoa!  Oh, thank God.<br><br>SHEPPARD: Where's the head guy?<br><br>LEE: He left.<br><br>SHEPPARD: Well, I can <I>see</I> that.  Where'd he go?<br><br>LEE: Uh, I don't know.  He just ran out.<br><br>SHEPPARD (calling out): McKay, we're in the clear.  Get to work.<br><br>(Rodney comes into the Control Room.  John looks at Bill.)<br><br>SHEPPARD: Where's Ronon and Teal'c?<br><br>LEE: They went through the Milky Way Gate on the way to Stargate Command.  They were chasing after the Wraith.<br><br>SHEPPARD: All right.  Here.  (He hands Bill his pistol.)<br><br>LEE: What am I supposed to ...?<br><br>SHEPPARD (pointing in the direction of the unconscious marines): Get those two guys inside.  Seal the door, shoot anything that tries to get through.<br><br>McKAY: Where are <I>you</I> going?<br><br>SHEPPARD: To help those marines.<br><br>(He looks down at Kavanagh lying on the floor.)<br><br>SHEPPARD: Is he dead?<br><br>LEE: Fainted.<br><br>SHEPPARD: Figures.<br><br>(The console beeps.)<br><br>McKAY: Well, you'd better wake him up.  We've got a problem.<br><br>SHEPPARD: What?<br><br>McKAY: I can't shut down the Stargate.<br><br>LEE: I think I saw them inputting a lock-out protocol just before you guys came in.<br><br>McKAY: Dammit!<br><br>(As he continues to type and keeps getting a negative beep, John looks at the monitor screen and sees more Wraith guards walking through the event horizon.)<br><br>SHEPPARD: We've got Wraith coming through the Gate.  We're about to get overrun.<br><br>(He races out of the room.  Rodney looks up at the monitor screen as even more guards arrive ... and still the console beeps negatively at him.)<br><br><br>SHORTLY AFTERWARDS.  John makes his way to rejoin the marines, speaking into his headset radio.<br><br>SHEPPARD: Hester, come in.  What's your twenty?<br><br>(As Hester replies, his voice is punctuated with the sound of repeated automatic gunfire.)<br><br>HESTER (over radio): We're still outside the Gateroom.  We've got a ton of Wraith coming through!<br><br>SHEPPARD: Where are the other teams?<br><br>HESTER: I lost contact with them.  I don't know how much longer we can hold on here, sir!<br><br>SHEPPARD: Just hang on.  McKay's trying to shut down the Gate.<br><br>(Hester cries out and there's confused shouting and firing from the other marines with him.)<br><br>SHEPPARD: Hester?  Hester?  Come in?<br><br>(The sound from John's radio fluctuates, then cuts off.  John trots around the corner and runs into another group of Wraith.  He guns down as many as he can, then turns and runs.  The guards pursue him.)<br><br><br>S.G.C.  Ronon and Teal'c walk through the base, looking at all the unconscious bodies lying on the ground.  Teal'c stops and bends down to the shrivelled corpse of a soldier.<br><br>DEX: He was fed on by the Wraith.  It's not a good way to go.<br><br>TEAL'C: Indeed.<br><br>(He takes a zat gun from the corpse.)<br><br>DEX: You say that a lot.<br><br>TEAL'C: What?<br><br>DEX (in a deep voice): "Indeed."<br><br>TEAL'C: Do I?<br><br>DEX: Yeah.<br><br>TEAL'C (frowning): I had not noticed.<br><br>(Ronon turns and walks around the corner.  He sees a Wraith guard kneeling over another shrivelled soldier's corpse, its hand still on his chest.)<br><br>DEX: Hey!<br><br>(He snatches out his blaster and shoots it.  He heads towards it, still firing, but a couple of Wraith guards surge out of a side corridor.  One of them grabs him and hurls him hard against the wall.  Teal'c zats the other guard, then spins around as more guards appear behind him.  He zats them as well.  Another guard runs into view.  Teal'c grabs it and slams its head into the wall.  Meanwhile, Ronon is struggling with the guard that attacked him.  It has one hand on his throat and is trying to get its other hand onto his chest.  Teal'c snaps the neck of the guard he was grappling with.  As Ronon continues trying to keep his guard's hand off his chest, a stunner blast hits it in the back and it falls to the floor.  Teal'c looks down at Ronon's blaster which he has picked up off the floor and used on the Wraith.  He brings it over to Ronon and offers it to him.)<br><br>TEAL'C: I would <I>very</I> much like to have a weapon such as this.<br><br>DEX (taking it from him): Yeah.  Get in line.<br><br><br>MIDWAY STATION.  John carefully pushes a door open, aiming his pistol in front of him.  He speaks into his radio in a whisper.<br>SHEPPARD: Rodney.  Talk to me.<br><br>(Rodney and Bill are working on the main console.  They've managed to wake up Kavanagh, who is wiping his forehead with a cloth and putting his glasses back on.)<br><br>McKAY: Still working.<br><br>SHEPPARD: I've lost contact with Hester and the marines.  I think they were killed.  How long before you get the Gate shut down?<br><br>McKAY: I don't know.  This is extremely complicated.<br><br>KAVANAGH: Have you tried the critical systems bypass?<br><br>McKAY (ignoring him): I have to figure out a safe work-around to avoid any commands that may have been compromised.<br><br>SHEPPARD: You'd better hurry, or we've got more Wraith on the way.<br><br>McKAY: I'm working as fast as I can!<br><br>KAVANAGH (to Bill): Why doesn't he just bypass the critical systems?<br><br>LEE: Not now.  Just watch the door.<br><br>McKAY: Besides, even if I could shut down the Gate, there's Wraith in every sector of the base.  We're completely outnumbered.  I mean, it's just a matter of time before they wipe out the whole ...<br><br>(He trails off as Kavanagh, who had walked across to another console while he was talking, types onto it and the Pegasus Gate shuts down.)<br><br>McKAY: The Gate just shut off!<br><br>(He glances at what Bill's working on, then looks across to Kavanagh.)<br><br>McKAY: What did you do?<br><br>KAVANAGH: I shut it off, using the critical systems bypass.<br><br>McKAY: Are you out of your mind?!<br><br>KAVANAGH: What?  It worked!<br><br>(An alarm sounds and a message comes up on the wallscreen behind him reading, "SELF DESTRUCT INITIATED.")<br><br>LEE: Oh my God!  The self destruct!<br><br>KAVANAGH: I didn't mean ... I ...<br><br>McKAY: Did you not just hear me say I needed to figure out a safe work-around to avoid any commands that may have been compromised  as in booby trapped?!  Look, I didn't use the bypass to shut down the Gate for this very reason!<br><br>SHEPPARD (over radio): Rodney?<br><br>McKAY: We've made a terrible mistake.  We never should have revived Kavanagh!<br><br>SHEPPARD: He triggered the self destruct.<br><br>KAVANAGH: Not on purpose!<br><br>McKAY: It doesn't really matter now, does it?<br><br>LEE (looking at his watch): All right, we've got just under ten minutes before this whole Station blows up.<br><br>SHEPPARD: Well, can you turn it off?<br><br>McKAY: No.  I'm completely locked out.  The Wraith made sure if <I>they</I> couldn't have the Station, then no-one could.<br><br>LEE (tapping his forehead in anxiety): Oh, things couldn't get any worse.<br><br>(Just then the three of them look around as they hear the sound of Wraith gunfire outside the room.  Two Wraith guards are firing their rifles repeatedly at the door.) <br><br>KAVANAGH: They're shooting at the door.<br><br><br>S.G.C.  Ronon and Teal'c are making their way through the corridors, both carrying rifles.  They stop as they hear something crash down on the other side of a closed door.  They go to the door and Ronon shoulders it open.  Inside are three people in civilian clothes.  Two are slumped on the table and one has fallen to the floor.<br><br>TEAL'C: Wait.<br><br>(He walks around the table to find a fourth man in a suit slowly pulling himself upwards.  He apparently just fell out of his chair and the shock must have woken him up.)<br><br>TEAL'C: Are you all right?<br><br>(The man doesn't answer, still rather bleary.)<br><br>TEAL'C: Ronon Dex.  This is Mr Coolidge of the I.O.A.<br><br>DEX: Oh.  Hey.<br><br>COOLIDGE: What happened?<br><br>TEAL'C: You were rendered unconscious by a Wraith stun device.<br><br>COOLIDGE: What?!  The <I>Wraith</I>?  Here?<br><br>TEAL'C: They have infiltrated the base.  It is best if you remain in this room until Ronon Dex and I have neutralised the situation.<br><br>COOLIDGE: No-no-no.  We need to get to the Control Room, radio for help.<br><br>DEX: We don't need help.<br><br>COOLIDGE: How many Wraith are here on this base?<br><br>TEAL'C: We do not know exact numbers, but they are many.<br><br>COOLIDGE: And who else beside you are going after them?<br><br>TEAL'C: We are the only two.<br><br>COOLIDGE: Get me to a radio.<br><br>DEX: It's better if you ...<br><br>COOLIDGE (interrupting): <I>Now</I>!<br><br><br>MIDWAY STATION.  John lurks around a corner as Wraith guards make their way down the corridor.  Once they've gone, he speaks quietly into his radio.<br><br>SHEPPARD: I've got an idea, Rodney.<br><br>(In the Control Room, the sound of the Wraith constantly shooting at the door can still be heard.)<br><br>McKAY: Great, 'cause we've got Wraith just about to blast through the door.<br><br>SHEPPARD: This place has got a Puddle Jumper docked here, right?<br><br>McKAY: Yeah, to be used as an emergency escape pod.<br><br>SHEPPARD: I'd say this pretty much qualifies as an emergency.<br><br>LEE: No-no-no, no!  We'll be stuck out here in the middle of the galactic void!<br><br>McKAY: Only until we're rescued.  It might take a couple of weeks, but the Jumper is stocked with food and water.  We should be all right  unless you wanna stay here and get blown to smithereens with the rest of the Station.  Your call.<br><br>KAVANAGH: We've got one other problem.  How're we gonna get there?<br><br>(John, who had taken the respite to reload his rifle, comes out of hiding as some more Wraith walk along the corridor.  He guns them down and then runs off.  Rounding a corner, he skids to a halt at the sight of two dead marines on the floor.  Both of them have been fed on.)<br><br>SHEPPARD: Rodney, we're out of time.  Vent the atmosphere.<br><br>McKAY: What?!<br><br>SHEPPARD: Every room but the Control Room.  Vent the air.<br><br>McKAY: How close are you?<br><br>SHEPPARD: Don't wait for me.  Just do it.<br><br>McKAY: Can you make it to the Jumper?<br><br>SHEPPARD: I don't know.  I'll try.<br><br>McKAY: John, I'm not sure there's time to ...<br><br>SHEPPARD: We don't have time to argue!  <I>Do</I> it!<br><br>(The firing outside the door of the Control Room intensifies.  Rodney looks round at the door.  Bill puts a hand on his shoulder, understanding the decision he must make.  Rodney turns back, his eyes wide.)<br><br>McKAY: Venting the atmosphere.<br><br>(He types, and the message on the wall changes from "SELF DESTRUCT INITIATED" to "VENTING O2."  Everywhere but in the Control Room, air starts being rapidly sucked out of vents in the walls.  The Wraith groan as they stumble forward, then collapse to their knees.  John, his face screwed up in pain and concentration, staggers along the corridors towards the location of the Puddle Jumper.  Suddenly the Wraith scientist hurls itself into his back and sends him flying, then punches him in the face.  John fends it off as best as he can as it continues striking out at him and eventually he pushes it far enough off him to bring his pistol into play.  He fires seven bullets into it.  It reels back and slumps down on the other side of the corridor, dead.  John turns and tries to get to his feet but can't breathe.  He collapses to the floor and reaches forward, trying to drag himself along the floor.)<br><br><br>S.G.C.  Two Wraith guards are trying to force open the doors to the elevator on level 28 while another guard stands nearby.  Ronon and Teal'c, followed by Coolidge, run down the steps of the Control Room, firing repeatedly with their rifles.  The guards drop.  The boys charge around the corner and open fire on two more guards.  As Coolidge cowers around the corner, another Wraith runs down the steps of the Control Room.  Seeing him out of the corner of his eye, Ronon snatches out his blaster and shoots it down.  He instantly holsters his blaster and continues firing with his rifle as more guards come around the corner in front of them then, as Teal'c continues firing at them, turns and fires at more guards coming from the Control Room.  Finally they manage to gun down all of them.<br><br>DEX: All right.  (He points back to the Control Room.)  I'll go this way; you go that way.  (He points down the corridor.)<br><br>TEAL'C: Where is Mr Coolidge?<br><br>DEX (looking around): I don't know.<br><br>(They head off in opposite directions.)<br><br><br>MIDWAY CONTROL ROOM.  Kavanagh puts his ear against the door.  There's no further sound coming from behind it.  In the corner of the room, the two marines who they dragged in earlier are starting to revive.<br><br>KAVANAGH: It's pretty quiet out there.<br><br>(Bill looks at the monitor screens.)<br><br>LEE: Looks like they're all dead.<br><br>McKAY: Sheppard.  Can you hear me?  John  are you there?<br><br>(There's no reply.  Bill looks at his watch.)<br><br>LEE: It should be enough time.  I think it's safe to repressurise.<br><br>(Rodney doesn't answer, his face full of loss.)<br><br>LEE (gently): Doctor McKay.<br><br>(Rodney looks round at him for a moment.)<br><br>McKAY: Repressurising the Station.<br><br>(He types, then looks up again, his face still full of pain.)<br><br><br>S.G.C.  Ronon runs into the Control Room and sees Coolidge standing at a wall panel.<br><br>DEX: What are you doing?<br><br>COOLIDGE: I've contacted the military.  They're fully aware of the situation which means, unfortunately, they're preparing to nuke the base.<br><br>DEX: What?!<br><br>COOLIDGE: Stargate Command has been compromised.  The only way to fully prevent the Wraith from infiltrating the general population is to destroy it.<br><br>DEX: You tell them to call it off.<br><br>COOLIDGE: I can't do that  not as long as there's a single Wraith still alive on this base.<br><br>(Behind them, the Control Room crew have been starting to revive.)<br><br>HARRIMAN: Wraith?!  What, <I>here</I>?!<br><br>DEX: Listen, we'll deal with the Wraith.  (He turns back to Coolidge.)  Look, you've still got people alive here.  Buy us some more time!<br><br>COOLIDGE: We don't <I>have</I> time.  Now, there's an escape hatch to the surface.  We need to get to it immediately.  Where's Teal'c?<br><br>(Ronon looks around and sees several of the crew gazing up to the video screens.  He looks and sees Teal'c in a narrow corridor with Wraith guards firing at him from either end.)<br><br>DEX: He's surrounded.  I need to get back to him.<br><br>COOLIDGE: No!  No time!  We have to leave as soon as we can!<br><br>DEX: Not without Teal'c.<br><br>COOLIDGE: We <I>can't</I> go back for him.  We could get bogged down or killed!<br><br>(Ronon turns and starts to leave the room.  Coolidge follows him.)<br><br>COOLIDGE: Now, there's a clear path to the escape hatch, and we need to get out of here <I>now</I>!<br><br>(Ronon turns back, glaring at him.)<br><br>DEX: You wanna run away and save yourself, fine.  I'm staying here.<br><br>(He races away.)<br><br><br>MIDWAY STATION.  Rodney and the others have climbed down the ladder to the lower level.  Rodney looks around.<br><br>McKAY: The Jumper Bay is ...<br><br>LEE: ... through the E.V.A. Prep Room.  And it's not a real bay, though  it's more like an airlock that leads to a hatch that's cut into the top ...<br><br>McKAY: I don't need the blueprints!  Where <I>is</I> it?<br><br>LEE: It's over there.<br><br>(Kavanagh points the way with his finger.  Bill also points the way, with a pistol that he's holding.  Angrily Rodney pushes his hand down again and leads the way.  They reach the E.V.A. Prep Room which contains the two spacesuits.  Rodney looks around the room, then gestures to Bill who walks over to a hatch in the far wall.)<br><br>LEE: Through here.<br><br>(He types a code into a keypad on the hatch, then swings the hatch open.  A ladder is inside.  He starts to go through the hatch but Kavanagh pushes him out of the way and goes first.  Bill and the marines follow.  Just as Rodney starts to step through the hatch, he hears the sound of amplified breathing from behind him.  He turns, frowning in confusion, and walks back to the spacesuits.  Peering into the darkened helmet of the first one, he presses a button on the control panel on the front of the suit and the helmet's internal lights come on.  John is inside.)<br><br>McKAY: Sheppard!  How the hell did you ...?!<br><br>SHEPPARD: Get me out of here.<br><br>McKAY: Yeah!<br><br>(He reaches for the helmet and starts to disconnect it.)<br><br><br>S.G.C.  Teal'c guns down some more Wraith guards, then turns and runs back the other way, firing at more approaching guards.  All falls silent for a while and Teal'c stops and looks around suspiciously, awaiting the next attack.  Suddenly doors behind him burst open and a couple of guards charge out, one of them grabbing him and pinning him against the wall.  Ronon charges around the corner and guns down a couple more Wraith, then another one goes hand to hand with him.  Teal'c's Wraith also fights hand to hand with him.  Ronon's guard grabs him by the throat with both hands and holds him up against the wall.  He punches it repeatedly on the head until it drops him.  He stumbles backwards, then goes at it with the guard again.  The two pairs continue to trade blows.  Eventually Teal'c's guard picks him up and throws him hard against a wall.  As he drops to the floor, Ronon steps away from his guard for a moment, looks around and sees a pipe running along the ceiling.  He reaches up and pulls a section of it down.  Air or gas pours out of the rest of the pipe.  Swirling his piece of pipe, Ronon hammers it across the guard's chest, then swings around and hits it in the back.  Turning to face it again, he slams the pipe across the guard's face piece several times but has little effect on it.<br><br>(Back around the corner, the other guard has picked Teal'c up off the floor and pushed him back against the wall.  He has been half stunned by the crash against the wall and is too weak to fight back.  The guard slams its hand into his chest.  Teal'c groans as it starts to feed.  But a couple of seconds later it convulses as there's a sickly squelching impact.  Its head rears back and blood pours out of its mouthpiece.  Teal'c looks down and sees a length of metal pipe sticking through the guard's chest.  It drops to the floor.  Teal'c slumps wearily as Ronon steps over the guard, then he pulls himself together, wipes the blood from his mouth and looks up at him.)<br><br>TEAL'C: Excellent timing.<br><br>DEX: Indeed.<br><br>(Teal'c looks at him, everything but his mouth smiling, and slowly staggers forward.  Ronon pats his shoulder and looks around.)<br><br>DEX: Well, I think that's all of them.<br><br>TEAL'C: I certainly hope you are correct.<br><br>DEX: We've gotta call the military.  They're gonna blow this place up.<br><br>(Teal'c nods, and they head off.)<br><br><br>MIDWAY STATION.  PUDDLE JUMPER.  Bill runs back to the hatch in the roof and looks up into it.<br><br>LEE: What's taking him so long?<br><br>(Kavanagh looks at his watch.)<br><br>KAVANAGH: Self destruct's about to blow.  (He calls up into the hatch.)  Twenty seconds!<br><br>(Rodney drops down through the hatch.  As he stumbles forward into the front compartment, John drops down through the hatch.)<br><br>LEE: Colonel Sheppard?!  How did you get ...?<br><br>SHEPPARD: Later.  We're leaving.  (He runs to the pilot's seat.)  Sit down!<br><br>(He activates the controls and the Jumper pulls away from the Station.  As the Jumper races away, the Midway Space Station explodes.)<br><br><br>S.G.C.  In a small room, five members of the I.O.A. sit at one end of a table.  Coolidge is sitting in the middle of the group.  Ronon sits at the other end of the table.  Coolidge looks through the papers in front of him, then looks up at Ronon.<br><br>COOLIDGE: Ronon Dex.  Do you feel that you can fulfil the duties of an S.G. team member with diligence, integrity, and respect for those in authority over you?<br><br>(There's a microphone on the table in front of Ronon.  Looking a little nervous, he slowly leans forward until his mouth is about an inch away from the microphone.)<br><br>DEX: Yes.<br><br>(He straightens up again.  Coolidge looks around at his colleagues on either side of him, then looks back at Ronon.)<br><br>COOLIDGE: Good enough for me.<br><br>(As Coolidge starts to pack up his papers, Ronon can't help but look a little surprised.)<br><br><br>Outside the room, Teal'c is waiting.  Ronon comes out and closes the door, smiling.<br><br>TEAL'C: Well?<br><br>DEX: I'm exactly the kind of team member they want out there fighting the Wraith.  <I>Their</I> words, not mine.<br><br>TEAL'C: And you did not hold a weapon to their heads?<br><br>DEX: I did not.<br><br>(Teal'c smiles as the two of them start to stroll down the corridor.)<br><br>TEAL'C: I am pleased.<br><br>DEX: Yeah, well, I had a good coach.<br><br>TEAL'C: Indeed.  The Daedalus is preparing to leave.  Colonel Caldwell will beam you aboard when you are ready.<br><br>DEX: Still nothing from Midway?<br><br>TEAL'C: No.  We have lost all contact with them.  The Daedalus will stop on its way back to Atlantis to assess the situation.<br><br><br>GALACTIC VOID.  Midway between the Milky Way and Pegasus galaxies, the Puddle Jumper floats in space.  Inside, Kavanagh sits on the floor in the rear compartment with his back against the door.  Bill is sitting on the floor nearby and they are using a metal case as a table as they play cards.<br><br>LEE: No way!  You actually <I>liked</I> it?!<br><br>KAVANAGH: It's his finest film.<br><br>(Bill looks round at the others, holding out his hands in disbelief.)<br><br>LEE: "Pearl Harbor"!<br><br>KAVANAGH: Yeah, go ahead and mock it.  Everybody does, but that film will endure.  It's got weight.<br><br>LEE: Yeah, which is why it <I>plummeted</I> at the box office!<br><br>KAVANAGH: Two hundred million dollars domestic  that's not plummeting.  I beg to differ.<br><br>(Nearby, Rodney is sitting on the floor with his arms folded and a look of total irritation on his face.)<br><br>McKAY: Enough, already!  We've been stuck here for God knows how long and you haven't shut up  either of you!  You just keep talking and talking ...<br><br>(His voice becomes more high pitched and incoherent as he rambles on angrily.  Just then, the Jumper jolts.)<br><br>McKAY: What was that?<br><br>LEE: Something just hit us.<br><br>(The rear door starts to lower, almost sending Kavanagh flying.  He, Bill, Rodney and the marines scramble to their feet as Ronon comes into view.  He waves at them.)<br><br>KAVANAGH: Oh!<br><br>LEE: Wh-where are we?<br><br>DEX: Daedalus 302 Bay.  We saw you, we scooped you up; we're heading back to Atlantis.<br><br>KAVANAGH: Thank God!<br><br>(As Ronon walks inside, Bill and Kavanagh both smile gratefully and pat him on the shoulder.  Ronon roughly shoves Kavanagh away from him and walks over to Rodney.)<br><br>McKAY: Midway was destroyed.<br><br>DEX: Yeah, we saw.  Where's Sheppard?<br><br>(Rodney turns to the closed bulkhead and opens it.  John is slumped in the pilot's seat with his feet up on the chair behind it.   His eyes are closed and he has headphones on.)<br><br>McKAY: He lasted about a day  sealed himself in there.<br><br>(He leaves the Jumper.  Ronon looks at John and walks into the compartment.)<br><br>DEX: No <I>wonder</I> he didn't hear the radio call.<br><br>(He reaches out and tickles the side of John's face.  Without opening his eyes, John flails his hand in that direction.  Grinning, Ronon reaches out again and tickles his nose.  John flails again.  Ronon does it again.  Finally John jerks awake and looks up at Ronon as he laughs at him.)<br><br>SHEPPARD: Thank <I>God</I>!  I almost shot 'em myself with a stunner.<br><br>DEX: Yeah.  I understand.<br><br>SHEPPARD (taking off his headphones): Where are we?<br><br>DEX: Daedalus 302 Bay.<br><br>SHEPPARD: What's the status of S.G.C.?<br><br>DEX: Secure.  Teal'c and I took care of the Wraith.<br><br>SHEPPARD: I figured you would.<br><br>DEX: C'mon.  Let's get the hell out of here.<br><br>SHEPPARD: Yeah!<br><br>(He picks up his vest and follows Ronon out of the Jumper.)<br><br>DEX: Oh  and I passed my interview at the I.O.A.<br><br>SHEPPARD: Really?<br><br>DEX: Yeah  they said they like me.<br><br>SHEPPARD: Well, what's not to like?<br><br>(As they chat on, Daedalus heads into hyperspace.)
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="416.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s4/417.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="418.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s4/index.shtml">
+<IMG SRC="/graphics/title_s4episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Four Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="401.shtml" CLASS="list">Adrift</A><BR><A HREF="402.shtml" CLASS="list">Lifeline</A><BR><A HREF="403.shtml" CLASS="list">Reunion</A><BR><A HREF="404.shtml" CLASS="list">Doppelganger</A><BR><A HREF="405.shtml" CLASS="list">Travelers</A><BR><A HREF="406.shtml" CLASS="list">Tabula Rasa</A><BR><A HREF="407.shtml" CLASS="list">Missing</A><BR><A HREF="408.shtml" CLASS="list">The Seer</A><BR><A HREF="409.shtml" CLASS="list">Miller's Crossing</A><BR><A HREF="410.shtml" CLASS="list">This Mortal Coil</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="411.shtml" CLASS="list">Be All My Sins Remember'd</A><BR><A HREF="412.shtml" CLASS="list">Spoils of War</A><BR><A HREF="413.shtml" CLASS="list">Quarantine</A><BR><A HREF="414.shtml" CLASS="list">Harmony</A><BR><A HREF="415.shtml" CLASS="list">Outcast</A><BR><A HREF="416.shtml" CLASS="list">Trio</A><BR><A HREF="417.shtml" CLASS="list">Midway</A><BR><A HREF="418.shtml" CLASS="list">The Kindred, Part 1</A><BR><A HREF="419.shtml" CLASS="list">The Kindred, Part 2</A><BR><A HREF="420.shtml" CLASS="list">The Last Man</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Four</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B0019J2UHW/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B0017MO11O/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls4.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="416.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s4/417.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="418.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

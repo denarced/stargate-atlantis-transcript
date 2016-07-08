@@ -1,0 +1,527 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "The Queen" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s5/508.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s5/transcripts/508.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=641">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=728">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s5/508.shtml#production">Production</A>
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=58706">Fan Reviews</A>
+				 | <A HREF="http://forum.gateworld.net/forumdisplay.php?f=130">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s5/508.shtml"><IMG SRC="/atlantis/graphics/508_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="THE QUEEN" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://click.linksynergy.com/fs-bin/stat?id=2cvd55rHd*s&offerid=78941&type=3&subid=0&tmpid=1826&RD_PARM1=http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewTVShow?id=179127311&partnerId=30"><img height="15" width="61" border="0" alt="iTunes" src="/store/graphics/itunes_button.gif"></img></a> &nbsp; <a href="http://www.amazon.com/gp/product/B001G1CSR0/?tag=bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 508<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 5, Disc 2<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 09.12.08<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 11.02.09<BR>
+				    <STRONG>STORY BY</STRONG> - <A HREF="http://www.imdb.com/name/nm1289249/" TARGET="_blank">Alex Levine</A> & <A HREF="http://www.imdb.com/name/nm0567166/" TARGET="_blank">Alan McCullough</A><BR>
+				    <STRONG>TELEPLAY BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0567166/" TARGET="_blank">Alan McCullough</A><BR>
+				    
+				    
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0817879/" TARGET="_blank">Brenton Spencer</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">Teyla goes in disguise as a Wraith queen when Todd agrees to make a bold proposal to the leader of his alliance -- not realizing that he has other intentions.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    SPACE STARGATE.  A Puddle Jumper flies through the Gate, its engine pods deploying.  On board are Team Sheppard -- John Sheppard, Rodney McKay, Teyla Emmagan and Ronon Dex -- together with Jennifer Keller.<br><br>McKAY: I still say we should've brought back-up -- another Jumper, a marine unit, something.<br><br>TEYLA: This is intended to be a diplomatic mission, Rodney.  What kind of message would that send?<br><br>McKAY: A <I>strong</I> one, hopefully!<br><br>SHEPPARD: Everybody's gonna be fine if they don't <I>panic</I>.  (He directs the last word specifically at Rodney.)<br><br>McKAY (plaintively): Easier said than done.<br><br>SHEPPARD (looking through the windshield): There they are.<br><br>(A Wraith Hive ship comes into view.  Jennifer stares at it wide eyed.)<br><br>KELLER: My God!  How big is that thing?<br><br>SHEPPARD: Never seen a Hive in space, huh?<br><br>KELLER: I've never seen one, period.  I mean, I've seen video logs but never in person.<br><br>McKAY: Ah, you never forget your first.<br><br>DEX: They know we're here.<br><br>(The console beeps.)<br><br>McKAY: Apparently.  I'm receiving a transmission.<br><br>SHEPPARD: Docking instructions.<br><br>McKAY: What, no "Hullo, greetings weary travellers"?!<br><br>SHEPPARD: Guess not.  So much for the red carpet.<br><br>(The Jumper heads into the docking bay and lands.)<br><br>KELLER: So, what happens now?<br><br>McKAY: If history's taught us anything, this is the part where we get double crossed and taken prisoner.<br><br>TEYLA: That will not happen this time, Rodney.  We were invited, remember?<br><br>McKAY (sarcastically): And <I>that</I> makes a difference!<br><br>(Someone knocks twice on the outside of the rear hatch of the Jumper.)<br><br>SHEPPARD: Right on cue.<br><br>(Ronon takes out his blaster and twirls it.  John stands up and the two of them walk to the rear hatch.  Jennifer remains seated for a moment, looking terrified.  Rodney throws her a sympathetic and understanding glance before standing up and following Teyla to the rear of the ship.  John, holding a rifle, pushes the button to open the rear hatch and he and Ronon aim their weapons out at the Wraith guards who are standing outside and aiming their stunner rifles at the team.)<br><br>SHEPPARD: This looks a little familiar.<br><br>(A familiar voice can be heard.)<br><br>TODD: Lower your weapons.<br><br>(The guards do as commanded and Todd walks into view and faces the team.)<br><br>TODD: My apologies.  You understand: you can't be too careful.<br><br>(John and Ronon lower their own weapons.  Todd opens its arms grandly.)<br><br>TODD: Welcome to my ship.<br><br><br>LATER.  Todd leads the team into a room where a male Wraith is waiting.<br><br>TODD: This is my second in command.  I've asked him to be a part of these discussions.  Please, sit.<br><br>(The team walks into the room, where a long wooden table surrounded by several chairs has candles, drinking cups and a couple of bowls of fruit on it.)<br><br>SHEPPARD: Hmm.  Fruit bowl -- nice touch.<br><br>(He and the others sit down.  Rodney picks up a pear from one of the bowls.)<br><br>TODD: Well, we picked them up on our travels.  I thought it would make our discussions more comfortable.  I hope they prove as delicious as the farmers who grew them.<br><br>(It smiles wickedly at Rodney, who looks awkward and lowers the pear.)<br><br>SHEPPARD: All right, let's just get this over with.<br><br>TODD: So, I understand you have a proposal -- a breakthrough of some kind?<br><br>(John and Rodney look at Jennifer.)<br><br>SHEPPARD: This is Doctor Keller.  She's our Chief Medical Officer and she's gonna explain everything to you.<br><br>(Jennifer coughs nervously.)<br><br>KELLER: Well, um, as you may already know, we recently stumbled across a lab belonging to Michael -- the Wraith that we ...<br><br>TODD: I know who he is.<br><br>KELLER: Uh, of course you do.<br><br>TODD: Word of your success against him spread rapidly among my kind.  We are very grateful.<br><br>SHEPPARD: Trust me, we didn't do it for you.<br><br>KELLER: Anyway, we recovered a database from his lab that allowed us to continue his research into ...<br><br>TODD (interrupting): For what purpose?<br><br>KELLER: We've come up with a gene therapy that alters Wraith D.N.A. in a small but significant way.  In a nutshell, we think we can make it so that you and any other Wraith we treat will never need to feed on humans again.<br><br>(Todd and its second in command exchange a glance.)<br><br>WRAITH: This is absurd.<br><br>KELLER: Well, actually, it's not as big of a change as you might think.  Your bodies already contain all the organs necessary to digest food.<br><br>SHEPPARD: Here ... (he tosses a fruit across the table to Todd, who catches it) ... try this.<br><br>TODD: If I consume this, it may give me a moment's pleasure, but it will not sustain me.<br><br>(It puts the fruit down on the table.)<br><br>KELLER: But that can change -- at least in theory<br><br>WRAITH: Why would we want this?  Of what benefit is it?<br><br>SHEPPARD: Well, think about it: you could put yourself on regular food; you could give up all those tiresome cullings.<br><br>TEYLA: It would give you a significant advantage over other Hives.<br><br>SHEPPARD: Not to mention I could stop waiting for the chance to kill you -- in theory.<br><br>WRAITH: Our current feeding process gives us strength, our ability to heal, our longevity.<br><br>KELLER: Well, um, we're not entirely sure how this change would affect your, um ... gifts.  They may continue, although possibly in a diminished form.<br><br>TODD: "Possibly"?<br><br>KELLER: It's difficult to know from lab tests.  We can't be sure until we administer it to, um, live subjects.<br><br>McKAY: Let's not forget that Michael spread the modified Hoffan drug to dozens of worlds -- possibly more.  I mean, no-one knows for sure, right?  Which means that every time you feed, you're takin' a risk.<br><br>SHEPPARD: Bottom line is: there's not enough food to go around.  That's why you Wraith are at each others' throats, so ... here's your chance.<br><br><br>LATER.  The team has been left alone in the room.  Ronon is pacing around.<br><br>DEX: This is wrong.  We shouldn't be here.<br><br>McKAY: I don't know.  From where I was sitting, things seemed to go pretty well.<br><br>SHEPPARD: Yeah(!)<br><br>(Jennifer looks at his expression.)<br><br>KELLER: You don't seem too happy about it.<br><br>SHEPPARD: I was just expecting a little more resistance.<br><br>KELLER: Well, he hasn't said yes yet.<br><br>SHEPPARD: Yeah, but something makes me think he wants to.<br><br>TEYLA: And why not?  It is a reasonable offer.<br><br>DEX: Why are we thinking of ways to fix them when we should be thinking of ways to kill them?<br><br>McKAY: We've been trying to do that for four years.  They're still here.<br><br>TEYLA: The Wraith may not deserve our consideration, but as John pointed out, we're not doing this for them.<br><br>SHEPPARD: There's something goin' on here somebody's not tellin' us.<br><br>DEX: What a surprise(!)<br><br>(Footsteps can be heard outside the room.  Instantly Ronon charges his blaster and turns to point it at the open doorway.  He lowers it again as Todd comes into view.)<br><br>TODD: I'm sorry.  Am I disturbing you?<br><br>SHEPPARD: Come in.<br><br>Todd (entering the room): I have considered your offer.<br><br>SHEPPARD: That was fast.<br><br>TODD: I believe your idea has merit -- if you can make the treatment work.<br><br>KELLER: It'll work.<br><br>TODD: Of course, converting a single Hive would be pointless.  It would make little difference to the humans of this galaxy and it would make us pariahs amongst our own kind.<br><br>McKAY: Wait a minute.  I thought you worked with a whole group of Hives.<br><br>TODD: I do, but I may have ... exaggerated my position within the alliance.<br><br>SHEPPARD: He doesn't have the clout!<br><br>DEX (smugly): Then he's no good to us.<br><br>TODD: There is only one you need to convince.  Among all the Queens in the alliance, one sits above the rest.  We call her the Primary.<br><br>McKAY: The uber-Queen?<br><br>TODD: Convince her, and the rest will fall into line.<br><br>SHEPPARD: Then convince her.<br><br>TODD: She will only speak with another Queen.<br><br>TEYLA: And your Queen was killed last year in the skies above Atlantis.<br><br>TODD: Regrettably, yes.  But the Primary does not know this.<br><br>SHEPPARD: You bluffed your way into the alliance and convinced them you still have a Queen?!<br><br>TODD: They would not have accepted me otherwise.  Up 'til now I've been able to maintain this subterfuge, but a face-to-face meeting -- that would be difficult.  In fact, there is only one person who could help me.<br><br>(Slowly it turns its head to look at Teyla, whose eyes widen in surprise.)<br><br><br>ATLANTIS.  John and Teyla are in his quarters.<br><br>SHEPPARD: This is crazy.<br><br>TEYLA: Believe me, this is not a decision I am taking lightly.<br><br>SHEPPARD: But d'you realise what he's asking you to do?<br><br>TEYLA: Doctor Keller assures me that the procedure is completely reversible and will have no lasting ill effects.<br><br>SHEPPARD: I'm not talking about the procedure.<br><br>TEYLA: I know.<br><br>SHEPPARD: Look, even if this works, even if all the Wraith stop feeding, you think they're gonna become nice and friendly overnight?  No.  They're gonna have a massive technological advantage.<br><br>TEYLA: You're suggesting they will enslave the people of this galaxy rather than feed on them.<br><br>SHEPPARD: We've seen the same thing happen in <I>our</I> galaxy.<br><br>TEYLA: You didn't voice this objection before.<br><br>SHEPPARD: Nobody was asking <I>you</I> to risk your life.<br><br>TEYLA: My Wraith D.N.A. makes me the only possible candidate.  Anyone else would be detected by the Queen immediately.<br><br>SHEPPARD: Well, that's fine, but-but my question is: why now?  The Wraith are busy killing each other -- why don't we just sit back and watch?<br><br>TEYLA: Eventually one faction will emerge victorious and then everything will go back to the way it was.<br><br>SHEPPARD: But maybe not for a while, so we can afford to wait.<br><br>TEYLA: And if Todd's alliance is destroyed?  We may never have another opportunity like this again.  I admit, this may not solve the Wraith problem once and for all, but there are people alive today who will be culled in the coming weeks and months, and if I can save even <I>some</I> of them, I have to try -- if not for myself, then for my son.<br><br>(Technician Banks' voice comes over the comms.)<br><br>BANKS: Colonel Sheppard, come in?<br><br>SHEPPARD: This is Sheppard.  Go ahead.<br><br>BANKS: Mr Woolsey wanted me to inform you, sir.  He's here.<br><br>(On the balcony of the Control Room, she looks down into the Gateroom as Todd walks through the open Stargate and is met by a bunch of armed marines.)<br><br><br>LATER.  ISOLATION ROOM.  Jennifer, dressed in scrubs, walks over to Teyla sitting on the side of an operating table wearing an operating gown.<br><br>KELLER: You sure you're ready for this?<br><br>TEYLA: As ready as I'll ever be.<br><br>KELLER: I'm sorry.  I ... I feel like you're being pressured into this because of my research.<br><br>TEYLA (shaking her head): I have not been pressured into anything.  And your research may save thousands, even millions of lives.  Remember that.<br><br>KELLER (smiling gratefully): Right.<br><br><br>CORRIDORS.  A door opens and four marines escort Todd towards the Isolation Room.  It stops as Ronon steps into its path.<br><br>TODD: Can I help you?<br><br>(Ronon walks closer and gets right into Todd's face.)<br><br>DEX: Just remember: if anything happens to her, there won't be anywhere in the galaxy you can hide.<br><br>TODD (calmly): Ah.  Is that all?<br><br>(Ronon grins unpleasantly, mouths, "Yeah," at it and then steps aside.)<br><br>TODD (casually): Right.<br><br>(It walks past him and heads into the Isolation Room.)<br><br>TODD: How is my patient?<br><br>KELLER: She's fine.<br><br>(Todd walks to a pair of computers that have been set up for it.  The operating table has been surrounded by a plastic tent and Jennifer and her team are now wearing surgical gowns, hats and masks.  Teyla is lying on the table, her body and hair covered.)<br><br>TODD: Very well.  Let's get started.<br><br>(Jennifer looks down at Teyla.)<br><br>KELLER: Don't worry.  He's just here as a technical advisor.  I'm gonna be performing the surgery.<br><br>(She looks round at her team.)<br><br>KELLER: All right.  We're ready.<br><br>(The anaesthetist gives Teyla an injection.  As the drug starts to take hold, Teyla glances nervously across at Todd, then looks away.  She blows out a quiet breath and her eyes close.)<br><br>(A montage follows as the surgery commences.  Time passes.  Up in the Observation Room, John, Rodney and Ronon watch through the window, then Rodney can't bear it any more and walks away.)<br><br><br>HOURS LATER.  The boys have moved to an area near the entrance to the Isolation Room.  Rodney is pacing anxiously.<br><br>McKAY: When are we gonna get to see her?<br><br>SHEPPARD: Give it some time.  Just relax.<br><br>McKAY: I can't.  I had, like, three cups of coffee and I'm completely wired.<br><br>DEX (sarcastically): Really?  I hadn't noticed.<br><br>(The doors open and Jennifer comes out.)<br><br>KELLER: All right.  You can see her now.<br><br>(She leads them into the room.  They walk to the bed and stare in amazement.  A flanged voice greets them from the bed.)<br><br>TEYLA: How do I look?<br><br>(She looks like a Wraith Queen.  Her skin is greeny grey, oily and veined.  Her eyebrows are gone and there are slits either side of her nose.  Her hair is black, her teeth are sharp and her eyes are yellow and slitted.)<br><br><br>TODD'S HIVE.<br><br>TODD: Now, assume your throne.<br><br>(Teyla, dressed appropriately for a Wraith Queen, steps up to the throne, sits down and wriggles into a comfortable position.)<br><br>TODD: Are you trying to get us both killed?<br><br>TEYLA: I do not understand.<br><br>(Todd's voice becomes more angry as he speaks.) <br><br>TODD: At the first sign of deception, the Primary will not hesitate to <I>slit our throats!</I><br><br>TEYLA (standing): You said she would sense my Wraith D.N.A.<br><br>TODD: It is not your D.N.A. that concerns me.  It is your manner, your bearing.  You project <I>apprehension!</I><br><br>TEYLA: Well, given the circumstances ...<br><br>TODD: It may be understandable, but it is not <I>acceptable!</I>  Above all, you must never show weakness.  Now -- <I>again!</I><br><br><br>MEETING ROOM.  In the room where the team first met with Todd on the Hive, the boys are waiting anxiously.<br><br>McKAY: How long's this gonna take, anyway?<br><br>SHEPPARD: Until Todd's satisfied she can pass as a Wraith Queen -- and personally I'm not inclined to rush this thing.<br><br>McKAY: It's already too convincing, if you ask me.  Creeps me out.<br><br>SHEPPARD: She's still Teyla underneath all that.<br><br>DEX: Maybe that's the problem.<br><br>SHEPPARD: Look, I'm not any crazier about this than you guys.  The fact is, Todd's putting his life on the line too.  I don't think he'd go in there with her if he didn't think she could pull this off.<br><br>(The doors to the room open and Todd walks in.)<br><br>SHEPPARD: Where's Teyla?<br><br>TODD: Resting.  You'll be pleased to know we've received word back from the Primary's Hive.  We've been instructed to meet them at their current location.<br><br>McKAY: So, what's the plan?<br><br>TODD: Once we arrive, we make contact with the ship and make our way over.  Then Teyla will put forward my proposal.<br><br>McKAY: Oh, <I>your</I> proposal?!<br><br>TODD: Believe me, the less the Primary knows about my dealings with the humans of Atlantis, the better.<br><br>SHEPPARD: If she doesn't know it's coming from us, what are the chances she's gonna buy it?<br><br>TODD: Our alliance has recently been dealt a number of setbacks.<br><br>DEX (smiling smugly): You're getting your asses kicked.<br><br>TODD: Indeed, although the Primary would never admit it out loud.  But the one thing stronger than her pride is her instinct for survival.<br><br><br>SPACE.  Todd's Hive comes out of hyperspace and approaches another Hive.  Todd walks across the Bridge to Teyla, who is looking anxious.<br><br>TODD: Don't be nervous.<br><br>TEYLA (unconvincingly): I am not.<br><br>(Todd frowns at her for a moment as she tries to calm herself, then nods to a Wraith technician who activates the comms between the two ships.  The Primary Queen's face appears on a viewscreen.)<br><br>PRIMARY QUEEN: So.  At long last we meet.<br><br>TEYLA: Indeed.<br><br>PRIMARY QUEEN: Many among my crew were beginning to think you didn't exist.<br><br>(Teyla steps closer to the screen, her eyes cold.)<br><br>TEYLA: You must point them out to me so that I may remove all doubt from their minds.<br><br>(The Queen chuckles.)<br><br>PRIMARY QUEEN: That will no longer be necessary.  Make your way to my ship -- and do not keep me waiting again.<br><br>(The screen goes blank.  Todd walks over to Teyla.)<br><br>TODD: She likes you.<br><br>TEYLA: You think so?<br><br>TODD: It was as warm a reception as we could expect.<br><br><br>MEETING ROOM.  The boys stand as Teyla walks in.<br><br>SHEPPARD: How'd it go?<br><br>TEYLA: Apparently quite well.  They are preparing the shuttle to take me over to the other Hive.<br><br>SHEPPARD: Hell, we can pull the plug any time you want.  You just give us the word.<br><br>TEYLA (shaking her head): No.  We've come this far.  I intend to go through with this.<br><br>McKAY: Well, we'll be right here.  Anything goes wrong ... (he clicks his tongue) ... we'll get you out.<br><br>SHEPPARD: But nothing's <I>going</I> to.<br><br>McKAY: Well, of course not, but I'm just saying: if it does ...<br><br>SHEPPARD (firmly): Rodney.<br><br>McKAY: ... which it won't.<br><br>(Ronon walks closer to Teyla.)<br><br>DEX: Hey.  Just be careful over there.<br><br>(She nods, takes a last look at her team, then turns and leaves the room.)<br><br><br>Shortly afterwards, a Dart shuttle leaves Todd's Hive and heads towards the other ship.  Inside that ship, a large group of guards is waiting, headed by a bald male Wraith.  Doors open in front of the group to reveal Teyla and Todd.  She can't help but take a nervous breath, but then steps forward.  The bald Wraith bows to her.<br><br>WRAITH LEADER: Welcome to my ship.<br><br>TEYLA: Where is your Queen?<br><br>WRAITH LEADER: You will meet her in time.<br><br>(It turns its head to one of the guards.)<br><br>WRAITH LEADER: Inform the Bridge they're on board.  Take us to hyperspace.<br><br>TODD: This was not part of the agreement.<br><br>WRAITH LEADER: You did not expect us to conduct this meeting here, within weapons range of your Hive?<br><br>TODD: We are part of the same alliance -- unless you do not trust us.<br><br>WRAITH LEADER: I make it a practice to trust no-one I do not know.  This is how the Queen wishes it.  Follow me, please.<br><br>(It turns and walks away.  Teyla and Todd exchange a glance, then Todd bows to her and gestures for her to follow the Wraith Leader.  The Hive soars away and jumps into hyperspace.)<br><br>(On Todd's Hive, John and the others hurry onto the Bridge and go over to Todd's second in command.)<br><br>SHEPPARD: What's going on?<br><br>WRAITH: The Primary's Hive just went into hyperspace.<br><br>McKAY: What?!<br><br>SHEPPARD: That wasn't part of the deal.<br><br>WRAITH: No, it was not.<br><br>DEX: Where'd they go?<br><br>WRAITH: I do not know.  There is no way to track them.<br><br>DEX: He's lying.<br><br>(He snatches out his blaster, charges it and aims it at the Wraith.  All around the Bridge, guards raise their own stunners and aim them at the team.  Rodney looks at them nervously.)<br><br>McKAY: Uh, Ronon ...<br><br>(The second in command looks at Ronon, who has the muzzle of his blaster pressed against its throat.)<br><br>WRAITH: I assure you, I know nothing of this.<br><br>SHEPPARD: Ronon.<br><br>(Reluctantly, Ronon lowers his blaster.)<br><br>WRAITH: It appears we have no choice but to trust each other.<br><br><br>PRIMARY QUEEN'S HIVE.  The Wraith Leader precedes Teyla and Todd into the throne room, then turns back to them.<br><br>WRAITH LEADER: The Queen shall see you shortly.<br><br>(It leaves the room.  Teyla walks closer to Todd.)<br><br>TEYLA: What have you done?<br><br>TODD: I swear I did not expect this to happen.  We're in no danger.  If the Queen did not believe us, we'd be dead already.<br><br>TEYLA: And if she begins to suspect, we are trapped on this ship.<br><br>TODD: Everything will be fine, provided you continue to play your part.  We must proceed as planned.<br><br>(Doors open.  Teyla and Todd turn and see the Primary Queen looking at them.)<br><br>PRIMARY QUEEN: What is he doing here?<br><br>(Todd bows to her and backs away to a wall as the Queen walks over to Teyla.)<br><br>TEYLA: I thought his presence would be useful, as he is the one you have been dealing with up until now.<br><br>PRIMARY QUEEN: I do not like surprises.<br><br>TEYLA: Nor do I -- and yet <I>you</I> are the one who took your ship into hyperspace the moment we stepped aboard.<br><br>PRIMARY QUEEN: If you were in my position, you might understand the need for such precautions.<br><br>TEYLA: Very well.<br><br>(The Queen glances across at Todd, who lowers its gaze deferentially.  She looks back at Teyla.)<br><br>PRIMARY QUEEN: Come.  Let's sit.<br><br>(She starts to walk towards her throne.  Todd snatches out a knife, runs up behind her and stabs her in the neck.  She clutches at her neck, gasping.)<br><br>TEYLA: What are you doing?!<br><br>(Todd holds out a hand to keep her back.  Still gasping and holding her neck, the Queen falls to the floor.  With her other hand, she scrabbles for a pendant hanging around her neck and presses it.  Instantly an alarm begins to scream around the ship.  The Queen's gasps become quieter, and she dies.  Todd walks quickly over to Teyla.)<br><br>TEYLA: What is the meaning of this?<br><br>(Taking her hand, Todd presses the knife into it and closes her fingers over it.)<br><br>TODD: Forgive me, but this is the way it must be.  You must say that <I>you</I> killed her.<br><br>TEYLA: Are you insane?!<br><br>TODD: This is how it's done with our kind.  <I>This</I> is how power changes hands.<br><br>TEYLA: But I do not want ...<br><br>TODD: <I>Listen</I> to me.  The crew will not be happy, but nor will they wish to be without a Queen.  You caught her off guard.  Many will perceive that to mean that she was growing weak.  All you need to do is convince them that you are a capable replacement and they will accept you.<br><br>TEYLA: And if I can't?<br><br>TODD: Then we're both dead.<br><br>WRAITH LEADER: What is this?!<br><br>(It storms into the room followed by several guards.)<br><br>TEYLA: I have taken what is rightfully mine.<br><br>(The Leader runs over to the dead Queen and kneels down at her side.  It presses the pendant to turn off the alarm.)<br><br>WRAITH LEADER: You killed her!<br><br>TEYLA: Yes, and you are the better for it.<br><br>(The Leader stands, pulling out a stunner and aiming it at her.)<br><br>WRAITH LEADER: You will die for this.<br><br>TEYLA: How dare you point a weapon at your Queen!<br><br>WRAITH LEADER (pointing down at the Primary): <I>This</I> was my Queen!<br><br>TEYLA: Not any more.<br><br>(Todd casually strolls in front of Teyla, blocking the Leader's shot.)<br><br>TODD: She was growing weak.  She no longer had full control over the alliance.  If you can't see that, you're a fool.<br><br>(Teyla slams her hand onto Todd's shoulder and punches it in the back, forcing it to its knees as she pushes the knife against its throat.)<br><br>TEYLA: Did I ask you to speak for me?<br><br>TODD: No, my Queen.<br><br>TEYLA: Wag your tongue like that again and I will remove it.  Is that understood?<br><br>TODD: Yes, my Queen.<br><br>(Teyla pushes him away and dramatically hurls the knife to the floor before turning to the Leader.)<br><br>TEYLA: Now, drop us out of hyperspace and run a full diagnostic.  I wish to know the state of my new flagship.<br><br>(She looks down at the Primary's body.)<br><br>TEYLA: And have this <I>thing</I> removed from my sight.<br><br>(The Leader looks down at the Primary for a moment, then looks up at Teyla again.)<br><br>WRAITH LEADER: Yes, my Queen.<br><br><br>Shortly afterwards, the Hive drops out of hyperspace.  Teyla is pacing alone in the throne room.  Todd comes in.<br><br>TODD: I've surveyed the crew.  You'll be pleased to know they were entirely fooled.<br><br>TEYLA: What were you thinking?!  You put both our lives at terrible risk.<br><br>TODD: I know.  If you'll allow me to explain ...<br><br>TEYLA: How could you <I>do</I> this?<br><br>TODD: It was necessary.  The former Queen was never going to accept your proposal.<br><br>TEYLA: And so you killed her and forced <I>me</I> to take the blame.<br><br>TODD: If <I>I</I> had taken the blame I would have been killed and you would have been held captive.  That was not the desired outcome.  You must understand: our culture is different from your own.  We govern ourselves by different rules.  It was important for you to claim ownership of the act of killing the Queen.<br><br>TEYLA: You should have informed me of your intention to make me Queen of this Hive.<br><br>TODD: Perhaps, but I doubt you would have gone through with it had you known.<br><br>TEYLA: You're right.  It was a foolish, reckless plan<br><br>TODD: Most Wraith seek to be ruled.  They <I>fear</I> being without a Queen.  I knew that if you presented yourself as a viable substitute, most of them would just fall in line.<br><br>TEYLA: "Most of them"?<br><br>TODD: The point is, we have achieved what we set out to do.  You are now effectively in control of the alliance.  We may now implement Doctor Keller's plan without hindrance.<br><br>TEYLA: Then there is no further need for us to continue this charade.  Take me back to your ship.<br><br>TODD: Soon.  But first you must allow some time for order to be restored, for things to return to normal.  Once they do, you may take your leave, and no-one on this crew will be the wiser.<br><br><br>TODD'S HIVE.  John, Rodney and Ronon are talking just outside the Bridge.<br><br>DEX: I still say this was a setup.<br><br>SHEPPARD: I don't know.  Kenny seemed pretty surprised when that ship disappeared.<br><br>McKAY: Who?<br><br>SHEPPARD: Kenny -- the second in command.<br><br>McKAY: Well, since when did we start calling him that?<br><br>DEX: Maybe he wasn't in on it.<br><br>SHEPPARD: I don't know.  If Todd wanted to kidnap Teyla, he would have done it the second we arrived.  Doesn't add up.<br><br>McKAY: Seriously, the next time we have to name one of these guys, we should take a vote.<br><br>(Ronon glances at him in exasperation, then looks at John.)<br><br>DEX: So what are we gonna do?<br><br>McKAY: Well, we can't stay here.  We're stuck in a Hive surrounded by Wraith -- not exactly our strongest position.<br><br>SHEPPARD: All I've got is a Jumper.  Where do you wanna go?<br><br>McKAY: Well, we get to a Gate, we gate back to Atlantis, and then we figure out where they took Teyla.<br><br>SHEPPARD: How, exactly?<br><br>McKAY: ... OK, so I haven't quite worked out the details yet, but ...<br><br>(He stops and nods over John's shoulder to indicate an approaching Wraith.  It's 'Kenny'.)<br><br>WRAITH: We have something.<br><br>(It leads them back onto the Bridge.)<br><br>WRAITH: The Primary's Hive has dropped out of hyperspace.<br><br>SHEPPARD: How do you know?<br><br>WRAITH: We're receiving a signal.<br><br>(A star map appears on the viewscreen.  A red flashing dot indicates the location of the other Hive.)<br><br>McKAY: It's Todd's sub-space transmitter.<br><br>WRAITH: They're in empty space on the edge of a large nebula.<br><br>McKAY: Well, what are they doing out there?<br><br>SHEPPARD: Who cares?  This is our chance.  Let's go after 'em.<br><br>WRAITH: I've already plotted the course, but you should know that it will arouse suspicion for us to arrive unannounced.<br><br>SHEPPARD: Well, let's worry about that later.  (He turns and looks at the flashing light on the viewscreen.)  For now, this is the closest thing they've got to a distress signal.<br><br>(The Hive jumps into hyperspace.)<br><br><br>PRIMARY HIVE.  The Wraith Leader walks into the throne room where Teyla sits in animated but quiet discussion with Todd.  The Leader bows to her.<br><br>WRAITH LEADER: I'm sorry to disturb you, my Queen.  We've received an urgent report.<br><br>(It holds out a computer tablet to her.)<br><br>Todd (disparagingly): You intend to make her read it?<br><br>(The Leader glares at it, then turns to Teyla.)<br><br>WRAITH LEADER: A Hive belonging to another alliance has been detected above one of our feeding grounds not far from here.<br><br>TODD: Have you tried to contact them?<br><br>WRAITH LEADER: They are not responding.<br><br>TEYLA: Dispatch the closest Hive to investigate.<br><br>WRAITH LEADER: We <I>are</I> the closest Hive.  It falls upon <I>us</I> to intercept.<br><br>TEYLA: We must remain here.<br><br>(The Leader looks at her suspiciously.  Todd turns and bows to her, its eyes full of warnings.)<br><br>TODD: My Queen, perhaps we should discuss this in private.<br><br>(Teyla sighs in mock exasperation, then turns to the Leader.)<br><br>TEYLA: Leave us.<br><br>(The Leader bows, but not as deeply as before, and leaves the throne room.  Outside the room as the doors close behind it, it stops, clearly dubious about the way the Queen is behaving.  Inside the room, Todd leans closer to Teyla.)<br><br>TODD: We must respond to this.  To do otherwise will read as weakness.  The crew will not understand.<br><br>TEYLA (firmly): Then let them be confused.<br><br>TODD: Spoken like a true Queen, but you risk breeding suspicion.  For the moment, they believe you and are prepared to serve you, but if you break that trust by making irrational decisions, they will quickly fall away from you.<br><br>TEYLA: What about your ship?  It is probably already on its way.<br><br>TODD: They will pick up on our new location as soon as they arrive.<br><br>(Teyla looks unhappy but realises she has no choice.)<br><br>TEYLA: Inform the Bridge to set a course.<br><br><br>TODD'S HIVE.  John and the others have returned to the Meeting Room.<br><br>SHEPPARD: Now, Kenny's right about one thing: the second we drop out of hyperspace, the Primary's Hive ship's gonna know something's up.<br><br>DEX: Could we drop out early, go the rest of the way by Jumper?<br><br>SHEPPARD: It's gonna take too long.  We need a diversion.<br><br>McKAY: Hmm.  What, uh, what kind of a diversion?<br><br>DEX (to John): You thinkin' what I'm thinkin'?<br><br>SHEPPARD: Yeah.  I don't think we can rely on Kenny to give the order, though.<br><br>DEX: We don't give him a choice.<br><br>McKAY: What are you talking about?  What order? ... Oh, no, wait a minute, wait a minute.  You're not -- you're not thinking about attacking the other ship?!<br><br>SHEPPARD: Look, it's the only way to keep 'em occupied long enough to get on board, get Teyla and get back.<br><br>McKAY: Yeah, but it's also incredibly risky!  I mean, look, either of the ships could be destroyed!<br><br>SHEPPARD: Well, we'll just make sure we get her out of there before that happens.  Look, I realise the odds aren't exactly in our favour, Rodney, but the longer we wait to get Teyla, the more likely it is we never will.  We just have to keep all of our options open.<br><br><br>SPACE.  The Primary Hive comes out of hyperspace and heads towards a nearby planet and another Hive ship above it.  Todd and Teyla are walking towards the Bridge.<br><br>TODD: We have reached the feeding ground.  They will attempt to negotiate a concession but you must stand firm.  They may even threaten to attack.  They will not want to fight any more than we do.<br><br>(They walk onto the Bridge where the Leader is waiting.)<br><br>WRAITH LEADER: The other Hive is trying to contact us.<br><br>TEYLA: Ignore them.  Charge weapons.<br><br>(Todd stares at her in confusion.)<br><br>WRAITH LEADER: You wish to attack unprovoked?<br><br>TEYLA: We <I>were</I> provoked.  They have encroached upon our territory.  I want them destroyed.  <I>Now.</I><br><br>(Todd and the Leader exchange a puzzled look, but a few moments later the Hive turns towards the other ship and starts to fire upon it.  Todd walks closer to Teyla and speaks quietly to her.)<br><br>TODD: What are you doing?<br><br>TEYLA: What does it look like?<br><br>TODD: I told you to talk to them.<br><br>TEYLA: You also told me to show no weakness.<br><br>(The Hive shakes as it is struck by weapons fire.)<br><br>WRAITH LEADER: They're returning fire.  We're taking hull damage.<br><br>TEYLA: Deploy the Darts.<br><br>WRAITH LEADER: Under these conditions, they will suffer heavy losses.<br><br>TEYLA: I'm fully aware of the costs, but we must take a firm stance against intrusions such as this.<br><br>(Todd looks at her.)<br><br>TODD: You are doing this on purpose -- to kill Wraith.<br><br>(As weapons fire continues to impact the Primary Hive, its Darts head out towards the enemy ship.  Many of them are struck by the incoming fire.)<br><br>WRAITH LEADER: Half the first wave has been destroyed.<br><br>TEYLA: But the survivors are now too close to be affected by the ship's weapons and they can attack at will.<br><br>WRAITH LEADER: Until the enemy launches their own Darts to intercept.<br><br>TEYLA: That will take time.  With any luck, we have caught them off guard.<br><br><br>TODD'S HIVE.  The ship comes out of hyperspace to the last known location of the Primary Hive.  John, Rodney and Ronon are on the Bridge with the second in command.<br><br>WRAITH: They're not here.<br><br>SHEPPARD: Where the hell are they?<br><br>WRAITH: They've moved to one of our more populated feeding grounds.<br><br>DEX: What for?<br><br>WRAITH: I do not know.  I'm not on the ship.  But if I had to guess, I would say they've gone to cull.<br><br>DEX (to John): What now?<br><br>McKAY: What else can we do?  We go after them.<br><br>SHEPPARD: If they jump into hyperspace, we're gonna lose 'em again, right?<br><br>McKAY: Pretty much.  Todd's locator beacon doesn't work in hyperspace.<br><br>SHEPPARD: We've gotta stop playing catch-up.  (He turns to Kenny.)  Is there a Stargate on that planet?<br><br>WRAITH: Of course.<br><br>SHEPPARD: Then drop us off.  We can get there faster in the Jumper.<br><br>WRAITH: How do you intend to get on board their ship?<br><br>SHEPPARD: Don't worry about it.  Just get us to the nearest Stargate.<br><br><br>Above the planet, the enemy Hive's Darts have deployed and a fierce space battle is going on as the Hives continue to fire at each other.<br><br>WRAITH LEADER: My Queen, our Darts are outnumbered two to one.  If we do not recall them now, they will be wiped out.<br><br>TEYLA: And their sacrifice will be remembered when this alliance rules the galaxy.<br><br>(A large impact rocks the Bridge.)<br><br>TODD: What was that?<br><br>WRAITH TECHNICIAN: We just lost the medial weapons array.<br><br>TEYLA: Keep firing all other batteries.<br><br><br>On the planet, the Puddle Jumper soars through the open Stargate and cloaks as it heads up into the sky.<br><br>McKAY: All right, we should be coming up on them now.<br><br>(He stares at his console.)<br><br>McKAY: Wait a minute -- there's two of them.<br><br>SHEPPARD: What?<br><br>McKAY: And they're fighting!  They're not pulling any punches either!<br><br>SHEPPARD: You still picking up that signal?<br><br>McKAY: Yeah.<br><br>(He pulls up the H.U.D. onto the windshield to show the two Hives above the planet.  He points to the right-hand ship.)<br><br>McKAY: It's that one.  And they're not doing so good.<br><br>SHEPPARD: What do you mean?<br><br>McKAY: They must have lost some of their weapons, and they're seriously outgunned.<br><br>DEX: We've gotta do something.<br><br>McKAY: You know, just last week I was talking to Zelenka about trying to reverse-engineer a Daedalus beaming system for the Jumpers.<br><br>SHEPPARD (hopefully): And?<br><br>McKAY: Oh, well, no.  No, we're nowhere near close.<br><br>(John closes his eyes and grimaces.)<br><br>McKAY: I mean, the Asgard technology's incredibly complicated ...<br><br>SHEPPARD: Well, what the hell are you bringing this up for now?<br><br>McKAY: I'm just saying that this would be the perfect situation for something ...<br><br>(John groans in annoyance.)<br><br>SHEPPARD: All right.  Everybody hold on.  We're goin' in.<br><br>McKAY: What are you doing?<br><br>SHEPPARD: Trying to tip the scales a little.<br><br>(The Jumper races towards the enemy Hive and decloaks as it reaches its underside.)<br><br>McKAY: Are you nuts?!  They can <I>see</I> us!<br><br>(As the Jumper soars underneath the Hive, John fires four drones which impact with the ship.  He fires another volley for good measure before racing away, recloaking the Jumper as he goes.)<br><br>DEX: Think that did it?<br><br>SHEPPARD: We're about to find out.<br><br>(Behind them, as another barrage of shots from the Primary Hive impacts the ship, it explodes.  Darts soar in all directions to get away from the shock wave.  On the Primary Hive, the Wraith Leader stares in disbelief.)<br><br>WRAITH LEADER: That's impossible.  The enemy Hive just exploded.<br><br>(Todd is clearly as bewildered as the Leader but takes advantage of the moment and turns to Teyla and bows to her.)<br><br>TODD: Well done, my Queen.<br><br>(Teyla turns imperiously to the Leader.)<br><br>TEYLA: Perhaps next time you will not be so quick to question my tactics.<br><br>(She turns and marches off the Bridge.  Todd bows again to her as she passes, then pauses to throw a smug look at the Leader before following her.  The Leader watches them go, its face full of suspicion, but turns its head to one of the technicians.)<br><br>WRAITH LEADER: Recall the Darts.<br><br>(In the Jumper, Rodney looks at his console.)<br><br>McKAY: The Darts are heading back.  Bay doors are open.<br><br>SHEPPARD: All right, that's our cue.  I'm goin' in.<br><br><br>LATER.  The boys are on board the Primary Hive and lurking around a corner as guards walk past.  Rodney is checking a life signs detector.<br><br>SHEPPARD: Where do we go?<br><br>McKAY (plaintively): I don't know.<br><br>SHEPPARD: What do you mean, you don't know?<br><br>McKAY: It's hard to tell.  I think we're on the wrong level, plus the signal keeps moving around.<br><br>SHEPPARD: That's a good sign Todd survived.<br><br>DEX: Still doesn't tell us anything about Teyla.<br><br>McKAY: All right.  (He points.)  It's this way ... I think.<br><br>(They head out and make their way carefully through the ship.  Later they reach a corridor blocked by two Wraith guards.  John ducks back into cover and whispers to the other two.)<br><br>SHEPPARD: Whoa.  We're gonna have to circle back.<br><br>McKAY: Oh great!  (He looks down at the detector.)  I've gotta figure this out all over again!<br><br>(Ronon turns to go back the way they came but sees two more guards approaching.)<br><br>DEX: Another patrol coming this way.<br><br>McKAY: So what are we gonna do?<br><br>SHEPPARD: We've got no choice.<br><br>(Rodney groans plaintively and gets his pistol out as John and Ronon turn in opposite directions and open fire on the guards.  He ducks down and cowers behind Ronon's legs, turning his head and firing his pistol blindly towards the guards but succeeds in bringing one down single handed [go Rodney!] as John and Ronon take out the rest.)<br><br>SHEPPARD: Let's move.<br><br>DEX: Which way?<br><br>(John turns his head as he hears the sound of many running feet approaching from behind him.)<br><br>SHEPPARD: I guess that answers that.<br><br>(He runs off in the other direction, the others following.  Doors slide open in front of them and more guards are on the other side.  The boys instantly gun them down, but more guards approach from behind, opening fire with their stunners.  Rodney is shot down immediately and Ronon is struck in the back a moment later.  John turns and drops to his knees, firing back at the guards but there are too many and eventually a stunner blast hits him in the chest.  As usual, Ronon stubbornly refuses to fall until he's been struck several times but eventually he too falls to the floor.  The guards step aside as the Wraith Leader walks into view and looks down at the team.)<br><br>WRAITH LEADER: Inform the Queen.  We have intruders.<br><br><br>LATER.  The boys have been put into a cell.  Rodney is standing at the door staring out anxiously.<br><br>McKAY: <I>Now</I> what?<br><br>SHEPPARD: Well, if I had to guess, I'd say we'll be taken in front of the Queen who will demand answers and threaten to feed on us -- at which time, I hope to have a plan to get us out of here.<br><br>McKAY: Very reassuring(!)<br><br>(A door opens a short distance away.)<br><br>DEX: Hey.<br><br>(The door opens fully and Teyla comes into view.)<br><br>McKAY: It's Teyla!  She's alive!<br><br>SHEPPARD: Hey, quiet.<br><br>(He walks over to the door as Teyla approaches, speaking firmly to the guards outside the cell.)<br><br>TEYLA: Leave us.<br><br>(She watches as they leave the area, then walks closer to the cell door.)<br><br>TEYLA (smiling as much as her alterations will allow): John, Ronon, Rodney.  It is good to see you, but you should not have come for me.<br><br>SHEPPARD: Why?  What's going on?<br><br>TEYLA: I will explain later, but you must not attempt to escape.  You are in no danger.  I am now Queen of this Hive.<br><br>McKAY: Wait, what?!<br><br>TEYLA: It is a long story.<br><br>SHEPPARD: We've got a Jumper here; we can leave right now.<br><br>TEYLA: No.  I must solidify my position first.  It is the only chance we have to ensure the alliance will accept the treatment.  Otherwise this will all have been for nothing.<br><br>(The boys look at each other, reluctant to allow her to remain in danger.  Eventually John turns back to her.)<br><br>SHEPPARD: All right.  We'll let it play out -- for now.<br><br>(She nods and takes a long look at her friends before turning and walking away.  Hidden around a nearby corner, the Wraith Leader has been listening to the entire conversation.)<br><br><br>SHORTLY AFTERWARDS.  Teyla walks into the Queen's quarters and approaches a throne in the room.  The Leader walks up behind her.<br><br>WRAITH LEADER: My Queen.<br><br>(She whirls around and glares at him.)<br><br>TEYLA: What are you doing here?  Who authorised you to wait in my quarters?<br><br>WRAITH LEADER: I let myself in.  I needed to see you in private.<br><br>TEYLA: I do not wish to speak right now.  Come back later.<br><br>WRAITH LEADER: I'm afraid I can't do that.<br><br>TEYLA: I am your Queen.  I command you ...<br><br>WRAITH LEADER: You are not my Queen.<br><br>TEYLA: How dare you speak to me like this?  Remove yourself from my sight immediately.<br><br>WRAITH LEADER: I saw you talking with the prisoners from Atlantis.<br><br>TEYLA: And?  I may not interrogate prisoners on my own ship?<br><br>WRAITH LEADER: Oh, you may, though it is odd that you refer to them as prisoners.  I overheard what you said to them.  You knew them, and they know you, and I ask myself: how is such a thing possible?  I suspected you right from the moment you set foot aboard my ship.<br><br>(Teyla tries to make a break for the door but the Leader steps into her way.)<br><br>WRAITH LEADER: And against my better judgment, I allowed you to remain on board ... (it pulls out a sword) ... where you committed treachery after treachery.  It was my duty to defend this ship and I failed.<br><br>(It slashes at her but she ducks underneath the blade.  Snatching out her knife, she jams it into the Leader's waist.  It grunts in pain but backhands her and she falls back onto the throne.  Pulling the knife out of itself and dropping it to the ground, it seizes Teyla's arm and hurls her across the floor, following her and pulling her up into a sitting position.  Kneeling down behind her, it wraps one arm around her neck and holds the edge of the sword against her throat.)<br><br>WRAITH LEADER: I'm afraid your reign is over, my Queen.<br><br>(A stunner blast hits it in the back.  As it screams, Teyla pulls herself free and scrambles to her feet as another blast strikes it.  It tumbles to the floor as Todd walks in, kneels down to the Leader and snaps its neck.  As Teyla stares, Todd stands up and looks at her.)<br><br>TODD: He will not be bothering you any further.<br><br>TEYLA (sighing in relief): Thank you.<br><br><br>LATER.  Todd and Teyla are walking through the corridors.<br><br>TODD: My Hive arrived moments ago.  I've arranged for Colonel Sheppard, Ronon and Doctor McKay to be transferred there immediately.<br><br>TEYLA: Good.  When do I join them?<br><br>TODD: As soon as this is all over.<br><br><br>THRONE ROOM.  Teyla sits imperiously upon the throne and addresses the many assembled Wraith.<br><br>TEYLA: And thus I will be taking my leave of you and returning to my former Hive.  (She gestures to Todd.)  I am leaving behind my trusted commander.  Let me be clear: you will still fall under my protection, but in my absence you will heed his every order as if it were my own.  When he speaks, it is as though I am speaking through him.  Is that understood?<br><br>(A male Wraith, perhaps the new Leader of the Hive, replies.)<br><br>WRAITH: Yes, my Queen.<br><br>TEYLA: Good.  Then it is time.  (She looks at Todd.)  Escort me to my transport.<br><br>(Todd bows to her as she stands.  The new Leader turns to the other Wraith.)<br><br>WRAITH: The Queen departs.<br><br>(As one, the Wraith turn to form an honour guard and bow their heads respectfully, leaving a walkway for their Queen to exit the room.  Teyla walks through them, followed by Todd, and they head into the corridors.)<br><br>TODD: Well done.  I believe you have managed to allay all suspicions.<br><br>TEYLA: Just remember why we did this: to disseminate Doctor Keller's treatment to as many Wraith as possible.<br><br>TODD: Of course, although I think it might be wise to let matters settle for a time first.<br><br>(Teyla stops and turns to it.)<br><br>TEYLA: How <I>much</I> time?<br><br>TODD: Not long.<br><br>(She looks at it suspiciously.)<br><br>TEYLA: You're not planning on going back on our agreement, are you?<br><br>TODD: No, no.  I'm just saying that to press such a radical agenda so soon after the change in leadership ... well, it may invite unwelcome questions.<br><br>TEYLA: Fine.<br><br>TODD: Very well.<br><br>TEYLA: But bear in mind that, as far as this crew is concerned, I am still their Queen.<br><br>TODD: Oh yes.<br><br>TEYLA: I will be watching you, and should you step out of line, I will not hesitate to make a reappearance and have you removed.<br><br>TODD: Very well.<br><br>TEYLA: <I>Permanently</I>.<br><br>(For the first time in their conversation, Todd looks a little nervous.  Teyla glares at it a little longer, then walks away.)<br><br><br>ATLANTIS.  Jennifer and John walk into the Infirmary.  He stares at the sight ahead of him, a look of shock on his face.<br><br>SHEPPARD: What have you done to her, Doc?<br><br>(Lying in bed, Teyla -- restored to her normal self -- rolls her eyes and smiles at him.)<br><br>TEYLA: Very funny!<br><br>KELLER: How are you feeling?<br><br>TEYLA: Better.  There's still some soreness, but for the most part it's gone.<br><br>KELLER: Good.  Well, I have rounds but I'll come and check on you later.  Make sure he doesn't give you a hard time.<br><br>(Teyla laughs as Jennifer walks away.  John frowns after her, then strolls to Teyla's bedside.)<br><br>SHEPPARD: Sure you're feeling OK?<br><br>TEYLA: Yes, thank you.<br><br>SHEPPARD: No lingering desires to feed on anything?<br><br>TEYLA: Only on solid food.  The blended concoctions given to me by Doctor Keller are not very satisfying.<br><br>SHEPPARD: Well, it's only been two weeks.  Give it some time.  Look, um, I haven't had the chance to tell you that what you did took ... you know, a lot of guts.<br><br>TEYLA: I'm just glad it worked out for the best.  Has there been any further word from Todd?<br><br>SHEPPARD: Not really.  We're supposed to meet with him in a few weeks about this whole gene therapy thing.  Word has it he's solidified his position as a ... (he makes air quotes) ... "leader" of the alliance.<br><br>(Teyla looks away thoughtfully.)<br><br>SHEPPARD: What?<br><br>TEYLA: Do you not find it strange that as a result of all of this, Todd now personally has control of that entire alliance?<br><br>SHEPPARD: You think that was his plan all along, huh?<br><br>TEYLA: The thought had crossed my mind.<br><br>SHEPPARD: Well, regardless, I think we're better off than we were before.<br><br>TEYLA: Yes, I suppose you're right.<br><br>SHEPPARD: Get some rest.  I'll come back and check on you.<br><br>(He walks away.  Teyla flexes her fingers experimentally, gazes at her palm and looks thoughtful.)
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="507.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s5/508.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="509.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s5/index.shtml">
+<IMG SRC="/graphics/title_s5episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Five Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="501.shtml" CLASS="list">Search and Rescue</A><BR><A HREF="502.shtml" CLASS="list">The Seed</A><BR><A HREF="503.shtml" CLASS="list">Broken Ties</A><BR><A HREF="504.shtml" CLASS="list">The Daedalus Variations</A><BR><A HREF="505.shtml" CLASS="list">Ghost In the Machine</A><BR><A HREF="506.shtml" CLASS="list">The Shrine</A><BR><A HREF="507.shtml" CLASS="list">Whispers</A><BR><A HREF="508.shtml" CLASS="list">The Queen</A><BR><A HREF="509.shtml" CLASS="list">Tracker</A><BR><A HREF="510.shtml" CLASS="list">First Contact</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="511.shtml" CLASS="list">The Lost Tribe</A><BR><A HREF="512.shtml" CLASS="list">Outsiders</A><BR><A HREF="513.shtml" CLASS="list">Inquisition</A><BR><A HREF="514.shtml" CLASS="list">The Prodigal</A><BR><A HREF="515.shtml" CLASS="list">Remnants</A><BR><A HREF="516.shtml" CLASS="list">Brain Storm</A><BR><A HREF="517.shtml" CLASS="list">Infection</A><BR><A HREF="518.shtml" CLASS="list">Identity</A><BR><A HREF="519.shtml" CLASS="list">Vegas</A><BR><A HREF="520.shtml" CLASS="list">Enemy At the Gate</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Five</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B002ACP0MO/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B002612S6A/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls5.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="507.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s5/508.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="509.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

@@ -1,0 +1,515 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "The Lost Boys" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s2/210.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s2/transcripts/210.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=537">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=281">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s2/210.shtml#production">Production</A>
+				
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=17068">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s2/210.shtml"><IMG SRC="/atlantis/graphics/210_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="THE LOST BOYS" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 210<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 2, Disc 3<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 09.23.05<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 01.15.07<BR>
+				    
+				    
+				    <STRONG>EXCERPTS WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0178338/" TARGET="_blank">Robert C. Cooper</A><BR>
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm1236625/" TARGET="_blank">Martin Gero</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0877427/" TARGET="_blank">Brad Turner</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">The team is captured by the missing Lieutenant Ford, who is now leading a group of young men who are taking the Wraith enzyme -- and who wants the team's help in a suicide attack against a hive ship.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    PLANET. John and his team are walking through yet another forest.<br><br>McKAY: This is ridiculous.<br><br>SHEPPARD: Well, keep complaining about it and we may get there faster.<br><br>McKAY: Well, couldn't we have met these people on a tropical beach planet populated by tall blonde women, hmm?<br><br>TEYLA: Whoever wants to speak with us obviously values their privacy.<br><br>McKAY: Yes, well I value my time, and this is a waste of it.<br><br>SHEPPARD: What's a waste of time is listening to you, Rodney. This is the mission.<br><br>McKAY: Yeah, well it strikes me that this is a mission better suited to one of the, uh, lower echelon teams.<br><br>DEX: Lower echelon?<br><br>TEYLA: He means to say less important.<br><br>SHEPPARD: We got a tip from one of Teyla's contacts; we're following it up.<br><br>McKAY: And this is like, what? The umpteenth tip we've followed up in search of a ZedP.M.?<br><br>TEYLA: Rodney.<br><br>McKAY: Look, I just wanna make it clear that every second I am out of my lab is a second the galaxy goes without another ground-breaking ...<br><br>(At that moment all four of the team are struck in the back by blasts from what appear to be Wraith stunners. They all collapse. Once they're down, three or four young human men come out from hiding, wielding the stunners.)<br><br>KANAYO: We have to get them to the Gate before their people realize they're missing.<br><br><br>WORMHOLE TRAVEL.<br><br><br>In a large room in a cave on another planet, the team is seated around a wooden table. Their hands are tied behind their backs and they have hoods on their heads. In front of each of them is a plate with food on it. Kanayo takes their hoods off. They look around to see that several young men are standing nearby.<br><br>SHEPPARD (to his team): You guys OK?<br><br>McKAY (looking round at his captors): Oh yeah, fine!<br><br>SHEPPARD (to Kanayo): Seems like a whole lot of trouble to go through just to get us to dinner. (Kanayo doesn't reply.) Not a talkative bunch, are you?<br><br>KANAYO: We'll release you from your bindings if you promise not to attack us.<br><br>DEX: Sure. (From the look on his face, you just know he's not exactly good at keeping promises.)<br><br>SHEPPARD (equally unconvincingly): Yeah. We promise.<br><br>(A familiar laugh is heard and Aiden Ford walks into the cave. He still has the bad Wraith eye, but is no longer wearing his uniform, being dressed similarly to the other men. Ronon surges to his feet at the sight of him, but one of the men pushes him back down into his chair.)<br><br>FORD: Before we untie them, they have to know they're among friends.<br><br>SHEPPARD: Ford?<br><br>FORD: Thought I was dead, didn't you, Sheppard?<br><br><br>OPENING CREDITS. RESUME. The team has now had their hands untied.<br><br>FORD: Guys. Guys, please -- eat. Eat. <br><br>(He takes something off the plate in front of Teyla and eats it as if to show that it's safe. Ronon lifts his plate and sniffs it, then puts it down in a way that suggests he's not unhappy with what's for dinner. Rodney tentatively picks up something from his plate.)<br><br>FORD: Wildmen, this used to be my team. (He points to Ronon, who has started to eat.) Well, not this one, but I think he's OK too.<br><br>SHEPPARD: What is all this?<br><br>FORD: Some local vegetables; a sorta alligator thingy. (John smiles.) It tastes like salted meat, it's good, try it. (He slaps John's shoulder in a friendly way.)<br><br>SHEPPARD: I'm not talkin' about the food. What the hell is going on?<br><br>TEYLA: Who are these men? And why bring us here like this?<br><br>FORD: Whoa. That's a lot of questions.<br><br>DEX: Pick one.<br><br>(Aiden looks round at his men, then looks back at Ronon.)<br><br>FORD: Pick one. That's good. Where'd you find him, Sheppard?<br><br>McKAY (stuffing his face): Maybe you should start with how you managed to escape being culled by the Wraith Dart, hmm? (John looks at him.) What? I get nervous, I get hungry.<br><br>FORD: OK. The Dart.<br><br><br>FLASHBACK TO RUNNER.<br><br>Out in the forest, John is chasing Aiden. Darts scream overhead. John glances up at them, then raises his rifle and aims it at Aiden.<br><br>SHEPPARD: Ford!<br><br>(Aiden looks at him for a moment, then lowers his right hand towards the pistol strapped to his leg. John fires a single shot, hitting Aiden in his left leg. Aiden groans but stays on his feet and draws his pistol, aiming it at John.)<br><br>SHEPPARD: You're not gettin' off this planet!<br><br>(Behind Aiden, a transporter beam is sweeping along the ground. Aiden glances round at it, then looks back at John. He turns and deliberately runs into the path of the transporter beam and is swept away.)<br><br>FORD (voiceover): I have no idea how long I was in the Dart. Next thing I knew I was on a cruiser ... (In a new flashback, a Wraith guard stands over Aiden as he lies on the ground.) ... and I was awake. (Aiden's eyes snap open.)<br><br><br>(Back in the present, Rodney speaks around a mouthful of food.)<br><br>McKAY: It's the enzyme. Makes you almost immune to the Wraith stunner so when you're dematerialized from the Wraith Dart, you're awake as opposed to, uh ...<br><br>FORD: ... as opposed to dead.<br><br><br>FLASHBACK. As the Wraith guard bends down, Aiden unsheathes a knife and surges onto his knees as he stabs the guard. He then grabs the guard's weapon and shoots it twice. He grins savagely, then checks to make sure the area is clear before bending down to the guard and plunging his knife into its enzyme sac.<br><br><br>(The present)<br><br>FORD: I cut open its enzyme pouch, took my fill, made my way off the ship.<br><br><br>FLASHBACK. Aiden is cautiously making his way through the corridors, ducking out of the way of a Wraith guard.<br><br>FORD (voiceover): You can get around pretty easy on a Wraith ship. They're not used to people making it aboard, so there's next to no security.<br><br>(When the guard's back is turned, Aiden runs out and shoots it twice. He stands over it, then draws his knife and bends down to it, again stabbing into its enzyme sac.)<br><br><br>(The present. John is looking a little squeamish at Aiden's actions.)<br><br>FORD: I walked off with enough enzyme to last me a little while. Tracked down the Stargate, dialed the first friendly address I could remember.<br><br><br>FLASHBACK. Aiden walks into a tavern and goes over to the bar.<br><br>FORD: Need a place to stay, hot meal.<br><br>BARTENDER: What have you got to trade?<br><br>(Aiden looks down, then draws the Wraith guard's weapon and lays it on the bar.)<br><br>FORD: What'll that get me?<br><br>(A man who may be the tavern's bouncer walks up behind him and puts his hand on his shoulder.)<br><br>BOUNCER: No weapons.<br><br>(Aiden rounds on him, grabs him by the neck and slams his head down onto the bar, knocking him unconscious. Dropping him to the floor, he then looks at the bartender again.)<br><br>FORD: So? What'll that get me?<br><br>(Shortly afterwards, Aiden is sitting at a table with a plate of food in front of him. Two young men are sitting with him. One of them is Kanayo, the other is a blond man who we'll later learn is called Jace.)<br><br>KANAYO: I still don't really understand.<br><br>FORD (gesturing to a hole in the shoulder of his jacket): Look at me. I got shot -- I healed. I can see farther, clearer than I ever saw before.<br><br>FORD (voiceover): I told them about the enzyme, how it makes you stronger, more aware, more resilient; how it'd give us a fighting chance against the Wraith.<br><br><br>(The present)<br><br>FORD: I mean, look at me. Look at me! (John reluctantly turns his head to look at him. Teyla and Ronon, who are both now eating, look up at him too.) I walked off a Wraith cruiser! It works!<br><br><br>FLASHBACK.<br><br>KANAYO: I wanna try it.<br><br>(Delighted, Aiden offers Kanayo his hand and they shake.)<br><br><br>(The present)<br><br>DEX: Wait a second. All your people here -- all your men -- they're on the enzyme?<br><br>FORD (putting his hand on Kanayo's shoulder): Of course.<br><br><br>FLASHBACK. In a forest somewhere, three young men are lurking behind some trees as two Wraith guards walk along a path. One of the men jumps out and takes the guards down with a stunner. The men run towards them and squat down beside them. One of the men takes out a knife to cut into one of the guard's enzyme sacs, but Kanayo stops him.<br><br>KANAYO: No! We don't do it like that any more. Let's get him back home.<br><br>(Some time later, Kanayo is dragging an unconscious guard into the cave.)<br><br>FORD (voiceover): As our numbers kept growing, we needed more and more of the enzyme.<br><br>(In the background, a group of men is training in hand-to-hand combat. Kanayo drags the guard across the floor and we see that three other guards are already there, chained to the wall and unconscious. Kanayo chains his guard up and turns to see Aiden and Jace walking into the cave.)<br><br>FORD: Nice work.<br><br>KANAYO: Thank you.<br><br>FORD: This should give us a steady stream of the enzyme.<br><br>(Jace walks over to one of the guards, squats down, takes out a syringe and sticks it into its enzyme sac.)<br><br>FORD (to Kanayo): Time to focus on some bigger issues.<br><br><br>(The present)<br><br>TEYLA: Aiden, d'you mean to tell us that there are live Wraith here, in this cave?<br><br>FORD: That's right.<br><br>TEYLA: The Wraith can communicate with each other over a distance.<br><br>FORD: But not between stars. They'd have to be in this solar system. (He points at Rodney.) You taught me that.<br><br>McKAY (through a mouthful of food): Yes, well, good for me.<br><br>FORD (laughing): What's the matter? They can't communicate if they're unconscious.<br><br>SHEPPARD: Why'd you jump us?<br><br>FORD: Yeah, yeah, I'm sorry about that. It was the only way to get you here.<br><br>SHEPPARD: Why didn't you just tell us where you were? You know we would have come.<br><br>FORD: Yeah, you and a Special Ops team.<br><br>SHEPPARD: No, no.<br><br>FORD: I know you think I'm crazy. I brought you all here to show you that you're wrong. (He looks at John.) I mean, do I look crazy? (John tries not to show what he's thinking.) Do I seem out of control?<br><br>McKAY (still stuffing his face): Are we speaking in relative terms or, um ...?<br><br>FORD: Look, Jace here has really fine-tuned the enzyme. (Rodney puts more food in his mouth.) We know how to administer it now, how to regulate it, refine it. We've gotten so good, we can even lace food with it.<br><br>(Teyla was just lifting another piece of food to her mouth but now stops. Ronon looks up at Aiden. Rodney stops chewing.)<br><br>McKAY: Scuse me?<br><br>FORD: Congratulations. You just had your first dose.<br><br>McKAY: What?! (He spits his mouthful out onto the table, choking. Ronon takes out the food he had in his own mouth.)<br><br>FORD: I thought long and hard about how to show you that the enzyme was safe, to convince you that it was the first step to defeating the Wraith. (He turns to John.) So you can convince Weir, convince the military.<br><br>(Rodney surges to his feet, furious.)<br><br>McKAY: Are you out of your mind?<br><br>FORD: Hey, settle down, McKay.<br><br>McKAY (shouting): No, I will not settle down! I've been drugged against my will, you little punk!<br><br>TEYLA: You should not have done this, Aiden.<br><br>FORD (laughing): Hey, be as mad as you want. Couple of days, you'll be thankin' me. We'll have a good laugh about this. Now eat up.<br><br>(He turns to leave the room. Ronon leaps to his feet and heads towards Aiden but a couple of the men grab him, one of them shoving what looks like a Genii pistol in his face.)<br><br>McKAY: I'm itchy. I'm itchy all over. This is exactly what happened when I toked pot once in college!<br><br>SHEPPARD (getting to his feet): Everyone stay put.<br><br>(He turns to follow Aiden but two of the men step into his way. Just outside the room, Aiden stops.)<br><br>FORD: Let him go.<br><br>(The men step aside and John follows Aiden into another room.)<br><br>SHEPPARD: Ford, look. I know what you're trying to do. I get it, I do. But you're goin' about this all wrong. Weir isn't gonna listen to us if we're all hopped up on the enzyme.<br><br>FORD: Your food was clean.<br><br>SHEPPARD: Why? Why me?<br><br>FORD: You're gonna be the witness. You're gonna be the one to tell Weir that her most trusted team is takin' the enzyme and is better because of it.<br><br>(John sighs.)<br><br>SHEPPARD: Look, buddy. Why don't you come back with us, have Beckett look you over, huh? That's the best proof.<br><br>FORD: No. (He shakes his head.) No, I've thought this through. This is the plan.<br><br>SHEPPARD: Look, I don't know what you're thinking ...<br><br>FORD (interrupting): You're free to roam around as much as you want. You're all part of the team now. (He walks away.)<br><br><br>STARGATE. John and his team are standing around the D.H.D., apart from Rodney who has squatted down and is fiddling with the bottom of the device.<br><br>DEX: OK, so why aren't these guys watching us?<br><br>TEYLA: Ronon is right. They went to great trouble to get us here -- why would they allow us to leave?<br><br>SHEPPARD: Just waiting for the other shoe to drop.<br><br>McKAY (from under the D.H.D.): Oh, that little bastard!<br><br>SHEPPARD: There it goes.<br><br>McKAY: This is what I was afraid of.<br><br>SHEPPARD: What'd he do?<br><br>McKAY: He's taken all the necessary control crystals. Something I showed him how to do on a mission, I might add.<br><br>SHEPPARD: Well, that's not good.<br><br>McKAY: That is the under-statement of the year.<br><br>SHEPPARD: Alright! See what you can do.<br><br>DEX: OK, why don't we just take em? All we've gotta do is get our hands on one stunner. I can take em all.<br><br>SHEPPARD: Maybe, but if we mess it up, whatever trust we might have been given will disappear.<br><br>TEYLA: You wanna make them trust us?<br><br>SHEPPARD: We play it cool, we let em get comfortable. They're bound to make a mistake.<br><br>TEYLA (looking rather upset and angry): And in the meantime?<br><br>SHEPPARD: We play along.<br><br>(Teyla rolls her eyes and turns away. John looks at her and then at Ronon.)<br><br>SHEPPARD: How are you guys feeling?<br><br>DEX: I didn't eat that much -- I feel fine.<br><br>TEYLA (turning back to face John, calmer now): Perhaps if we were able to fast, they would be unable to administer the enzyme.<br><br>SHEPPARD: I doubt that. I don't think they would have a problem forcing us.<br><br>(Rodney stands up from tinkering with the D.H.D.)<br><br>McKAY: Yeah, well, this thing is useless, and I ate my face off and I can tell you, I can feel it working.<br><br>SHEPPARD: There's a good possibility that everything you're feeling at the moment might be psychosomatic.<br><br>(The team starts to walk away from the D.H.D.)<br><br>McKAY: Oh, is that right, Professor Science? Is that your expert opinion?<br><br>SHEPPARD: Yes, it is.<br><br>McKAY: Well, I can tell you -- when they up the dosage, the side effects will be very real and very unpredictable.<br><br><br>ATLANTIS. GATE ROOM. Elizabeth meets with Major Lorne, who has just returned through the Stargate with his team.<br><br>WEIR: You're back early.<br><br>LORNE: Uh, Jenev is kind of a closed society. Very polite, and very courteous, but completely uninterested in having anything to do with us.<br><br>WEIR: Well, better that than hostile, I suppose. (She stops and turns to face Lorne.) Colonel Sheppard's team, three hours overdue.<br><br>LORNE (smiling): Wouldn't be the first time. Any radio contact?<br><br>WEIR: None since they left.<br><br>LORNE: Well, you know those guys.<br><br>WEIR: What do I know about those guys?<br><br>LORNE: Just that they tend to get all caught up in whatever it is they're doing, and sometimes they don't check in. They forget how much you worry. (Elizabeth looks at him.) ... That we worry -- collectively, I mean.<br><br>WEIR: Yes, we do.<br><br>LORNE (looking embarrassed): Yeah. We do. (He half-grimaces/half-smiles, then turns to his team.) OK, you guys, it looks like we're headin' back out.<br><br>WEIR (smiling): Thank you, Major.<br><br>LORNE: You're welcome.<br><br><br>AIDEN'S CAVE. John is sitting at the table while the other three are on their feet and pacing. Rodney is breathing heavily and pacing around very quickly.<br><br>McKAY: Seriously, I'm getting, uh, I'm getting, uh, chills and hot flashes, chills and hot flashes again and again. None of you are feeling that?<br><br>(Ronon walks over to John and leans down to him, angry.)<br><br>DEX: The enzyme's side effects are gonna be the least of his concerns if he keeps this up.<br><br>SHEPPARD: I know -- just be patient.<br><br>DEX: Historically, that hasn't been a strength for me. (He takes his coat off.)<br><br>SHEPPARD: I know!<br><br>(Aiden walks in.)<br><br>FORD: Sheppard, Teyla! Kanayo's running a mission off-world. I want you to go with him.<br><br>SHEPPARD: Why?<br><br>FORD: We're running an op. Thought you might wanna see the men in action.<br><br>SHEPPARD: Sure! Whenever you need us.<br><br>TEYLA (leaning on the table, either very tired or very wired up): Just give us some weapons and ...<br><br>FORD: Nice try. No, you're gonna hang back and watch with Kanayo. Don't worry -- you won't be in any danger.<br><br>SHEPPARD: That's a load off my mind.<br><br>FORD: Good.<br><br>(Rodney walks over to Aiden, even more hyper than usual.)<br><br>McKAY: What about us?<br><br>(Aiden looks at him with some concern.)<br><br>FORD: Jace'll give you the grand tour -- show you what we've done with the place. How's that sound?<br><br>McKAY (sulky and sarcastic): Huh, that sounds delightful.<br><br>FORD: Good, good. Then if Colonel Sheppard tries anything off-world, you'll be nice and close for me to kill you both.<br><br>McKAY: Can't think of a better way of spending the afternoon(!) (He walks away.)<br><br>(Kanayo draws his pistol and points it at Teyla.)<br><br>KANAYO: Move!<br><br>(Aiden shrugs.)<br><br>FORD: Looks like he's itching to go.<br><br>(John stands, and Teyla straightens up from the table. They follow Kanayo out of the cave, Teyla throwing a long look at Ronon as she goes. Ronon watches her go, then walks over to the table where he had draped his coat over the back of a chair. Glaring at Aiden, he picks up his coat, then tips the chair over backwards onto the floor before walking away.)<br><br><br>WORMHOLE TRAVEL.<br><br><br>On another planet, Kanayo and his team make their way through yet another forest or wood towards a village or small city. Kanayo, John and Teyla stop under cover of some bushes near a guarded building while the rest of his team get closer to the guards.<br><br>SHEPPARD: Are those guards Genii?<br><br>KANAYO: Yes.<br><br>TEYLA: What exactly are we doing here?<br><br>KANAYO: There are Genii spies all over the galaxy. If for whatever reason one of them can't make it back to the Genii homeworld, their leaders have established safe houses. If they need a place to reload on gear, or a place to hide, they come here.<br><br>SHEPPARD: That's useful.<br><br>KANAYO: Yeah. We've found them to be an excellent source of information and supplies.<br><br>TEYLA: How did you find them in the first place?<br><br>KANAYO: I was a Genii spy.<br><br>(John and Teyla exchange a glance.)<br><br>SHEPPARD: If you're one of them, why don't you just walk in there?<br><br>KANAYO: Well, I used to, but eventually they realized that I betrayed them.<br><br>SHEPPARD: I can see how they would.<br><br>KANAYO: We rely on raids now.<br><br>SHEPPARD: Why? What more do you guys want?<br><br>KANAYO: We don't have all the pieces we need for the Lieutenant's plan.<br><br>SHEPPARD: Right! And, uh, which plan would that be again?<br><br>KANAYO: All will be revealed when the time is right.<br><br>SHEPPARD: Oh, good! I'd hate for things to be revealed too early.<br><br>(Kanayo throws him a look.)<br><br><br>AIDEN'S CAVE. Jace is showing Rodney a room which has been set up as a lab. There are all sorts of pipes and test tubes and bottles on tables around the room, and several different computers around the walls. Rodney sounds distracted during most of the following conversation, and often clutches at his right arm as if it is hurting him.<br><br>McKAY: How are you powering these Genii computers?<br><br>JACE: We stole a Telnorran generator. They're a pain to keep serviced, but they do the job. Actually, we just got our hands on some Pilatian solar cells, but I haven't been able to figure out how to interface them yet. Have you used them before?<br><br>McKAY: I can't say that I have. What do you do here?<br><br>JACE: We study the Wraith.<br><br>McKAY: Oh yeah? How's that going?<br><br>JACE: Some of our discoveries have been quite exciting, actually.<br><br>McKAY: Like what?<br><br>JACE: Well, for one, they seem to be territorial. Very much so, it turns out. They're not a united fold like we once believed.<br><br>McKAY: Hmm, really?<br><br>JACE: Yes, in fact I believe they're fracturing even further. (He turns to a computer and calls up a readout showing Wraith writing.) Now, my understanding of their language is fairly limited, but they seem to be trying to establish a system that would restrict inter-ship communications. <br><br>(Behind him, Rodney is grimacing as if either very bored or in pain.).<br><br>McKAY: What? Why would they stop sharing information with each other?<br><br>JACE (turning back to face him): Ford thinks it might have to do with your friend's ability to read their minds. If she taps into them, only one ship will be compromised, not the whole fleet.<br><br>McKAY: All this because of Teyla?<br><br>JACE: Well, for one, she may not be the only one that possesses that ability.<br><br>McKAY: Hmm. Fair enough.<br><br>JACE: And two, I think that the lack of food in the galaxy has created some deep divisions within the Wraith cells.<br><br>McKAY: Huh. And you got all that from, uh, (he looks around the lab) this?<br><br>JACE (smiling proudly): Yes. (His smile fades.) To be honest, I could use some help. How's your Wraith, Doctor?<br><br>McKAY: Hmm. S'okay. Let's see what you've got.<br><br><br>Nearby, in the room that doubles as a gym and the Wraith guards' prison, Aiden is sparring with two of his men. They fight ferociously and Aiden eventually knocks both of them down.<br><br>FORD: That's better. (Ronon walks in and stands nearby.) You guys still need to work together. You're stronger as a team. (As one of the men on the floor groans, Aiden walks over to Ronon.) You wanna spar a little? (Ronon just looks down at him. Aiden looks uncomfortable for a moment but then looks up at him.) We're cool, right? You're not holding a grudge or anything? (He smiles briefly but it drops again as Ronon still says nothing.) I did save your life.<br><br>DEX: I remember.<br><br>FORD: You know, it's funny. You ask a dozen people who they thought would win a fight between you and me, people would choose you hands down. Hell, I'd choose you. But we went toe to toe.<br><br>DEX: Yeah, we did.<br><br>FORD: Until Sheppard showed up.<br><br>DEX: So I guess it's still undecided.<br><br>FORD: Look, all I'm saying is, why d'you think I was able to fight you like that? It's the enzyme. Look what it did for me. Imagine what it could do for you. I'm not the bad guy here, Ronon. I'm just tryin' to help. You'll come around. I know you will. (He walks away.)<br><br><br>ATLANTIS. CONTROL ROOM. The Stargate is open and Major Lorne is reporting over a video link from the planet where John's team was last known to be.<br><br>LORNE: We just finished our scans, ma'am. They're not here.<br><br>WEIR: D'you think they've headed to another planet?<br><br>LORNE: It's possible, but, as you know, it's standard procedure to check in and tell us first. They didn't do that, so ...<br><br>WEIR: ... they might have been taken off-world against their will.<br><br>LORNE: Yeah.<br><br>WEIR: Alright. Can you give me the last few addresses dialed from that D.H.D.?<br><br>LORNE: Maybe somebody can, but that's a little out of my skill set.<br><br>WEIR: I'll send Zelenka.<br><br>LORNE: Good call. Lorne out.<br><br>(The Stargate closes down.)<br><br><br>GENII SAFE PLANET. The Genii guards are lounging against a wall, clearly bored. Nearby, Kanayo, John and Teyla watch them.<br><br>SHEPPARD: So, uh, what's the plan?<br><br>KANAYO: We take them by force.<br><br>SHEPPARD: That's some ground-breaking strategy there.<br><br>TEYLA: I think the Colonel is interested in the type of attack.<br><br>KANAYO: We plan to overpower them.<br><br>SHEPPARD: I think it's best we just watch.<br><br>(Kanayo checks that his men are in place and that the guards are still not paying attention, then activates a radio on his wrist.)<br><br>KANAYO: Now.<br><br>(His men burst out of hiding, firing at the guards, who return fire. One of Kanayo's men gets hit and drops to the ground but the others manage to take out the guards. They then run into the building.)<br><br>SHEPPARD: What kind of plan is that?!<br><br>KANAYO: One that works.<br><br>SHEPPARD: One of your men got hit.<br><br>KANAYO: Well, it should be safe for us now. (He leads John and Teyla out. John goes to the downed young man and checks his pulse.)<br><br>SHEPPARD: This guy's dead.<br><br>TEYLA (to Kanayo): So you see, you are not invincible.<br><br>KANAYO: We're close enough.<br><br>TEYLA: There are skills to the art of war, Kanayo.<br><br>KANAYO (angrily): Don't you tell me how to run my missions. You're just here to watch. (He gestures to the rest of his men coming out of the building. The first one is carrying a metal box. Kanayo opens the lid and shows John and Teyla what's inside.) Look familiar?<br><br>SHEPPARD: That's our C4.<br><br>KANAYO: We're stealing it back.<br><br>TEYLA: For what purpose?<br><br>KANAYO: For the hive.<br><br>SHEPPARD: As in hive ship?<br><br>KANAYO: Yeah. That's the Lieutenant's plan. You're gonna help us destroy a Wraith hive ship.<br><br><br>AIDEN'S CAVE. JACE'S LAB. Aiden is addressing John and his team, together with Kanayo and Jace.<br><br>FORD: One of the added bonuses of killing a Wraith is, every now and again, you get your hands on a couple of these. (He holds up a Wraith data device, similar to the one that John took from the Genii during Underground.) Now thanks to Jace and some of the computers that we borrowed from the Genii, we've been able to figure out the exact flight path of one of their hive ships.<br><br>JACE: It's decimating all inhabited worlds in its path.<br><br>FORD: It has to be stopped.<br><br>JACE (indicating a point on the computer screen behind him): I've been able to calculate that, in the next several days, it will be forced to make a hyperspace pause very near an uninhabited planet that happens to have a Stargate.<br><br>KANAYO: We gate to that planet, get on the hive ship, plant the C4 in the Dart bay, and get out.<br><br>JACE: We could save thousands, if not hundreds of thousands, of lives.<br><br>FORD (looking at John and his team): So?<br><br>SHEPPARD (not very enthusiastically): Wow.<br><br>FORD: Wow?<br><br>SHEPPARD: You heard me.<br><br>McKAY (still more hyper than usual): Let me see if I can couch what Colonel Sheppard means by wow in more explicit terms. That is a terrible plan.<br><br>TEYLA: Rodney.<br><br>McKAY: Made all the more frightening by the fact that you think it's a good plan.<br><br>FORD: What's wrong with it?<br><br>McKAY: What's right with it?! Look, let's just for a second give in to reckless abandon and assume that it will be possible to plant a single charge large enough to destroy an entire hive ship.<br><br>JACE: We're planning on secondary explosions in the Dart bay.<br><br>McKAY: Regardless, the hive ship will be on a hyperspace pause, yes, but it will not enter the planet's atmosphere, nor will it take up any sort of stable orbit. It will be flying through space, which means that unless your enzyme allows you to jump much higher than you've let on ...<br><br>FORD: We've got a spaceship.<br><br>McKAY: Oh yeah? Really? (He folds his arms.) What's it made out of, huh? Bark?<br><br>FORD (smiling briefly): No, it's real, McKay. In fact, it's the only ship I'd feel comfortable using on a mission like this.<br><br><br>The team have been escorted outside, where some of Aiden's men are taking the camouflage netting off a Wraith Dart.<br><br>SHEPPARD: OK, where'd you get it?<br><br>FORD: Does it matter?<br><br>KANAYO: None of us have had much success flying it. Banged it up pretty bad the last couple of landings. It's in need of some repairs.<br><br>FORD: And a real pilot.<br><br>SHEPPARD: This is why you brought us here.<br><br>FORD: It's the reason I waited til now, yes.<br><br>KANAYO (tapping Rodney's arm): Assuming this guy can get it working again.<br><br>FORD: He can. These people are the best at what they do.<br><br>KANAYO (to John): Look, you fly it, you scoop us up, you take us to the hive, you drop us off. All we need is time to lay the charge. We'll be in and out of there before the Wraith have any idea what's going on.<br><br>FORD: It's perfect.<br><br>McKAY: It is far from perfect.<br><br>SHEPPARD: But -- it is possible.<br><br>TEYLA (shaking her head): Colonel.<br><br>McKAY: Are you -- are you honestly considering this?!<br><br>SHEPPARD: It's on its way to a culling, Rodney.<br><br>McKAY: Yeah, and I am sorry about that, but this is insane!<br><br>SHEPPARD: Maybe not.<br><br>FORD: Jace has been trying to get it working, but he's not you, McKay. Can you fix it?<br><br>McKAY: No, probably not.<br><br>SHEPPARD: That usually means yes.<br><br>McKAY: Aren't you the one not taking the enzyme? You're supposed to be the clear voice of reason here.<br><br>FORD: Look, can you fix it?<br><br>McKAY: Even if I could, I wouldn't. I'm sorry -- drug me all you want, I'm not doing this. (He storms off.)<br><br>SHEPPARD: Let me talk to him -- he'll come round. (He follows after Rodney.)<br><br>FORD: OK.<br><br><br>John catches up to Rodney a little way away.<br><br>SHEPPARD: Rodney.<br><br>McKAY: Look, maybe you are on the enzyme. Maybe Ford lied, because no rational person would think that was a good plan.<br><br>SHEPPARD: Look, a million things can go wrong, I know that, but just ... look, stop! (They stop walking and turn to face each other, Rodney glaring at John.) Shut up and listen. You fix that Dart -- we all get outta here. I know it's risky but Ford's not thinkin' straight. So ...<br><br>McKAY: What are you talking about?<br><br>SHEPPARD: I'll insist you're all on the away team. I'll scoop you up and instead of flying out to the hive ship, we fly out to Atlantis.<br><br>McKAY: How?<br><br>SHEPPARD: That Dart's gotta have its own D.H.D., right?<br><br>McKAY: Of course.<br><br>SHEPPARD: Well, then, get that thing fly-worthy, we all go home!<br><br>(Finally Rodney gets it.)<br><br>McKAY: Right, of course. Now, you see, I would have thought of that myself before I became a drug addict.<br><br>SHEPPARD: I'm sure you would have.<br><br>(Rodney puts his hands over his eyes, slumping in anguish.)<br><br>McKAY: I'm sorry.<br><br>SHEPPARD: It's alright. (He pats him comfortingly on the arm.)<br><br>McKAY: OK.<br><br>(They turn and head back.)<br><br><br>OFFWORLD. Lorne and his team are keeping an eye on the area as Radek tinkers with the D.H.D. He comes up from under it, cursing in Czech.<br><br>ZELENKA: To je v háji, todle to. [Translation: It's screwed up.]<br><br>LORNE: That good, huh?<br><br>ZELENKA: These things are not designed to store Gate addresses.<br><br>LORNE: What can you give us?<br><br>ZELENKA: Well, every time the Gate is dialed, a slight residual imprint is left on the control crystals.<br><br>LORNE: Which means?<br><br>ZELENKA: Well, I've managed to mine about fifty addresses, but, no idea if they're correct or what order they were dialed in.<br><br>LORNE: Fifty?! That's a lot of planets to check.<br><br>ZELENKA: Yes -- and that's assuming that they're correct.<br><br>LORNE: OK, so long story short?<br><br>ZELENKA: It's going to be next to impossible to find Colonel Sheppard and his team based on what I can get from this D.H.D.<br><br>LORNE: Great. OK, pack it up, let's take what you've got. We'll go over it on Atlantis. Weir's not gonna be happy about this. (He starts to dial home.)<br><br><br>AIDEN'S CAVE. AIDEN'S ROOM. Aiden is sitting at a table reading something when John comes in.<br><br>FORD: How'd that go?<br><br>SHEPPARD: Well, he'll do it, but we need some conditions.<br><br>FORD: What?<br><br>SHEPPARD: Dial back McKay's enzyme doses.<br><br>FORD: No!<br><br>SHEPPARD: Look, we're under some time constraints here. I'm not saying the enzyme wouldn't help, I'm just saying we need him standing still and thinking, not running laps because it feels good.<br><br>(Aiden thinks about it for a moment.)<br><br>FORD: Ronon and Teyla?<br><br>SHEPPARD: Stick to the plan.<br><br>FORD: Fine. What else?<br><br>SHEPPARD: I'll fly it -- that's obvious -- but I want McKay, Teyla and Ronon on the strike team.<br><br>FORD: It's not a good mission for McKay. Could get rough in there.<br><br>SHEPPARD: Look, suddenly we need a door open or a computer hacked, McKay should be there to do it. That's why he's on my team in the first place.<br><br>(Aiden nods thoughtfully.)<br><br>FORD: Is that it?<br><br>(John nods. Aiden gets to his feet and holds out his right hand to John. John stands up and takes it, and they shake.)<br><br><br>A montage of scenes follows as several days or perhaps weeks pass:<br><br>As a man takes the camouflage net off the Dart, Rodney leans into the cockpit where Jace is sitting. Jace stands and opens a small tin of tools and offers them to Rodney.<br><br>McKAY: No! (He sighs in exasperation and starts tinkering with the controls.)<br><br>(In the gym, Teyla spars with a man. Because of his enhanced abilities, they are almost evenly matched but he gets the better of her. Later, Ronon is sparring with a man and again gets beaten.)<br><br>(In Aiden's room, Aiden is looking at a plan, perhaps of the interior of a Wraith ship, while John stands with him.)<br><br>(At the Dart, Rodney comes up from underneath it and looks at Jace sitting in the cockpit.)<br><br>McKAY: No, no, no, no, no. You fire it up now, it'll only explode.<br><br>(In the gym, Ronon and Teyla are each struggling with men who hold them still while another couple of men inject them with another dose of the enzyme.)<br><br>(At the Dart, John gets into the cockpit while Jace helps Rodney attach what looks like a computer tablet to the console.)<br><br>(In the gym, Teyla again spars with a man, but this time she is stronger and succeeds in knocking him to the ground. Ronon then spars with another man and again beats him.)<br><br>(At the Dart, Rodney and Jace stand clear of the Dart. Rodney is holding a computer tablet. Jace goes to touch it but Rodney pushes his hand away and touches the screen himself. The Dart activates and lifts a few feet off the ground, hovering steadily. Rodney and Jace look proudly at it.)<br><br>McKAY: We're close.<br><br><br>AIDEN'S ROOM. Aiden rolls up his plan and sits down at the table. John sits down nearby.<br><br>SHEPPARD: It's a good plan.<br><br>FORD: Couldn't have done it without you, sir.<br><br>SHEPPARD: Well, glad you trusted me enough to bring me here.<br><br>(Aiden stares at the table, lost in thought and looking distressed.)<br><br>SHEPPARD: What's wrong?<br><br>(Aiden looks at him.)<br><br>FORD (almost tearfully): I wanna go home.<br><br>(John stands up, leans on the table and looks down at him.)<br><br>SHEPPARD (softly): Then let's go. Give McKay the D.H.D. crystals and let's get outta here. I can have you back on Earth within an hour.<br><br>FORD: No. We have to do this first. I have to prove to them that we can do this.<br><br>SHEPPARD: You don't have to prove anything to anyone, Lieutenant. (Aiden looks doubtful and unsure. John straightens up and sighs.) I saw your cousin and your grandparents when I was back there. (Aiden looks up at him, his expression a mixture of pain and hope.) They miss you. A lot. This whole M.I.A. thing's killing them.<br><br>(Aiden looks away, lost in thought.)<br><br>FORD: They're strong. They can wait. (He glances at John for a moment, then looks away again.) If anyone's ever gonna take me seriously ever again, we have to do this.<br><br>SHEPPARD: Listen, Aiden ...<br><br>FORD: No. (He stands.) I'm sorry. I don't wanna talk about this. (He walks away.)<br><br><br>MAIN ROOM. Ronon and Teyla are sitting on opposite sides of the table, each shoveling food into their mouths. John is standing up talking to them but they're not taking much notice. Ronon in particular is staring at Teyla's plate as he eats.<br><br>SHEPPARD: Well, part of me thinks he brought us here because he knew we'd bring him back. I think subconsciously he knows what our plan is and he's fine with it.<br><br>(Ronon finishes the food on his own plate and stands. He leans forward and snatches some of Teyla's food off her plate. He grins at her. Teyla stands up, glaring at him.)<br><br>TEYLA: Give it back.<br><br>(Ronon shoves the food into his mouth.)<br><br>DEX: Or what?<br><br>(Still smiling, he chews for a moment as he continues to stare at her. She punches him hard in the face.)<br><br>SHEPPARD: Hey!<br><br>(Teyla smiles smugly at Ronon as he feels his lip. Suddenly he grabs her arm, drags her right across the table and drops her onto the floor. She stands up and they square up to each other, both grinning. She punches him in the face again, then they start to fight each other.)<br><br>SHEPPARD: Knock it off, guys!<br><br>(He walks up behind Ronon but Ronon savagely elbows him in the face, knocking him to the ground. Ronon and Teyla stare down at John as he groans.)<br><br>SHEPPARD: What the hell's gotten into you two? (The two of them back off, Ronon unable to keep a grin off his face. John realizes exactly what's gotten into them.) Oh, right. Never mind. (He painfully gets to his feet and sits down on a chair, groaning. Ronon sits down on the edge of the table.)<br><br>DEX: We need to talk about this.<br><br>SHEPPARD: About what? (He feels his jaw.)<br><br>DEX: The enzyme works. No-one's saying it but we're all thinking it. It works. (He grins at John.)<br><br>TEYLA: I must admit I have noticed an increased amount of strength. (She smiles.)<br><br>DEX: Maybe Ford is right. Maybe it's worth looking into to see what this stuff can do.<br><br>TEYLA: They were an hour late delivering our doses yesterday and I felt awful. It frightens me how reliant my body has become on the enzyme always being in my system. What would happen if we suddenly could not receive it?<br><br>DEX: The only neg is that you've gotta keep taking it. I'm gonna stay on it.<br><br>SHEPPARD (to Teyla): What about you?<br><br>TEYLA: The fact that I'm even considering it makes me feel ...<br><br>McKAY (coming into the room): Hey.<br><br>SHEPPARD: So?<br><br>McKAY: It's ready.<br><br><br>DART. John is sitting in the cockpit while Jace, on the top of a stepladder reaching up to the cockpit, leans over the side. Rodney walks over.<br><br>McKAY: OK, now ... could you move? (Jace climbs down and Rodney takes his place.) Look, this is probably gonna make you a little uneasy but, uh, when the canopy forms, it's perfectly opaque.<br><br>SHEPPARD: Then how am I gonna fly this thing?<br><br>McKAY: The whole thing is one giant heads-up display. It'll show you all the pertinent information that you need.<br><br>SHEPPARD: Yeah, you mean in Wraith!<br><br>McKAY (pointing at the computer tablet on the dashboard): Yeah, which is why I've installed an interface to translate a lot of the readouts.<br><br>SHEPPARD: And by a lot you mean all, because my Wraith's not all that good.<br><br>McKAY: Enough to get you by.<br><br>(Aiden walks over.)<br><br>FORD (to Rodney): I knew you could do it. Right on time. Kanayo's gonna get you suited up. You should get ready.<br><br>McKAY: Right. (Exchanging a look with John, he climbs down the ladder. Aiden climbs up to sit on the side of the cockpit. Teyla watches Rodney as he walks a little way away to get geared up. Aiden looks at Rodney, then turns to John.)<br><br>FORD: Seems a little nervous.<br><br>SHEPPARD: You know McKay -- he'll be fine.<br><br>FORD: You know how to dial the D.H.D. on this thing?<br><br>SHEPPARD: The address is memorized.<br><br>FORD: Good, good. (He looks across at Rodney again.) Listen, I should probably tell you, uh, there's been a slight change of plans.<br><br>SHEPPARD (trying to look nonchalant): Oh yeah?<br><br>FORD (calling out): Kanayo!<br><br>(Kanayo and several other men aim their weapons at Rodney. Dex turns and sees them and draws his sword from the scabbard on his back. Other men aim their weapons at him, Teyla, and at John in the Dart.)<br><br>KANAYO: Don't even think about it!<br><br>(Aiden turns and smiles smugly at John.)<br><br>SHEPPARD: What the hell are you doing?<br><br>FORD: McKay's gonna stay here while we do the op. (calling out) Take him!<br><br>(One of the men grabs Rodney and marches him off.)<br><br>McKAY: No, no, no, no, no! (He protests further until he's out of our hearing.)<br><br>SHEPPARD (to Aiden): That wasn't part of the plan.<br><br>FORD: Neither was you heading back to Atlantis. You didn't really buy the whole (he puts on a plaintive face) I wanna go home speech, did you, huh?<br><br>(Kanayo takes Ronon's sword off him.)<br><br>FORD: Always underestimated me, Sheppard. You need to stop doing that. Complete the mission and McKay lives.<br><br>SHEPPARD: We can't complete the mission, Ford. It's a bad plan!<br><br>FORD: You said it was a great plan.<br><br>SHEPPARD: You didn't buy the whole it's a great plan speech, did you?<br><br>FORD: Get this Dart in the air and come scoop us up. (He jumps down from the edge of the cockpit, then turns to face John again.) Oh, and the Dart D.H.D. only dials to the planet we're going to and back here -- just in case McKay's life isn't enough to get you to do the right thing.<br><br>(He turns and starts to walk away, coming face to face with Teyla.)<br><br>TEYLA: Aiden, what are you doing?<br><br>FORD: Just making sure you guys hold up your end of the bargain. (To his men) It's OK, give em back their weapons.<br><br>KANAYO (who has been pointing Ronon's sword at him): Are you sure?<br><br>FORD: Yeah. If we're gonna do this, we've all got to work together. (He walks back to the Dart and offers John a pistol. John takes it, then Aiden hands him a P90.) Good luck to us all.<br><br>(As the teams walk away, John sighs and punches buttons in the cockpit.)<br><br>SHEPPARD: Stand by for pick up.<br><br>(The engine fires up and the canopy materializes around him. The Dart lifts into the air and heads up into the sky, looping round and heading for the group of about nine people, including Ronon and Teyla. It swoops over the top of the group, the transporter beam activates and they are all swept up.)<br><br><br>ATLANTIS. ELIZABETH'S OFFICE. Elizabeth is pacing around the room as she talks to Major Lorne who is seated at the table.<br><br>WEIR: If they were OK, they would have radioed in by now.<br><br>LORNE: I understand that, ma'am.<br><br>(Elizabeth sits down opposite him.)<br><br>WEIR: I want everyone who is cleared for off-world activity to help with the search. The Daedalus is on its way from Earth, then they'll be able to help, but until they get here, it's up to us.<br><br>LORNE: And I know that, but I need you to understand that it is gonna take a very long time to search all the planets on our list. It ... it could take months.<br><br>WEIR: We can't afford months, Major.<br><br>LORNE (sighing): And I know that too.<br><br>WEIR (quietly): Good.<br><br>(Lorne gets up and leaves.)<br><br><br>SPACE. The Dart flies up from a planet and heads towards a Wraith hive ship. John is watching the computer, then looks around at the canopy surrounding him. As Rodney told him, he can't see anything out of it, but the canopy is illuminated and data is streaming across it.<br><br>SHEPPARD: This is gonna take some getting used to.<br><br>(The Dart flies on a little further, then the illumination goes out.)<br><br>SHEPPARD: Come on! Oh, and we were getting along so well!<br><br>(Wraith writing appears on the computer screen, then is translated to read AUTO PILOT ENGAGED.)<br><br>SHEPPARD: Oh, auto pilot! No, no, no, no, no!<br><br>(The writing changes and is translated to read DOCK PROCEDURE LOADED AND ACTIVATED.)<br><br>SHEPPARD: R2, I need you to turn the auto pilot off! Now! (He looks at the screen but nothing happens.) Worth a try.<br><br>(The Dart flies into an opening in the side of the hive ship. John looks at the screen and up at the canopy nervously. From an outside perspective which John does not share, we see the Dart fly into a huge bay and head up into the ship. Some seconds later, a new message appears on the screen, translated as REMATERIALIZE CARGO? with two buttons underneath labeled YES and NO. John presses the YES button.)<br><br>(The Dart swoops low over a narrow catwalk over an incredibly long drop. The transporter beam sweeps out, depositing the teams onto the catwalk. Unfortunately, three of them rematerialize just over the edge of the catwalk and plummet downwards, screaming. Kanayo, right on the edge of the catwalk, almost follows them, but Ronon grabs him by the back of his coat and hauls him back. Ford looks over the edge at his falling comrades.)<br><br>FORD: Jace!<br><br>(Kanayo turns and glares at Ronon, not at all grateful that he just saved his life. He seems to be more bothered that Ronon might have stretched his coat when he pulled him back.)<br><br>FORD: We have to go after them!<br><br>TEYLA: No-one would have survived that fall.<br><br>DEX: We have to get out of the open. (He turns and walks along the catwalk. The others follow.)<br><br>(In the Dart, John contacts the others by radio.)<br><br>SHEPPARD: You guys OK?<br><br>FORD (angrily): No, we are not OK. You beamed half of us off the edge of the platform.<br><br>(John stares in shock.)<br><br>SHEPPARD: Teyla and Ronon?<br><br>FORD: Is that all you care about? You murdered my men.<br><br>SHEPPARD: I've lost all control of the Dart. I had to release you blind.<br><br>FORD: Maintain radio silence until we've laid the charge.<br><br>SHEPPARD: Negative. We need to stay in contact.<br><br>(Aiden shuts his radio off.)<br><br>TEYLA: You should leave that radio on, Aiden.<br><br>FORD: Don't tell me what to do. (He leads the teams away.)<br><br>(The Dart flies on under its auto pilot. John still has no idea what's going on outside, but we see that it is coming in to land on a narrow platform.)<br><br>SHEPPARD: Ford. Ford. Ford! Dammit!<br><br>(A new message appears on the screen, translated to read EXIT CRAFT FOR INSPECTION.)<br><br>SHEPPARD: I'd prefer not to.<br><br>(A new message appears: OPENING CANOPY. Seconds later, the canopy dematerializes.)<br><br>SHEPPARD: Oh boy!<br><br>(A Wraith guard approaches from the side of the Dart. It stops at the sight of John sitting in the cockpit. John looks round at the guard.)<br><br>SHEPPARD: You mind checking the oil? (He snatches out his P90 and fires a hail of bullets into the guard. As the guard crashes to the ground, a high-pitched alarm begins, echoing around the bay.) This is not good! (He jumps out of the Dart and heads off.)<br><br>(In the corridors, Aiden and his teams stop as they also hear the alarm.)<br><br>FORD: What is that?<br><br>DEX: It's an alarm.<br><br>FORD: That shouldn't happen.<br><br>DEX: No, it shouldn't.<br><br>(Aiden slaps his radio to activate it.)<br><br>FORD: Sheppard, you there?<br><br>(Elsewhere, John guns down another guard.)<br><br>FORD (over radio): Sheppard, you there?<br><br>SHEPPARD: I think I might have set the alarm off. You guys be careful, cause there's probably some guards on the way.<br><br>(Back in the corridors, Ronon's spidey sense is working overtime.)<br><br>DEX: Too late. (He draws his sword from its scabbard.) You wanna live, stay behind me. (He stalks off.)<br><br><br>AIDEN'S CAVE. Rodney is sitting at the table in the main room watching a man injecting himself with enzyme.<br><br>McKAY (appalled): Oh! Do ...? (He looks away.)<br><br>GUARD: Want some?<br><br>McKAY: No, I'm good, thanks.<br><br>GUARD: You sure?<br><br>McKAY: Yeah, pretty sure. (He stands up.) Look, don't you think that they should be back by now, huh? (He's clearly really hyped up on the drug, pacing around, nervous and almost unable to speak.) I mean, how long does it take to fly there and fly back, you know? I mean, I say, uh, it's a minute from, uh, here to the Gate, uh, ten tops from their Gate to the hive ship, um, twenty to get in and lay a charge and then, then, what? Like, ten more to get, get back out and home, right? So ...<br><br>GUARD: Worrying really isn't going to do anything.<br><br>McKAY: Yeah, well, I subscribe to a different school of thought.<br><br>GUARD: They're fine!<br><br>McKAY (getting into the man's face): You can't possibly know that!<br><br>(The guard exchanges looks with another guy in the room. Both of them smile confidently.)<br><br>GUARD: I got a gut feeling.<br><br>McKAY: Yeah, well, I have a different gut. (He folds his arms.)<br><br>(Both men stand up and walk up to Rodney, standing threateningly close to him.)<br><br>McKAY (nervously): ... Feeling.<br><br><br>HIVE SHIP. John reloads his P90.<br><br>SHEPPARD (into radio): Ford. What's your position? (He takes out a grenade.) Ford?!<br><br>(Elsewhere, Ford and his teams are shooting for their lives at approaching guards. Ronon charges in and attacks some of the guards with his sword.)<br><br>(Back at John's position, he hears a growl from an approaching guard.)<br><br>SHEPPARD: Ah, dammit! (He pulls the pin from the grenade and throws it grenade at the guard and it explodes near to it. The guard stumbles away, groaning and badly wounded. John breaks cover and guns it down.)<br><br>(At Aiden's position, the teams continue to fire at or fight with guards. Kanayo and Teyla stand back to back as they fire. A guard appears in a recess in the wall and takes Kanayo down with a stunner. As he cries out and falls, the guard shoots Teyla down.)<br><br>FORD: Keep fighting!<br><br>(At John's position, he rounds a corner where a guard is waiting. It shoots him down with its stunner. Two guards pick him up and drag him off.)<br><br>(At Aiden's position, a guard picks up Teyla by the legs and drags her off. More of Aiden's team are taken down. Aiden and Ronon stand back to back in the centre of the room, firing at all the guards around them. A stunner blast hits them.)<br><br><br>ATLANTIS. ELIZABETH'S OFFICE. Elizabeth is dictating into a recording machine.<br><br>WEIR: ... and thanks to several modifications, the specifics of which are encrypted in this data burst, we believe we can streamline our power consumption a further thirty percent. (She pauses for a moment, lowering the microphone, then lifts it to her mouth again.) Also at the time of this transmission, Colonel Sheppard's team is still missing and is ... (she hesitates for a long time) ... is presumed ... (she hesitates again) ... Colonel Sheppard's team is still missing. End transmission. (She switches off the microphone, puts it on the desk and sighs.)<br><br><br>HIVE SHIP. John regains consciousness in a cell. He is lying on the floor with his head in Teyla's lap.<br><br>TEYLA: Are you alright?<br><br>SHEPPARD: We're in a holding cell?<br><br>TEYLA: Yes.<br><br>(We see that the others are in there too.)<br><br>SHEPPARD: On a hive ship.<br><br>TEYLA: Uh-huh.<br><br>SHEPPARD (sitting up): Well, then, no, I'm not doing so good.<br><br>(Aiden walks over to him, angry.)<br><br>FORD: I can't believe you screwed up.<br><br>SHEPPARD (standing up): I did what?!<br><br>(Aiden gets toe to toe with John and they glare at each other.)<br><br>FORD: You set off the alarm. You ruined the mission.<br><br>SHEPPARD: The Dart went on auto pilot the second I got close to the hive. You're lucky I was able to get you out.<br><br>FORD: Well, why would it do that? Why would it go on auto pilot?<br><br>SHEPPARD: That's what Jumpers do when they gate to Atlantis.<br><br>FORD: Well, why didn't you say something?<br><br>SHEPPARD: Why didn't I say something?!<br><br>(Nearby, Ronon looks as if he's about to interject in the argument. Kanayo steps in front of him to keep him back and they glare at each other.)<br><br>FORD: You want me to fail. You want me to look bad!<br><br>SHEPPARD: Yeah, that's right, you snot-nosed brat. I put my team's life on the line just to prove you wrong!<br><br>(Ronon turns away from Kanayo and looks through the web-like door.)<br><br>DEX: We've got company.<br><br>(A Wraith and two guards approach the door. The Wraith stares into Ronon's face, grinning.)<br><br>WRAITH: Move away.<br><br>DEX: What do you want?<br><br>WRAITH: The one who flew the ship.<br><br>DEX: Why don't you start with me?<br><br>(The doors to the cell open. The Wraith looks at one of the guards and it shoots Ronon with a stunner. He drops to the floor.)<br><br>SHEPPARD: No, wait! You want me.<br><br>(The Wraith sticks its face close to John and sniffs. It makes a satisfied sound and turns and walks away. The guards wield their stunners. John follows the Wraith as Teyla goes to check on Ronon. Aiden stares at the cell doors as they close, then turns to Ronon and Teyla as she helps him up from the floor, his arm around her shoulder.)<br><br>FORD: It's alright. There's always a way out.<br><br>(Ronon glares at him.)<br><br>DEX: If he dies, you die.<br><br><br>The guards march John along a corridor and into a chamber with an illuminated low plinth in the middle. They walk him onto the plinth and take up positions nearby. John turns around several times, looking round the room, although there's no much to see because the rest of it is so dark. Suddenly a Wraith female is behind him. She has long white hair and the biggest mouthful of teeth we've ever seen. John stares at her in shock. She just looks at him for a few seconds, then her right hand shoots up and her long fingernails touch the side of his face. Her voice echoes in his mind.<br><br>HIVE QUEEN: Kneel. {Kneel} {Kneel}<br><br>(Unable to resist her, and just like Colonel Sumner did, John plunges to his knees.)<br><br>TO BE CONTINUED.
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="209.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s2/210.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="211.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s2/index.shtml">
+<IMG SRC="/graphics/title_s2episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Two Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="201.shtml" CLASS="list">The Siege, Part 3</A><BR><A HREF="202.shtml" CLASS="list">The Intruder</A><BR><A HREF="203.shtml" CLASS="list">Runner</A><BR><A HREF="204.shtml" CLASS="list">Duet</A><BR><A HREF="205.shtml" CLASS="list">Condemned</A><BR><A HREF="206.shtml" CLASS="list">Trinity</A><BR><A HREF="207.shtml" CLASS="list">Instinct</A><BR><A HREF="208.shtml" CLASS="list">Conversion</A><BR><A HREF="209.shtml" CLASS="list">Aurora</A><BR><A HREF="210.shtml" CLASS="list">The Lost Boys</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="211.shtml" CLASS="list">The Hive</A><BR><A HREF="212.shtml" CLASS="list">Epiphany</A><BR><A HREF="213.shtml" CLASS="list">Critical Mass</A><BR><A HREF="214.shtml" CLASS="list">Grace Under Pressure</A><BR><A HREF="215.shtml" CLASS="list">The Tower</A><BR><A HREF="216.shtml" CLASS="list">The Long Goodbye</A><BR><A HREF="217.shtml" CLASS="list">Coup D'etat</A><BR><A HREF="218.shtml" CLASS="list">Michael</A><BR><A HREF="219.shtml" CLASS="list">Inferno</A><BR><A HREF="220.shtml" CLASS="list">Allies</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B000LC4ZI0/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B000LC4ZI0/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Two</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B000LC4ZI0/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B000KGGP1W/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B000LPQ67A/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B000LC4ZI0/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls2.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="209.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s2/210.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="211.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

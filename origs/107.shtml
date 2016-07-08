@@ -1,0 +1,526 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Poisoning The Well" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s1/107.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s1/transcripts/107.shtml">Transcript</A>
+				 | <A HREF="/atlantis/s1/reviews/107.shtml">Review</A>
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=513">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=258">Screen Captures</A><BR>
+				<A HREF="/atlantis/s1/107.shtml#analysis">Analysis</A>
+				
+				
+				
+				 | <A HREF="/atlantis/s1/107.shtml#production">Production</A>
+				
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=3066">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s1/107.shtml"><IMG SRC="/atlantis/graphics/107_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="POISONING THE WELL" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://www.amazon.com/exec/obidos/ASIN/B000ICPJPQ/bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 107<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 1, Disc 2<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 08.20.04<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 10.31.05<BR>
+				    <STRONG>STORY BY</STRONG> - <A HREF="http://www.imdb.com/name/nm1738008/" TARGET="_blank">Mary Kaiser</A><BR>
+				    <STRONG>TELEPLAY BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0454307/" TARGET="_blank">Damian Kindler</A><BR>
+				    
+				    
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0877427/" TARGET="_blank">Brad Turner</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">The team finds a world whose people are on the brink of a discovery that may make them immune to the Wraith feeding.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    <B>Additions by Calico.</B><br><br>The Planet HOFF. The scene opens to an exterior shot of a modern cityscape with a river running through it and distance mountains.<br><br>The scene changes to an interior. The planet's leader, Chancellor Druhin, escorts Sheppard's team along a corridor. A man ahead of Druhin opens bar doors and stands off to the side. Druhin is talking while the team follows.<br><br>DRUHIN: Reliable power generation is one of our greatest concerns. With this project, we hope, soon, to be able to convert and utilise the intense heat trap beneath the surface of our planet. (He opens a door and shows them into a laboratory.)<br><br>McKAY: Geo-thermo energy. What? Using this? Huh! Do you have any idea how complex geo-thermo energy is ...<br><br>SHEPPARD (in a warning voice): McKay ...<br><br>McKAY: I mean ... (realising that he's insulting the locals) It's gonna work like a charm.<br><br>SHEPPARD: Looks like you're accomplishing great things here, Chancellor.<br><br>DRUHIN: Since the last Wraith culling we have worked diligently to rebuild our society.<br><br>TEYLA: Are you not concerned that your efforts will attract the attention of the Wraith?<br><br>DRUHIN: Yes ... but we refuse to let that stop us from striving to reach our potential. To do otherwise would simply mean victory for them. However, we currently are working on a viable defence.<br><br>SHEPPARD: Defence? Really? (Rodney, who was looking around the lab, walks back looking interested.) We've been here for two days before you mention that?<br><br>DRUHIN: I had to learn that you could be trusted.<br><br>McKAY: Huh!<br><br>FORD: You're talking about some sort of defensive weapon?<br><br>DRUHIN: You could call it that. Something that we hope will protect us from the next Wraith culling.<br><br>McKAY: So you are expecting it to happen again?<br><br>DRUHIN: Of course. But if the Wraith return as they have historically, they won't be here for at least another fifty years.<br><br>McKAY (throwing a dark look at John): Fifty years, you say.<br><br>SHEPPARD (embarrassed): How ‘bout that weapon?<br><br>DRUHIN: Yes, yes -- if you'll just come this way.<br><br>(He leads the way and Aiden and Teyla follow him. Rodney turns to John.)<br><br>McKAY: You haven't told them that we practically woke the Wraith from hibernation, have you?<br><br>SHEPPARD: Well ... I really haven't had the chance(!)<br><br>McKAY: We've been here two days!<br><br>SHEPPARD: One and a half, really.<br><br>(They start to follow the others.)<br><br>McKAY: Major, they're not expecting the Wraith for another fifty years. We have to let them know they could show up at any time now.<br><br>SHEPPARD: If you're so eager, why don't you tell them!<br><br><br>LATER. Chancellor Druhin has led the team to another part of the complex. This part has lots of white corridors. Armed guards stand outside a room which Druhin leads the team into.<br><br>McKAY: Reminds you of Area 51, doesn't it?<br><br>SHEPPARD: Circa 1918.<br><br>FORD: I don't think Area 51 was around in 1918, sir.<br><br>SHEPPARD: Well, the area was.<br><br>McKAY: True!<br><br>(Druhin leads them into a laboratory.)<br><br>FORD: I don't think there's a hope in hell these people could have a weapon that ...<br><br>SHEPPARD: Weapons come in all shapes and sizes, Lieutenant.<br><br>(A Hoffan scientist picks up a test tube full of liquid and hands it to Druhin. He holds it up to show John.)<br><br>DRUHIN: Major Sheppard, I think you'll find this intriguing.<br><br>(John takes the test tube and looks at it.)<br><br>SHEPPARD: OK, I'm intrigued. What is it?<br><br>DRUHIN: Something that we hope will one day make us completely immune to the Wraith.<br><br><br>ATLANTIS. CONFERENCE ROOM. The team, sitting around the table, reports to Doctor Weir.<br><br>TEYLA: According to Chancellor Druhin the drug is still several years away from being finished.<br><br>McKAY: I'd say, given their current level of technology, that, er, could be an under-statement. Just because they believe they're close to a breakthrough, it doesn't mean that they are.<br><br>TEYLA: You saw for yourself -- their entire civilisation is based upon the completion of that goal, Doctor McKay. I would not under-estimate them.<br><br>WEIR: Do we even know for certain that the Wraith are an immediate threat?<br><br>SHEPPARD: We can probably bet they don't have fifty years.<br><br>McKAY: Hence Major Sheppard has generously offered our help to the Hoffans.<br><br>WEIR: Has he?<br><br>SHEPPARD: Look, the fact is, if they're onto something, maybe we can speed up the process.<br><br>WEIR: OK, Major, you have a go. But if the drug really is just a pipe dream ...<br><br>SHEPPARD: Our Doctor Beckett's already volunteered to help us find that out.<br><br>WEIR: Oh, he has, huh?<br><br>SHEPPARD (shrugging nonchalantly): He will.<br><br><br>WORMHOLE TRAVEL.<br><br><br>HOFF. The team, together with Doctor Beckett, is walking along the dark corridors in the complex.<br><br>BECKETT: It's not that I mind lending people a hand ...<br><br>SHEPPARD: No, of course not.<br><br>McKAY: You're a generous man, Carson.<br><br>BECKETT: ... but it's the principle of the thing, isn't it? You can't go volunteering someone for something without consulting them first. That's not even volunteering, is it? It's being pressed into service. Not to mention the fact that I'm not ...<br><br>SHEPPARD: ... not military, I can't give you orders. I know.<br><br>McKAY: Nonononono -- he just doesn't like going through the Stargate.<br><br>SHEPPARD: He's worse than Doctor McCoy.<br><br>TEYLA: Who?<br><br>SHEPPARD: The TV character that Doctor Beckett plays in real life.<br><br>BECKETT: Converting a human body into energy and sending it millions of light years through a wormhole -- bloody insanity.<br><br>McKAY: C'mon, how often do you get to travel to an alien planet?<br><br>BECKETT: I was already on an alien planet!<br><br><br>HOFFAN SCIENCE LAB. Carson is walking around the lab looking at things. He picks up a rack of test tubes.<br><br>SHEPPARD: Should you be messing with that stuff?<br><br>BECKETT: I know what I'm doing, Major, thank you. From the looks of things they've mastered a few basics -- biochemistry, physiology, perhaps even some form of molecular biology. Fairly impressive considering ...<br><br>(A female Hoffan scientist interrupts him.)<br><br>PERNA: It is our people's legacy. This room represents hundreds of years of medical knowledge. (Carson turns and stares at her, instantly besotted.) I am Perna, chief scientist for the project.<br><br>(John and Rodney also seem taken with her.)<br><br>SHEPPARD: John Sheppard. Uh, and this is Teyla, and Lieutenant Ford ...<br><br>BECKETT (smiling in a soppy way): Carson. Beckett. Doctor. I mean, call me Carson. (He grins at her.)<br><br>McKAY: I'm, uh, Doctor McKay, Doctor Rodney McKay. (He smiles and holds out his hand for her to shake. She looks at him, confused, ignoring his hand, then turns to Carson.)<br><br>PERNA: I hope you will find our facilities suitable.<br><br>BECKETT: Oh, they're charming! Perfectly charming! (He grins at her again.)<br><br><br>DARK CORRIDORS. Druhin is escorting the team, minus Carson, through the corridors.<br><br>DRUHIN: Long ago, this city was once a testament to our imagination, our creative spirit, to endless possibility.<br><br>McKAY: How long ago was that?<br><br>DRUHIN: It is true that we have been forced to rebuild many times and never to our potential. That is why perfecting the drug is so important. It is more than just a defence against the Wraith -- it is our future.<br><br>TEYLA: With respect, Chancellor, you cannot prevent the culling -- it is a fact of existence.<br><br>DRUHIN: A fact we challenge. We will always search for a way to end the cycle of destruction.<br><br>TEYLA: The Wraith will always prevent any race from advancing too far.<br><br>SHEPPARD: You figure you can beat ‘em?<br><br>DRUHIN: Yes, through knowledge.<br><br>(They reach a guarded door. Druhin indicates to the guard, who unlocks the heavily barred door. Inside is a huge library.)<br><br>DRUHIN: A number of archives like this one are hidden throughout the city. Their existence is known only to a few.<br><br>SHEPPARD: This is very impressive.<br><br>DRUHIN: We meticulously preserve the accomplishments of each generation before they are wiped out by the Wraith.<br><br>SHEPPARD: So everything your people ever learned is in here?<br><br>DRUHIN: And in other archives identical to this one.<br><br>McKAY: In case they destroy one. You guys are serious about this.<br><br>DRUHIN: Standing on the shoulders of our forefathers.<br><br>TEYLA: How long have you been working on this Wraith drug?<br><br>DRUHIN: One hundred and fifty years ago, our scientists were close to creating a viable prototype, only to die before seeing its fruition.<br><br>SHEPPARD: So you're hoping that, if this world's no good to them, they're just gonna move on?<br><br>DRUHIN: The Wraith cannot possibly perceive us as a threat.<br><br>SHEPPARD: Y'know, to tell you the truth, I don't know how they would react.<br><br>TEYLA: If they choose to wipe you out of existence, you will be helpless.<br><br>DRUHIN: We cannot hope to control their actions. We can only do what we can to end the cycle that has gone on for far too long.<br><br><br>LAB. Perna takes down a book from the top of a cupboard and brings it over to show to Carson.<br><br>PERNA: His name was Ferrel Mylan. Before he died in the last culling, he was one of our most celebrated medical researchers. He was the one who found it.<br><br>BECKETT: Found what?<br><br>PERNA: The key. (She opens the book.) His journals tell of one man who survived an encounter with the Wraith. Ferrel and his team discovered that this man possessed a unique protein, one that enabled him to resist the chemical released by the Wraith to precipitate draining of life from their victims. After painstaking trial and error ...<br><br>BECKETT (looking at the book): Ferrel made a copy of the protein.<br><br>PERNA: He was eventually able to create a prototype of a drug designed to interfere with the Wraith feeding process.<br><br>BECKETT: And it worked?<br><br>PERNA: Ferrel was killed before the drug could be used to defend Hoff.<br><br>BECKETT: And it's been your job to make certain his work wasn't in vain. Quite the responsibility.<br><br>PERNA: It is a great honour.<br><br>BECKETT (looking through more pages): How do you know for certain that this Ferrel wasn't just embellishing his results, or for that matter making them up? I mean, all you have to go on are his notes.<br><br>PERNA: He and his team worked until the last possible moment. They knew the Wraith ships were overhead and still they worked through the night, hoping to provide one more insight, one last thread of knowledge -- not for themselves but for the generation that would survive. Ten thousand soldiers gave their lives to give them those last few hours. The last words of Ferrel's journal are known to all Hoffans.<br><br>BECKETT: I meant no disrespect, Perna.<br><br>PERNA: It's alright. More than just his journals survived the culling. (She goes over to another desk to collect a slide.) His research materials were safeguarded as well, including carefully-preserved Wraith cell samples which we still use in our work today. (She puts the slide down. Carson gets up and goes over to the microscope near the slide.) Please. (Carson sits down.) See for yourself.<br><br>(Carson puts the slide under the microscope and looks into the eyepiece.)<br><br>BECKETT: Oh! (He looks up at Perna.) That's incredible!<br><br>(She smiles at him. He looks back into the microscope.)<br><br><br>ATLANTIS. Doctors Weir and Beckett are walking along together down the stairs and into corridors, discussing the Hoffans' discovery.<br><br>BECKETT: I saw it with my own eyes, Doctor Weir.<br><br>WEIR: Yes, in a Petri dish, and we are talking about a hundred and fifty year old Wraith cells. I mean, for all we know, they could be immune to the drug by now, or come up with defences against it.<br><br>BECKETT: Well, I don't think so, Doctor. I took the liberty of running a few tests of my own using cells taken from the Wraith arm Major Sheppard brought back from Athos. The results were the same: near complete resistance. They've definitely got something. Believe me, I'm more surprised than anyone.<br><br>WEIR: So what do you recommend?<br><br>BECKETT: That we take their work to the next level. I've informed the Hoffans of our guest in the brig.<br><br>WEIR: You realise what you're asking for?<br><br>(Carson nods.)<br><br>BECKETT: I do.<br><br><br>BRIG. Sergeant Bates is standing outside the Wraith's cell. He turns as John walks in.<br><br>SHEPPARD: Anything I should know about, Sergeant?<br><br>BATES: No, sir, he's been quiet.<br><br>SHEPPARD: Still trying to make you see things?<br><br>BATES: He's given up on that.<br><br>(John looks at the Wraith sitting quietly in his cell.)<br><br>SHEPPARD: I didn't think he'd last this long. (He walks over to the bars. The Wraith looks up at him.)<br><br>WRAITH: Hello again, Major Sheppard.<br><br>(John nods to him. The Wraith stands up.)<br><br>SHEPPARD: Sorry if I woke you. Just came by to see if there's anything you needed -- magazine, fresh towels.<br><br>WRAITH: You hide your fear poorly, Major.<br><br>SHEPPARD: Y'know, we've been having these conversations for a couple of weeks now, and I don't even know your name. You guys do have names, right? (The Wraith just looks at him.) Let me guess ... (he looks away for a moment as if thinking) ... Steve?<br><br>WRAITH: I am your death. That is all you need to know.<br><br>SHEPPARD: I prefer Steve.<br><br>(The Wraith walks closer so that he is standing just the other side of the bars to John.)<br><br>WRAITH: What do you hope to gain from this?<br><br>SHEPPARD: Just trying to bridge the gap between our two cultures; get to know you better. That and try to figure out how to keep your kind from sucking the life out of millions of innocent people.<br><br>WRAITH: Even if I told you what you want to know, it would change nothing. You are doomed -- as are any humans that stand in our way.<br><br>SHEPPARD: Can't be a nice way to die -- hungry, slow, knowing your food source is just ... (he holds up a hand and grasps at the air) out of reach.<br><br>(The Wraith roars and tries to strike at John but only hits the forcefield. He roars in rage.)<br><br>WRAITH (furiously): Why do you keep me here? (He starts angrily pacing back and forth.)<br><br>SHEPPARD: I need to know what we're up against. For example, how many of those big hive ships have you got and where are they?<br><br>WRAITH: You have nothing to offer me in return. (He finally stops pacing.)<br><br>SHEPPARD: We could talk about easing your hunger ... (the Wraith looks at him) ... Steve.<br><br>WRAITH: You would never sacrifice one of your own kind. And yet, it is all that stands between you and the information you seek.<br><br><br>ATLANTIS CONFERENCE ROOM. We follow a female member of Atlantis up the stairs and into the conference room, where she hands a report to Dr Beckett, who is walking around the table giving his report.<br><br>BECKETT: Using living Wraith cells is our only recourse at this juncture. Without them we have no way of knowing for certain if the drug is actually viable.<br><br>TEYLA: You said it worked effectively on the cells of the severed Wraith arm we brought back.<br><br>BECKETT: It did -- but those were already in a partially decayed state. We need live samples.<br><br>WEIR: And with new samples you think it's possible to create a prototype?<br><br>BECKETT: Given enough time, yes I do.<br><br>McKAY: He's got a good point -- the Hoffans are practically obsessed.<br><br>BECKETT: Thank you, Rodney.<br><br>TEYLA (to Rodney): I agree, Doctor. (To Elizabeth) But their obsession may become their undoing.<br><br>McKAY: Well, even if they do ... undo, it'd be good for us. I mean, given the choice, wouldn't you want to be immune?<br><br>TEYLA: Not if it meant the lives the Wraith might otherwise spare. This drug would only be of value if everyone, everywhere, possessed the same immunity.<br><br>SHEPPARD (pointing at her in agreement): There's a thought worth pursuing.<br><br>WEIR: I agree. Major, have you made any progress with your prisoner?<br><br>SHEPPARD: Well, not yet, but he just blinked.<br><br>McKAY: He blinked? What does that mean?<br><br>SHEPPARD: It means he's still holding on but he's indicated to me that he may break soon.<br><br>McKAY: And he indicated this to you by ... blinking?<br><br>SHEPPARD: Yes.<br><br>BECKETT: No offence, Major, but so far he hasn't told you a thing. For all we know he could linger this way for months and ultimately we'll learn nothing.<br><br>TEYLA: The Wraith could be on their way to Hoff as we speak. If your prisoner holds the key to the creation of this drug, should we not take advantage of this?<br><br>WEIR: How can we get the sample off him safely?<br><br>TEYLA: We still possess the weapons used in his capture. It would be a simple matter of incapacitating him again.<br><br>WEIR: So, then, it's possible?<br><br>SHEPPARD: It's possible.<br><br><br>BRIG. The Wraith is crouched on the floor with his back to the door of his cage as it slides open. John takes a couple of steps forward.<br><br>SHEPPARD: Hi, Steve.<br><br>(The Wraith growls, stands and turns around.)<br><br>FORD: Bye, Steve.<br><br>(The Wraith runs towards them but Aiden shoots him with the Wraith gun. The Wraith falls to his knees, grunting with pain, then stands up and hurls himself towards the men again. Aiden shoots him a second time and this time he collapses to the floor. John, Aiden and Sergeant Bates walk cautiously forward, all aiming weapons at him.)<br><br>SHEPPARD: Doctor.<br><br>(Carson walks nervously forward.)<br><br>BECKETT: Is he -- I mean, you're certain he's ...<br><br>FORD: He's down, Doc. Do your thing.<br><br>(Carson sighs, and nervously walks over to squat down by the Wraith.)<br><br>FORD: Almost looks peaceful, doesn't he?<br><br>BECKETT: Peaceful?! You're out of your bloody mind!<br><br><br>HOFF. LAB. Carson is plugging in a laptop while Perna works setting up other equipment. Perna walks over to him, looking excited.<br><br>PERNA: I have never seen devices such as these!<br><br>BECKETT: The work you've done refining the drug has been good up til now. With all this (he switches on the laptop which shows enlarged microscopic images from the microscope that's in front of him) we can make it better. (He looks into the microscope.) From what I can tell, your biggest problem is that the test inoculations failed to show enough of a presence in human cells to be effective.<br><br>PERNA: What we need is a better delivery system.<br><br>BECKETT: Exactly. And the best place to start is to recreate the key protein in the serum and work our way up from there. If we can avoid having to re-engineer it from a natural source, and make an entirely synthetic version, it should ultimately increase the efficiency.<br><br>PERNA: Such a thing is possible?<br><br>BECKETT: Anything's possible if you're willing to give it a go. (He claps his hands together.) C'mon then, a bald head is soon shaved. (He looks into the microscope again.)<br><br>PERNA: You speak differently than the others.<br><br>BECKETT (looking up from the microscope and laughing sheepishly): Noticed that, did you?! Sorry if I confuse you. Trust me, where I come from, it all makes perfect sense.<br><br>PERNA: What is it like?<br><br>BECKETT: Scotland? Oh, I think it's beautiful. But I'm told it's something of an acquired taste.<br><br>PERNA: I meant your world. It must be so peaceful there, knowing that the Wraith will not come.<br><br>BECKETT: Oh, you'd be surprised how not peaceful it is. We're spoiled rotten, now that I think of it.<br><br>PERNA: You miss it -- I'm sorry for enquiring.<br><br>BECKETT: Oh, no, no. Don't be, love.<br><br><br>A montage of scenes follows as Carson and Perna continue working on developing the serum. Meanwhile, back at Atlantis, John continues to interrogate the Wraith to no avail. In Hoff, Carson and Perna are working long hours, often looking frustrated at the lack of results. In Atlantis, the Wraith is beginning to show signs of exhaustion. In one scene, Perna is reading aloud to Carson from Ferrel's journals. In Atlantis, the stand-off between John and the Wraith continues. Finally, on Hoff, as Perna sits at a desk writing, behind her Carson looks into a microscope, scribbles something on a clipboard, then turns to her excitedly.<br><br>BECKETT: Perna!<br><br>(Perna gets up and comes over to look at what he has written. She turns to him, her face a picture of delight, then throws herself into his arms, laughing in joy and relief. Carson hugs her back, also laughing. He holds her tight around the waist and lifts her off her feet. She shrieks with laughter, then they let each other go and turn to look at the results again.)<br><br><br>CHANCELLOR'S OFFICE. Chancellor Druhin is looking at the results as Carson and Perna stand nearby.<br><br>DRUHIN (reading the paper): "One hundred percent cellular penetration in all five test inoculations" -- incredible!<br><br>BECKETT: There's still a lot of data to be analysed but the initial results are very promising, I agree.<br><br>PERNA: Doctor Beckett's efforts have advanced the project by decades.<br><br>BECKETT: Perna's formula was right on track. It was just a matter of changing its molecular design so it could be better absorbed by the body.<br><br>DRUHIN: This is an enormous victory for our people, Doctor. I don't know how to thank you.<br><br>BECKETT: No need. Of course, it's only a preliminary.<br><br>DRUHIN: How soon until you can set up the next stage of testing?<br><br>PERNA: You'll have a schedule later today, Chancellor.<br><br>(Carson blinks.)<br><br>BECKETT: I'm sorry -- next stage?<br><br>DRUHIN: Your report makes it abundantly clear that the project is ready to proceed to its next phase.<br><br>PERNA: We want to test the serum's effectiveness against your prisoner.<br><br><br>ATLANTIS. Elizabeth and John are walking along the upper walkway that encircles the Gateroom toward and into Elizabeth's office, discussing the situation.<br><br>WEIR: And you support this?<br><br>SHEPPARD: Well, I know for certain he's gonna die so we might as well make good use of him while he's still alive.<br><br>WEIR: You do understand the Geneva Convention prohibits using prisoners for scientific experiments?<br><br>SHEPPARD: No offence, Doc, but had the Wraith attended the Geneva Convention, they would have tried to feed on everyone there.<br><br>WEIR: Beckett's report indicates that we have no idea what the long-term effect of this drug on humans might be.<br><br>SHEPPARD: Well, we know damn well what the long-term effects of Wraith culling are, don't we?<br><br>WEIR: We're talking about putting a human being in the same room as a starving Wraith. Now once we start down that road ...<br><br>SHEPPARD: Which road did you think we were headed down?<br><br>WEIR: Not this one. At least not this fast.<br><br>SHEPPARD: Having spent time with the prisoner, I don't pity him. He's gonna die anyway. This drug could be useful some day.<br><br>WEIR: Some day.<br><br>SHEPPARD: The point is, we don't get a lot of opportunities like this. Do you know how obsessed with this the Hoffans are when they found out we had a live Wraith prisoner? He's going to die. I tried to feed him all sorts of live stuff but apparently there's only one item on his menu.<br><br>WEIR: What of the test subject? If the drug fails ...<br><br>SHEPPARD: We're not just grabbing anybody off the street. The test subject is a terminally ill patient who has volunteered himself.<br><br>(Elizabeth sighs.)<br><br>WEIR: These are not exactly the type of decisions I was expecting to make on this expedition. (John shakes his head and stands back, crossing his arms. Elizabeth gets up and goes to the window, looking out for a moment, before turning back to face John.) Do it.<br><br><br>BRIG. Sheppard comes into the brig and walks over to the cage.<br><br>SHEPPARD: Hi, Steve.<br><br>WRAITH (not looking at him): More samples?<br><br>SHEPPARD: I was thinking more along the lines of a field trip. You want sustenance? I want information.<br><br>WRAITH (turning his head to look at John): You are incapable of offering such a trade.<br><br>SHEPPARD: You tell me something of value -- I let you eat. That's the deal. Take it or leave it.<br><br>(The Wraith turns to face John.)<br><br>WRAITH: Very well.<br><br><br>CONTROL ROOM. Elizabeth comes out of her office and walks over to a technician.<br><br>WEIR: Are they ready?<br><br>TECHNICIAN: Major Sheppard and Lieutenant Ford are loading the prisoner into Jumper Two. (He watches a screen as three white dots move into the rear of a graphic of a Puddlejumper.) Sergeant Bates is already on the ground and standing by for their arrival at the rendezvous site.<br><br>(In the Jumper Bay, we see an exterior shot of the Puddlejumper with two soldiers guarding the rear door. Then the camera pan to the interior of the Jumper and we see the Wraith, heavily chained, sitting with guards on either side of him pointing rifles at him. The rear door closes.)<br><br>WEIR: Jumper Two, this is Weir. What's your status?<br><br>SHEPPARD (over radio): Nice and cosy in here. We're ready to depart.<br><br>WEIR: Be safe, Major.<br><br>SHEPPARD: That's the plan.<br><br>TECHNICIAN: Jumper Two, you are go for launch.<br><br>SHEPPARD: Roger that. (In the Jumper, John turns to Aiden who is sitting alongside him.) Dial it up.<br><br>(Aiden taps in the symbols, then turns and looks at the Wraith, who appears to have a grin on his face.)<br><br>FORD: Hey, man, this isn't supposed to be fun.<br><br>(The Wraith turns and looks at him, still grinning, before turning away again. Aiden turns back to the front. Outside the window, the Stargate whooshes as the Jumper lowers into position, and goes through the Gate. In the Control Room, Elizabeth stands on the balcony of the Control Room watching as the Gate closes down.)<br><br><br>HOFF. MEDICAL CENTRE CANTEEN. Carson and Perna are sitting at a table with the volunteer.<br><br>BECKETT: Perna explained to me about your illness. I want you to know how sorry I am. I wish there was something I could do for you.<br><br>(We see Merell for the first time -- he's only in his twenties.)<br><br>MERELL: It's my time, Doctor Beckett. I'm at peace with my fate.<br><br>BECKETT: I think it's important you know that we may be talking about a less than peaceful ending here.<br><br>PERNA: I have explained to Merell in great detail what may befall him.<br><br>BECKETT: You should also understand that this drug has never worked in anything other than a laboratory simulation. We don't know for certain what will happen.<br><br>MERELL: Even if it doesn't work, you'll learn something of value -- how to perfect it in the future? <br><br>BECKETT: Possibly, but that's no reason for you to face that creature.<br><br>MERELL: Doctor Beckett, I'm not afraid. No matter what happens, my death will have meaning. Is that not something we all strive for, to die knowing we made a difference? I want to do this. Please don't deny me the chance to help my people.<br><br>(Perna looks at Carson. Carson bows his head, knowing that he cannot change Merell's mind.)<br><br><br>LATER. Carson and Perna leave the canteen and walk down a corridor.<br><br>PERNA: What do you think?<br><br>BECKETT: That it goes against everything I believe in. There's an oath among medical people where I come from. It begins, "First, do no harm."<br><br>PERNA: Important words to you.<br><br>BECKETT: More than words, Perna.<br><br>PERNA: "The battle rages at the very threshold of our laboratory now. Those of us working to the last know that these few final hours have been dearly purchased, yet our concentration has not waned. We cannot hope to save ourselves but we can hope that one last insight, one last revelation before we take our dying breaths, may prevent this terrible day from happening again."<br><br>BECKETT: Ferrel's last journal entry.<br><br>PERNA: More than words, Carson.<br><br>BECKETT: I understand that. I do. But there are too many unknowns. We need time to determine the possible side-effects ...<br><br>PERNA: There is no time! Are you so afraid of making a mistake that you can no longer see what we're up against?<br><br>BECKETT: This isn't about making mistakes, Perna -- it's about the end justifying the means, and in our profession that's a very slippery slope. We have no idea if this'll work. We could be sacrificing that man to a monster.<br><br>PERNA: There will be another to take his place.<br><br>BECKETT: That's just what I'm afraid of.<br><br><br>HOFFAN CELL BLOCK. The Wraith is sitting inside a similar-looking cage to the one he inhabited on Atlantis, except this one doesn't have a forcefield. Teyla comes into the room and goes over to John.<br><br>TEYLA: They are ready.<br><br>(John walks closer to the cell.)<br><br>FORD: Careful, sir.<br><br>(Perna, Carson and Merell come into the room. The Wraith looks up, and realises that Merell is his ‘meal'. He also realises that Merell is unwell.)<br><br>WRAITH (dismissively): This is the sustenance you promised?<br><br>SHEPPARD: Little change in plans. You tell me something right now, or the dinner party's cancelled.<br><br>WRAITH: What do you want to know?<br><br>SHEPPARD: How many hive ships have become operational since we awakened the first one?<br><br>WRAITH: All of them, Major Sheppard. First, they will travel to their own feeding grounds and gather strength. We are a patient race, Major. When we have taken our fill and gathered our strength, we will join force and come for you.<br><br>SHEPPARD: D'you have any idea when that'll be? Morning? Afternoon?<br><br>(The Wraith makes an exasperated sound. John turns to the marines.)<br><br>SHEPPARD: Open it up.<br><br>(One of the marines steps forward, unlocks the door and opens it. Merell, wearing what looks like a nightgown, with a blanket over his shoulders, steps forward. Carson takes hold of his wrist and stops him.)<br><br>BECKETT: You don't have to do this.<br><br>MERELL: I know. (He looks at Perna.) I'm ready. (He takes the blanket off his shoulders. Carson takes it from him.)<br><br>(In the cage, the Wraith takes in a deep expectant breath. Merell walks inside the cage. As the marine closes the door behind him, Merell starts to unbutton his nightgown. As the door slams shut, the Wraith stands and faces Merell. He walks closer and inspects him for a few moments.)<br><br>WRAITH: He is weak.<br><br>(Outside the cage, Perna looks terrified, afraid that the Wraith will reject the ‘offering'. However, after a few seconds the Wraith slams his open hand onto Merell's bare chest and snarls. Perna looks horrified, finally realising what she has brought about. The Wraith stands with his nails piercing Merell's chest, but after a few moments he snarls again and pulls away, clutching his hand as if it hurts him. Merell looks down at the wounds on his chest, then looks up at the Wraith again. The Wraith turns away in disgust. Perna gasps, overcome by what she has just witnessed.)<br><br><br>CHANCELLOR'S OFFICE. Chancellor Druhin is filling three glasses with what looks like champagne. He puts the bottle back into an ice bucket and picks up two of the glasses to give to Carson and Perna.<br><br>DRUHIN: You are both heroes of the Hoffan people.<br><br>BECKETT: I'll admit, it was amazing.<br><br>(Druhin picks up his own glass.)<br><br>DRUHIN: I hope your friends will join us for a celebratory banquet to honour your work.<br><br>BECKETT: We'll be glad to attend, but don't you think celebrations are a bit premature?<br><br>DRUHIN: The results speak for themselves. (To Perna) I intend to ask the Council to approve mass production of the serum, effective immediately. After what happened today, I doubt they will offer any resistance.<br><br>PERNA: That is wonderful news, Chancellor.<br><br>BECKETT: With all due respect, no it isn't. We're talking about one test here. Now I'm as pleased as anyone with the results but we still have a lot of work to do before we can start using it.<br><br>PERNA: Doctor Beckett wishes to run a full series of tests on Merell prior to issuing his final report. (She frowns at Druhin, clearly not understanding Carson's caution.)<br><br>BECKETT: There may have been mitigating circumstances -- the man was dying, for one.<br><br>DRUHIN (a little condescendingly): Of course. I'll bring it up with Council. (He raises his glass.) To success. (The three of them clink glasses.)<br><br><br>CELL BLOCK. John and Teyla come in, clearly having been summoned.<br><br>SHEPPARD: What is it?<br><br>FORD: It's Steve -- he doesn't look so good.<br><br>(In the cage, the Wraith is crouched in the corner, gasping in apparent pain.)<br><br>TEYLA: How long has he been like this?<br><br>FORD: Since the test.<br><br>SHEPPARD: Think it's a ruse?<br><br>TEYLA: It is not their way.<br><br>(The Wraith painfully hauls himself to his feet.)<br><br>SHEPPARD: Hey.<br><br>WRAITH: What have you done to me? (He convulses with pain. As the others watch, part-sympathetically, he roars and races across the cage to where they're standing. He's so fast that John only just has time to dodge backwards as the Wraith slams his arm through the bars, grabbing for John's throat and missing by mere inches. This last moment of effort is too much for the Wraith, and he collapses to the floor where he lies half propped up on one elbow, clearly in genuine pain.)<br><br>SHEPPARD: We need Beckett in here.<br><br>FORD (to one of the marines): Go.<br><br>(The marine hurries out. John crouches down to look closer at the Wraith, who is gasping in pain.)<br><br>SHEPPARD: We're gonna help you.<br><br>(The Wraith looks up at him, a snarl on his face.)<br><br>WRAITH: Don't feel pity for me. You will suffer far worse when the others come for you. (Gasping in agony, he collapses backwards onto the floor, dead.)<br><br><br>LATER. The Wraith's body has been brought to a morgue. John walks around the table that the body is laying on, staring down at it. Carson, dressed in a white hospital gown, comes up behind him, making him jump.<br><br>BECKETT: Major. I was just about to cut him open.<br><br>SHEPPARD: Then, I was just leaving.<br><br>BECKETT: I've already done a series of tests you might like to know the results of.<br><br>SHEPPARD: You know what killed him?<br><br>BECKETT: I'm gonna go out on a limb here and say that it was all of his vital organs shutting down almost simultaneously.<br><br>SHEPPARD: Did he starve to death?<br><br>BECKETT: No. Based on the condition his body's in, I don't think he died from a lack of nourishment.<br><br>SHEPPARD: Well, then, what was it?<br><br>BECKETT: Initial tests revealed a significant amount of Hoffan serum in his bloodstream. I'm guessing we'll find similar trace amounts in each of his organs once we analyse those as well.<br><br>SHEPPARD: Why did the Hoffan drug end up in his blood?<br><br>BECKETT: From the Hoffans' research, we know that when the Wraith feed, they release a chemical into their victims' bodies. What it actually does, we don't yet understand, but I can only assume that it prepares the human body in some way to be drained of life. The serum is designed to shield the victim from that initial chemical release, blocking it.<br><br>SHEPPARD: OK.<br><br>BECKETT: I think the serum protein may have mutated when it was exposed to the Wraith chemical, triggering some sort of toxic reaction.<br><br>SHEPPARD: So instead of feeding off of him ...<br><br>BECKETT: ... he was poisoned. So if the serum did this, then it's more than just a defence against the Wraith.<br><br>SHEPPARD: It kills ‘em.<br><br><br>CHANCELLOR'S OFFICE. Druhin is talking with John and Teyla.<br><br>DRUHIN: I fail to see cause for alarm, Major. If anything, this development dramatically increases the value of the serum.<br><br>SHEPPARD: No -- it just takes away any doubt about what the Wraith'll do when they eventually come here.<br><br>DRUHIN: I fail to see the difference.<br><br>TEYLA: Once they learn you possess a weapon such as this, the Wraith will wipe your people from existence in retaliation for the Wraith deaths.<br><br>DRUHIN: Or they may simply leave us alone once they learn we are ... unpalatable.<br><br>SHEPPARD (sarcastically): Cos they're such an easy-going live-and-let-live kind of race. (Seriously) Y'know, maybe there was half a chance of that when you were talking about this being defensive, but now ...<br><br>DRUHIN: You fail to see the larger picture, Major. For the first time we have a way to not just defend ourselves but to strike back.<br><br>SHEPPARD: Is this about revenge, or saving your people?<br><br>DRUHIN: You can't hope to understand the generations of suffering ...<br><br>SHEPPARD (interrupting): I've been in one of their hives and I've fought against their ships and, trust me, when the first Wraith dies because of this drug, they're not gonna simply move on. They're gonna make their problem go away.<br><br>TEYLA: Once your world has been destroyed, they will seek out any who have had contact with you. They will spare no-one.<br><br>SHEPPARD: Listen, I know how passionate you are about this -- this drug is sort of your Holy Grail, but you're gonna have to shelve it til we get a better idea ...<br><br>DRUHIN (interrupting): No, no.<br><br>SHEPPARD: I'm serious -- otherwise we can't help you any more.<br><br>DRUHIN: You don't understand, Major, it's too late. I have made my recommendation to the Council and they've agreed. We have already begun inoculating our people.<br><br><br>PERNA'S LAB. Carson is packing away his equipment. Perna hurries in and stands watching him for a moment.<br><br>PERNA: You are leaving?<br><br>BECKETT: Unless you're willing to go back to formula on the serum there's no point my staying, is there?<br><br>PERNA: Carson ...<br><br>BECKETT: Perna, you need to re-open the project. With more work, maybe you could prevent the mutation -- maintain it as a defensive drug only.<br><br>PERNA: Merell is dead. They found him this morning -- the cause of death is still to be determined.<br><br>BECKETT: There's still time -- they need to stop the inoculations.<br><br>PERNA: They won't.<br><br>BECKETT: A man is dead.<br><br>PERNA: Which doesn't necessarily mean more will follow. (Carson turns away, exasperated.) Even if I wanted to, I couldn't make them stop, not without more proof.<br><br>(Carson turns to her and takes her hands.)<br><br>BECKETT: Perna -- you're one of the brightest people I've ever met. For your own sake, I beg you, have no more part in this, at least until we know more.<br><br>PERNA: I can't do that.<br><br>BECKETT: Why not?<br><br>PERNA: Because I was among the first to be inoculated.<br><br><br>CHANCELLOR'S OFFICE. Carson and Perna are sitting at the table with Chancellor Druhin. John is standing nearby.<br><br>DRUHIN: I appreciate your sense of urgency, Doctor, but at this point it would be unwise to rush to any conclusions.<br><br>SHEPPARD: Now you wanna exercise caution? Are you serious?!<br><br>DRUHIN: Major, you yourself have told us the Wraith could be on their way here right now. We have no choice but to move forward.<br><br>SHEPPARD: You're speaking on behalf of a lot of people, Chancellor.<br><br>DRUHIN: You think I would force this choice upon my own people? No, sir, our people are in complete agreement.<br><br>SHEPPARD: Your people may be dead before the Wraith even get here for all you know.<br><br>BECKETT: Chancellor, please, it's not too late. Suspend the inoculations at least until we know what killed Merell.<br><br>PERNA: He was terminal. We don't know for certain the serum played any part in his death.<br><br>BECKETT: He suffered a sudden and complete respiratory breakdown.<br><br>PERNA: Which could well have been due to his condition. His sickness had spread through most of his body.<br><br>BECKETT: Are you willing to risk thousands of people's lives based on that assumption, because I'm not!<br><br>(Teyla's voice comes over John's radio.)<br><br>TEYLA (over radio): Major Sheppard?<br><br>SHEPPARD (into radio): Go ahead, Teyla.<br><br>(We see Teyla -- she's in a ward at the centre. There is frantic activity going on around her.)<br><br>TEYLA (into radio): We're in the medical centre. We need help.<br><br>(In the Chancellor's office, everyone gets up and heads out.)<br><br><br>MEDICAL CENTRE. Druhin, John, Carson and Perna walk in behind a patient being wheeled in on a gurney.<br><br>BECKETT: My God!<br><br>(As they walk into the ward, we see that there are many patients, together with nurses and doctors rushing around.)<br><br>TEYLA: Major Sheppard. The doctors say they began arriving last night, and their numbers have been increasing by the hour.<br><br>BECKETT: Major.<br><br>SHEPPARD: I'm on it -- go. (Carson takes off his jacket and gets to work. John goes to Aiden.) Lieutenant, radio Weir, tell ‘em we need a full medical support team on a Jumper and inbound ASAP. <br><br>FORD: Roger that. (He leaves to carry out John's orders.)<br><br>(John looks around the ward. Everywhere patients are sitting on beds or lying down, coughing painfully. Chancellor Druhin looks around, then walks away. Perna is examining one patient. Carson, working with another patient, calls to her.)<br><br>BECKETT: Perna. Perna -- I need help here! (She rushes over to him.) Oxygen! (Perna grabs a mask as the man on the gurney gasps for breath. Carson speaks to the patient.) Take it easy. (However, before Perna can put the mask to the patient's face, he dies. Carson pulls the man's sleeve back from his arm and sees an inoculation mark on his arm. He and Perna look at each other.)<br><br><br>CHANCELLOR'S OFFICE. John barges through the office doors to confront Druhin. A security guard rushes forward but Druhin holds his arm out to stop him.<br><br>DRUHIN (to the guard): Leave us. (The guard bows and leaves.)<br><br>SHEPPARD: D'you have any idea what's going on out there?<br><br>DRUHIN: I do, Major.<br><br>SHEPPARD: Half the people you gave that drug to are dying.<br><br>DRUHIN: Half of them, Major, half. The statistics are clear and the numbers are holding at that level, it's just been confirmed, which means the other fifty percent of those we inoculated will live, and destroy any Wraith who try to feed on them.<br><br>SHEPPARD: I don't believe this!<br><br>DRUHIN: Now the Wraith will know the full conviction of the Hoffan people.<br><br>SHEPPARD: Conviction?!<br><br>DRUHIN: Do you realise that if we could spread this drug to every human in the galaxy, future generations would never know the horror of a culling.<br><br>SHEPPARD: You're deliberately sacrificing millions of lives.<br><br>DRUHIN: An end to the Wraith! You can't comprehend the bargain in that?<br><br>SHEPPARD: You can't make a bargain like that for your entire people!<br><br>DRUHIN: Do you think I'm alone in this conviction?<br><br>SHEPPARD: I think you're delusional!<br><br>DRUHIN: You shall see. We are putting it to a vote as we speak. I will stand by the decision of the majority. Does that satisfy you?<br><br>SHEPPARD: Do they have any idea what they're voting on?<br><br>DRUHIN: Yes. I promise you.<br><br>SHEPPARD: And you'll back off if it doesn't go your way?<br><br>DRUHIN: You have my word.<br><br><br>MEDICAL CENTRE. Carson is giving instructions to a marine.<br><br>BECKETT: Use whatever rooms you need for overflow. We need to keep this area clear for triage. (The marine leaves. Carson pinches his nose, clearly exhausted. Teyla hurries over.) Teyla, there you are. Make sure that our oxygen is properly deployed throughout the hospital.<br><br>TEYLA: Doctor.<br><br>BECKETT (walking towards a patient but still talking to Teyla): Have non-critical patients use it in turns -- just long enough to stabilise their breathing. (Teyla follows him. He turns back to her when he realises that she isn't following his instructions.) Teyla, what are you doing here? You're not listening to me. Now where's Perna? I need her here.<br><br>TEYLA (putting her hand on his arm and looking at him meaningfully): Carson.<br><br>(Finally noticing her _expression, Carson stares at her in horror.)<br><br><br>Carson rushes through another ward looking at each bed. Finally he finds Perna lying in one of the beds. She looks up at him. He squats down at her bedside, takes her hand and strokes her head with his other hand.<br><br>PERNA (weakly): I would ... like to have seen Atlantis.<br><br>BECKETT: Perna. I'm so sorry.<br><br>PERNA: Don't be. I am at peace with what I have done, as you should be. (She struggles to breathe.)<br><br>BECKETT: I wish I'd had no part in this.<br><br>PERNA: You gave us hope. For ... years, our people have been working ... towards this ... very moment. (She gasps for breath.) We didn't betray the forefathers. We have fulfilled their destiny, their promise.<br><br>(Carson nods, his eyes full of tears.)<br><br>BECKETT: Aye. (He kisses her head.)<br><br>PERNA (struggling for breath): Stay. Stay. I want you to stay with me.<br><br>BECKETT (whispering tearfully): I'm here. It's OK.<br><br>(She looks into his eyes for a moment, then closes her eyes and dies. Weeping, Carson puts his head down on hers.)<br><br><br>CORRIDOR OUTSIDE THE MEDICAL CENTRE. A body, covered with a blanket, is carried out on a stretcher as Rodney and Aiden stand aside. Carson walks up, with John and Teyla following behind.<br><br>FORD: You OK?<br><br>BECKETT: Aye.<br><br>(Druhin approaches.)<br><br>DRUHIN: I am told you are leaving.<br><br>SHEPPARD: Yes, we are.<br><br>McKAY (sarcastically): Not that it hasn't been ... lovely.<br><br>DRUHIN: I wanted you to see the results of the vote before you left. (He hands a piece of paper to John. John looks at it, then hands it to Carson. Carson reads it.)<br><br>BECKETT: Ninety-six percent in favour.<br><br>TEYLA: Does the vote include all your people?<br><br>DRUHIN: Every one. So you see, Major, we speak with one voice, and we are resolute.<br><br>SHEPPARD: Yeah. I can see that.<br><br>(Carson shakes his head in despair.)<br><br>DRUHIN: When next we meet, I would like to discuss the best way to disseminate the drug on as many worlds as possible.<br><br>(Carson looks away in disgust.)<br><br>SHEPPARD: We won't be doing that any time soon.<br><br>DRUHIN: Perhaps our victory will change your mind.<br><br>SHEPPARD: If and when we ever return, I don't imagine you'll be here. I don't imagine anybody else will be, either. (Carson hands the vote result back to Druhin.) Good luck.<br><br>(The Atlantis team turn and walk away.)<br><br>BECKETT (to John): "Victory at all costs." That sound familiar, Major?<br><br>SHEPPARD: Churchill.<br><br>BECKETT: Aye. Never thought I'd disagree.
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="106.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s1/107.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="108.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s1/index.shtml">
+<IMG SRC="/graphics/title_s1episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season One Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="101.shtml" CLASS="list">Rising, Part 1</A><BR><A HREF="102.shtml" CLASS="list">Rising, Part 2</A><BR><A HREF="103.shtml" CLASS="list">Hide and Seek</A><BR><A HREF="104.shtml" CLASS="list">Thirty Eight Minutes</A><BR><A HREF="105.shtml" CLASS="list">Suspicion</A><BR><A HREF="106.shtml" CLASS="list">Childhood's End</A><BR><A HREF="107.shtml" CLASS="list">Poisoning the Well</A><BR><A HREF="108.shtml" CLASS="list">Underground</A><BR><A HREF="109.shtml" CLASS="list">Home</A><BR><A HREF="110.shtml" CLASS="list">The Storm</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="111.shtml" CLASS="list">The Eye</A><BR><A HREF="112.shtml" CLASS="list">The Defiant One</A><BR><A HREF="113.shtml" CLASS="list">Hot Zone</A><BR><A HREF="114.shtml" CLASS="list">Sanctuary</A><BR><A HREF="115.shtml" CLASS="list">Before I Sleep</A><BR><A HREF="116.shtml" CLASS="list">The Brotherhood</A><BR><A HREF="117.shtml" CLASS="list">Letters From Pegasus</A><BR><A HREF="118.shtml" CLASS="list">The Gift</A><BR><A HREF="119.shtml" CLASS="list">The Siege, Part 1</A><BR><A HREF="120.shtml" CLASS="list">The Siege, Part 2</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season One</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B000BVXPGY/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B000CEVUIK/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls1.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="106.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s1/107.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="108.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

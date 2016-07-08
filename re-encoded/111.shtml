@@ -1,0 +1,526 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "The Eye" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				
+				<A HREF="/atlantis/s1/transcripts/111.shtml">Transcript</A>
+				 | <A HREF="/atlantis/s1/reviews/111.shtml">Review</A>
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=517">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=262">Screen Captures</A><BR>
+				
+				
+				 | <A HREF="/atlantis/s1/111.shtml#notes">Notes</A>
+				 | <A HREF="/atlantis/s1/111.shtml#questions">Questions</A>
+				
+				
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=5687">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s1/111.shtml"><IMG SRC="/atlantis/graphics/111_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="THE EYE" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://www.amazon.com/exec/obidos/ASIN/B000ICRKRQ/bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 111<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 1, Disc 3<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 01.21.05<BR>
+				    
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm1236625/" TARGET="_blank">Martin Gero</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0939869/" TARGET="_blank">Martin Wood</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">Major Sheppard plays a dangerous game of cat and mouse with soldiers who have seized control of Atlantis and taken Weir and McKay hostage.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    ATLANTIS CONTROL ROOM.  The episode resumes from where the previous episode ended.  Commander Kolya is holding a pistol pointed at Elizabeth Weir, who stares at him, terrified.  Rodney McKay stands nearby, holding his slashed arm.  Out at Grounding Station Three, John Sheppard stands on the balcony holding a Genii radio.  He screams into the radio.<br><br>SHEPPARD: <I>Kolya!  Kolya, don't do this!</I><br><br>(In the Control Room, Elizabeth stares at Kolya.)<br><br>WEIR: How is this gonna help you get what you want?<br><br>KOLYA: Sheppard put you in this position, not me.<br><br>(Rodney steps in front of Elizabeth, putting himself between her and Kolya's pistol.)<br><br>McKAY: You can't do this. This is crazy. You need her.<br><br>SORA: She's right, Commander.<br><br>McKAY: I'm not kidding. There are codes required to activate the shield  codes that only she knows. You can't do it without her. <br><br>(He suddenly realises what he is doing and stares at Kolya nervously, holding his hands out placatingly.) <br><br>McKAY: Well, you can't do this without me either. I mean, we're a package deal. You take us out of the equation and-and-and-and you don't have an end game. <br><br>(Kolya stares at him silently.  Rodney realises that he doesn't know what he means.) <br><br>McKAY: Granted, that's a  that's a chess term. I'm-I'm ...  My point is, we're the only ones who can fix the Grounding Station, we're the only ones who can activate the shield, we're the only ones who can solve problems I can't even think of yet!  You kill either one of us and you don't get what you want. <br><br>(Kolya starts to lower his pistol but Rodney continues rambling.) <br><br>McKAY: <I>That's</I> how important we are.  It's impor...<br><br>WEIR: Rodney.  Rodney, he gets it.<br><br>(Kolya turns and walks away.  Rodney sighs in relief and puts his hand to his injured arm again.  Elizabeth puts a comforting hand on his back and turns to Sora.)<br><br>WEIR: I appreciate ...<br><br>SORA (interrupting): You're an asset we need to complete this mission.<br><br>(She walks away.  Elizabeth turns back to Rodney.)<br><br>WEIR: You stood in front of a gun for me.<br><br>McKAY: Don't thank me just yet.  We have two and a half hours til the storm hits, and unless our luck changes drastically, this city is gonna be obliterated.<br><br><br>Out in the ocean, the waves rise ever higher.<br><br><br>ELIZABETH'S OFFICE.  Kolya sits on the edge of the desk, then raises his radio to his mouth.<br><br>KOYLA: Major Sheppard.  How's <I>this</I> for credibility? Weir is dead.<br><br>(At Grounding Station Three, John stares out over the ocean, his expression deadly as he speaks into the radio.)<br><br>SHEPPARD: I am going to kill you.<br><br>KOLYA: Maybe.  Stay out of my way, or McKay will join her.<br><br>(John lowers the radio, glaring out at the storm for a few moments with his face full of rage, then he turns and runs out of the Station.)<br><br><br>LATER.  CONTROL ROOM.  Ladon, one of the Genii, is standing at a console watching the wallscreen as the life signs scanner shows various parts of the city before zooming into a particular part of the city and homing in on one group of signals.<br><br>LADON: This is amazing. <br><br>(The scanner continues homing in on the signals.)<br><br>LADON: <I>There</I> you are.<br><br>(He looks around to a Genii soldier who walks over to him.  Ladon points at the screen.)<br><br>LADON: We're here. Take two men, head there ... (he points to a single dot flashing in a different area) ... four levels down.  That's Sheppard.<br><br>SOLDIER: Yes, sir.  (He turns to another couple of soldiers nearby.)  Let's go.  You're with me.<br><br>(Sora walks over to Ladon and they watch John's signal as it begins to move again.)<br><br>LADON: He's heading out of the hallways.<br><br><br>In the city, John progresses carefully down a staircase, checking his life signs detector all of the time.<br><br><br>ATLANTIS MAINLAND.  The storm lashes the Puddle Jumper.  Inside, Aiden Ford, Carson Beckett, Teyla Emmagan and the three young Athosian hunters look out through the windshield nervously.  Just in front of the Jumper, a tree topples over and crashes down just in front of the ship.<br><br>FORD: Holy ...!<br><br>BECKETT: Right, that's it! <br><br>(He reaches to a dial on the control panel and begins to turn it slowly.)<br><br>FORD: What are you doing, man?<br><br>BECKETT: Adding weight to the Puddle Jumper by resetting its inertial dampeners.<br><br>FORD: You shouldn't screw with those controls.  We're heavy enough.<br><br>BECKETT (still turning the dial): Can't be too careful.<br><br>FORD: Yes, you can. You can be <I>way</I> too careful. <br><br>(Carson continues turning the dial.)<br><br>FORD: There's no chance we're gonna blow away here.  Let it go.<br><br>BECKETT (releasing the dial and sitting back): That should be enough.<br><br>TEYLA: How much longer until the storm passes?<br><br>BECKETT: Oh, God.  (He sighs.)  I guess we're barely halfway through, but there's no way to tell.<br><br>(Teyla looks at Aiden in concern.  He sees her expression.)<br><br>FORD: I know.  I hope they're OK too.<br><br><br>ATLANTIS.  John continues through the corridors, pausing frequently to check the area around him and to look at the life signs detector.<br><br><br>ATLANTIS MAINLAND.  The team looks up in surprise as the rain begins to lessen and the sun comes out.<br><br>BECKETT: What's this, then?<br><br>(Aiden frowns.)<br><br>FORD: We're through it?<br><br>BECKETT: We can't be.  That's not possible!<br><br><br>ATLANTIS.  John trots on through the corridors.  The beeping on his detector increases in rapidity, indicating people nearby.  In the Control Room, Ladon and Sora continue watching the screen.<br><br>LADON: He's moving.<br><br>(John's dot on the screen moves towards three other dots one level below his.  In the city, John halts and crouches down as he hears a voice.)<br><br>SOLDIER: Are you sure we're on the right level?<br><br>(John remains crouched down as the three Genii soldiers walk by on the level below his.)<br><br>SOLDIER: Where did he go?<br><br>LADON: Shh!  He can probably hear your stupid questions.<br><br>(John takes out a couple of smoke grenades and activates them before laying them on the floor and heading off.  Ladon and Sora watch as his signal moves away from those of the Genii.)<br><br><br>GROUNDING STATION THREE.   The doors open and Elizabeth and Rodney stop and stare at the rain lashing down.  Kolya is just behind them.  Grimacing, Rodney leads the others forward to the control panel.  All three of them are instantly soaked.  Rodney looks at the panel.<br><br>McKAY: Oh, will you look at this?! <br><br>(He turns back to Kolya.)<br><br>McKAY: Oh, that is just ... that is just <I>never</I> gonna be useful again!<br><br>(Putting his tool kit on top of the panel, he squats down and takes the cover off the column, revealing severed fibreoptic cables inside.  He looks at them for a moment, then looks up at Kolya.)<br><br>McKAY: I should be able to bypass this switching station entirely.<br><br>KOLYA: Good.  How long?<br><br>McKAY: It's not half as bad as it looks.  I'd say fifteen, twenty minutes tops. <br><br>KOLYA: Good.<br><br>(Rodney beckons to Elizabeth.)<br><br>McKAY: Doctor Weir, I need you to ...<br><br>WEIR: Right, of course.<br><br>(She squats down and aims a torch into the panel.  Rodney points to where he wants the light.)<br><br>McKAY: Keep that there.<br><br><br>CORRIDORS.  John continues onwards, checking his watch and the life signs detector frequently.  Stopping in an enclosed area, he looks around, tucks the detector into his jacket and activates another smoke grenade before dropping it to the floor and hurrying away.<br><br><br>ATLANTIS MAINLAND.  Aiden, Teyla and Carson come out of the rear of the Jumper and look up in surprise.  The rain has completely stopped and the clouds are rolling away as the sun shines down on them.<br><br>FORD: We're in the eye.<br><br>BECKETT: Right.  Has to be.<br><br>TEYLA: The eye?<br><br>BECKETT: Dead centre of the storm.  The storm swirls around a twenty to forty kilometre-wide area.<br><br>TEYLA: Then this calm will not last.<br><br>BECKETT: No.  In fact, in about ten minutes, it's gonna get very ugly again.<br><br>FORD: Then come on, we have to help the major.<br><br>(He turns to hurry back into the Jumper but Carson puts a hand on his shoulder to stop him.)<br><br>BECKETT: Aye, we can take off, but landing's twice as hard, believe me.  What if the storm has reached Atlantis?<br><br>FORD: <I>Has</I> it?<br><br>BECKETT: Not just yet, but it will any time now.<br><br>FORD: Stop <I>wasting</I> time.<br><br>(He grabs Carson, turns him around and shoves him back into the Jumper, Teyla hurrying after them.)<br><br>BECKETT: But, Lieutenant ...<br><br>FORD: Let's go!<br><br>BECKETT: We still have to fly straight through the storm, Lieutenant.  It's insanity!<br><br>(Aiden shoves him down into the pilot's seat.)<br><br>FORD: It's not insanity.  This is a spaceship  we can fly up and over.<br><br>BECKETT: What, straight up and down?!<br><br>FORD (taking the co-pilot's seat): Straight up and down.<br><br>BECKETT (frantically): I'm a bloody medical doctor, not a magician!<br><br>FORD: You can do it.<br><br>(Carson turns to Teyla, appealing to her common sense.)<br><br>BECKETT: Teyla!<br><br>TEYLA: If we <I>can</I> help, we must.<br><br>BECKETT: Oh!<br><br>(He turns back to the controls and stares out of the windshield plaintively.)<br><br>BECKETT (plaintively): Oh crap.<br><br><br>ATLANTIS CONTROL ROOM.  Ladon and Sora are still watching the screen.  Ladon reports to the men pursuing John.<br><br>LADON: Twenty feet away.<br><br>(The men move into the smoke left by the grenade and peer into the room.  The Control Room screen shows that their dots are very near John's.)<br><br>LADON: Five feet.<br><br>SOLDIER: There's so much smoke.  Which way?<br><br>(The Control Room screen shows the four dots all together.)<br><br>LADON: You're right on top of him.<br><br>SOLDIER: Yeah?  I think I would see him if I was.<br><br>LADON: Stand by.<br><br>(He looks at Sora, bewildered.  In the room the men look in all directions, trying to see John through the smoke.  Unseen by the men, a red laser light appears on one of the men's heads.  The camera pans up to show that John is lying on a gantry above their heads, aiming the laser from his rifle down at the men.  In the Control Room, Ladon stares as the sound of automatic gunfire comes over the radio.)<br><br>LADON: Do you see him?<br><br>(No-one replies as the gunfire continues, then stops.)<br><br>LADON: Did you get him?<br><br>(Still no-one replies.)<br><br>LADON (quietly, hopelessly): Report.<br><br>(He and Sora stare at the screen as three of the flashing dots go out, leaving just one.  Ladon lowers his head, knowing who the surviving dot belongs to.)<br><br><br>GROUNDING STATION THREE.  As Rodney and Elizabeth continue to work on the panel, Sora reports over the radio.<br><br>SORA: Commander.<br><br>KOLYA: Yes, Sora?<br><br>SORA: Ladon has been leading three of our men on a reconnaissance mission.  It seems Major Sheppard has killed three more of our strike team.<br><br>KOLYA: Tell everyone to move back to the Control Room.<br><br>SORA: Right away, sir.<br><br>(Kolya moves away from the other two to take in this news.  Elizabeth takes the opportunity to talk to Rodney.)<br><br>WEIR: Why did you tell him you could have this fixed in fifteen to twenty minutes?<br><br>McKAY: Oh, I don't know.  Maybe, uh, so he wouldn't kill us?! <br><br>WEIR: I understand that.  But once the shield is operational, we won't be very useful, now, will we?<br><br>(Rodney grimaces as he realises that what she's saying makes sense.)<br><br>McKAY: Why did you let me tell him I could fix it in fifteen or twenty?!<br><br>WEIR: You just have to stall him some more.<br><br>McKAY: Well, I just told him how long it'll take!<br><br>WEIR: Find another problem with it!  I ...  (She tries to think of some technical terminology) ... Tell them that the power loop interface isn't jiving with your walkabout!  <I>Something!</I><br><br>McKAY (indignantly): Isn't jiving?!<br><br>WEIR: Rodney, you get my point!  Look, from the sound of it, if we can buy Sheppard enough time, it seems like he can take care of the rest of them on his own. <br><br>(Kolya turns back towards them, holding his radio to his mouth.)<br><br>KOLYA: Radio Chief Cowen.  Tell him to send reinforcements  a full company. <br><br>(Lowering his radio, he looks at the other two.)<br><br>KOLYA: If you're hoping Major Sheppard can diminish our numbers, you are mistaken.<br><br>(Rodney and Elizabeth look at each other despairingly, then get back to work on the console.)<br><br><br>Elsewhere in the city, John is on the move again.  Stopping to check his detector again, he looks thoughtful.<br><br>SHEPPARD: OK.  What would McKay do?<br><br>(He thinks about it for a moment, then appears to have a brainwave.  Checking the detector again, he heads off.)<br><br><br>Above the ocean, the Puddle Jumper is in flight high above the water.  It has re-entered the storm and is heading rapidly down towards Atlantis.<br><br>FORD: Uh, you're coming in a little steep, Doc.<br><br>BECKETT: Thank you, Lieutenant, I'm very aware of that!<br><br>FORD: I <I>told</I> you not to play with the inertial dampeners!<br><br>BECKETT: I'm pretty sure I got them back the way they were.  Why don't you try to contact the major?<br><br>FORD: First you've gotta get us in there.<br><br><br>ATLANTIS.  John has entered a room containing one of the city's naqahdah generators.  Nearby is a hand-written sign proclaiming in large letters, REALLY REALLY DANGEROUS (the latter word underlined) DON'T TOUCH.  McKay.  John looks at the sign and smirks before looking at the generator.<br><br>(In the Control Room, Ladon and Sora look at John's life sign on the screen.)<br><br>LADON: What are you up to?<br><br>(John reaches out and pulls out the control switch of the generator, which instantly shuts down.  In the Control Room, all the lights go out and the screens go black.  Ladon and Sora get out flashlights and shine them around the dark room.)<br><br>SORA: What's he done now?<br><br>(John leaves the power room, taking the generator's control switch with him.)<br><br>LADON (annoyed with himself): I should have seen this coming.<br><br>(As he walks around the Control Room to see if anything's working, Sora reports to Kolya over her radio.)<br><br>SORA: Commander.  Major Sheppard has cut power to the Control Room.<br><br>KOLYA (from the Grounding Station): How?<br><br>LADON (into radio): Looks like Atlantis is being powered by five small generators, each responsible for a separate area of the city.  Major Sheppard has just disabled the one generator that powers Stargate Operations in this tower.  Now, we still have most primary operations. (He checks the consoles.)  We have definitely lost all secondary systems<br><br>KOLYA: Can you still track Sheppard?<br><br>SORA: No.<br><br>KOLYA: Then we have no idea where he is now?<br><br>SORA: No, sir.<br><br>(Out in the city, John gets into a transporter, listening to the conversation on his Genii radio.)<br><br>KOLYA: Is the Control Room secure?<br><br>SORA: Yes, Commander.  I suggest we send some men to guard the remaining generators.<br><br>(John exits the transporter in another, still lit, area of the city.)<br><br>KOLYA: No!  He's trying to divide us into manageable numbers.  Just hold Stargate Operations until the reinforcements arrive.<br><br>SORA: Understood. <br><br>(As John moves on, in the Grounding Station Rodney and Elizabeth take the chance to have another conversation while Kolya is distracted some distance away.)<br><br>McKAY: If he asks what's taking so long, you have to do all the talking, OK?<br><br>WEIR: You'll be fine <br><br>McKAY: No, no, I won't.  I'm a terrible bluffer.  I've lost small fortunes at poker.  Look, my eye twitches, I laugh inappropriately, it's not pretty.<br><br>KOLYA (from behind him): What's our progress?<br><br>(Rodney jumps, startled, and stares up at him wide-eyed.)<br><br>WEIR: We've hit a small snag. <br><br>(She and Rodney stand up to face Kolya.)<br><br>WEIR: We just running a diagnosis to make sure we can interface our codes properly. <br><br>(Kolya looks at Rodney for confirmation.)<br><br>McKAY: It's a small snag. small.  It'll take, like, half an hour at the most.<br><br>(The wall lights go out and emergency lighting comes on.  As the three of them look around in surprise, Ladon reports from the Control Room.)<br><br>LADON: Commander, Sheppard has just disabled another generator.<br><br>KOLYA: Yes, Ladon, I'm aware of that.  He's cut the power to Grounding Station Three.<br><br>(He lowers his radio and looks at Rodney.)<br><br>KOLYA: Can it still be repaired?<br><br>(Rodney bends down to the control panel and looks at the  now unlit  cables.)<br><br>McKAY: Without power?  No.<br><br>(Kolya turns away in irritation for a moment, then turns back to him.)<br><br>KOLYA: Can the plan be completed without it?  The other three grounding stations have been disabled.<br><br>McKAY (standing up again): No.  No, It's just not good enough.  Look, by uncoupling the grounding stations it means that when lightning strikes the city, the electricity will have nowhere to go.  Now, if we can channel the electricity properly to the conduits that line the city corridors, we should be able to power the shield temporarily. But if <I>any</I> of these grounding stations are left active, a sizeable amount of electricity will find its way to ground and no shield.<br><br>SORA (over radio): Commander, the storm has not slowed its pace.  We have little time to get the shields activated.  We should re-evaluate our goal.  Perhaps ...<br><br>KOLYA (interrupting over radio): We still have more than enough time to complete our objectives.<br><br>SORA: Then I must strongly advise that we send men down to repair the deactivated generators and to guard the remaining active ones.<br><br>KOLYA: Agreed.  Teams of two.  But I want <I>you</I> to watch over the Control Room.  As soon as the reinforcements arrive, have them take Sheppard with overwhelming force.<br><br>SORA: Understood.<br><br>(As Kolya lowers his radio, Rodney points towards the doorway leading to the interior of the city.)<br><br>McKAY: Perhaps we could be under shelter while we wait?  I'm liable to catch a cold like that.  (He clicks his fingers.)<br><br>(Kolya gives him a look.)<br><br>McKAY: I take it that's a no?<br><br><br>JUMPER BAY.  The Puddle Jumper has finally arrived and the rear door opens.  Teyla and Aiden hurry out, aiming their rifles around as they check the area.  One of the young Athosian hunters tries to come out of the Jumper brandishing her crossbow.  Teyla stops her.<br><br>TEYLA: Remain here and be still.  I will return for you.<br><br>(As the girl goes back into the Jumper, Carson comes out.)<br><br>BECKETT: Where are we going?<br><br>FORD: Armoury.<br><br>BECKETT: Are you sure that's what we should be ...?<br><br>FORD (interrupting): You know you're always saying you're not military; you don't have to take orders?<br><br>BECKETT: Aye.<br><br>FORD: (handing him a rifle): Now you do.<br><br>BECKETT (taking the rifle nervously): So long as it's temporary.<br><br>(The three of them make their way alongside the Jumper, then crouch down near the front to check the area.)<br><br>BECKETT: Should we try and contact the major now?<br><br>TEYLA: The Genii may be monitoring our frequencies.  We do not want to alert them of our presence.<br><br>BECKETT: Aye.<br><br>(Aiden takes a life signs detector from his jacket and hands it to Carson.)<br><br>FORD: Life signs detector.<br><br>BECKETT (looking at the screen): These wee dots don't tell us much about who's who.  How do we know which one's the major?<br><br>FORD: He'll be the dot getting rid of the other dots.<br><br>BECKETT: Great(!) <br><br>(They head off again.) <br><br><br>Around the city, Genii soldiers are guarding the naqahdah power rooms.  Out in the ocean, the waves roll ever higher as the storm increases in intensity.<br><br><br>CONTROL ROOM.  Sora trots over to Ladon as he continues looking at consoles to see what's available.<br><br>SORA: How many should we expect?<br><br>LADON: A full company  sixty or more.<br><br>(He stands and walks over to join Sora on the balcony as the Stargate begins to dial in.)<br><br>LADON: I don't know how we were expected to take a facility this size with any less.<br><br>SORA: It was <I>supposed</I> to be a raid to retrieve what was rightfully ours. <br><br>(The Gate kawhooshes.  Sora turns to a couple of guards.)<br><br>SORA: With me.  Come on.<br><br>(The three of them trot down into the Gateroom.  On the balcony, Ladon reports over radio to Kolya.)<br><br>LADON: Reinforcements are arriving now, Commander.<br><br>(The first Genii soldiers start to come through the Gate.)<br><br>KOLYA: Have them secure Stargate Operations and report back to me.<br><br>LADON: Yes, Commander.<br><br>(Lowering his radio, he turns to go back into the Control Room but John rises up out of the darkness and knocks him unconscious with a single punch.  Catching him as he falls, John lowers him to the floor and runs to a console.  Down in the Gateroom, Sora approaches the new arrivals.)<br><br>SORA: Secure the area.  Then I want you to ...<br><br>(She trails off as the force shield activates over the Stargate.  She and the men look in horror as impact flashes begin to strike the shield as Genii soldiers continue coming from the other side.)<br><br>SORA: Turn it off, Ladon!<br><br>(She turns and shines her flashlight up into the Control Room.  John ducks back from the light.)<br><br>SORA: Stop him!<br><br>(John breaks into a run.)<br><br>SOLDIER: Up there!<br><br>(John runs onto a bridge, firing rapidly down into the Gateroom as he goes.)<br><br>SOLDIER: Get him!<br><br>(John races out of sight.  Sora yells into her radio as she runs up the stairs to the Control Room.)<br><br>SORA: This is Sora.  Stop sending the reinforcements!  The Stargate shield has been raised!<br><br>(Behind her, impacts from incoming Genii continue against the shield.) <br><br>(In the Grounding Station, Kolya listens to Sora's voice coming over the radio.)<br><br>SORA: Sheppard has raised the Gate shield!<br><br>KOLYA (into radio): Shut it down!  Turn it off!<br><br>SORA (trying in vain to work a console): I don't know how!  Ladon is unconscious!<br><br>(Kolya walks threateningly towards Rodney, who backs away from him.)<br><br>KOLYA: Tell her the procedure!<br><br>McKAY: I can't!  I don't know what he's done!<br><br>KOLYA: <I>Tell</I> her!<br><br>McKAY: Well, he must have entered his own personal command code!<br><br>(Kolya grabs Rodney's jacket and slams him up against the balcony railing.)<br><br>KOLYA: What is it?<br><br>McKAY: I don't know!<br><br>WEIR: Only Sheppard would know it!<br><br>McKAY: Trust me  I'm not that brave!  I would help you if I could!<br><br>(Still holding Rodney pressed against the railing, Kolya turns to Elizabeth.)<br><br>KOLYA: You have command codes!<br><br>(In the Gateroom, the Stargate shuts down and the shield disengages.  Sora walks hopelessly onto the balcony.)<br><br>SORA (into radio): It's no use.  It's over.  The Gate has shut down.  There are no more men coming.<br><br>KOLYA: How many men made it?<br><br>SORA: Five.  Five of sixty.<br><br>(Kolya closes his eyes in grief, then turns back to Rodney and, still gripping his jacket, pushes him angrily back against the balcony, threatening to push him over.  Elizabeth grabs at him, trying to pull him and Rodney back.  Kolya snarls at Rodney who stares back at him desperately.)<br><br>McKAY: You still need me if you want this city! <br><br>(Kolya doesn't move, furious and grief-stricken at the loss of his men.)<br><br>McKAY: You still need both of us!<br><br>(Finally Kolya releases him and walks away.  Elizabeth helps Rodney away from the balcony.  Rodney buries his face in his hands, aware of how close he came to dying.  Holding him supportively, Elizabeth looks out at the ocean as the waves roll ever higher and the storm rages ever closer.)<br><br><br>LATER.  Ladon has recovered consciousness and is looking at the console in the Control Room.<br><br>LADON: He's entered some sort of security code to lock down the Gate.  Just give me some time.  I should be able to crack it.<br><br>SORA: Do it.  (She talks into her radio.)  Commander.  Ladon thinks he can have the Gate fixed.<br><br>(At Grounding Station Three, Elizabeth and Rodney are sitting on the steps near the control console.  Kolya stands nearby.)<br><br>KOLYA (into radio): Did Athor's son make it through the Gate?<br><br>SORA: I'm sorry?<br><br>KOLYA: His name is Idos.  Did he make it?<br><br>SORA: No, sir.<br><br>(Kolya lowers the radio, closing his eyes in grief.  Elizabeth and Rodney look at each other nervously.)<br><br>KOLYA (furiously, into radio): Over sixty men killed!<br><br>SORA: Defending his home and his people, Commander.  As <I>we</I> would.<br><br>KOLYA: When can more reinforcements be sent?<br><br>SORA: It will take time.  Perhaps an hour.<br><br>KOLYA: Unacceptable.<br><br>SORA (angrily): Yes, Commander, it <I>is</I> unacceptable, because by then we will be in the full force of the storm.<br><br>McKAY (pointing out at the ocean): Probably sooner!<br><br><br>CORRIDORS.  John is near one of the naqahdah power rooms, hiding a short distance away from a couple of Genii guards who are standing outside the door.  He is looking at their positions on his life signs detector.  Elsewhere, Aiden, Teyla and Carson are making their way to the Armoury, Carson checking his own detector frequently.  Kolya's voice comes over the radio.  He has switched from the Genii radio to an Atlantis walkie-talkie.<br><br>KOLYA: Major Sheppard, I have a proposition for you. <br><br>(John moves away the power room and heads off again.  Aiden looks at Teyla.)<br><br>FORD: D'you recognize that voice?<br><br>TEYLA: No.<br><br>SHEPPARD (into radio): Kolya, I'm having a hard time keeping up.  What's the score again?<br><br>KOLYA: My men have informed me that not only have you disabled some crucial generators but you've stolen key components that make it impossible for them to be restored.<br><br>SHEPPARD: Yeah.  I did that<br><br>KOLYA: There are two flaws in your plan.<br><br>SHEPPARD: Always open to constructive criticism.<br><br>KOLYA: One: the assumption I would believe you'd rather destroy the city than let it fall to us is childish.<br><br>SHEPPARD (sarcastically): Doesn't sound like me.<br><br>KOLYA: Second: if and when I determine Atlantis unsalvageable, Doctors Weir and McKay become obsolete.<br><br>(John skids to a halt and stares in amazement.)<br><br>SHEPPARD: Weir's alive?<br><br>KOLYA: Doctor McKay was able to make a strong case for keeping her alive.<br><br>SHEPPARD: Let me talk to her.<br><br>(Kolya walks over to Elizabeth and holds the walkie-talkie to her mouth.)<br><br>WEIR: Sheppard!  We're both here!<br><br>SHEPPARD: It's good to hear your voice.<br><br>WEIR: Yeah, it's good to hear.<br><br>KOLYA (taking the radio back and walking away again): We have less than one hour before the storm hits full force.  If the power is not returned to Grounding Station Three within the next ten minutes, Doctor Weir dies.<br><br>SHEPPARD: <I>Again</I>, you mean?<br><br>KOLYA: Her death will buy you another ten minutes, after which  should the power <I>still</I> be out  Doctor McKay dies.  We will then leave with what we can, and the city will be destroyed.<br><br>SHEPPARD: Well, that's not enough time!<br><br>KOLYA: If you don't mind destroying Atlantis, stay where you are for the next twenty minutes, starting now.<br><br>(John starts to run.)<br><br><br>ARMOURY.  Aiden leads the other two in.<br><br>FORD: Don't load up so much it'll slow you down. Two extra magazines each.<br><br>(He picks up a couple of rifle magazines in each hand and gives them to the others, then picks up a Wraith stun rifle.) <br><br>FORD: All right.<br><br>BECKETT: What d'you need that for?<br><br>FORD: Anything I see moving is gonna get shot.<br><br>BECKETT: So what if it's the major?<br><br>FORD: Then he'll get hit with a Wraith stunner instead of a P-90.<br><br>BECKETT: What if he sees us first?<br><br>FORD: He'll probably hear <I>you</I> first.<br><br>BECKETT: Are you tellin' me to shut up again?<br><br>FORD (pointedly): <I>Again.</I><br><br>(Carson looks round indignantly at Teyla, who gives him a He has a point! look.  He looks back at Aiden.)<br><br>BECKETT: Right.<br><br>(He and Teyla leave the room.  Aiden starts to follow them, then goes back for a couple more rifle magazines for himself before joining the other two.)<br><br>FORD: Let's go.<br><br>(They make their way to a map of the city on a wall.)<br><br>TEYLA: Which naqahdah generator would power the third grounding station?<br><br>BECKETT: You're asking <I>me</I>?!<br><br>FORD: Whichever one it is, it's gonna be an ambush.  We've gotta be there.<br><br>(Carson points to the map.)<br><br>BECKETT: There's one here. <br><br>FORD: Is that a guess?<br><br>BECKETT: Aye, but it makes sense. <br><br>FORD: It's the closest.  (He leads them away.)  All right, I'll take point.  Teyla, you're on our six.  (To Carson) <I>You</I> don't open your mouth until I say so.  Only shoot at what I tell you to shoot at.<br><br>BECKETT: D'you have to be so bloody pushy?<br><br>FORD (sternly): That's an order.<br><br><br>Elsewhere, John makes his way towards the power room, stopping to take cover as a couple of Genii soldiers run past.  He continues on and goes into the power room.  Kneeling down in front of the naqahdah generator, he plugs in a cable, then takes the control switch from his backpack.  Just as he's moving it towards the generator, a voice calls out behind him.<br><br>SOLDIER: Stop! <br><br>(John raises his hands as two soldiers come into the room behind him, aiming their rifles at him.)<br><br>SHEPPARD: Look, your boss wanted me to turn this thing back on, so I think we should do what he says.<br><br>SOLDIER: Be quiet.  (Into radio) Sora, we have him.<br><br>SORA (from the Control Room): Keep him alive.  I'm on my way.<br><br><br>Aiden, Teyla and Carson make their way to the closed door of a naqahdah power room.  Aiden nods to Teyla, who opens the door.  They aim their weapons inside but there is no-one there and the generator is active.  Aiden walks into the room and checks around, then lowers his stunner rifle frustratedly and turns back to Carson angrily.<br><br>BECKETT: Is it the wrong one?<br><br>FORD: Yeah, I'd say so.<br><br>(He glares at him accusingly.)<br><br>BECKETT: Oh, don't you blame me for this.  I'm not an engineer.  I really only have a basic understanding of how Rodney and his team configure the power, so don't expect me to ...<br><br>FORD (interrupting): You just can't stop talking, can you?  You just can't help yourself.  No matter what I say, you ...<br><br>BECKETT: Aye, and you're such a nice young lad until you're put in charge, you cheeky little bugger.<br><br>TEYLA: Wait!  What if this <I>is</I> the right station and the major has not made it back yet?<br><br>BECKETT: She's right.<br><br>FORD (looking at the generator): No.  No, this one's working.<br><br>TEYLA: How much time?<br><br>FORD (checking his watch): Two minutes.  There's five generators  it's not this one.  Can't be the one that powers the control tower.  That leaves three.  We've got a one in three chance of guessing the right one.<br><br>BECKETT: Even so, we may be walking into the very ambush we're trying to save him from.<br><br>TEYLA: We are not far from a transporter.  Are any of the generators near a transport station?<br><br>BECKETT: Aye.  There's two.<br><br>FORD: Let's go. <br><br>(They hurry to the transporter, go inside and Carson looks at the map on the back wall.)<br><br>BECKETT: OK, now, if I remember correctly ...<br><br>FORD: Remember correctly!<br><br>BECKETT (pointing to two spots on the map): I think they're here and here. <br><br>FORD: Which one are you sure is next to a power generator?<br><br>BECKETT: OK, just give me a moment.<br><br>FORD: No moments!  <I>Pick</I> one!<br><br>BECKETT: I'm the one you're gonna blame if it's wrong!<br><br>FORD: We have to go now!<br><br>(Carson looks at the two points for a moment, then anxiously presses one of them.)<br><br>BECKETT: Here!<br><br>(The transporter doors close and Carson closes his eyes, praying silently.)<br><br><br>At the power room, John is still on his knees.<br><br>SHEPPARD: I don't mean to be a bad prisoner or anything but Kolya's gonna kill one of my people if I don't get this thing turned back on in time, so ...<br><br>SOLDIER: Turn around.<br><br>(Keeping his hands raised, John stands up and turns to face the soldiers.  Behind them, a flash of lightning reveals Aiden and his colleagues creeping towards the soldiers.)<br><br>SHEPPARD (to the soldiers): <I>You</I> turn around.<br><br>SOLDIER: What?<br><br>SHEPPARD: Well, if <I>I</I> have to turn around, <I>you</I> should turn around.<br><br>(As the men stare at him in confusion, Aiden shoots them both in the back with the Wraith stunner.)<br><br>SHEPPARD: What the hell took you so long?<br><br>(He turns back to the generator.)<br><br>FORD: Well, there's a storm ...<br><br>SHEPPARD: Just hold that thought.<br><br>(He bends down and puts the control switch back into the generator.)<br><br><br>GROUNDING STATION THREE.  Elizabeth and Rodney are still sitting on the steps, cuddled together for warmth.  The lights come back on.  Kolya walks over to them.<br><br>KOLYA: It seems Major Sheppard wants you to live.  Let's get back to work.<br><br>(The two of them get up and go back to the control panel.)<br><br><br>CORRIDORS.  Sora is walking towards the naqahdah power room.  She hears voices nearby.<br><br>FORD: You OK, sir?<br><br>SHEPPARD: I'm better.  Been worse.  Shoulder's a little sore.<br><br>BECKETT: You want me to take a look at that?<br><br>SHEPPARD: Take a rain check, there, Doc.<br><br>TEYLA: We should leave this area.  More Genii will be on their way.<br><br>(Sora has taken cover near the others.  Her face fills with rage as she hears Teyla's voice.)<br><br>BECKETT: I couldn't agree more.<br><br>(The team moves out.  Sora follows after them.)<br><br><br>GROUNDING STATION THREE.  Rodney tweaks the last cable in the control column, looks at the computer tablet that Elizabeth is holding for him, then stands up and looks at the interface.  He turns to Elizabeth.<br><br>McKAY: If this doesn't work ...  (He trails off.)<br><br>WEIR: It will.<br><br>McKAY: I'm just saying, if it doesn't work ...<br><br>WEIR (firmly): It <I>will</I>.<br><br>McKAY: I'm sure it will, but in the unlikely event that it doesn't, I ...<br><br>WEIR: Rodney! <br><br>(They look at each other for a moment, then Elizabeth nods to the interface.)<br><br>WEIR: Please.<br><br>(Sighing, Rodney begins to enter the code.  Power begins to cycle through the column.  As he continues inputting the code, Kolya stares at his back.  Rodney inputs the last number, then presses a button.  Everyone looks hopefully at the grounding rods at the edge of the balcony and, after a moment, they separate.)<br><br>KOLYA: Fantastic.<br><br>McKAY: Oh, thank God!<br><br>(He and Elizabeth turn triumphantly to Kolya, who gazes at the separated rods in delight.)<br><br><br>CORRIDORS.<br><br>SHEPPARD: McKay figures he can harness the storm's lightning to fire up the shield.<br><br>BECKETT: This lightning?<br><br>FORD: SG teams have done it before to power a Stargate.<br><br>BECKETT: There's a big difference between a Stargate ...<br><br>FORD (interrupting): He didn't say you could talk.<br><br>(Carson sighs.)<br><br><br>GROUNDING STATION THREE.<br><br>McKAY (to Kolya): Now, I need to run the subroutine that will convince the input buffer to the shield generator to attenuate the raw electricity into useful power.  I can only do that from the Control Room.  That's where Doctor Weir's codes come in.<br><br>WEIR: Yes.<br><br>KOLYA: Only primary systems are operating.  Sheppard has to repair the other generator. <br><br>McKAY: The shield's considered a primary system.  We're good to go, but we have to go now.  I mean <I>now</I>.  I mean <I>everybody</I>  <I>all</I> your men.<br><br>KOLYA: What does that have to do with my men?<br><br>McKAY: Now that the grounding station's been deactivated, electricity will be free to flow through the conduits that line every corridor of the city.<br><br>(In the corridors)<br><br>BECKETT: What kind of plan is that?<br><br>SHAPPARD: A Rodney McKay kind of plan.  It's all we got.<br><br>FORD: Then it leaves us only one place to go.<br><br>TEYLA: Where the Genii will also be.<br><br>(In Grounding Station Three)<br><br>McKAY: Now, the Control Room and Stargate Operations are shielded  but the rest of the city, once lightning starts to hit ...<br><br>(Corridors)<br><br>SHEPPARD: ...anybody left in the hallway is as good as dead.<br><br>(In Grounding Station Three, Rodney and Elizabeth stare at Kolya, willing him to understand what needs to be done.)<br><br><br>CONTROL ROOM.  Kolya has finally got it and he has taken Elizabeth and Rodney back to the room.  As the latter two work on a console, Kolya talks into his radio.<br><br>KOLYA: Why haven't you responded?<br><br>SORA (over radio): She's here, Commander.<br><br>KOLYA: Who?<br><br>SORA (viciously): Teyla.  She and two others have joined Sheppard.<br><br>KOLYA: Why wasn't this reported sooner?  Fall back to the Control Room immediately.<br><br>SORA: She's just out of my reach.  If I am patient ...<br><br>KOLYA: I gave you an order.<br><br>SORA: She left my father for dead.<br><br>KOLYA: The storm is upon us.  The city is no longer safe.<br><br>SORA: I don't care.<br><br>KOLYA: Fall back.  You have my word your father will be avenged.<br><br>SORA: By <I>me</I>.<br><br>KOLYA: Sor...<br><br>(Sora deactivates her radio and continues following the others.  Kolya stares at his radio in frustration.)<br><br><br>Up ahead of Sora, the team is progressing towards the Control Room.<br><br>TEYLA: Will the young hunters in the Jumper be safe?<br><br>SHEPPARD: The Jumper Bay is part of Stargate Operations, so it'll be protected.<br><br>FORD: Then maybe that's where we should be headed.<br><br>SHEPPARD: Once the shield goes up over the city, Weir and McKay are expendable to Kolya.  We've gotta take the Control Room first.<br><br>TEYLA: Would he really kill them just because they are of no further use to him?<br><br>SHEPPARD: No.  He'd kill them to punish <I>me</I>.  (He stops and turns back to the others.)  Now, here's the deal: Ford and I get into position just below the Control Room stairs.  Teyla and Beckett, head for the Jumper Bay.<br><br>TEYLA: I intend to fight alongside you.<br><br>SHEPPARD: And I intend you to fight with us.  Once you get in position, lower the ship into the Gateroom, open the weapons pods.  This should create enough distraction for Ford and me to go in.  We take back the Control Room, get the shield up.  City saved, Weir and McKay saved, take the rest of the day off. <br><br>FORD: Sounds like a plan, sir.<br><br>SHEPPARD: Stay on channel two.  Let's move out. <br><br>(Teyla and Carson run off towards the Jumper Bay.  John looks at Aiden's stunner rifle.)<br><br>SHEPPARD: You're not gonna need that thing.  Shoot to kill.<br><br>(Aiden lies the rifle on a shelf, then hurries off with John.)<br><br><br>CONTROL ROOM.<br><br>LADON: The winds are getting stronger and the wave heights are growing.<br><br>WEIR (quietly to Rodney): You need to keep stalling.<br><br>McKAY: What for?<br><br>WEIR: Major Sheppard is still out there.  If you activate ...<br><br>KOLYA: <I>Now</I>, McKay!<br><br>McKAY: It's done.  Doctor Weir, I need to enter your codes now<br><br>WEIR: Yes, of course.  (Apparently ad-libbing) Seven nine four two one.<br><br>McKAY (typing): Yes?<br><br>WEIR (still ad-libbing): Zero three two four five.<br><br>McKAY: And the second sequence?<br><br><br>CORRIDORS.  Teyla and Carson make their way cautiously along, Carson leading and Teyla continuously checking their six.<br><br>BECKETT: I'll be glad when this following orders business is over.  I've had ...<br><br>(From out of the darkness, Sora clubs him across the face with her pistol.  As he drops to the floor, unconscious, Sora steps out and points her gun at Teyla, who switches on the light on her P-90 to illuminate her face.)<br><br>SORA: Drop it! <br><br>(When Teyla hesitates, Sora lowers her pistol, pointing it down at Carson.)<br><br>SORA: I'll kill him.<br><br>(Reluctantly Teyla unhooks her rifle from her vest and puts it on the floor.  As she stands up again, Sora turns her pistol away and then drops it to the floor.)<br><br>SORA: I would hate to kill you so quickly.<br><br>(Teyla walks carefully towards her, skirting Carson's unconscious body.  Sora backs away, taking out her knife from her belt.)<br><br>TEYLA: I have known you for almost all your life.  Why are you doing this?<br><br>SORA (angrily): You left him to die.<br><br>TEYLA: Your father killed an innocent.  <I>He</I> alerted the Wraith to our presence.<br><br>SORA (tearfully, anguished): And you escaped!<br><br>TEYLA: If I am to die by your hand, Sora, I die knowing there was nothing I could have done to save Tyrus. <br><br><br>GATEROOM.  John and Aiden get into position at the edge of the Gateroom, checking the area carefully. <br><br>SHEPPARD (into radio): We're in position.<br><br>(There's no reply.  Aiden moves closer to him.)<br><br>FORD: This isn't right.<br><br>SHEPPARD: What?<br><br>FORD: Teyla and Beckett should have easily have made it to the Jumper Bay first.  They should have been waiting for <I>us</I>.<br><br>SHEPPARD (into radio): Teyla, what's your position?  (Again there's no reply.)  Teyla?<br><br><br>CORRIDORS.  Sora brandishes her knife at Teyla, her face full of anguish.<br><br>SORA: This was my father's!  It was handed down from <I>his</I> father.<br><br>(Teyla pulls out her own knife and holds it up in front of her.)<br><br>TEYLA: If you want to fight this way, Sora, I <I>will</I> win.  You will have avenged <I>no-one</I>.<br><br>(Sora steps back and gets into a fighting stance.)<br><br>SORA: We'll see.<br><br>(Teyla whips her knife around and waits.  Sora lunges at her, slashing out with her knife.  Teyla easily swings away from the blow.  They begin to fight, slashing at each other.  Some seconds later, Sora punches at Teyla, who blocks the blow with her knife hand.  Sora lashes out with her knife.  Teyla whirls away and drops to one knee, then looks at her left arm which is bleeding.  She glares up at Sora.)<br><br><br>CONTROL ROOM.<br><br>KOLYA: Engage the shield!<br><br>McKAY: I'm almost finished!<br><br>(An alarm sounds at Ladon's console.  He turns and calls out.)<br><br>LADON: A massive wave is approaching from the west!  Without the shields ...<br><br>KOLYA: McKay!<br><br>McKAY: We're starting to get hits on the northern pier.  Routing power to the corridor <I>now</I>.<br><br>(He looks at his console which beeps negatively.)<br><br>McKAY (sending the command again): <I>Now</I>. <br><br>(Again the console beeps negatively.)<br><br>McKAY: <I>Now</I>.<br><br>(Yet again the negative beep.)<br><br>McKAY (looking over to Kolya): OK, this is a problem.<br><br>KOLYA: What?<br><br>McKAY: Look, I told you this was a long shot from the beginning.<br><br>LADON: We already have serious flooding on the north and west piers.<br><br>McKAY (sending the command again and still getting the negative beep): No, it's no use.  The city conduits just can't handle this kind of raw power.<br><br>WEIR: Is <I>any</I> power getting to the shield generator?<br><br>McKAY: Nominal amounts.  Nowhere near enough.<br><br>KOLYA: You said this would work.<br><br>McKAY (turning and glaring at him): I don't know if you noticed or not, but I'm an extremely arrogant man who tends to think <I>all</I> of his plans will work.<br><br>(Kolya glares back at him for a moment, then leans across the console and backhands him viciously across the face.)<br><br>KOLYA: Idiot!<br><br>(He turns away angrily.)<br><br>WEIR: OK, this was a long shot at best.  Why else would we evacuate the city?  It was always our intention to dial out in case this didn't work.<br><br>(Kolya turns back to face her.)<br><br>WEIR: Within minutes Atlantis will fail.<br><br>(Kolya turns away again, pacing across the floor.)<br><br>WEIR: You can leave and survive or you can go down with the city.  You choose.<br><br>(Kolya turns back again and locks eyes with her.  Outside, the waves rise higher, lashing against the piers.)<br><br><br>In the corridor, the women continue to fight.  As Sora kicks out at her, Teyla grabs her leg and flips her to the floor.  She heads towards her but Sora rolls clear and jumps up again.  They trade more blows, kicking, punching and lashing out with their knives.  Teyla reaches down and slashes Sora across the thigh, then swings round, crouches down and punches her in the wound.  Sora cries out in pain.  Teyla charges towards her and shoves her backwards into a pile of metal boxes, then pulls her forward, drags up her a couple of stairs and hurls her across the floor.  She heads towards her again.<br><br><br>CONTROL ROOM.<br><br>McKAY: We're just not getting enough power to the shield generators.<br><br>WEIR (shouting at Kolya over the sound of almost non-stop thunder): Are you really going to sacrifice the lives of all of your men on the off-chance that this city won't be completely destroyed?<br><br>(Kolya glares at her, then turns to Ladon.)<br><br>KOLYA: Open the Stargate.  Start evacuating the remaining men.<br><br>(Rodney sighs with relief.)<br><br>WEIR (to Kolya): You're making the right decision.<br><br>KOLYA: You're coming with us.<br><br>WEIR: What?!<br><br>KOLYA: You'll both serve the Genii as payment for what you've done.<br><br>McKAY: For what <I>we've</I> done?! <br><br>(Soldiers grab both of them and start to bundle them away.)<br><br><br>In the corridor, Teyla hurls Sora against some metal boxes.  She crashes to the floor, then scrambles up again.  Roaring angrily, she charges towards Teyla, who steps aside, grabs her and uses her own impetus to send her flying to the ground.  Sora gets up onto her hands and knees and crawls across the floor as Teyla watches her carefully.  She gets to her feet and lashes out at Teyla again, who grabs her incoming hand, swings her around and elbows her in the back.  Once again Sora crashes to the floor.<br><br><br>GATEROOM.  The Stargate is open and Genii soldiers are carrying their stolen supplies into it.  Hidden at the edge of the room, John and Aiden watch them.<br><br>SHEPPARD: Change of plan.<br><br>(He trots to a better position nearer to the Gate.)<br><br>SHEPPARD: You've got McKay.<br><br>(Rodney is being hurried down the stairs by a couple of soldiers.)<br><br>McKAY: Seriously, this is a bad idea!  You saw what happened to my <I>last</I> plan!  This is <I>not</I> what you ...<br><br>(Simultaneously John and Aiden open fire, gunning down the soldiers behind Rodney, who ducks down and then runs for cover.  Instantly Kolya, who is nearer the Gate with Elizabeth, grabs her from behind and wraps his arm around her waist, using her as a shield.  John rolls into the Gateroom, gunning down another soldier as Ladon ducks and runs into the Gate.  John and Aiden come forward and aim their rifles at Kolya.)<br><br>SHEPPARD: You're not going anywhere.<br><br>(Slowly Kolya backs towards the Gate, holding Elizabeth in front of him.  She sags in his grasp, trying to make herself a dead weight but still he drags her backwards towards the Gate.)<br><br>SHEPPARD: I <I>will</I> shoot you if you don't let her go. <br><br>KOLYA: And risk hurting Doctor Weir?<br><br>(John steps forward.  Elizabeth stares at him desperately as Kolya continues to drag her backwards.)<br><br>SHEPPARD (ominously): I'm not aiming at her.<br><br>(He fires a single shot.  It strikes Kolya in the shoulder, missing Elizabeth by centimetres.  He cries out and drops her as he falls backwards into the event horizon.  Elizabeth scrambles to her feet and stumbles forwards away from the Gate before falling to the floor again, staring up at John in shock.  As the Gate closes down, John runs toward her, calling over his shoulder to Aiden.)<br><br>SHEPPARD: Find Teyla and Beckett!  Make sure that's all of them!<br><br>(He hurries towards Elizabeth as she stands up again.)<br><br>SHEPPARD: Sorry about that. I had to, uh ... <br><br>(He looks at her as she stares at him wide-eyed.)<br><br>SHEPPARD: You OK?<br><br>WEIR (shaking her head, breathless with shock): No.<br><br>SHEPPARD: You will be.  Come on. <br><br>(Grabbing her hand, he pulls her up the stairs to the Control Room.  Rodney has made his way back up there and starts working on a console.  Aiden turns from a wall screen and calls out to him.)<br><br>FORD: Wait!  What are you doing?<br><br>McKAY: I thought I'd activate the shield and save the day.  You got something else in mind?<br><br>FORD: Teyla and Beckett are still out there.<br><br>McKAY: The tracking system's down.  There's a tsunami heading towards the city, Lieutenant.  Two and a half minutes, they're dead.<br><br>SHEPPARD: Then <I>give</I> em two minutes!<br><br>(Rodney looks at him and sighs, stopping what he's doing.)<br><br><br>In the corridor, Sora lashes out at Teyla again.  As Teyla parries, she seizes Teyla's hand, blocking her knife thrust.  Teyla drops the knife and catches it with her other hand as it falls before back-handing her across the face.  As Sora stumbles back, Teyla holds her knife up and then pointedly drops it to the floor, signifying to Sora that she's so much in control of this fight that she doesn't even need it.  She heads towards Sora, who lashes out again but Teyla blocks the blow, seizes her arm and punches her in the stomach.  She moves behind her, pulls her arm straight and yanks her knife out of her hand, shoving her back against a wall with the knife against her throat.<br><br>TEYLA: This is <I>not</I> what your father would have wanted.  Our people were destined to be allies.<br><br>SHEPPARD (over tannoy): Teyla, Beckett.  Fall back to the Control Room.<br><br>TEYLA (glaring into Sora's face): THIS MUST END <I>NOW</I>.<br><br>SORA (defiantly): Then <I>end</I> it.<br><br>(Teyla pulls the knife back and looks at it for a moment before shoving Sora back.  She glares at her for a second, still holding the knife high, then backs away and hurls the knife point first into the floor before turning and running from the area.  Sora draws a breath, then hurries after her, sparing a glance for her knife stuck in the floor but leaving it there.)<br><br><br>CONTROL ROOM.<br><br>McKAY: There's no more time!  We either lose <I>them</I> or we lose the city!<br><br>(Just then a door slides open and Teyla and Sora enter with a semi-conscious Carson between them, supported with his arms draped around their shoulders.)<br><br>WEIR: Rodney, go!<br><br>McKAY: Going! <br><br>(He slams his hand down on the controls.  From an external perspective lightning strikes the towers.  With all the grounding stations disabled, the lightning enters the city and arcs along the corridors.  Out in the ocean, the tsunami heads towards the city.)<br><br>WEIR: What's happening?<br><br>McKAY: It's working!  It just needs to build up enough power for the shield to activate!  Wait for it!<br><br>(Everyone waits anxiously as power can be heard building up in the system.  Rodney looks up briefly and sees Carson sitting nearby and looking at him blearily.  He nods to him.)<br><br>McKAY: Carson.<br><br>BECKETT: Rodney.<br><br>McKAY: Just in time to see how this ends, huh?<br><br>(The tsunami draws closer, rising all the time.  It's at least half as high as the central tower.  As it approaches the edge of the city, Rodney slams his hand down on the controls again.)<br><br>McKAY: <I>Now!</I><br><br>(A bubble of energy rises around the city and envelops it just as the tsunami crashes into it.  The shield pushes the wall of water aside and it surges past either side of the shield, not touching the city.)<br><br>WEIR: Nice work, Rodney!<br><br>McKAY (sagging exhaustedly onto his console): Did you ever doubt me?<br><br>WEIR: Yes!  Several times!<br><br>McKAY: Oh!<br><br>SHEPPARD: I see you've made a new friend, Teyla. <br><br>(Teyla gives him a dark look, then turns to Sora who looks around, bewildered by the whole turn of events.)<br><br><br>LATER.  The storm has passed and the ocean and skies are calm again.  John and Elizabeth stand on the Control Room balcony watching as the Atlantis personnel return from Manara.<br><br>SHEPPARD: What do you want to do with her?<br><br>WEIR: I don't know yet.  We'll keep her locked up for the time being.  You know, maybe releasing her back to the Genii would help ease tension between us.<br><br>SHEPPARD: You're extremely optimistic, you know that? <br><br>WEIR: You think so?<br><br>(Rodney walks over to them.  He has a bandage on his cut arm, but the bandage is wrapped over his jacket.)<br><br>McKAY: Everyone getting back OK?<br><br>SHEPPARD: It looks like it.<br><br>WEIR: How fares our city?<br><br>McKAY: Well, we've begun pumping out the lower levels of the east pier which was flooded. There <I>is</I> structural damage  nothing too serious.  Beckett suffered from a minor concussion, hasn't been able to look at this.  (He holds up his arm.)  I had to do this myself. <br><br>(John looks away, unsuccessfully try to hide a smile.)<br><br>McKAY: Still, on the bright side, I've had my first decent meal in twenty-four hours, so all things considered I would say we are just fine.<br><br>SHEPPARD (to Elizabeth): You say these things happen every twenty years, right?<br><br>WEIR: That's what they tell us.<br><br>SHEPPARD: How far in advance can we book days off?
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="110.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s1/111.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="112.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s1/index.shtml">
+<IMG SRC="/graphics/title_s1episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season One Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="101.shtml" CLASS="list">Rising, Part 1</A><BR><A HREF="102.shtml" CLASS="list">Rising, Part 2</A><BR><A HREF="103.shtml" CLASS="list">Hide and Seek</A><BR><A HREF="104.shtml" CLASS="list">Thirty Eight Minutes</A><BR><A HREF="105.shtml" CLASS="list">Suspicion</A><BR><A HREF="106.shtml" CLASS="list">Childhood's End</A><BR><A HREF="107.shtml" CLASS="list">Poisoning the Well</A><BR><A HREF="108.shtml" CLASS="list">Underground</A><BR><A HREF="109.shtml" CLASS="list">Home</A><BR><A HREF="110.shtml" CLASS="list">The Storm</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="111.shtml" CLASS="list">The Eye</A><BR><A HREF="112.shtml" CLASS="list">The Defiant One</A><BR><A HREF="113.shtml" CLASS="list">Hot Zone</A><BR><A HREF="114.shtml" CLASS="list">Sanctuary</A><BR><A HREF="115.shtml" CLASS="list">Before I Sleep</A><BR><A HREF="116.shtml" CLASS="list">The Brotherhood</A><BR><A HREF="117.shtml" CLASS="list">Letters From Pegasus</A><BR><A HREF="118.shtml" CLASS="list">The Gift</A><BR><A HREF="119.shtml" CLASS="list">The Siege, Part 1</A><BR><A HREF="120.shtml" CLASS="list">The Siege, Part 2</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season One</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B000BVXPGY/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B000CEVUIK/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls1.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="110.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s1/111.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="112.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

@@ -1,0 +1,526 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Underground" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s1/108.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s1/transcripts/108.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=514">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=259">Screen Captures</A><BR>
+				<A HREF="/atlantis/s1/108.shtml#analysis">Analysis</A>
+				
+				
+				
+				 | <A HREF="/atlantis/s1/108.shtml#production">Production</A>
+				
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=3068">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s1/108.shtml"><IMG SRC="/atlantis/graphics/108_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="UNDERGROUND" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://www.amazon.com/exec/obidos/ASIN/B000ICRKR6/bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 108<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 1, Disc 2<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 08.27.04<BR>
+				    
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0217938/" TARGET="_blank">Peter DeLuise</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0877427/" TARGET="_blank">Brad Turner</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">Efforts to open trade relations with a species called the Genii turn sour when the team discovers their new "allies" have ulterior motives.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    ATLANTIS. CONFERENCE ROOM. Doctor Elizabeth Weir, Major John Sheppard, Doctor Rodney McKay, Lieutenant Aiden Ford and Teyla Emmagan are having a meeting. Rodney is eating a sandwich and drinking coffee.<br><br>TEYLA: They call themselves the Genii. They are simple people, but good farmers and fair traders.<br><br>WEIR: Well, we're still months away from producing successful crops on the mainland ... (she looks at Rodney as he bites into his sandwich and takes a mouthful of coffee) ... and we're heading towards a food shortage.<br><br>McKAY (through a mouthful of sandwich): I know, it's getting desperate. (He holds up his mug.) We're almost out of coffee.<br><br>SHEPPARD: Well, maybe you should stop drinking eleven cups a day.<br><br>McKAY: I'm just making sure I get my fair share before it's all gone.<br><br>FORD: Sounds fair(!)<br><br>McKAY: Mmm. (He takes another bite from his sandwich.)<br><br>SHEPPARD: I'm all for trade, but don't you think we should find a way to help defend ourselves?<br><br>FORD: How can a bunch of farmers do that?<br><br>WEIR: Well, maybe they can introduce us to people who can help. In the meantime, let's take care of the basics.<br><br>SHEPPARD: Guess it's always good to get to know your neighbours.<br><br>TEYLA: The Genii Stargate is a short distance from their village. I suggest we walk. The Puddle Jumper may alarm them. As I said, they are very simple.<br><br>WEIR: Sounds like a mission. <br><br>(She smiles, stands and leaves the room. Teyla gazes across to Rodney, still chewing on a mouthful of sandwich, who smiles back at her, oblivious to her thoughts.)<br><br><br>WORMHOLE TRAVEL.<br><br><br>GENII HOMEWORLD. John's team exits the Stargate, which shuts down behind them.<br><br>SHEPPARD: Alright -- where to, Teyla?<br><br>TEYLA: We should allow them to come to us.<br><br>McKAY: Well, if you know where the village is, shouldn't we ...?<br><br>TEYLA: They are a simple people and they trust me, but that trust was hard earned.<br><br>SHEPPARD: OK.<br><br>McKAY: What is it you said they grow here, anyway?<br><br>TEYLA: Many things, but they are best known for a bean known as tava.<br><br>McKAY: What, java?<br><br>SHEPPARD (emphasising the word): Tava.<br><br>FORD: How will they even know we're here, anyway?<br><br>TEYLA: They already do. <br><br>(A man and woman walk into view a little way away. They are dressed fairly simply. The team stops and waits for them to approach.)<br><br>SHEPPARD: They look friendly enough.<br><br>TEYLA: The eldest one is called Tyrus. I have traded with him on many occasions.<br><br>(The couple gets closer. The man is in his late forties; the woman in her early twenties.)<br><br>TYRUS: Teyla Emmagan.<br><br>TEYLA (smiling at him): Tyrus. It has been many days.<br><br>TYRUS: Too many.<br><br>SORA: Teyla.<br><br>(Teyla introduces her team.)<br><br>TEYLA: This is Major Sheppard, Doctor McKay and Lieutenant Ford.<br><br>TYRUS: My daughter, Sora.<br><br>SHEPPARD: You must be very proud.<br><br>(Sora smiles, flattered.)<br><br>TYRUS (sternly): She's betrothed.<br><br>SHEPPARD: I wasn't hitting on your daughter. I was just, uh ...<br><br>TEYLA (interrupting): They have come to trade for a share of your crops.<br><br>SORA: Yet you bring weapons.<br><br>FORD: Only to defend ourselves.<br><br>TYRUS (to Teyla): You dress as they do of your own accord?<br><br>TEYLA: Of course. Why?<br><br>SHEPPARD: He wants to know if you work with us ... or for us.<br><br>TEYLA: Ah. These are my friends, Tyrus. I would not have brought them if I did not think them worthy to become yours.<br><br>TYRUS: We'll take you to see Cowen. (He nods to Sora.)<br><br>SORA (to the team): Follow me.<br><br>(She leads the team away. Tyrus stands and watches them go. After they have passed him, Rodney speaks quietly to John.)<br><br>McKAY: Maybe we should offer a sense of humour in trade.<br><br>SHEPPARD: Sure. They can have yours.<br><br>McKAY (laughing falsely): Oh, please, my side. You slay me.<br><br>SHEPPARD: On second thought ...<br><br>(Unseen by the team, Tyrus lifts his wrist to his mouth, uncovering a device attached to his sleeve. It looks way too advanced for the simple folk that Teyla has said that the Genii are.)<br><br>TYRUS (into the device): I'm bringing them in. All operations to silent mode.<br><br>(He follows after the team.)<br><br><br>LATER. The team has been taken to the Genii's village. Inside a wooden house, John, Rodney and Teyla are sitting at a table while Aiden stands nearby. A middle aged man, Cowen, approaches the table. The team has obviously been explaining what they have to trade.<br><br>COWEN: And these medicines are potent?<br><br>McKAY: They're capable of stopping bacterial infections entirely.<br><br>SORA: It would help us through a harsh winter.<br><br>(Cowen sits down at the table.)<br><br>COWEN: Hmm. We will need more than you offer.<br><br>SHEPPARD: More?<br><br>FORD: I don't think you understand how cool this medicine is.<br><br>COWEN: Well, leave if you wish.<br><br>SHEPPARD: Leave?! (He looks at Teyla.) I thought you said the Genii were fair traders.<br><br>TEYLA (smiling at Cowen): We have always been able to achieve a reasonable bargain.<br><br>COWEN: You ask for much of our harvest. New crops will have to be planted in sufficient quantities to replenish our stores or it is the Genii who will starve. That amount of planting will require new land to be cleared. Clearing more land is slow, hard work and it will lose us a great amount of growing time between now and the next harvest season.<br><br>SHEPPARD: OK. What if clearing land was fast and easy?<br><br>(Cowen and Tyrus look at each other and chuckle.)<br><br>COWEN: You know a simple way of uprooting the stump of a three hundred year old tree?<br><br>SHEPPARD: As a matter of fact, I do.<br><br><br>SHORTLY AFTERWARDS. Everybody has moved outside. Aiden is setting claymores around a large tree stump. The others stand nearby.<br><br>SHEPPARD: Cover your ears!<br><br>COWEN: I don't understand. <br><br>McKAY: It'll be quite loud.<br><br>SHEPPARD: Come on, you're gonna wish you did. Lieutenant?<br><br>(Grinning, Aiden pulls the aerial up from the detonator with his teeth.)<br><br>FORD: Fire in the hole!<br><br>(Everybody covers their ears. Aiden presses the button on the detonator and the tree stump explodes into pieces. The villagers take their hands from their ears, staring in amazement.)<br><br>FORD: It's called C4.<br><br>(Cowen walks forward, looking at the debris around the tree stump, then turns to the team.)<br><br>COWEN: If you can supply us with a sufficient quantity of C4, we will supply you with the crop you require.<br><br>SHEPPARD: So, this instead of the medicine.<br><br>COWEN: As well as the medicine.<br><br>SHEPPARD: Really?! That wasn't impressive enough?<br><br>COWEN: It is you who are in need.<br><br>SHEPPARD: Well, I'll have to discuss this with my people.<br><br>COWEN: I'm sure we can come to terms. Teyla, thank you for bringing us these new trading partners. Please, stay as our guests. There will be a harvest ceremony later.<br><br>(He turns and heads back towards the house, followed by the other villagers. Teyla smiles falsely.)<br><br>TEYLA: Wonderful(!) (She grimaces.)<br><br>SHEPPARD: Ford?<br><br>FORD: Sir?<br><br>SHEPPARD: We're talking harvest ceremony.<br><br>FORD: Sounds like fun, sir(!)<br><br>SHEPPARD: I'll be back soon.<br><br>(He turns and starts to walk away. Rodney points towards his departing back.)<br><br>McKAY: I should go back with the major.<br><br>(He hurries after him. Aiden looks bewildered. Teyla walks over to him and together they head back towards Cowen's house.)<br><br><br>ATLANTIS. ELIZABETH'S OFFICE. John is sitting opposite Elizabeth's desk. Elizabeth stands at the door as it closes, then turns to face him.<br><br>WEIR: Explosives?! This is a scientific expedition, Major.<br><br>SHEPPARD: I know that.<br><br>WEIR: But you want us to become arms dealers.<br><br>SHEPPARD: Have you ever tried to clear a stump by hand?<br><br>WEIR: (sarcastically, as she walks around the desk and sits down) Yes, it's a hobby.<br><br>SHEPPARD: They are taking a chance by giving us so much of their crop this year.<br><br>WEIR: Plus the medicines I already agreed to? (John nods.) I think in the future, Major, I should do the negotiating.<br><br>SHEPPARD: I did say I had to ask you first.<br><br>WEIR: Uh-huh, to terms you already agreed to.<br><br>SHEPPARD (nodding in a slightly embarrassed way): Yes.<br><br>WEIR: Do you see why I have a problem with this?<br><br>SHEPPARD: Do we need food or not? We are on the verge of rationing, and as much as I'd like to devote every offworld mission to the pursuit of tava beans ...<br><br>WEIR: I get your point. Tell them we agree.<br><br><br>GENII HOMEWORLD. The harvest ceremony is taking place in Cowen's house. Everyone is holding a cup.<br><br>COWEN: We give thanks for a plentiful harvest.<br><br>VILLAGERS (raising their cups): We give thanks.<br><br>COWEN: May next season be as fruitful. (He turns to Aiden and Teyla.) And to our new friends.<br><br>TYRUS: New friends.<br><br>(Everybody drinks. Aiden takes a mouthful, then chokes.)<br><br>FORD: Moonshine?! <br><br>(Everybody laughs. Teyla looks at him and shrugs.)<br><br>TEYLA: I thought you were man enough. (She looks at him for a moment as he tries to get his breath back, then she bursts out laughing.)<br><br><br>ELSEWHERE. John and Rodney are on their way back from the Stargate.<br><br>McKAY: You have no idea which way to go, do you?<br><br>SHEPPARD: Just trying to get my bearings.<br><br>McKAY: Translation: I'm lost. They were very clear which route to take.<br><br>SHEPPARD: I prefer a straight line.<br><br>McKAY: Yes, of course, cause everything's a short cut in Sheppard's world.<br><br>(He looks down at the small scanner he is carrying.)<br><br>McKAY: OK, here it is again.<br><br>SHEPPARD: What?<br><br>McKAY: I'm picking up a strange reading from right over there.<br><br>(He points ahead of them. There's a building in the trees. It looks like a large barn.) <br><br>SHEPPARD: Define strange.<br><br>McKAY: You don't know what strange' means?<br><br>SHEPPARD: I know what strange' means, Rodney ...<br><br>McKAY: Weird, freakish, odd ...<br><br>SHEPPARD: ... I'm just trying to determine whether it's worth getting off the route back to the village.<br><br>McKAY: It's radioactive readings on Amish world -- your call. Look, we're lost anyway -- what difference does it make?<br><br>SHEPPARD: I am not lost ... Alright. Let's check it out.<br><br>(They walk to the barn and cautiously enter. Inside are wooden stalls. The floor is covered with straw. At the entrance to one of the stalls is a large pile of straw. Rodney follows the readings on his scanner, walks over to the pile and starts to clear the straw away. John helps him. Underneath is a large round metal hatch.)<br><br>McKAY: Now that ...<br><br>SHEPPARD: ... is definitely strange.<br><br>McKAY: Yeah, and not that Amish, really.<br><br>SHEPPARD: No, not so much.<br><br>McKAY: Maybe they don't even know it's here.<br><br>(John touches the hatch, then pulls his hand back and rubs his fingers together.)<br><br>SHEPPARD: This hatch has been oiled recently. We have to check it out.<br><br>McKAY: Really? (John looks at him.) Yeah, of course we do.<br><br>(John starts to pull the hatch open. Rodney helps him. They look inside. There's a ladder attached to the wall leading down some distance.)<br><br>SHEPPARD: Alright.<br><br>(He climbs down the ladder, Rodney following. As John gets to the bottom, he turns on the light on his P90 and shines it around the brick lined area.)<br><br>McKAY (still descending the ladder): The construction's architecturally advanced. I don't think the Genii could've made this.<br><br>SHEPPARD: I'm gonna tell Ford where we are. (He taps his radio a couple of times.) Lieutenant, come in. (There's no response.) Ford?<br><br>McKAY (looking at his scanner): This place is built like a bunker. Must be shielded for R.F. (He walks around the area, checking his scanner, then points.) The reading's stronger this way.<br><br>SHEPPARD: What kind of readings?<br><br>McKAY (sarcastically): A palm reading.<br><br>SHEPPARD: McKay.<br><br>McKAY: It's neutron radiation. It's definitely a-a-a powerful energy source.<br><br>SHEPPARD: OK. Let's check it out. (He walks in the direction that Rodney pointed.)<br><br>McKAY: I really think we should, we should get out of here.<br><br>(John continues walking forward and reaches a large metal door. He shines his light around the door, then takes hold of it and slides it open. He and Rodney walk inside and stare in amazement at the vast underground cavern that greets their eyes. The area is enormous. In the distance, a huge waterfall tumbles down a cliff. The whole area is filled with equipment much more advanced than anything the Genii could have.)<br><br>SHEPPARD: Now, this is strange.<br><br>(Just then, three men wearing military uniforms run up behind them and aim rifles at them. John and Rodney look at each other nervously.)<br><br><br>COWEN'S HOUSE. As the party continues, a man comes into the house and whispers to Cowen. Cowen walks over to the table where Tyrus and Sora are sitting with Teyla and Aiden.<br><br>COWEN: If you'll excuse me, I must go tend to a dispute.<br><br>TEYLA (smiling at him): Is everything alright, Cowen?<br><br>COWEN: Oh, I'll return shortly.<br><br>(He turns and walks away. Tyrus and Sora follow him.)<br><br><br>UNDERGROUND COMPLEX. In a large room with a metal door, John and Rodney are sitting side by side at a table. They both have their arms folded. Presumably they have been there for some time and are getting bored. Guards stand around the room. Two of them have their rifles trained on our heroes. All of their equipment has been dumped on the far end of the table.<br><br>McKAY: Maybe they exist as two separate cultures.<br><br>SHEPPARD: Maybe. Who cares? (He looks up at the guards.) How long are you boys planning on keeping us here?<br><br>(Rodney cautiously unfolds his arms and raises them in a friendly way to the guards.)<br><br>McKAY: You know, if people could just learn to keep their secret underground hatches locked ...<br><br>(The doors behind them open. John and Rodney turn to see a man standing in the doorway. We can't yet see his face but he is wearing the same uniform as the guards. As the man walks in and closes the doors behind him, John and Rodney turn to look at each other.)<br><br>SHEPPARD: So much for two separate cultures.<br><br>(The man walks closer. It's Cowen. He adjusts his belt and sighs heavily.)<br><br>COWEN: What am I going to do?<br><br><br>COWEN'S HOUSE. Some of the Genii are whispering amongst themselves. Many of them are watching Teyla and Aiden anxiously as they sit at the table.<br><br>FORD (quietly): I'm getting a weird vibe all of a sudden.<br><br>TEYLA: I agree. I have never seen the Genii behave this way.<br><br>(They look at each other for a moment, then nod to each other and stand up.)<br><br>FORD (to the Genii): Listen, we're just going to step outside and see if Major Sheppard and Doctor McKay are back.<br><br>(Tyrus and Sora hurry over to them.)<br><br>TYRUS: No-one must leave. It is not safe.<br><br>SORA: There's a Wraith ship in the area.<br><br>FORD: Wraith? Are you serious? <br><br>TEYLA: We need to warn our friends.<br><br>SORA: You will draw them to us. Everyone must stay indoors.<br><br><br>UNDERGROUND ROOM. Cowen has gone to the far end of the table and is picking up various pieces of John's and Rodney's equipment, looking at them and then tossing them down onto the table again. He picks up the scanner.<br><br>McKAY: Oh, can we be careful with that? It's just that it's rather fragile and if it's, um ... <br><br>(Cowen deliberately tosses it onto the table. Rodney blinks, holding back his irritation.)<br><br>COWEN: We have a problem.<br><br>SHEPPARD: Then we have something in common.<br><br>COWEN: Normally you would have already been shot for discovering our secret.<br><br>SHEPPARD: In which case, more of our people would show up and question our disappearance.<br><br>COWEN: We would simply tell them the Wraith took you. With no evidence to the contrary, they would believe us.<br><br>(John thinks about it for a moment.)<br><br>SHEPPARD: You were saying?<br><br>COWEN: You have technology, knowledge new to us. This C4 of yours ...<br><br>SHEPPARD: Not for blowing up stumps.<br><br>COWEN: We have a more sophisticated application for it.<br><br>SHEPPARD: Look, what you people do with your C4 is none of our business. We just need food. As far as your little secret down here goes, well, uh ... (He looks at Rodney.)<br><br>McKAY: We say, What giant underground bunker?<br><br>(John raises his hands in agreement.)<br><br>COWEN: I want more than that. (He sits down at the table.)<br><br>SHEPPARD: Well. maybe we can give you more.<br><br>COWEN: You have weapons more powerful than your C4?<br><br>McKAY: Oh, are you kidding? Weapons'R'Us. We ...<br><br>(John throws him a look to shut him up before turning back to Cowen.)<br><br>SHEPPARD: We might.<br><br>COWEN: What if I wanted more than weapons?<br><br>McKAY: Um, did I mention that I know almost everything about almost everything?<br><br>(John narrows his eyes at him.)<br><br>COWEN: For Teyla Emmagan to have joined with you, you must have something much more.<br><br>SHEPPARD: Look, I'm gonna go out on a limb here and just say that we're looking for allies against the Wraith. How about you guys?<br><br><br>COWEN'S HOUSE. Teyla and Aiden are still on their feet and are gathering their equipment.<br><br>FORD: Listen, we just wanna take a look outside.<br><br>SORA: We can't let you. It's not safe.<br><br>TEYLA: We can take care of ourselves.<br><br>(Tyrus' wrist radio beeps.)<br><br>COWEN (over radio): Tyrus, please respond.<br><br>(Tyrus lifts his arm to his mouth and activates his radio.)<br><br>TYRUS: Receiving.<br><br>(Teyla stares at him in amazement.)<br><br>COWEN (over radio): Bring them.<br><br>TYRUS: Understood. (He deactivates his radio and turns to Teyla and Aiden.) Relinquish your weapons.<br><br>(All around them, villagers raise rifles and aim them at the pair.)<br><br>SORA: You will not be harmed.<br><br>FORD (looking around the room): You guys are full of surprises.<br><br>(Tyrus and Sora lead them away.)<br><br><br>UNDERGROUND. Sora, now dressed in military uniform, leads Teyla and Aiden along a narrow corridor. Tyrus, also in uniform, follows. Sora opens a pair of doors and leads them into the room where John and Rodney are still sitting at the table. Teyla and Aiden walk over to the table.<br><br>FORD (sitting down): You missed a hell of a harvest ceremony, sir.<br><br>SHEPPARD: I can imagine. (He looks at Teyla as she sits.) Oh, Teyla.<br><br>TEYLA: I am as surprised as you are by all of this, Major.<br><br>SHEPPARD: I don't know. I'm pretty surprised.<br><br>COWEN: Teyla and her people know us only as the simple farmers we show to outsiders. The secrecy of who and what we are is the only defence we have against the Wraith. One day, all that will change.<br><br>McKAY (casually): D'you think you can do that with an atomic bomb?<br><br>(John and Aiden stare at him in surprise. Cowen hesitates for a moment.)<br><br>COWEN: Now it's you who surprise me.<br><br>McKAY: Well, radioactive readings; your fascination with our C4 ...<br><br>SHEPPARD: You're just mentioning this now?<br><br>McKAY: It just came to me when he said one day all that would change. (He looks at Cowen.) I assume you're hoping our C4 will solve your super-criticality problem.<br><br>COWEN: Will it?<br><br>McKAY: It might. Depends on your designs. There's a host of other considerations.<br><br>SHEPPARD: You know how to make an A bomb?<br><br>McKAY: Major, most of my high school chess team could design an A bomb. The actual hard part is having sufficient fissional materials of an appropriate grade.<br><br>COWEN: And we do.<br><br>(John looks at him in surprise.)<br><br>SHEPPARD: You do?!<br><br>COWEN: The Genii were once a great confederation of planets. Millennia ago, the Wraith had driven us to the brink of total annihilation. Our forefathers sought the protection of bunkers such as these -- originally created for wars long forgotten -- and it was here that a small number of our people managed to survive undetected. Over the course of many, many years, generation after generation, we have made technological developments here in secret.<br><br>SHEPPARD: So the whole farmer thing is just a front.<br><br>TEYLA: So the Wraith do not suspect.<br><br>COWEN: More than that. We do have many mouths to feed below. I want to show you something. Come with me.<br><br>McKAY: Oh, that thing you so carelessly threw on the table, can I, uh, take that along?<br><br>(Cowen picks up the scanner and tosses it to him.)<br><br>COWEN: Come. (He walks towards the doors as the team gets up. Cowen addresses the guards at the doors.) Stay as you are.<br><br>(The team follows Cowen. Rodney activates his scanner.)<br><br><br>CORRIDORS. Cowen leads the team through the complex.<br><br>COWEN: Down below, our military trains as our scientists create weapons for them. With our atomic weapon we believe we finally have what we need to defeat the Wraith once and for all.<br><br>McKAY: You do realise that long term exposure to these levels of radiation is extremely dangerous?<br><br>COWEN: Our scientists tell me otherwise.<br><br>McKAY: Well, they're wrong.<br><br>SHEPPARD (nervously to Rodney): Are we in danger now?<br><br>McKAY: Oh, it would take days or weeks at these levels of radiation -- but I assume the Genii spend days or weeks down here?<br><br>COWEN: Many of our people have spent their entire lives here.<br><br>McKAY: Their entire short lives. (To John) We'll be fine -- just as long as you weren't planning on having children.<br><br><br>LABORATORY. Cowen has brought the team to a lab and Rodney is looking at a large tank.<br><br>McKAY: Well, you're on the right track. We're about sixty years ahead of you -- that is, if you survive. This shielding is woefully inadequate. Now, uranium ... (he turns and walk over to Cowen) ... how much do you have?<br><br>COWEN: Much more.<br><br>McKAY: Yeah, but it's nowhere near weapons grade.<br><br>COWEN: We have had problems in our purifying efforts. The molecular structure of the unwanted material is very similar to that of the desired material.<br><br>McKAY: It's diffusion -- you need to separate the 235 from the 238. When you remove the barrier between the two substances, the slight difference in their mass causes them to separate at different rates.<br><br>COWEN: You could do this?<br><br>McKAY: Of course. I just ...<br><br>SHEPPARD (interrupting): I think the real question is, right now, are we allies, or are we still prisoners?<br><br><br>LATER. Cowen, Tyrus, Sora and the team, together with some other Genii scientists, are standing around a large table. A meal has been laid out in front of everyone. They are each holding up a cup.<br><br>COWEN: We give thanks to our new friends.<br><br>GENII: We give thanks.<br><br>(Everyone drinks, then Cowen puts his cup down and gestures to the table.)<br><br>COWEN: Please, eat.<br><br>(Everyone sits down. Rodney looks nervously at his plate, then turns to Aiden sitting beside him.)<br><br>McKAY (nervously): You don't think there's lemon in this, do you?<br><br>FORD: I'm sure it's delicious.<br><br>McKAY: Have you seen someone in anaphylactic shock?<br><br>FORD (sternly): Eat.<br><br>COWEN: I hope that by sharing this meal, we can make up in some small way for past offences.<br><br>SHEPPARD: I'm sure we'll get along just fine.<br><br>(Cowen smiles at him, then looks at Rodney.)<br><br>COWEN: What method did your people use to initiate fission reaction in your prototype devices?<br><br>McKAY: Well, there's two different approaches actually: implosion and a gun-type bomb. Both are designed to create a super-critical mass, obviously.<br><br>SHEPPARD: Obviously(!)<br><br>McKAY: Either way you go, you need an amount of refined 235 roughly equivalent to the size of, uh, my fist ... (he makes a fist, then looks at the Genii man sitting next to him) ... or his fist, actually.<br><br>COWEN (smiling at Tyrus): Well, our dreams may soon be a reality.<br><br>(Tyrus smiles back at him. Cowen turns to the team.)<br><br>COWEN: With your help. Before the next culling, we plan to vaporise the Wraith as they sleep.<br><br>(Teyla, her face serious, looks at John, who looks innocently at Cowen.)<br><br>SHEPPARD: What exactly is your plan?<br><br>COWEN: We intend to take advantage of their over-confidence. That is their weakness.<br><br>SHEPPARD: Over-confidence.<br><br>SORA: They hibernate between cullings aboard their great ships, sometimes for centuries at a time.<br><br>TYRUS: There are always Wraith who watch over the sleepers but they're small in number. <br><br>COWEN: Small enough to be overpowered. <br><br>TYRUS: We intend to sneak aboard their ships with our new weapons.<br><br>TEYLA: That may no longer be possible.<br><br>SHEPPARD: Teyla.<br><br>TEYLA: Major?<br><br>SHEPPARD: Don't you think we should listen to their whole plan before we start poking holes in it?<br><br>TEYLA: If we are to work together, then they need to trust us -- and we need to trust them.<br><br>COWEN: Please explain.<br><br>TEYLA: I and several of my people had been captured by the Wraith. You must understand, it was a rescue mission to save us. I am only alive today thanks to them. (She looks around at John, Rodney and Aiden.) As a result of that rescue ...<br><br>TYRUS: ... you awakened the others.<br><br>SHEPPARD: They found out that there were more people where we came from.<br><br>SORA (to Tyrus): Father, they will all awaken<br><br>SHEPPARD: Look, we took one of em prisoner ...<br><br>TYRUS: The next culling was supposed to be decades away.<br><br>SHEPPARD: They said they were in no hurry, that they would take their time to come after us.<br><br>COWEN: We had hoped to test our first atomic weapon five years from now. Do we have that much time, Sheppard? <br><br>(John hesitates.)<br><br>COWEN: Do we?<br><br>SHEPPARD: No.<br><br>(Cowen slams his hand down onto the table angrily as he stands up. He turns and storms out of the room. John jumps up and follows him.)<br><br><br>CORRIDORS. Cowen hurries along a corridor, John following him.<br><br>COWEN: They may detect the radiation. We have to shut down the reactors, survive this culling and somehow plan for the next.<br><br>SHEPPARD: You're forgetting something.<br><br>COWEN: We can hide from them.<br><br>SHEPPARD: We're both on the same side.<br><br>COWEN: Ha! (He stops and turns to face John.) Once we have extracted all the information we can from you, you will be left on the surface. You'll be the first the Wraith feed upon, I promise you.<br><br>SHEPPARD: I've gone up against the Wraith ships and I won.<br><br>COWEN: I've seen your weapons.<br><br>SHEPPARD: I'm talking about a ship -- one that flies through space -- with weapons beyond anything you've ever seen. You really wanna turn down that kind of help?<br><br>COWEN: I think you're trying to save yourself.<br><br>SHEPPARD: Well, you're damned right I am. I say we work together and maybe help save each other. We both want the same thing.<br><br><br>DINING ROOM.<br><br>TYRUS: We started our experiments confident the Wraith would not appear for many years. They will detect us, the same way you did.<br><br>TEYLA: But if we work together ...<br><br>SORA (angrily): Haven't you done enough?<br><br>McKAY: We haven't even started yet. I can get your programme right back on schedule.<br><br>TYRUS: How?<br><br>McKAY: I built an atomic bomb for my grade six Science Fair exhibit.<br><br>FORD: They let you do that in Canada?<br><br>McKAY: It was only a working model. Still, I was questioned for six hours by the C.I.A. who believed I was part of a secret pre-teen organisation. Actually, that was my first ...<br><br>(The doors open and Cowen and John come back in.)<br><br>COWEN: Major Sheppard has convinced me that we may yet prevail.<br><br>TYRUS: He has?<br><br>COWEN: If we work together.<br><br><br>ANOTHER LABORATORY. Cowen has brought to the team to a different lab from the one they were in before.<br><br>COWEN: Many generations ago during a culling, the Genii were able to shoot down a Wraith Dart. Although many lives were lost that day, the ability to resist even in some small way gave the Genii the seeds of hope.<br><br>(Tyrus opens a wooden box and takes out a small device.)<br><br>TYRUS: This data storage device was recovered from that downed Wraith Dart.<br><br>McKAY: It's a flash memory in a jump drive.<br><br>TYRUS: It contains information about the hive ship it was deployed from. (He takes the device across to a computer.)<br><br>COWEN: Tyrus and his daughter have been able to successfully access that information.<br><br>McKAY: How?<br><br>TYRUS: Through this interface. <br><br>(He connects a clip to the device.)<br><br>McKAY: What, really?<br><br>(Tyrus activates the computer and images appear on the screen.)<br><br>TYRUS: We believe this is where a Wraith ship still sleeps. (He points to a spot on the screen.)<br><br>McKAY: The Wraith tend to, uh, self destruct. It's probably pretty rare to get ahold of something like this. Have you been able to access any other data?<br><br>(Tyrus calls up more information on the screen.)<br><br>TYRUS: With this interface device, we believe we can access the Wraith ship's data core.<br><br>SHEPPARD: So this is what your whole plan is based on?<br><br>McKAY: Well, how does getting access to a Wraith ship's computer help you?<br><br>TYRUS: With this interface device, we can learn the location of all the Wraith ships.<br><br>SHEPPARD: So you know where to deliver your new bombs.<br><br>FORD: Makes sense.<br><br>SHEPPARD: Assuming, of course, the ship we're looking at is still there.<br><br>TYRUS: Well, if the Wraith are in no hurry to rally their forces as you claim, it will be.<br><br>(John looks at the map on the screen.)<br><br>SHEPPARD: This ship is nowhere near the Stargate. Approaching it undetected by foot is impossible.<br><br>COWEN: That is where your ship comes in, Major Sheppard.<br><br>(The team looks around at each other. John shrugs.)<br><br>SHEPPARD: Always wondered when my ship would come in.<br><br><br>ATLANTIS. CONFERENCE ROOM. Elizabeth paces around the room as John and Aiden sit at the table.<br><br>WEIR: No. How's that for an answer?<br><br>SHEPPARD: It's pithy, I'll give you that.<br><br>WEIR: I'm sure you've already agreed to this.<br><br>SHEPPARD: Only because we'll get something out of it.<br><br>FORD: We do need allies, ma'am.<br><br>WEIR: Allies? You just said these people were ready to string you up. How can you trust them?<br><br>SHEPPARD: Hey, I don't trust em as far as I can throw em. There's a reason they insisted that McKay and Teyla stay there, and it's not just to help them with their bomb. But we have something they need and they have something we need, and I thought that's what negotiating was all about.<br><br>WEIR: Oh, well, it is. Personally, I stop short of offering nuclear weapons.<br><br>FORD (petulantly): They were building em anyways.<br><br>WEIR: Oh well, if they were building them anyways, Lieutenant, why didn't you just say so?! (She looks at John.) You realise I originally sent you out for food?!<br><br>(John looks at Aiden.)<br><br>SHEPPARD: Think we can still get that?<br><br>FORD: I don't see why not.<br><br>SHEPPARD (to Elizabeth): We kinda went past it with the whole atomic bomb thing.<br><br>WEIR: Alright, bottom line: can you pull this off?<br><br>SHEPPARD: We'll have to watch our backs, but I wouldn't put my team at risk if I didn't think so.<br><br>(Elizabeth considers it for a moment, then rather unhappily makes her decision.)<br><br>WEIR: OK, go -- and then maybe we'll talk about making nuclear bombs.<br><br><br>GENII HOMEWORLD. COWEN'S OFFICE. Rodney is showing Cowen his laptop screen while he explains to him how to make a proper nuclear bomb.<br><br>McKAY: The spherical encasement diverts the explosive forces inward, and the resulting implosion creates, uh, extreme compression. Sub-critical mass becomes super-critical.<br><br>COWEN: Ingenious.<br><br>McKAY: I know -- and can you believe I didn't even win the Science Fair? So -- the practical adaptation of available equipment and resources will be the real challenge.<br><br>(Cowen smiles.)<br><br>COWEN: You're destined to become a hero among our people, Doctor McKay.<br><br>(He pats Rodney on the shoulder, stands up and starts to leave the room.)<br><br>McKAY (smiling happily): Right.<br><br>COWEN (turning in the doorway): As long as Major Sheppard returns with the C4.<br><br>(Rodney's smile becomes more fixed as Cowen leaves.)<br><br>McKAY (quietly to himself): I'm a dead man.<br><br><br>CORRIDORS. Teyla is walking with Sora and Tyrus.<br><br>SORA: We have surprised each other.<br><br>TEYLA: The Genii are not the people I thought they were.<br><br>SORA: And look at you! I would never have thought that you would leave your people.<br><br>TEYLA: No, I do this for them. John Sheppard and his people have brought new hope to our stars, Sora. They have the spirit of explorers and the hearts of warriors. They have accepted me. But look at you!<br><br>TYRUS: How many harvest ceremonies did I make you endure?!<br><br>(Sora giggles quietly.)<br><br>TEYLA: Never again, I promise you!<br><br>(They reach a door which opens for them. On the other side is the ladder leading out of the complex.)<br><br>TYRUS: You respected us for who we were. That gave us reason to trust you.<br><br>TEYLA: It is sad that you could not trust me enough to share in your secret.<br><br>TYRUS: That is our way.<br><br>(He starts to climb the ladder.)<br><br>SORA: Our deception was and is a matter of survival. It is a secret we are born into that we willingly take to our graves.<br><br>TEYLA: Still ...<br><br>SORA: Have we not always traded fairly with you? (Teyla nods.) You should know we have not dealt with others so graciously.<br><br>TEYLA: Perhaps this new alliance will help to open your eyes -- that we can only stand against the Wraith if we do so together.<br><br>SORA: We'll have to see if your friends will live up to their promises.<br><br>(She gestures to the ladder. Teyla gives her a long look before turning and starting to climb.)<br><br><br>OUTSIDE THE BARN. As Tyrus, Sora and Teyla exit the barn, the sound of a Puddle Jumper can be heard but initially they can't see anything. A moment later the Jumper decloaks as it lands. Teyla smiles.<br><br>TEYLA: Well -- do you see?<br><br>(Sora and Tyrus gaze at the Jumper in amazement.)<br><br><br>UNDERGROUND COMPLEX. John and his team have had their weapons returned and are gearing up. Cowen, Tyrus and Sora are also there. Tyrus is holding a large rifle.<br><br>SHEPPARD: Gotta get in and out as fast as possible.<br><br>COWEN: I've been studying these plans all my life.<br><br>SHEPPARD: Good. Then we'll follow your lead -- keep you covered during the breach and download.<br><br>FORD: Exit plan?<br><br>SHEPPARD: Same as we came in. You stay with the Jumper.<br><br>FORD: Yes, sir.<br><br>SORA: I should be going with you.<br><br>FORD: There's a good chance we could end up in a firefight.<br><br>COWEN: Sora is a skilled fighter and an expert marksman, Lieutenant Ford. Still, she must stay here ... (he looks at her) ... to carry on if we don't come back.<br><br>(Sora gazes back at him, unwilling to stay behind but understanding her duties. The teams finish their preparations and head out, leaving Sora behind. Tyrus turns and shares a long look with his daughter before he follows the others. They walk along the corridors towards the exit ladder.)<br><br>COWEN: We need you to deliver the C4 you promised us, Major, before we proceed.<br><br>SHEPPARD: We need to get the proper intel first. No use in building a bunch of nukes if you can't put them to use.<br><br>COWEN: Those are your terms?<br><br>SHEPPARD: I'm sure you understand.<br><br>COWEN: I do. It seems we have no choice but to trust each other.<br><br><br>LATER. The Puddle Jumper exits the Stargate on a Wraith planet and cloaks immediately. The Atlantis team are seated in their usual positions while Cowen and Tyrus wander around the ship looking at it.<br><br>COWEN: How many of these ships do you have?<br><br>SHEPPARD: Just the one.<br><br>(The rest of the team are careful not to react to this. The ship flies on, then Teyla spots something through the windshield.)<br><br>TEYLA: There. (She points to the Wraith ship in the distance.)<br><br>COWEN: Have they awoken?<br><br>SHEPPARD: Don't see any activity. Same as last time. Alright, here we go -- right through the front door.<br><br>(He flies the Jumper towards a large opening in the side of the Wraith ship.)<br><br><br>SHORTLY AFTERWARDS. The cloaked Jumper has landed on a walkway inside the ship. John leads the way out, the team becoming visible as they leave the protection of the cloak. They look around cautiously, then John turns to Aiden.<br><br>SHEPPARD: OK, hold the fort.<br><br>FORD: Yes, sir. Good luck.<br><br><br>LATER. The team makes its way carefully through the ship, Cowen indicating which way they should go. After a while they enter a large chamber. Around the walls are the skeletal bodies of humans, wrapped in spiderweb-like cocooning.<br><br>McKAY: Oh, my God!<br><br>(He bends down to a body sitting on the floor.)<br><br>TEYLA: These people were cocooned for a later feeding. Some of them may still be alive.<br><br>COWEN: We don't have time for this.<br><br>SHEPPARD: They could be your people for all you know. Alright, Teyla, take care of this. We'll meet you back at the ship. McKay, you're with me.<br><br>TYRUS (to Cowen): I'll stay with her. (He hands Cowen the Wraith data device.) Go. We'll meet you back at the ship.<br><br>(Cowen follows after John and Rodney. Teyla and Tyrus start to walk around the chamber, investigating the bodies.)<br><br>(Some distance away, Cowen leads John and Rodney until he reaches a room blocked by a door.)<br><br>COWEN: This is it, but the ship's plans I memorised did not include the details on how to operate this door.<br><br>SHEPPARD: We try to blow this door, it's gonna make too much noise.<br><br>McKAY (realising that once again it's all down to him): So find another way. (He sighs.) OK.<br><br>(He takes out a scanner and runs it down the wall beside the door. The beeping from the scanner gets more rapid at one part of the wall. Rodney puts the scanner into his jacket.)<br><br>McKAY: Can I have some light here?<br><br>(John shines the light from his P90 onto the wall as Rodney takes out a knife and starts to cut into the wall, which is almost organic in appearance, so it's as if he is cutting through thick flesh. He peels the wall open either side of the cut. Inside are white tubes which look almost like veins. Lights are running up them.)<br><br>McKAY: Beautiful.<br><br><br>FOOD CHAMBER. Teyla is still walking along and looking at the cubicles along the walls. She looks into one, which contains a skeleton, then goes to the next cubicle, this one covered with webbing. Suddenly an arm bursts through the webbing. A man is inside.<br><br>MAN (weakly): Please -- help me.<br><br>TEYLA: We are going to get you out.<br><br>(She reaches for him but Tyrus pulls her back.)<br><br>MAN: Help me, please.<br><br>TEYLA (to Tyrus): What are you doing?<br><br>TYRUS: You cannot free him. We can save none of them.<br><br>TEYLA: What?<br><br>MAN (his arm still outstretched): Please, help.<br><br>TEYLA: You would leave him here to die?<br><br>TYRUS: Listen to me. The Wraith must not know we were ever here.<br><br>(Teyla tries to run past him but he pushes her back again.)<br><br>TYRUS: I said no!<br><br>MAN: Help me. I beg you.<br><br>(Teyla stares at Tyrus angrily.)<br><br><br>DOORWAY. Rodney reaches inside the gap in the wall and inserts a small metallic device.<br><br>SHEPPARD: You know, McKay, we don't have ...<br><br>McKAY: Look, I don't even know if this is gonna ...<br><br>(The doors open briefly, then close again.)<br><br>McKAY: ... work. Huh! (He types onto his scanner and the doors open again, this time staying open.) Bingo!<br><br>(Cowen walks to the doorway. John follows him, then turns to Rodney.)<br><br>SHEPPARD: Alright, I'll cover your six. Go.<br><br>(Cowen walks into the room. Rodney follows him.)<br><br><br>FOOD CHAMBER.<br><br>TYRUS: If you free him, they will know he was taken.<br><br>TEYLA: You are not the man I thought that you would be.<br><br>TYRUS: This ship is closest to our world. The Genii will be the first to die if they awaken.<br><br>MAN: Help me!<br><br>(His voice is getting louder. Teyla tries to get past Tyrus but he steps into her way.)<br><br>TYRUS: I said leave him.<br><br>MAN (crying out): No! Help me, please!<br><br>(Tyrus turns towards the man and raises his rifle.)<br><br>TYRUS: Be silent!<br><br>(He shoots the man, who cries out and falls back into his cocoon. Teyla stares in horror. Just then, a Wraith guard runs into the room, raises its stunner rifle and fires, hitting Tyrus in the chest. Teyla takes cover and, as the guard runs towards Tyrus, she fires a hail of bullets at it. It falls to the floor.)<br><br>TEYLA (into radio): Major, we have been discovered.<br><br>(An alarm starts to sound all over the ship. John turns to the doorway.)<br><br>SHEPPARD: We gotta get out of here.<br><br>(At the food chamber, another Wraith guard runs in and looks down at the dead guard and at Tyrus lying on the floor. Teyla turns and runs off. Back at the doorway, Rodney runs out of the room.)<br><br>McKAY: We've got it.<br><br>(Cowen runs out of the room and shows John the data device which presumably now contains much more information. John nods and they run off.)<br><br>(Nearby, Teyla runs for cover and then looks back to see if Wraith are following her.)<br><br><br>SHORTLY AFTERWARDS. Teyla reaches the Puddle Jumper where Aiden is waiting.<br><br>TEYLA: Wraith guards. (She turns and aims her rifle back down the walkway as John, Rodney and Cowen run towards them.) Hurry, more are coming!<br><br>(They run inside the cloaked Jumper. The Atlantis team run to their seats and the rear door closes. Cowen looks round to the others.)<br><br>COWEN: Where's Tyrus?<br><br>TEYLA: He was struck by a Wraith weapon.<br><br>COWEN: But he may have only been stunned.<br><br>TEYLA: By now, the Wraith will be upon him.<br><br>(Several blasts hits the rear of the ship.)<br><br>COWEN: Go. (John hesitates for a moment.) Go!<br><br>SHEPPARD: Alright, alright. Hang on.<br><br>(The Jumper takes off. Cowen glares at Teyla, who looks round at him in anguish. Cowen looks away, then turns and walks to the rear of the Jumper as it exits the ship. The Wraith guards fire at it but most of their shots fly past it harmlessly. Cowen sinks down onto one of the benches, then looks at the rest of the team. It's not clear whether his face is full of grief for his friend, or anger at what the team have brought about.)<br><br><br>GENII HOMEWORLD. Sora and several other Genii soldiers approach the Jumper as Cowen and the team walk out of it. Sora looks at them.<br><br>SORA: Where is my father?<br><br>(Cowen walks over and looks down at her.)<br><br>COWEN: He did not survive.<br><br>SORA (grief-stricken): How? What happened?<br><br>COWEN: I think we should find out. (He looks up and calls out.) Take aim!<br><br>(Many Genii -- some in uniform, some in their farmers' clothes -- burst out of the trees and bushes nearby and aim weapons at the Atlantis team who raise their weapons but soon realise that they are surrounded.)<br><br>SHEPPARD: Cowen, I thought we were just learning how to get along.<br><br>COWEN (looking at Teyla): She killed Tyrus.<br><br>TEYLA: No.<br><br>COWEN: By leaving him to die, you may just as well have killed him yourself.<br><br>TEYLA: He shot the man we tried to save.<br><br>COWEN: It was a mistake to try and save anyone. It jeopardised the mission. (He reaches into his pocket and takes out the Wraith data device.) We will keep this intelligence information.<br><br>SHEPPARD: You're the one making a mistake.<br><br>COWEN: And your ship, and whatever quantities of C4 you have in your possession.<br><br>TEYLA: That is all you ever intended. To use us.<br><br>COWEN: And for your efforts, I will spare your lives.<br><br>McKAY: Generous of you(!)<br><br>SHEPPARD: Guess the tava beans are off the table.<br><br>COWEN: Your weapons.<br><br>SHEPPARD: No, I don't think so.<br><br>COWEN: We have the advantage, Major. (He gestures around at all the soldiers surrounding them.)<br><br>SHEPPARD: Yeah.<br><br>(Teyla looks at Sora.)<br><br>TEYLA: This is what your father died for? In the name of people who would lie and steal from those they would call friends?<br><br>(Sora gazes back at her, not lowering her pistol.)<br><br>SHEPPARD: Well, I lied, too. (He activates his radio.) Jumpers Two and Three, execute.<br><br>(Above their heads, two Puddle Jumpers decloak. The Genii stare in amazement.)<br><br>SHEPPARD (to Cowen): You didn't really think we had one ship, did you? Tell your people to get back and nobody get hurt.<br><br>(Cowen hesitates.)<br><br>SHEPPARD: Jumper Two, prepare to fire on my mark.<br><br>COWEN: Wait! (He looks at John.) Do you promise to leave?<br><br>SHEPPARD (walking closer to him): Well, that's the plan. Guess we'll have to go somewhere else to find our tava beans. But ... (he reaches out and takes the data device from Cowen's hand) ... I think it's only fair we end up with something.<br><br>(Cowen stares at him threateningly.)<br><br>COWEN: You do not want to make an enemy of the Genii.<br><br>(John stares back at him.)<br><br>SHEPPARD: You know what? Same here.<br><br>(The team backs up slowly towards the Jumper. Teyla and Sora glare at each other for a moment, then Teyla also heads for the Jumper.)<br><br><br>ATLANTIS. CONTROL ROOM. Elizabeth and John walk over to a console where Doctor Peter Grodin is working.<br><br>WEIR: Major, I thought you might like to see this.<br><br>GRODIN: A lot of the information we downloaded from the data storage device was encrypted, so we're still working on that.<br><br>SHEPPARD: Yeah, I didn't think it would be easy.<br><br>GRODIN: But we were able to ascertain the existence of twenty-one Wraith hive ships just in our quadrant of the Pegasus galaxy alone.<br><br>SHEPPARD: Twenty-one?!<br><br>GRODIN: And there are indications of far more elsewhere in Pegasus.<br><br>SHEPPARD: How many more?<br><br>GRODIN: Well, there's no way of knowing for sure. Perhaps sixty, or more.<br><br>SHEPPARD: That's a lot of ships.<br><br>GRODIN: Some of them already appear to be on the move.<br><br>SHEPPARD: Toward us?<br><br>GRODIN: That's the part we're still working on.<br><br>WEIR: So even if we were to have helped the Genii build nuclear warheads ...<br><br>SHEPPARD: ... we only could have nuked a handful of them simultaneously.<br><br>WEIR: Exactly.<br><br>GRODIN: There's far too many Wraith ships for a coordinated attack.<br><br>WEIR: The Genii plan never would have worked, with or without our help.<br><br>GRODIN: I'll see what else I can find. (He stands up and walks away.)<br><br>WEIR: Thank you, Peter.<br><br>(She and John walk out onto the outside balcony.)<br><br>WEIR: You might be happy to know Sergeant Bates was able to broker a small trade agreement for food while you were gone.<br><br>SHEPPARD: Oh he did, did he?<br><br>WEIR: Yes, he did. But it's not a competition.<br><br>SHEPPARD: So who are these people?<br><br>WEIR: They're traders. They call themselves Manerians. (John folds his arms and gazes out over the ocean.) I'm sorry you weren't able to find the allies you were looking for, John.<br><br>SHEPPARD: Well, we gathered some valuable intel. That's something.<br><br>WEIR: Huh. Are you trying to convince me this is good news?<br><br>SHEPPARD: I'd much prefer to know what we're up against than not.<br><br>WEIR: Sixty ships, or more.<br><br>SHEPPARD: I just hope they don't all come at once.
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="107.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s1/108.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="109.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s1/index.shtml">
+<IMG SRC="/graphics/title_s1episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season One Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="101.shtml" CLASS="list">Rising, Part 1</A><BR><A HREF="102.shtml" CLASS="list">Rising, Part 2</A><BR><A HREF="103.shtml" CLASS="list">Hide and Seek</A><BR><A HREF="104.shtml" CLASS="list">Thirty Eight Minutes</A><BR><A HREF="105.shtml" CLASS="list">Suspicion</A><BR><A HREF="106.shtml" CLASS="list">Childhood's End</A><BR><A HREF="107.shtml" CLASS="list">Poisoning the Well</A><BR><A HREF="108.shtml" CLASS="list">Underground</A><BR><A HREF="109.shtml" CLASS="list">Home</A><BR><A HREF="110.shtml" CLASS="list">The Storm</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="111.shtml" CLASS="list">The Eye</A><BR><A HREF="112.shtml" CLASS="list">The Defiant One</A><BR><A HREF="113.shtml" CLASS="list">Hot Zone</A><BR><A HREF="114.shtml" CLASS="list">Sanctuary</A><BR><A HREF="115.shtml" CLASS="list">Before I Sleep</A><BR><A HREF="116.shtml" CLASS="list">The Brotherhood</A><BR><A HREF="117.shtml" CLASS="list">Letters From Pegasus</A><BR><A HREF="118.shtml" CLASS="list">The Gift</A><BR><A HREF="119.shtml" CLASS="list">The Siege, Part 1</A><BR><A HREF="120.shtml" CLASS="list">The Siege, Part 2</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season One</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B000BVXPGY/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B000CEVUIK/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls1.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="107.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s1/108.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="109.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

@@ -1,0 +1,527 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "The Shrine" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s5/506.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s5/transcripts/506.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=636">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=723">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s5/506.shtml#production">Production</A>
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=56404">Fan Reviews</A>
+				 | <A HREF="http://forum.gateworld.net/forumdisplay.php?f=126">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s5/506.shtml"><IMG SRC="/atlantis/graphics/506_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="THE SHRINE" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://click.linksynergy.com/fs-bin/stat?id=2cvd55rHd*s&offerid=78941&type=3&subid=0&tmpid=1826&RD_PARM1=http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewTVShow?id=179127311&partnerId=30"><img height="15" width="61" border="0" alt="iTunes" src="/store/graphics/itunes_button.gif"></img></a> &nbsp; <a href="http://www.amazon.com/gp/product/B001EQJ4DS/?tag=bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 506<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 5, Disc 2<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 08.22.08<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 10.19.09<BR>
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0942249/" TARGET="_blank">Brad Wright</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0586539/" TARGET="_blank">Andy Mikita</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">Rodney McKay is stricken with a mental affliction that robs him of his knowledge and memories, causing him to revert to a childlike state.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    DAY 15. 09:36<br><br>Video camera footage shows the day and time.  Jennifer Keller, activating the camera, speaks offscreen.<br><br>KELLER: You can go ahead, Rodney.<br><br>(The screen shows Rodney McKay, dressed casually, sitting in front of the camera.  His face is screwed up in confusion and, when he speaks, he sounds bewildered and brain-damaged.)<br><br>McKAY: I don't remember where to start.<br><br>KELLER (gently): Sure you do.<br><br>McKAY: No.<br><br>KELLER: Start with your name, like we've been doing, OK, and we'll just go from there.<br><br>(Rodney's head weaves around all through the recording, his eyes roaming vaguely as he tries unsuccessfully to concentrate.)<br><br>McKAY: My name.  My name ... is Mister Rodney McKay.<br><br>KELLER: No.<br><br>McKAY: Yes.<br><br>KELLER: C'mon, now.  You're <I>Doctor</I> McKay, remember?<br><br>McKAY: No.  I'm ... I'm not any more.  I'm not s-sm-smart any more.  Doctors are smart, so I'm ... Mister now.<br><br>KELLER: OK.<br><br>(Rodney looks around vaguely.)<br><br>McKAY: I used to be the smartest person ever, and ... and now, and now I'm not.<br><br>KELLER: That's what we're trying to fix, right?<br><br>(Rodney looks anguished.)<br><br>McKAY: No, you can't fix me.<br><br>KELLER: You know we're trying our very best.<br><br>McKAY: No, you can't -- you can't, you can't fix me.<br><br>KELLER: It's OK.  Rodney, what's the next thing you're supposed to say? <br><br>McKAY: Where -- where'd John go?<br><br>KELLER: He just had to go away for a few minutes.  He'll be right ...<br><br>McKAY (calling out): John!<br><br>KELLER: Rodney.  Rodney, I'm your friend.  I'm right here.<br><br>(Rodney looks around, calling out.)<br><br>McKAY: Where are you, John?  John?!<br><br>(The video pauses.  In the Infirmary on Atlantis, Rodney's sister, Jeanie Miller, turns away from the screen in horror and stares at John Sheppard and Richard Woolsey behind her.  Jennifer is standing beside her.)<br><br>JEANIE: Why the hell didn't you tell me my brother was this far gone?<br><br>SHEPPARD: It happened pretty fast, Jeanie.<br><br>JEANIE: No, I ... I got a message from him just a couple of weeks ago.  He seemed perfectly fine.  He'd never <I>been</I> so nice.<br><br>KELLER: That would've been shortly after he became infected.  I didn't recognise the symptoms in time.<br><br>SHEPPARD: It's not your fault, Doc.<br><br>WOOLSEY: Frankly, Mrs Miller, we contacted you as soon as we became aware of the seriousness of his condition.  In fact, Daedalus dropped you off at the first available Gate in Pegasus because we were concerned that you wouldn't make it here in time.<br><br>(Jeanie stares at him.)<br><br>WOOLSEY (gently): We thought you deserved a chance to say goodbye.<br><br><br>LATER.  John, Jeanie and Richard have moved to the Observation Room.  In the Isolation Room below, Jennifer is kneeling at the side of Rodney's wheelchair, talking to him as he sits there in a dressing gown.  Jeanie stands at the window, flanked by the two men, and gazes down at her brother.<br><br>WOOLSEY: Doctor Keller wanted to take a moment to prepare him for your visit.<br><br>JEANIE: Yeah -- I think I need a moment myself.  How did -- how did this happen to him?<br><br>SHEPPARD: Uh, there was a little snafu on the last mission.<br><br><br>FLASHBACK.   Richard walks to the edge of the balcony in the Control Room and looks down at Team Sheppard waiting in the Gateroom.  The Stargate is dialling out.<br><br>WOOLSEY: Colonel Sheppard, when you reach the research camp, please remind Doctor Nichols that he is now ... (he looks at his watch) ... one hour and fifteen minutes overdue for his scheduled check-in.<br><br>SHEPPARD: Right.  Want me to smack him around or anything?<br><br>(The Gate kawhooshes.)<br><br>WOOLSEY: Just the reminder, please.<br><br>(He turns and walks away.  Teyla Emmagan turns to John.)<br><br>TEYLA: Shouldn't we be concerned for Doctor Nichols' team?<br><br>SHEPPARD: No, no.  The settlement's half an hour away from the Gate.  (He glances up at the Control Room.)  He's got them checking in every six.  I'm sure Nichols is just tired of taking the round trip.<br><br>McKAY: Still, it wouldn't hurt to bust his chops a bit.  That Nichols -- he's so arrogant.<br><br>(Walking towards the Gate, he grimaces at the thought of the man.  The others exchange an amused glance.  They walk into the event horizon and the Gate closes down behind them.  Richard turns towards Technician Banks and looks at his watch again.  He leans on the edge of her console.)<br><br>WOOLSEY: Amelia, I think I'm gonna risk heading down to breakfast before they check in.<br><br>(Amelia looks at him.)<br><br>WOOLSEY: I just mean that it will probably take them some time to get to the camp, and then more time for Nichols to get back to the Gate and report.  There's really no point in my ...<br><br>(He looks at her as she gazes back at him straight-faced.)<br><br>WOOLSEY: ... telling you this.<br><br>BANKS: Not really, sir.<br><br>WOOLSEY: Right.<br><br>(He straightens up and starts to walk across the Control Room.)<br><br>WOOLSEY: Be back in twenty minutes.<br><br>(Just as he reaches the stairs, the Gate starts to dial in and an alarm sounds.)<br><br>BANKS: Unscheduled offworld activation.<br><br>WOOLSEY (running back to the Control Room): Activate the shield!<br><br>(The shield comes on and the Gate activates behind it.)<br><br>BANKS: I'm not receiving an I.D.C.<br><br>SHEPPARD (over radio): Atlantis, this is Sheppard.  Do not lower the shield.  The entire tower will be flooded.<br><br>WOOLSEY: I have no intention of doing that, Colonel.  What's your status?<br><br>SHEPPARD (over radio): It's cold and wet.  The Stargate's under water.  The entire valley's flooded.<br><br>McKAY (over radio): And it's <I>freezing</I>!<br><br>SHEPPARD (over radio): And you need to send a Jumper through so we can stay warm and dry until the water recedes.<br><br>(Richard nods to Amelia to deploy a Jumper.)<br><br>WOOLSEY: Will do, Colonel.  Hold on.<br><br>SHEPPARD: Holdin' on.  Sheppard out.<br><br>(Shortly afterwards, a Jumper lowers down from the Jumper Bay and hovers into position in front of the open Stargate.)<br><br>PILOT (over radio): Rescue One is standing by.<br><br>WOOLSEY (to Amelia): What's taking so long?  Why isn't the Gate disengaging?<br><br>(She shakes her head to indicate that she doesn't know.)<br><br>(On the other side of the Gate, it's night time.  Water has risen up around the Stargate and only the very top of it is clear.  Team Sheppard is sitting precariously on top of the Gate.)<br><br>McKAY: It's the water.  The constant pressure's forcing the wormhole to stay active, which means we're gonna have to wait the maximum amount of time a Stargate can stay open -- thirty-eight minutes.<br><br>SHEPPARD: Well, we're already up to thirty-two -- and before you say "I told you so," we had no choice.<br><br>McKAY: I can't stop shivering.<br><br>DEX: You're letting all the hot air out of your mouth.<br><br>(Rodney whimpers, trembling with cold.)<br><br>SHEPPARD: All right, everybody.  We'll be warm soon enough.<br><br>McKAY: I don't know.  I think I got wetter than you.<br><br>SHEPPARD (sarcastically): I don't know -- I got a little damp dialling the D.H.D.<br><br>TEYLA: The research camp was further up this valley.  I'm a little concerned for Dr Nichols' team.<br><br>SHEPPARD: Right.  (He activates his radio.)  Anyone at the research camp, this is Colonel Sheppard.  Please respond.<br><br>(He gets nothing but static.)<br><br>SHEPPARD: I repeat: this is Colonel Sheppard.  Please respond.<br><br>McKAY: I'm pretty sure they're all dead.<br><br>TEYLA: We can't know that, Rodney.<br><br>McKAY: Look, the research team was studying the effects of global warming.  They set up camp at the foot of a massive glacier up the valley.<br><br>SHEPPARD: You're thinking the ice dam broke.<br><br>McKAY: Right.  I mean, the Ancients don't put Stargates on a flood plain, and I certainly don't think the tide just came in.  That's probably why the water's so freezing.<br><br>(He sneezes.)<br><br>McKAY: Oh!  Oh, OK.  OK, so now I'm hot <I>and</I> I'm still shivering.<br><br>(Teyla puts her hand on his forehead.)<br><br>TEYLA: Were you running a fever before we left?<br><br>McKAY: I dunno.  Maybe.  I'm always running <I>something</I>.<br><br>(He whimpers plaintively.  John looks down.)<br><br>SHEPPARD: All right, I think the water's receded a little, so, uh ...<br><br>McKAY: So we're gonna be stuck here all night.<br><br>SHEPPARD: In the back of a warm, cosy Jumper, all right?  All you need to do is hold on for -- I don't know -- thirty minutes or so.<br><br><br>LATER.  Team Sheppard hurries through the Gate into Atlantis' Gateroom.  Ronon is carrying an unconscious Rodney in his arms, wrapped in a blanket.  A medical team is waiting and Ronon lays Rodney down on the gurney.<br><br>KELLER: How long has he been unresponsive?<br><br>TEYLA: Since he fell asleep in the Jumper -- about nine hours.<br><br>KELLER: OK, let's get him to the Infirmary.  I want him under a scanner.  (She looks at the rest of the team.)  I wanna have a look at you guys too.<br><br>DEX: We're good.<br><br>KELLER: By that, I mean now.<br><br>(The medical team wheels Rodney away, the others following.  Richard falls into step with John.)<br><br>WOOLSEY: I think you've just made a case for my proposal to send a M.A.L.P. ahead of every single transit.<br><br>SHEPPARD: Stuff happens, Woolsey, and by "stuff," I mean ...<br><br>WOOLSEY: I know what you mean, thank you.  Why didn't you return in the Jumper I sent you?<br><br>SHEPPARD: I ordered the rescue party to continue the search for Nichols' team.  There's a chance they're still alive.<br><br>WOOLSEY: Of course.<br><br>SHEPPARD: I'm gonna go checked out and then I'm gonna check on Rodney.<br><br><br>INFIRMARY.  Some time later, as a nurse finishes her checks on Ronon, Jennifer is at Rodney's bedside.  He is sitting up and smiling happily as she checks him over.  Teyla stands at the other side of the bed.  John comes over.<br><br>SHEPPARD: Well, how's our boy?<br><br>KELLER: No fever, no hypothermia.  Nothing on the scan at all.<br><br>(Rodney looks round at his team as Ronon walks over.)<br><br>McKAY: What about you guys?<br><br>DEX: Like I said, we're good.<br><br>KELLER: Yeah, yeah(!)<br><br>TEYLA: But we're not the ones who became unconscious.<br><br>McKAY: Yeah, well, I didn't get much sleep the night before, and I did skimp on breakfast, so ...<br><br>SHEPPARD: You know Woolsey wants to send out a M.A.L.P. before every transit now?<br><br>McKAY: Well, <I>that's</I> gonna get old fast.<br><br>SHEPPARD: That's what <I>I</I> said.<br><br>McKAY (smiling at Jennifer): Hey, can I go now?  Feel a little silly lying here.<br><br>KELLER: I'm keeping you under observation for a little longer.  Besides, I ordered you dinner.<br><br>McKAY: Well, then, you can observe me eat, ‘cause I'm famished!<br><br>SHEPPARD: Well, it's official.  (He pats Rodney's leg through the blanket.)  He's better.<br><br>(He and Teyla walk away.  Rodney smiles after them.)<br><br>McKAY: See you, guys.<br><br><br>THE PRESENT.  Jennifer is still kneeling at the side of Rodney's wheelchair in the Isolation Room.<br><br>KELLER: Do you want me to send them in?<br><br>McKAY (uncertainly): OK.<br><br>(Nodding to him encouragingly, Jennifer stands up and walks over to a console.  Looking up at the others in the Observation Room, she activates the comms.)<br><br>KELLER: Rodney's all ready for you.<br><br>(Jeanie nods down to her but hesitates, looking at Richard and then John.)<br><br>JEANIE: What am I supposed to say?<br><br>(John turns to her.  He smiles gently.)<br><br>SHEPPARD: It doesn't matter.<br><br>(Jeanie makes her way down to the Isolation Room where Rodney sits, gazing into the distance vaguely and in a world of his own.  Hesitating at the doorway for a moment, she then walks determinedly into the room and moves a chair into position in front of him.)<br><br>JEANIE: Meredith?<br><br>(She sits down.)<br><br>JEANIE: It's me.  It's Jeanie, Mer.  I'm ...<br><br>McKAY: You're my sister.<br><br>JEANIE (smiling): Yes.<br><br>McKAY: Meredith's my ... real name.<br><br>JEANIE: It's your first name, that's right.  But you never liked it.<br><br>McKAY: No.  No, it's ... a girl's name.<br><br>JEANIE (smiling while trying to fight back her tears): Sometimes, yes.  But you go by "Rodney."<br><br>McKAY (vaguely): Rodney McKay.  Mister Rodney McKay.  Rodney McKay.  Rodney McKay.<br><br>(He looks at Jeanie, who has tears pouring down her face.)<br><br>McKAY: You're crying because of me.<br><br>JEANIE: No, I'm crying because I missed you very much.<br><br>McKAY: Because you're my sister.<br><br>JEANIE: That's right.<br><br>McKAY (anguished): I'm ... sick.<br><br>JEANIE (taking his hands): I know.  I know.  I'm here now.<br><br>(Rodney gazes at her in confusion.  She releases his hands to wipe the tears from her face, then takes his hands again.)<br><br>JEANIE: Sweetie, I just need to go outside for one second, OK?  I will be right back, I promise.<br><br>(She stands up and hurries out of the room, her hand over her mouth in an attempt to hold back her sobs.  Ronon is outside.)<br><br>DEX: Hey.<br><br>JEANIE: I know.<br><br>(She tries to push past him but he steps in front of her and puts his hands comfortingly on her shoulders as she sobs quietly.)<br><br>JEANIE: I just need a second.  I just don't want him to see ...<br><br>DEX: I know how you feel.  I felt the same way.<br><br>JEANIE: I'll go back in.  I will.  He needs me, and I wanna be able to say goodbye, but it's like ... it's like he's already gone.<br><br>DEX: I know.<br><br>(She nods.)<br><br>DEX: There's a way.<br><br>(She stares up at him.)<br><br>JEANIE: What?  How?<br><br>DEX: It's a place -- I've been there before.  He'll be himself again and you can say goodbye.<br><br>JEANIE (wiping her face with her hands): I don't understand.  Then why haven't you already taken him?<br><br>DEX: Because it's dangerous.  But I'm willing to risk it if you are.<br><br><br>DAY 06.  21:16<br><br>Jennifer activates the video camera to show Rodney sitting in front of it, smiling.<br><br>KELLER: All set?<br><br>McKAY (speaking normally): Remind me to register a complaint with whosever idea this was!<br><br>KELLER: Uh, it was yours, actually.<br><br>McKAY: Oh, ho-ho!  (He smiles.)  Well, complaint duly registered!<br><br>KELLER: It was a good idea to keep a record of what's happening to you and how fast, but if you'd rather not ...<br><br>McKAY: No, it's fine, it's fine.  Start with my name, right?<br><br>KELLER: Right.<br><br>McKAY: Hey, I remembered something!  Yay!<br><br>(Jennifer laughs.  Rodney looks into the camera.)<br><br>McKAY: My name is Doctor Rodney McKay.  I am head of the Department of Science ... something ... in Atlantis in the, um ...  (He wracks his brain for several seconds, then chuckles ruefully before lowering his head and shaking it in exasperation.)  Oh, for God's sake.  (He lifts his head and looks at Jennifer, his smile gone.)  In the Pegasus galaxy.<br><br>KELLER: OK, not bad.  Keep going.<br><br>McKAY: Jennifer, there's -- there's -- something I wanted to, um ... you know, while I remember, while I still can; something I wanted to say before ...<br><br>KELLER: Go ahead.<br><br>(In the Infirmary, Jeanie knocks on the doorframe of a nearby open door.  Jennifer, who has been watching her computer screen as it shows the footage from the video camera, looks up, startled, then switches off the footage.)<br><br>KELLER: Jeanie.<br><br>(She switches off the computer screen.)<br><br>KELLER: I wasn't expecting anyone this late.<br><br>JEANIE: Yeah.  I'm kind of one of those people who needs all the information they can get.<br><br>(Jennifer nods and leads her over to another computer screen.)<br><br>KELLER: This is his most recent scan.<br><br>(She points to a small black mass which has extended long tendrils into the image of the brain on the screen.)<br><br>KELLER: This dark area that looks like a tumour is actually a parasitic organism.  Its tendrils spread far beyond any hope of surgical extraction and it's not responding to treatment.  Even stasis barely slowed its progression.  There are still a number of drug combinations that ...<br><br>JEANIE (interrupting): He was infected somehow on his last mission?<br><br>KELLER: Well, maybe, but not necessarily.  It was too small to show up on a scan at the time; but in the Pegasus galaxy the condition is fairly common among the very old.<br><br>JEANIE: Right, so why him?<br><br>KELLER: It's possible we're <I>all</I> exposed to it and fight it off.  Rodney was already suffering from a viral infection when he went on the mission at M44-5YN and then all that time in freezing water ...<br><br>JEANIE: So his resistance was low.<br><br>(Jennifer nods.)<br><br>KELLER: The parasite doesn't so much kill cells as render them dormant for reasons I still don't completely understand, but the net result is ever-diminishing brain function.  As it spreads, he'll lose motor control, regulation of organ function ...<br><br>JEANIE: Ronon's people call the disease Second Childhood.<br><br>(Jennifer turns away, exasperated.)<br><br>KELLER: You talked to Ronon.<br><br>JEANIE: Yes.<br><br>KELLER: OK, I know what he's told you ...<br><br>JEANIE: That he's dying and there's nothing you can do.<br><br>KELLER: No.  He's dying and I'm doing <I>everything</I> I can.<br><br>JEANIE: I have to ask you: why did you tell me you didn't recognise the symptoms in time?<br><br>KELLER: Because he was already showing the symptoms when he came back from the mission and ... I didn't see it.<br><br><br>FLASHBACK.  In the Infirmary, Rodney is sitting up in bed and tucking into a cooked meal.  Jennifer comes over to his bedside.<br><br>KELLER: So?<br><br>McKAY (smiling): Just what the doctor ordered.<br><br>KELLER: Funny!<br><br>McKAY: You want my fruit cup?<br><br>(He picks up a small plastic pot containing Jell-O and fruit and waves it at her.)<br><br>KELLER: No, no-no.<br><br>McKAY (smiling): I think you do!<br><br>KELLER: Eating from the patient's tray is kind of frowned upon.<br><br>McKAY: Jennifer, we practically dated.<br><br>KELLER: You bought me one drink!  That's hardly dating!<br><br>McKAY: Right, so, well now I'm asking you to have dinner with me -- I mean ... (he brandishes the pot again, smiling at her) ... such as it is.<br><br>(Smiling, Jennifer sits down on the edge of the bed and takes the pot from him.)<br><br>KELLER: I <I>do</I> love the fruit cup.<br><br>McKAY: Not that this is exactly the dinner I had in mind but ...<br><br>KELLER: Is that an invitation?<br><br>McKAY: Only if you promise to accept.<br><br>(She smiles at him and starts to open the lid of the pot as Rodney carries on eating his meal.)<br><br>(End flashback.)<br><br><br>KELLER: If I wasn't so taken by the new Rodney McKay, the parasite might have been small enough for me to operate without causing significant brain trauma.  By the time he started to forget, it was too late.  (She turns to Jeanie.)  I haven't given up on trying to find a treatment.<br><br>JEANIE: Ronon told me about this place that could give Mer one more day as himself again before he dies.<br><br>KELLER: Jeanie, you can't possibly believe ...<br><br>JEANIE (interrupting): And that you're the one who won't let him go.<br><br><br>FLASHBACK.  RICHARD'S OFFICE.<br><br>DEX: It's on a planet called Talus.  It's one of the original worlds of the Ancestors.  It took us about five or six hours to get there from the Gate, but I was just a kid and my grandfather had to be carried most of the way.  We can do it in about half that time.<br><br>SHEPPARD: There's a small problem with that plan.<br><br>WOOLSEY: The Wraith established a major outpost there during the Replicator war.  It's still there.<br><br>DEX: Yeah, well, that's never stopped us from going anywhere we needed to go before.<br><br>SHEPPARD: Well, it's not just that.  Uh ...  (He hesitates.)<br><br>TEYLA: You don't believe it's real.<br><br>SHEPPARD: I'm not saying ...<br><br>WOOLSEY: I <I>am</I>, actually.<br><br>DEX: I was there.<br><br>WOOLSEY: Yes, but you were six years old.  Ronon, listen to what you've told us: a magical shrine inside a cave behind a waterfall.<br><br>DEX (angrily): Did I say it was magic?<br><br>KELLER: No, but you <I>did</I> say that people afflicted with McKay's condition suddenly revert to their former selves for ....<br><br>TEYLA: The Shrine of Talus is also known among <I>my</I> people for victims of this Second Childhood.  It offers the gift of one last day and a quick death.<br><br>SHEPPARD: That doesn't necessarily make it real.<br><br>DEX: I'm telling you that in a matter of seconds I saw my grandfather go from someone who couldn't speak his own name to the man that taught me how to track and hunt.<br><br>WOOLSEY: You learned to hunt when you were six years old?!<br><br>(Ronon turns his head and glares at him for the irrelevancy.  Then he turns and walks closer to him.)<br><br>DEX: For one day, he got to hold his wife in his arms and share a meal with the people that he loved.  And then he died with honour.  You can say I was too young to remember, but I know what I saw.  And we can do the same thing for McKay.<br><br>(He turns and looks at Jennifer and Teyla.  Jennifer looks away, obviously unconvinced.  He turns back to Richard.)<br><br>DEX: If you think that's not worth it, you're wrong.<br><br>(Richard turns and walks away from the group, thinking carefully.  Finally he turns back to them.)<br><br>WOOLSEY: I've never told anyone this outside of ...  (He trails off, then continues.)  My father had a disease called Alzheimer's.  It's similar in many respects to the condition that Doctor McKay is suffering from.  My point is, I had a similar moment with him to the one you've just described.  He hadn't recognised me literally for months.  And then one day, out of the blue, he had a moment of absolute clarity.  He said, "Richard!  What are <I>you</I> doing here?"  And I said, "Dad, I, uh ... I'm here to see you."  (He smiles at the memory.)  And he said ... he said, "Isn't that wonderful?"  (His smile fades.)  And then he was gone again.<br><br>(He walks closer to Ronon.)<br><br>WOOLSEY: Now couldn't you be remembering a similar ...?<br><br>DEX (firmly): It's not the same.<br><br>WOOLSEY: Ronon, look ...<br><br>DEX (loudly): I owe him this!  I'll take him myself.<br><br>TEYLA: I'll go with him.<br><br>(They both start to leave the room but John stands in their way.)<br><br>SHEPPARD: Hold on, hold on.  We know for a fact there are two Hive ships and ten thousand Wraith on the ground.  If we're even gonna <I>consider</I> this, all right, we have to make a plan.<br><br>DEX: Fine.  Make a plan.<br><br>KELLER: I'm sorry, but he's not going anywhere without my permission, and you won't get that until we talk to Rodney.<br><br><br>ISOLATION ROOM.  Rodney is sitting up in bed, looking around vaguely.  Jennifer walks in and smiles at him.<br><br>KELLER: Hey, Rodney.  You've got some visitors.  John's here.  So are Teyla and Ronon.  Your whole team.<br><br>(Rodney looks at them as they walk in.  He pays particular attention to Ronon.)<br><br>McKAY: Ronon Dex.<br><br>DEX: That's right, buddy.  I wanna take you to a place -- a place that's gonna give you a chance to be yourself again for a little while.<br><br>(Rodney looks away blankly, clearly not understanding.  Teyla comes closer to his bedside.)<br><br>TEYLA: As you were before you became ill.<br><br>McKAY (vaguely): Before.<br><br>(John walks over and smiles down at him.)<br><br>SHEPPARD: Hey, pal.<br><br>McKAY (smiling happily at him): Hey ... John.<br><br>SHEPPARD: Truth is, uh, we don't know exactly what's gonna happen to you but we're willing to try if you are.<br><br>McKAY (mildly): OK.<br><br>SHEPPARD: OK?  OK, well, that settles it then.<br><br>KELLER: No, it doesn't.  Rodney, they haven't told you everything.<br><br>DEX: He doesn't need to know.<br><br>KELLER (to Rodney): The planet they wanna take you to is a Wraith outpost.  You remember who the Wraith are?<br><br>(Rodney looks around blankly.)<br><br>KELLER: It means going will be very, very dangerous, not just for you but for your friends.<br><br>SHEPPARD: We're willing to take that risk.<br><br>KELLER: A risk for which -- and I'm sorry, even if it works, which I very much doubt ... (She turns back to Rodney) ... you might revert to your former self for one day.  Now forgive me if that sounds more like torture than a blessing.  We're still coming up with new ideas on how to treat this thing, but if you do this ... if you leave Atlantis ...<br><br>McKAY (quietly): Lantis.<br><br>KELLER: ... it's over.  I can't help you.<br><br>(Rodney looks away and starts quietly mumbling under his breath.)<br><br>McKAY: Point one four one five nine ... two six five two ...<br><br>(As he continues mumbling numbers to himself, Teyla whispers to Jennifer.)<br><br>TEYLA: Doctor.<br><br>(She and Jennifer move away from Rodney's bedside.  The boys watch Rodney for a few moments more, then go over to join them.)<br><br>TEYLA: He doesn't understand.<br><br>KELLER: No, he doesn't, which means the decision on whether or not to let him go is mine.  And I haven't given up on trying to cure my patient.<br><br>(She turns and walks back to Rodney's bedside.  She smiles down at him and puts her hand gently on the back of his neck.  As the rest of the team leaves the room, she strokes his hair comfortingly.)<br><br>(End flashback.)<br><br><br>JEANIE: And you still haven't given up.<br><br>KELLER: No, because I don't think the damage to the cells is permanent, which means if I can safely remove the parasite ...<br><br>JEANIE: How long have you been at it?  Weeks?  And how many days does he have left?  What, two at most?  Look, I know you've done everything you can.  I know you feel responsible and you wanna keep trying but ... I'm his next of kin.  That makes the decision mine.  And we're taking him.<br><br><br>DAY 01.  17:12<br><br>Jennifer activates the video camera while, in front of it, Rodney straightens his jacket.<br><br>KELLER: It's recording.<br><br>McKAY: Well, aren't you supposed to say "Action" or something?<br><br>KELLER: Oh, sorry.<br><br>(Rodney grins.)<br><br>McKAY: I'm kidding!  OK, here we go.<br><br>(He looks into the camera.)<br><br>McKAY: My name is Doctor Rodney McKay.  I am head of the Science and Research Departments here in Atlantis in the Pegasus galaxy in the local cluster in the universe as we know it.  Um, the purpose of this log is to provide a baseline for myself and for Doctor Keller to monitor the progress of my, um ... uh ... (he struggles to think for a while, then shakes his head, smiling a little) ... memory loss.<br><br>(He giggles quietly.)<br><br>McKAY: It's ironic, isn't it?!  Um, by reciting the aforementioned as well as a list of things I know like the back of my hand, starting with pi, to, say, twelve decimals.  Three point one four one five nine two six five three five ...<br><br><br>THE PRESENT.  CONTROL ROOM.  The rest of Team Sheppard walks in, accompanied by two marines.<br><br>SHEPPARD: Rodney on board?<br><br>WOOLSEY: Yes.  Are we clear on the rules of engagement?<br><br>SHEPPARD: We'll be in and out before the Wraith even know it.<br><br>(The team starts to trot up the stairs towards the Jumper Bay.)<br><br>WOOLSEY: Colonel Sheppard.<br><br>(John turns back to him.)<br><br>WOOLSEY: If in fact Doctor McKay does regain his ...<br><br>(He trails off for a long moment.)<br><br>WOOLSEY: Say goodbye from me.<br><br>(John nods and follows the others up the stairs.)<br><br><br>JUMPER BAY.  Jennifer and Jeanie are sitting either side of a bewildered Rodney on one of the benches in the rear of a Jumper as the others enter.  Ronon looks at Jennifer.<br><br>DEX: Oh, I thought you didn't believe?<br><br>KELLER: Is that a prerequisite?<br><br>(As everyone takes their seats, Jeanie looks round Rodney to Jennifer.)<br><br>JEANIE: We're glad you're here.<br><br>SHEPPARD: All right.  We're either gonna get away with this or we're not.  (He looks round at the others.)  If we don't, the ride's gonna be wild and it's gonna be fast, so I need everyone prepared.<br><br>(He activates the comms.)<br><br>SHEPPARD: Jumper Three standing by.  Send the M.A.L.P. through.<br><br>(In the Gateroom, a M.A.L.P. trundles into the open Stargate.  As it reaches the other side, Richard looks at the video footage which it is sending back.  Two Wraith Hive ships are on the ground on hillsides either side of the Gate.  He reports on what he's seeing.)<br><br>WOOLSEY: The M.A.L.P. is clear of the Gate and they're firing on it from both sides of what appears to be a deep valley.<br><br>(The Jumper lowers down into the Gateroom.)<br><br>WOOLSEY: It's deploying smoke.  You should have complete coverage of the area in five seconds.<br><br>SHEPPARD: OK.  See you tomorrow.<br><br>WOOLSEY: I hope so.<br><br>(The Jumper flies into the Gate.)<br><br><br>WORMHOLE TRAVEL.<br><br><br>TALUS.  The Jumper exits the Gate and soars forward through a thick cloud of smoke.  Its cloak can be heard deploying as it races up into the sky.  It turns around and heads back the way it came to take a look at the two Hive ships.<br><br>DEX: That's one hell of a valley.<br><br>TEYLA: Do you think they detected us before we were able to cloak?<br><br>SHEPPARD: No, I think the smokescreen worked.  Hopefully they think we just sent the M.A.L.P. through ahead of us and changed our mind when they blew it up.<br><br>(He calls up the H.U.D. on the windshield.)<br><br>SHEPPARD: All right, I'm gonna just sweep the landing area.  It shouldn't take more than a few minutes.<br><br>(As he flies onwards, he hears Rodney's voice in his mind.)<br><br>McKAY: John!  <I>John!</I><br><br><br>FLASHBACK.  Wearing his night wear, Rodney runs through the corridors of Atlantis, wide-eyed with fear and panting.  He runs to the doors of John's quarters and hammers on them.<br><br>McKAY: John!<br><br>(He hammers on the doors again.)<br><br>McKAY: <I>John!</I><br><br>(John wakes up, switches on the bedside light and scrambles out of bed.  As Rodney hammers on the doors a third time, he runs to the doors.)<br><br>McKAY: <I>John!</I><br><br>(As John opens the doors, Rodney surges into the room and grabs him anxiously by the shoulders.)<br><br>McKAY: You were there, and then y-you ...<br><br>SHEPPARD: Rodney, Rodney!  I'm right here!  What's wrong?<br><br>(Rodney stares at him, half-hysterical.)<br><br>McKAY: I woke up, but Ronon left!<br><br>SHEPPARD (apologetically): Oh, buddy, I'm sorry.<br><br>(Rodney lets him go and stumbles into the room, clutching his head and almost sobbing in anguish.)<br><br>SHEPPARD: I thought you'd fallen asleep.<br><br>(Rodney groans, still clutching his head.)<br><br>McKAY: I was ... I got so scared.  I was sure that ... (he lowers his hands and stares at John in anguish) ... by morning what was left of my mind was gonna be gone.<br><br>SHEPPARD (putting a hand on his shoulder comfortingly): I'm gonna take you back to your quarters, OK?<br><br>McKAY (tearfully): John, John, I've never been so scared.  I'm slippin' away.  I'm slippin' away and I don't know how to stop myself.<br><br>(John takes both his arms.)<br><br>SHEPPARD: Look, you're still here, all right?  You're still here.<br><br>(Rodney starts to calm down a little.)<br><br>McKAY: Right.  I am.<br><br>SHEPPARD: And I'm not goin' anywhere.  Hell, you wanna hang out, you just ... hang out.<br><br>McKAY: I don't know what to do.  I don't know what to do with myself.  I'm ... I'm sorry.  I shouldn't ... I shouldn't have woken you up.<br><br>SHEPPARD: Hey, look.  (He gestures out of the window.)  It's a nice night out.  Let's go and have some beer on the pier, OK?<br><br>(Patting Rodney's shoulders, he goes over to the side of the room, picks up a leather jacket and opens a small fridge.  Rodney turns to him, confused.)<br><br>McKAY: I drink beer?<br><br>SHEPPARD: A <I>lot</I>.<br><br>(He throws the jacket to Rodney.)<br><br>SHEPPARD: Take this.<br><br>(He takes out a six-pack of beer from the fridge and closes the door, picking up a shirt from on top of it.)<br><br>SHEPPARD: Come on, buddy, let's go.<br><br><br>LATER.  With Rodney wearing John's leather jacket and John wearing the shirt he brought with him, the pair of them are sitting with their feet dangling over the edge of a pier, gazing over the moonlit ocean.  John cracks open another can of beer and hands it to Rodney.<br><br>McKAY (putting down the can he was already holding and taking the new one): I dunno.  Should I have another?<br><br>SHEPPARD: What could happen?<br><br>(He cracks open a can for himself.)<br><br>McKAY: I shouldn't have banged on your door like that.  I feel ridiculous.<br><br>SHEPPARD: Don't.<br><br>(He drinks.  Rodney squints at the ocean.)<br><br>McKAY: I've been trying to remember the name of my sister's kid.<br><br>SHEPPARD: Betty.<br><br>McKAY: Betty.  (He frowns round at John.)  Pretty sure that's not it.<br><br>SHEPPARD: It's Madison.  See?  At least you remember what it wasn't.<br><br>McKAY (smiling): Now <I>there's</I> an under-rated skill.<br><br>SHEPPARD: I'm just saying -- you may not be as far gone as you think.<br><br>McKAY: I'm hiding it.  Believe me, I've already forgotten more than most people will ever know, and I know that sounds ... (he struggles to think for a moment, sighing) ... arrogant, is that right?<br><br>SHEPPARD: Yeah.  (He chuckles.)  That works!<br><br>McKAY: This morning I was trying to help Zelenka finish a device that was apparently my idea.  I was useless.  Jennifer says it's gonna get worse now, almost by the hour.  (He gazes at John sadly.)  In a week or so, I won't even remember my name.<br><br>(He looks down.)<br><br>McKAY: How's about ...<br><br>(He pauses for a while, then looks at John again.)<br><br>McKAY: How about we say goodbye now?<br><br>SHEPPARD: No!<br><br>McKAY: What d'you mean, "no"?<br><br>SHEPPARD: I mean I'm not saying goodbye.<br><br>McKAY: Well, I'm saying it anyway!<br><br>SHEPPARD: Well, I'm not listening!<br><br>McKAY: Yeah, but pretty soon I won't even know who you are!<br><br>SHEPPARD: Then I'll remind you.<br><br>McKAY: Yeah, but I don't want you to see me like that.  I want you to remember me as I am -- as your genius friend, not as some ...<br><br>SHEPPARD (firmly): Not happening.<br><br>McKAY: Please.<br><br>SHEPPARD: You're stuck with me, Rodney.  Just accept it.<br><br>McKAY: Yeah, but I ...<br><br>SHEPPARD (loudly): No!  (He waves a finger at him.)  That's final.<br><br>McKAY (mildly): OK.  (He looks away.)<br><br>SHEPPARD: OK.<br><br>(He takes several swigs from his can.  Rodney gazes down at his own can.)<br><br>McKAY: You're a good friend, Arthur.<br><br>(John looks round at him.  Rodney turns his head and looks back at him.  They hold each other's gaze for a moment, then start to giggle.)<br><br>(End flashback.)<br><br><br>In the Jumper, John smiles fondly at the memory for a while, then checks the H.U.D.<br><br>SHEPPARD: All right, landing area's clear.  I'm taking us in.<br><br><br>LATER.  Teyla has her arm wrapped around Rodney's waist as she helps him to the edge of a ravine into which is tumbling an enormous high waterfall.<br><br>McKAY (fearful, bewildered): Where are we going?<br><br>(Teyla points towards the waterfall.)<br><br>TEYLA: Up there.  Do you see?  Behind the waterfall there is a cave, and when we get there you will spend a wonderful day with your friends.<br><br>McKAY: I'm tired.<br><br>TEYLA: I know.  We'll be there soon.<br><br>(She turns him around and helps him back towards the others, and they head off.)<br><br><br>LATER.  The team makes its way inside the mountain.  Rodney is quietly and plaintively sobbing, confused by everything that's going on.  They reach a cave, which has water rushing past a couple of openings on the other side.<br><br>JEANIE: So, what do we do?<br><br>DEX: We wait.<br><br>SHEPPARD: Rodney, look at the waterfall.  It's cool, huh?<br><br>McKAY (tearfully): No!<br><br>(Jennifer walks around the cave, looking at an Ancient scanner she's holding.)<br><br>KELLER: I'm getting very faint energy readings.<br><br>JEANIE: What kind of energy readings?<br><br>KELLER: I'm not sure.<br><br>(As they both look at the scanner, Teyla walks over to a natural-looking column in the middle of the cave.  Part of it has been carved until it's flat.  She puts her fingers on marks carved into the flat area.)<br><br>KELLER: Radiation?<br><br>JEANIE: Not that I've ever seen.<br><br>SHEPPARD: Maybe we can ask Rodney in a minute.<br><br>McKAY (wailing plaintively): John!<br><br>SHEPPARD: Just hang in there, buddy.<br><br>McKAY: I wanna go home now!<br><br>TEYLA: Perhaps he should stand closer to this tablet.<br><br>KELLER: I-I-I don't know.  I think that's the source of these energy readings.<br><br>(John gently pushes Rodney forward towards the column.)<br><br>McKAY (anguished): I wanna go now!<br><br>SHEPPARD: A little bit longer.<br><br>(Rodney screams and puts his clenched fists to his head.  Jeanie runs over to him and holds him as he screams again.  Then he falls silent and slowly straightens up.  He looks around for a moment, then stares at his sister.)<br><br>McKAY (his voice normal): Jeanie?<br><br>JEANIE: I'm here, Mer.<br><br>McKAY: Yeah, obviously.<br><br>SHEPPARD: He's back!<br><br>McKAY (looking around the cave): Will somebody please tell me what the hell we're all doing here?<br><br><br>DAY 10.  13:40.<br><br>Rodney is sitting in front of the video camera, looking exasperated.<br><br>McKAY: Rodney McKay.  I'm head of Science and ... and ... and ... (he struggles to find the word) and ... <I>Research</I>.<br><br>(Frustrated, he gets off his seat and walks around.)<br><br>McKAY (angrily): Dammit!<br><br>KELLER (gently): It's OK.<br><br>McKAY (angrily): No it is not.<br><br>(Two minutes later -- according to the time stamp on the video -- he is back on his seat and stares at Jennifer.)<br><br>McKAY: Atlantis. ... Pegasus.<br><br>(He stares into the screen, his face anguished as he tries to remember.  He whispers quietly to himself.)<br><br>McKAY: Three point one four ... (He thinks for a while but it won't come to him.)  I don't know.  (He stares at Jennifer again.)  How can I not know that?<br><br>KELLER: Do you wanna stop?<br><br>McKAY (staring at her): I keep seeing a face, every time I close my eyes.  I think it's my mother.  I don't -- I don't ... recognise her.  So long ago.  (He half smiles, his eyes full of tears.)  She's saying words to me.  (His smile fades.)  I don't know them.<br><br><br>TALUS.  Rodney is pacing angrily around the cave.<br><br>McKAY: Well, you can start with: what <I>is</I> this place?<br><br>DEX: It's the Shrine of Talus.<br><br>McKAY: That means nothing to me.<br><br>DEX: It's a planet of the Ancestors.  We brought you here.<br><br>McKAY: Thank you, Mr Information!  Look, since when did he become Ronon the Explainer?  And why am I not in the Infirmary, huh?  What, am I better?<br><br>(He realises the answer.)<br><br>McKAY: I <I>am</I> better!<br><br>KELLER: No, you're not.<br><br>McKAY: No, I <I>am</I>!  I can feel it!  This is amazing!<br><br>JEANIE: Mer, we brought you here so we could have a chance to say goodbye to each other.  You're only gonna feel like this for about a day -- that's just how it works, so ...<br><br>McKAY: Whoa-whoa-whoa-whoa-whoa-whoa-whoa, <I>what</I>?!<br><br>SHEPPARD: What do you remember?<br><br>McKAY (angrily): I remember you not wanting me to say goodbye then.  Why <I>now</I>, all of a sudden?  Look, why one day?  What's with that?!<br><br>TEYLA: It is the gift of the Shrine, and from all of us who risked great danger to bring you here.  One last chance to be with those you love.<br><br>McKAY: And <I>then</I> what?<br><br>(No-one is willing to answer him.  He realises the answer himself.)<br><br>McKAY: I <I>die</I>?!<br><br>DEX: With honour.<br><br>TEYLA: And dignity.<br><br>McKAY: Yeah, well, screw that!  I'll just stay here.<br><br>DEX: Doesn't work that way.<br><br>McKAY: Why not?<br><br>SHEPPARD: Well, this is a Wraith-controlled planet.<br><br>JEANIE: And we're detecting ionising radiation.  (She looks around at the others.)  In fact, we shouldn't be standing this close to the Shrine.<br><br>McKAY: You've gotta be kidding me!  (He stares at Jennifer.)  How could you let them do this to me!<br><br>JEANIE: Don't blame <I>her</I>.  She didn't even wanna do this.<br><br>McKAY: Well, then, whose brilliant idea was it?<br><br>DEX: Mine.<br><br>SHEPPARD: We <I>all</I> thought it was a good thing.<br><br>McKAY: How could this possibly be a good thing?!  Look, I got past the humiliation; I've said my goodbyes.<br><br>JEANIE: Meredith, I'm sorry this happened to you, but I'm not sorry that I got this chance.  Please just try to see this as an opportunity and not ...<br><br>McKAY (through gritted teeth): ... a torture?<br><br>(Jeanie looks round at the others in despair.  Ronon turns away, unable to face Rodney's ingratitude.  Everyone else looks awkward.  Rodney's anger fades.)<br><br>McKAY: Look, I'm sorry.  I just ... I thought I was gonna be OK, and now you're ... telling ...<br><br>(He pauses, trying to take it all in.)<br><br>McKAY: D'you have some kind of itinerary planned?<br><br>SHEPPARD: Well, actually, we're gonna have a big feast first.<br><br>McKAY (sarcastically): Last supper, huh?<br><br>SHEPPARD (equally sarcastic): Well, it suits your Messiah complex.<br><br>McKAY (shrugging): True(!)<br><br>(As the others move away to set up the "feast", Jeanie turns to her brother.)<br><br>JEANIE: Please don't be mad at me.<br><br>McKAY: Ah, I guess if I had to choose the people I would spend my last day with, then ...<br><br>(Jeanie smiles, assuming that he means her, but Rodney looks across to Jennifer, who is scanning the central column again.  Jeanie also looks at her, a little startled.  However, before that line of thought can go any further, Rodney notices Jen's expression.)<br><br>McKAY: What is it?<br><br>KELLER: Honestly, I ... I didn't expect it to work.  I expected nothing would happen and that would be that, so why <I>did</I> it?  You don't believe in magic shrines any more than <I>I</I> do.<br><br>JEANIE: Show him the readings.<br><br>(Jennifer hands him the scanner.  He takes it and swings it around the room.  It beeps as he aims it towards the column.)<br><br>McKAY: Hmm.<br><br>JEANIE: That's what <I>I</I> said.<br><br>McKAY: You said, "Hmm"?<br><br>JEANIE: I just meant that I thought it was weird too.  So, what do you think: antimatter?<br><br>McKAY: Or a super-heavy element the Ancients used to use as an energy source.  I've never seen it before.<br><br>JEANIE: Or created to power whatever this place used to be.<br><br>McKAY: Well, who can tell what <I>that</I> is?  It must be thousands of years since ...<br><br>(He trails off as he looks at the scanner.)<br><br>McKAY: Woah!  Did you see that spike?<br><br>DEX: Come on!  This is your party!  Let's have some fun!<br><br>McKAY: Hey, for me, this <I>is</I> fun.  Just save me some ham.  (He looks at the scanner.)  Oh, there it goes again!  It's like some kind of intermittent gamma that's ...<br><br>(Jennifer reaches out and takes the scanner from him.)<br><br>KELLER: Come with me.<br><br>McKAY: What?  Why?<br><br>KELLER (taking his arm and leading him towards the exit of the cave): Because I need to find out something.<br><br>McKAY: Well, where are we going?<br><br>KELLER: Hopefully, all the way back to Atlantis.<br><br>(They walk into the shaft leading out of the mountain.  The moment they leave the cave Rodney clutches his head and screams, doubling up in agony.  John races over and helps Jennifer bundle him back into the cave and nearer to the column.)<br><br>KELLER: Sorry.<br><br>JEANIE: Why did you <I>do</I> that?<br><br>KELLER: To determine whether the parasite would expand rapidly back into his brain when we took him from the radiation source, and I think it did.<br><br>(Beside the column, Rodney is still clutching his head and groaning.)<br><br>KELLER: The reason why his symptoms disappeared when we came here was because it contracted to protect itself.<br><br>SHEPPARD: Alright.  Well, what does it mean for us?<br><br>KELLER: That leaving this chamber will probably kill him.  We can't take him back to Atlantis.  So we're gonna have to find a way for me to operate on him right here.<br><br><br>A LITTLE LATER.  Rodney has calmed down and is sitting on the floor with Teyla and Ronon tending to him.  John leads Jennifer and Jeanie a little way away.<br><br>SHEPPARD: I thought you already <I>tried</I> radiation.<br><br>KELLER: I <I>did</I>, but we'd never come across this kind before.  The parasite is radio-sensitive to it; that's why the Shrine works.  You feel fine for one day until the radiation starts making you feel sick, and then you leave ...<br><br>JEANIE: The further away you get, the more rapidly the parasite expands back into your brain ...<br><br>SHEPPARD: ... and your day's over.  I get it.  So, for here, it's small enough to operate.<br><br>KELLER: Well, I'm guessing here, but that's the only thing I can think of that would explain his sudden remission; but I'm not gonna know for certain until I get in there.<br><br>SHEPPARD: How're you gonna manage that with a field kit?<br><br>KELLER: I don't.  We would have to bring equipment back from Atlantis.<br><br>SHEPPARD: Well, that's a problem.<br><br>KELLER: What if we radio Atlantis and ask them to send a second Jumper through with what I need?<br><br>SHEPPARD: No, we can't.<br><br>KELLER: I need that equipment, John.<br><br>SHEPPARD: Look, the Wraith are never gonna fall for the same trick twice.  Even if somehow they don't pick up on our radio signal <I>and</I> even <I>if</I> the second Jumper makes it through the gauntlet, they're gonna know we're here.  We're never gonna make it back to Atlantis.<br><br>KELLER: If we don't try, he's dead.<br><br>SHEPPARD: Well, what do you need?<br><br>KELLER: To operate?  I already told you.<br><br>SHEPPARD: No.  Bare minimum, what do you need?<br><br>KELLER: More than I have in my medical kit.  I mean, I'd need a scanner to find out the location of the parasite; I'd need the proper tools to cut his skull open ...<br><br>SHEPPARD: All right.  I've got an idea.<br><br>(He looks at Jeanie.)<br><br>SHEPPARD: Keep him as far away from this thing as he can stand.  We'll be back in twenty minutes.<br><br>(He leads Jennifer out of the cave.  Jeanie goes over to the others and they help Rodney off the floor.)<br><br><br>FOREST.  John and Jennifer run through the trees until they reach the Jumper.  John runs inside and gets a box out of netting in the rear compartment.  He puts it onto the bench, opens it and takes out a power drill and a hammer.<br><br>KELLER: Uh, you can't expect me to operate with those.<br><br>SHEPPARD: Well, I've seen surgical drills -- they're not that much different.<br><br>KELLER (unhappily): Fine.  Assuming we can open him up, I still have no way of knowing where the parasite has contracted to.<br><br>(Sighing, John looks around the Jumper, then gets an idea, puts the tools down, goes to the front console and picks up the life signs detector.)<br><br>SHEPPARD: We can use this.<br><br>KELLER: A life signs detector(!)<br><br>SHEPPARD: Yeah.  Why not?<br><br>KELLER: Well, it's just not designed to do what I need it to do on the correct scale.<br><br>SHEPPARD: Well, we'll have Jeanie modify it.<br><br>KELLER: No, you don't understand.  The radiation is compromising his immune system as we speak, which means if <I>I</I> don't kill him, the infection he's bound to get by being operated on in a damp cave almost certainly <I>will</I>.<br><br>SHEPPARD: Look, if we don't <I>do</I> something, he's dead.  You said it.<br><br><br>SHRINE.  John and Jennifer have returned and have explained the situation to Rodney.<br><br>McKAY: Absolutely not!<br><br>JEANIE: We're talking about saving your life!<br><br>(Rodney walks over to John, takes the power drill from him and brandishes it at him.)<br><br>McKAY: Look, my brain is not some new deck off the back of your house!<br><br>SHEPPARD: <I>I'm</I> not the one doing the surgery!<br><br>McKAY: Yeah.  (He turns to Jennifer.)  And as my parting advice, you need to stop one of these guys talking you into stupid things!<br><br>KELLER: I can do it.<br><br>McKAY (looking at her nervously): Really?<br><br>JEANIE: And I'm fairly sure I can modify the life signs detector.<br><br>McKAY: Yeah, with <I>my</I> help.<br><br>JEANIE: So help.<br><br>(Rodney turns back to Jennifer, cringing at the thought of what he's about to ask.)<br><br>McKAY: Look, this isn't one of those P.B.S. brain surgeries where my skull is wide open and we're having a conversation?<br><br>KELLER: I have enough anaesthetic to put you out.  You're not gonna feel a thing.<br><br>McKAY (plaintively): It's probably a hammer!<br><br>TEYLA: Time is of the essence, Rodney.  You need to make a decision.<br><br>JEANIE: <I>Please</I>, Mer.  Let us try.<br><br>McKAY: Look, obviously I'd get around to consenting.  It's just, you've -- you've thrown an awful lot at me all at once.<br><br>DEX: That's life.<br><br>(Rodney sighs.)<br><br>McKAY: Alright, well let me have a little ham.<br><br>SHEPPARD: No.  No food before surgery.<br><br><br>DAY 18.  11:33.<br><br>Sitting in front of the camera, Rodney gazes into it vaguely.<br><br>McKAY: Bye, Jeanie.  Sorry I was mean sometime.  (He waves.)  Bye ... bye, Teyla.  Bye, Ronon Dex.  (He waves again.)  Bye, John.<br><br>(His eyes full of tears, he looks at Jennifer.)<br><br>McKAY (quietly): Bye.<br><br><br>TALUS.  Rodney lies unconscious on a makeshift bed made from equipment brought from the Jumper.  They have also brought some floodlights to illuminate the area as best as possible.  Sitting on a box at the head of the bed and wearing medical gloves, John holds the modified life signs detector in one hand and presses a dressing to the left hand side of Rodney's forehead.  Sitting on another box, Jennifer picks up a pen and starts to make marks on the right hand side of his forehead as John puts the detector onto Rodney's chest where Jennifer can see it.<br><br>KELLER: I'm gonna have to cut here, here and here and drill those points to resect the area.<br><br>SHEPPARD: OK.<br><br>KELLER: I don't wanna penetrate the dural layers until we get to that stage, so hold him as still as you can.<br><br>SHEPPARD: Go.<br><br>(Using a scalpel, Jennifer starts to cut into Rodney's forehead.  John grimaces at the sight.  She creates a flap of skin and then, using forceps, peels the flap open and puts the scissors into John's left hand which is still holding his head steady.  With another pair of scissors, she widens the hole and John carefully moves his right hand so that he can take hold of the scissors.  She reaches down and picks up the power drill.  As she starts to drill, Jeanie -- standing nearby and watching helplessly -- either gags or sobs silently, then turns away, unable to watch any more.  She walks over to Teyla and looks at her watch.)<br><br>JEANIE: I took too long reconfiguring the life signs detector.  I haven't given her enough time to perform the surgery before his immune system is compromised.<br><br>(Jennifer continues to drill, but then Rodney starts to convulse gently.  She retracts the drill.)<br><br>KELLER: Maybe I've gone too far.  Hold him steady.<br><br>SHEPPARD: I'm trying.<br><br>(Jennifer looks at the life signs detector.)<br><br>KELLER: It's the parasite.  It's moving.<br><br>SHEPPARD: Well, maybe it knows we're going after it.<br><br>KELLER: I don't think so.  I think it instinctually wants to get away from the radiation source -- and we've just shown it the way out.<br><br>(She looks at the detector again, then turns to Ronon.)<br><br>KELLER: Ronon, we're gonna need that gun of yours in about ten seconds.<br><br>(Ronon takes his blaster out of its holster and charges it.  She looks back at Rodney just as black tendrils start to poke out of the wound on his head.  Slowly the parasite pushes itself out of the hole.  Carefully Jennifer takes hold of it with a pair of scissors, pulls it free and then hurls it and the scissors across the floor.  As it writhes on the ground, Ronon fires a single shot at it.  Teyla and Jeanie run over to the spot but there's nothing left of the creature.  John looks up at Ronon.)<br><br>SHEPPARD: You could have stepped on it!<br><br>DEX: She told me to shoot it.<br><br>(Jennifer looks at the detector.)<br><br>KELLER: It's clear!<br><br>DEX: You did a good job.<br><br>(She smiles round at him.)<br><br>KELLER: You too.<br><br>(She turns back to John.)<br><br>KELLER: Let's get him home.<br><br><br>ATLANTIS.  Rodney lies sleeping in a bed in the Infirmary, a dressing on his head.  Jeanie is sitting at his bedside, drinking coffee and looking very tired.  Jennifer comes over.<br><br>KELLER: Why don't you go and get some sleep?  I'm gonna be here all night.<br><br>JEANIE: No, it's OK.  I'd like to be here when he wakes up.<br><br>KELLER: Well, it could be a while.  He does love to sleep, our Rodney!<br><br>JEANIE: You should have seen him when he was a teenager.<br><br>McKAY (drowsily): Who can sleep with all the talking?<br><br>(He turns his head and opens his eyes.)<br><br>JEANIE: Hi!<br><br>McKAY: Hi.<br><br>JEANIE: You still, uh ... (she gestures to her own head) ... all there?<br><br>(Rodney smiles.)<br><br>McKAY: Well, there was <I>so</I> much to spare.<br><br>(The girls both smile ruefully.  He looks up at Jen.)<br><br>McKAY: Thank you.<br><br>KELLER: You're welcome.<br><br>McKAY: It was scary.<br><br>KELLER: For me too.<br><br>(He nods and looks away.)<br><br>KELLER: You hungry?<br><br>McKAY (nonchalantly): Peckish.<br><br>(The girls laugh.)<br><br>KELLER: I'll go order you something.<br><br>(She walks away.  Jeanie straightens the sheet on her brother's bed as he smiles at her.)<br><br><br>DAY 06.  22:14 <br><br>Sitting in front of the video camera, Rodney looks up at Jennifer.<br><br>McKAY: Jennifer, there's something I wanted to, um ... while I remember, while I still can; there's something I wanted to say before, um ...<br><br>KELLER: Go ahead.<br><br>McKAY: I ... I ... I love you.<br><br>(In a private area of the Infirmary, Jennifer is watching the playback of the recording, smiling.)<br><br>McKAY: I've loved you for some time now.<br><br>(Smiling, he looks down, then lifts his head again.)<br><br>McKAY: OK.  Where was I?
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="505.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s5/506.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="507.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s5/index.shtml">
+<IMG SRC="/graphics/title_s5episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Five Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="501.shtml" CLASS="list">Search and Rescue</A><BR><A HREF="502.shtml" CLASS="list">The Seed</A><BR><A HREF="503.shtml" CLASS="list">Broken Ties</A><BR><A HREF="504.shtml" CLASS="list">The Daedalus Variations</A><BR><A HREF="505.shtml" CLASS="list">Ghost In the Machine</A><BR><A HREF="506.shtml" CLASS="list">The Shrine</A><BR><A HREF="507.shtml" CLASS="list">Whispers</A><BR><A HREF="508.shtml" CLASS="list">The Queen</A><BR><A HREF="509.shtml" CLASS="list">Tracker</A><BR><A HREF="510.shtml" CLASS="list">First Contact</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="511.shtml" CLASS="list">The Lost Tribe</A><BR><A HREF="512.shtml" CLASS="list">Outsiders</A><BR><A HREF="513.shtml" CLASS="list">Inquisition</A><BR><A HREF="514.shtml" CLASS="list">The Prodigal</A><BR><A HREF="515.shtml" CLASS="list">Remnants</A><BR><A HREF="516.shtml" CLASS="list">Brain Storm</A><BR><A HREF="517.shtml" CLASS="list">Infection</A><BR><A HREF="518.shtml" CLASS="list">Identity</A><BR><A HREF="519.shtml" CLASS="list">Vegas</A><BR><A HREF="520.shtml" CLASS="list">Enemy At the Gate</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Five</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B002ACP0MO/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B002612S6A/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls5.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="505.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s5/506.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="507.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

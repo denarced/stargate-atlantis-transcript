@@ -1,0 +1,515 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Michael" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s2/218.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s2/transcripts/218.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=545">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=289">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s2/218.shtml#production">Production</A>
+				
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=21930">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s2/218.shtml"><IMG SRC="/atlantis/graphics/218_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="MICHAEL" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 218<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 2, Disc 5<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 02.24.06<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 04.30.07<BR>
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0082772/" TARGET="_blank">Carl Binder</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0939869/" TARGET="_blank">Martin Wood</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">An amnesiac young Lieutenant in Atlantis suffers from disturbing nightmares that he is a Wraith, only to make a shocking discovery about himself.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    ATLANTIS. INFIRMARY ISOLATION ROOM. A man in his mid thirties wakes up with a gasp in a hospital bed. He looks around the room, apparently confused as to where he is. He looks down at his hands, then stares around the room again. There is no-one in sight but he is surrounded by several monitors, most of them turned away from him so he can't see what they are showing.<br><br><br>ELIZABETH'S OFFICE. As Doctor Elizabeth Weir works at her desk, Doctor Carson Beckett reports to her over the radio.<br><br>BECKETT: Elizabeth?<br><br>(Elizabeth activates her headset radio.)<br><br>WEIR: Yes, Carson?<br><br>BECKETT: He's awake.<br><br><br>ISOLATION ROOM. The man is now sitting up on the bed. Carson is shining a penlight into his left eye, then flicking it away again, then shining it into his eye again. The doors to the room open and Elizabeth comes in, accompanied by Lieutenant Colonel John Sheppard. They walk across to the bed as Carson talks to the man.<br><br>BECKETT: Blood pressure's fine, pulse normal. You're bouncing back quite nicely.<br><br>MICHAEL: Bouncing back from what?<br><br>WEIR: Hullo, Michael. (She smiles at him.) D'you remember me?<br><br>(Michael looks at her for a moment, then shakes his head.)<br><br>MICHAEL: No.<br><br>WEIR: I'm Doctor Elizabeth Weir. This is Lieutenant Colonel John Sheppard.<br><br>SHEPPARD: You serve under my command.<br><br>(Michael looks at him blankly.)<br><br>WEIR: Do you know where you are?<br><br>MICHAEL: I don't even know who I am!<br><br>WEIR: Your name is Lieutenant Michael Kenmore. You're in a private room off the Infirmary here in Atlantis.<br><br>(Michael lifts his head as if he recognises that last word.)<br><br>WEIR: Is that familiar to you?<br><br>MICHAEL: Atlantis. Yeah ... I think.<br><br>SHEPPARD: You're a member of a team that went offworld. You were captured by the Wraith.<br><br>(Michael looks away as if lost in thought.)<br><br>BECKETT: I see you remember the Wraith.<br><br>(Michael looks at him.)<br><br>MICHAEL: What did they do to me?<br><br>WEIR: We're not quite sure yet.<br><br>SHEPPARD: We sent a rescue team for you but, um, you were wounded during the mission.<br><br>BECKETT: You've been unconscious for days now -- had us worried sick.<br><br>MICHAEL: Why can't I remember anything?<br><br>BECKETT: We don't know yet. Hopefully we'll learn more as we conduct further tests.<br><br>WEIR: And in the meantime, I can assure you that we will give you the best possible care to help in your recovery.<br><br><br>ABOVE THE ISOLATION ROOM. In an observation room similar to the one above the operating room we saw in "Coup D'Etat", two marines are watching a bank of screens. They show several different angles of the Isolation Room below. Elizabeth, John and Carson walk in, go to the window and look down at Michael lying in bed. Elizabeth sighs.<br><br>WEIR: Keep a close eye on him. Until we know more, we need to proceed with caution. (Carson nods.) This may just be the start of our problems.<br><br><br>LATER. In the Isolation Room, Carson is standing at Michael's bedside with his back to the bed as he turns the dial on a device that looks a little like a fountain pen. He turns to the bed. Michael looks at the device.<br><br>MICHAEL: What is that?<br><br>(Carson puts the tip of the device on Michael's right arm and presses the plunger.)<br><br>BECKETT: I'm afraid you have type one diabetes. You require a daily injection of insulin to maintain a normal blood glucose level. You've managed it quite nicely, actually.<br><br>(Michael looks away, lost in thought.)<br><br>BECKETT: Michael, we believe you may be suffering from what's called generalised dissociative amnesia, which usually occurs as a result of significant trauma.<br><br>MICHAEL: Trauma caused by the Wraith?<br><br>BECKETT: We don't know for certain. Hopefully, over time, your memory will return. In the meantime, we'll do our best to help you fill in the gaps -- a wee bit at a time so as not to completely overwhelm you.<br><br>(Michael smiles ruefully.)<br><br>MICHAEL: I'm already completely overwhelmed. How much worse can it get?<br><br>(Carson smiles and pats his shoulder, then turns away. His smile fades.)<br><br><br>OBSERVATION ROOM. Teyla Emmagan comes in and looks at Carson, who is sitting studying a laptop computer.<br><br>TEYLA: I heard he was awake.<br><br>BECKETT: Aye. Complete amnesia. Doesn't remember a thing.<br><br>(Teyla walks over to the window to look down at Michael. Carson stands up and walks over to join her.)<br><br>TEYLA: May I speak with him?<br><br>BECKETT: Of course.<br><br>(Teyla nods, looks down into the room again, then looks at Carson.)<br><br>TEYLA: You need to rest.<br><br>(Carson nods wearily.)<br><br><br>ISOLATION ROOM. Michael is sitting up on the bed. The doors open and Teyla walks in. An armed guard is standing outside the room.<br><br>TEYLA: Hullo, Michael. (She smiles as she walks over to him.) I am Teyla.<br><br>(Michael turns to look at her.)<br><br>MICHAEL: You look familiar. Do I know you?<br><br>TEYLA: Yes. You assisted my team on a few missions.<br><br>MICHAEL: There's more, though. (He looks at her as if trying to work out how he remembers her.) Are ... are we friends?<br><br>TEYLA (smiling): Yes.<br><br>(Michael laughs.)<br><br>MICHAEL: That's the best news I've heard all day!<br><br>TEYLA: How are you feeling?<br><br>MICHAEL: Oh -- physically fine, but my mind is completely blank. They said I'm a lieutenant.<br><br>TEYLA (nodding): You have only recently arrived in Atlantis but you have already proven yourself to be one of the finest soldiers in this city.<br><br>MICHAEL: Well, if I'm such a fine soldier, how did I get captured by the Wraith?<br><br>TEYLA: Your team came upon a landed Wraith cruiser and were ambushed. You sacrificed yourself in order to give your team mates time to escape. Quite heroic.<br><br>MICHAEL: Were you part of the team that rescued me?<br><br>TEYLA: Yes.<br><br>MICHAEL: Well, then that makes you even more heroic.<br><br>(He smiles at her. Teyla grins back at him.)<br><br><br>CONFERENCE ROOM. Teyla is reporting to Elizabeth, Carson, John and Doctor Kate Heightmeyer, the base's psychologist.<br><br>TEYLA: He said I was familiar to him. He asked if we were friends.<br><br>WEIR: How did you respond?<br><br>TEYLA: I said we were. After everything he has been through, I thought some positive news could not hurt.<br><br>HEIGHTMEYER: I think you're right. Stabilisation is the first critical stage in his psychological treatment. (She turns to Elizabeth.) He's doing quite well so far, but it's important we do what we can to ease his recovery.<br><br>WEIR: What's the next stage?<br><br>HEIGHTMEYER: Integration into the community, (John grimaces) followed by relational development.<br><br>WEIR (to Carson): How is he doing physically?<br><br>BECKETT: Excellent. Vitals normal. All he needs is a bit of physical therapy to regain muscle tone and coordination.<br><br>WEIR: Do you think he's ready to be released?<br><br>BECKETT: I do.<br><br>SHEPPARD: I don't think that's such a good idea. We still don't know if there are any residual effects he might be carrying around.<br><br>(Elizabeth turns to Kate.)<br><br>WEIR: What do you think, Doctor? Is he ready to join the community?<br><br>HEIGHTMEYER: A change of scenery could be very beneficial to him.<br><br>WEIR: Alright, then. (She turns back to Carson.) Release him.<br><br>(John looks away, apparently unhappy with her decision.)<br><br><br>SOME TIME LATER. Teyla leads Michael, followed by two guards, to a glass door and opens it for him. They go inside, Teyla smiling back at the guards who wait outside. Michael walks into the room and looks around.<br><br>TEYLA: These are your quarters.<br><br>(In the Observation Room, an airman and another guy, possibly a scientist, are watching Michael's quarters on closed circuit TV. The quarters have cameras watching all angles. John stands behind the two men, watching the screens.)<br><br>TEYLA: Does any of this look familiar to you?<br><br>MICHAEL: No. (He walks over to a table and picks up a cowboy hat which is lying on it. He looks at Teyla questioningly.)<br><br>TEYLA: It is a cowboy hat. (She takes the hat from him.) You come from a place called Texas.<br><br>(Michael shakes his head at her blankly as she hands the hat back to him.)<br><br>MICHAEL: Texas. (Teyla nods.) Hmm.<br><br>(He puts the hat down and continues looking around the room. On another table is a framed photograph of a man and woman in their sixties. He picks it up and again looks at Teyla.)<br><br>TEYLA: They are your parents.<br><br>(Michael stares at the photograph for a moment, then looks at Teyla again, obviously not recognising them.)<br><br><br>COMMISSARY. Doctor Rodney McKay is sitting at a table and has just finished his meal. He stands up as a member of the commissary staff comes over to clear his table.<br><br>McKAY: Ah. Hey, what happened to the, um, to the blue jello? (He points down to his tray where he has left some red jello.) My favourite -- all of a sudden it's off the menu. What gives?<br><br>(The man shrugs and walks away.)<br><br>McKAY: Thank you!<br><br>(An Australian woman in military uniform walks over and takes the seat next to Rodney. He looks round at her and rolls his eyes, then picks up his computer tablet and walks away as she beckons someone to come and join her. Rodney walks a few paces, then hesitates at what he sees in front of him. He takes a deep breath and keeps walking, going over to Michael who is sitting at a table alone and eating. Two guards stand nearby.)<br><br>McKAY: Ah. Lieutenant Kenmore.<br><br>(Michael looks up at him.)<br><br>MICHAEL: So they tell me. Call me Michael.<br><br>McKAY: Michael. Right, yes, of course. Michael.<br><br>(He looks at him a little uncomfortably.)<br><br>MICHAEL: I'm sorry. Um, I'm probably supposed to know you but ...<br><br>McKAY: Right, right, the amnesia. Yes, of course, I heard. (He holds out his right hand.) I'm, uh, Doctor McKay. (Michael wipes his hands on his trousers.) Rodney McKay. Doctor.<br><br>(Michael stands and takes his hand, shaking it. He looks down at Rodney's hand curiously, though it's not clear why -- perhaps Rodney doesn't grasp his hand as he was expecting.)<br><br>McKAY (as they release hands and Michael sits down again): So, you've been, um, released, I see. (He looks at the guard standing opposite Michael.)<br><br>MICHAEL: Just now, but I have some bodyguards following me around everywhere, and Colonel Sheppard's probably somewhere close by. They wanna keep an eye on me in case I suddenly, um ... freak out.<br><br>(He smiles down at his tray. Rodney laughs falsely.)<br><br>McKAY: Yes, freak out, yes. (His smile fades.) Well, I don't think you're gonna ... you're not gonna ... You're fine, aren't you?<br><br>MICHAEL: I think so. I feel fine. I guess time will tell. Hopefully the amnesia won't be permanent.<br><br>(He looks at the screen of the tablet that Rodney is holding.)<br><br>MICHAEL: Wraith materialiser schematics?<br><br>McKAY: Yes. Yes, I was just, um ... just studying them, you know?<br><br>(Michael looks puzzled.)<br><br>MICHAEL: How did I know that?<br><br>McKAY: Um, one of your team's mission objectives was to, um, infiltrate, um ... (he appears to be thinking quickly) ... a Wraith ship and obtain, um ... (he looks round to the guard as if for help but the guard is gazing off into the distance and taking no notice of him) ... you know ... uh, intelligence.<br><br>MICHAEL: And our mission was successful?<br><br>McKAY: Yes, very successful.<br><br>MICHAEL: Except for getting captured.<br><br>McKAY: Ah, well, we've, uh, we've all been captured by the Wraith at one point or another, haven't we? It's just, uh, the important thing is that you were rescued, safe and sound.<br><br>MICHAEL: Safe, yes. The sound part I'm not so sure of.<br><br>(He smiles. Rodney chuckles nervously.)<br><br>McKAY: Y-Yeah, well ... it's ... um ... (He trails off, desperately trying to think of something to say.)<br><br>MICHAEL: Well, um, I guess I'd better be going.<br><br>McKAY: Right. You got it.<br><br>(Michael stands and walks away, accompanied by his guards.)<br><br>MICHAEL: See ya.<br><br>(Rodney watches him walk away, then looks down at the computer tablet. All the writing on it is in Wraith.)<br><br><br>GYM. Teyla is coaching Michael in Athosian hand to hand combat techniques. As she does each move, she tells him what to do.<br><br>TEYLA: Defend. Defend. Parry, strike ... <br><br>(So far he has fended off each punch but now she whirls, her arms moving almost too fast to see, and, fending off his blows, drops to one knee and punches him in one knee. As he cries out in pain, she rises up quickly and, standing on one leg while holding him by the arms, brings her other thigh up and rams it into his stomach. While he is still off balance she spins him around and slams her leg into his chest, knocking him to the floor.)<br><br>MICHAEL: Ow!<br><br>TEYLA: It is all about catching your opponent off balance.<br><br>(Michael gets up onto his knees and looks up at her.)<br><br>MICHAEL: You succeeded! (He gets to his feet, out of breath.)<br><br>TEYLA: Now you try.<br><br>(Michael laughs ruefully.)<br><br>MICHAEL: I can't do that move. (He bends over, still trying to catch his breath.)<br><br>TEYLA: Oh yes you can.<br><br>MICHAEL: You keep saying I'm a good fighter.<br><br>TEYLA: You are. Very good.<br><br>(Michael shrugs, straightening up.)<br><br>MICHAEL: Alright.<br><br>(He starts to attack her, doing the same moves that she just taught him. Although she fends off each blow, he is obviously starting to get the hang of it.)<br><br>MICHAEL (pleased with himself): Hey!<br><br>(Teyla comes at him. They parry for a few moments, then she does a move which she obviously expected would get through his defence, but he blocks her. He laughs delightedly. Teyla comes at him again. This time as she tries to bring her knee up, he grabs it, stopping the blow, then releases her. She spins and tries to slam her leg across his stomach again but this time Michael is ready, grabs it and uses her momentum to slam her down to the floor on her back. He follows her down, shoving the palm of his hand onto her chest to hold her down. Teyla's eyes widen in fear but Michael doesn't notice.)<br><br>MICHAEL (laughing in delight): Woo! Wow, are you alright?! I can't believe I ...<br><br>(A pair of hands grabs him from behind. It's Ronon Dex, who hauls him off Teyla, drags him across the gym floor and, with a roar of rage, slams him hard against the wall by the throat.)<br><br>DEX: Keep your hands off her!<br><br>(Teyla scrambles to her feet.)<br><br>TEYLA: Ronon! We were sparring as part of his physical therapy. Let him go.<br><br>(Ronon continues to hold Michael against the wall, half strangling him.)<br><br>TEYLA: NOW!<br><br>(Ronon, his face contorted in a snarl, releases Michael and walks away without a word.)<br><br>MICHAEL (holding his throat): I'm sorry.<br><br><br>KATE'S OFFICE. Kate and Michael are sitting opposite each other.<br><br>HEIGHTMEYER: Ronon is fairly new here in Atlantis. He's still making the adjustment to our way of doing things. He's clashed a few times with some of the personnel, including yourself, and even Colonel Sheppard.<br><br>MICHAEL: I'll just have to stay clear of him. Whatever I did to make him angry, he doesn't look like the kind of person you wanna have as an enemy!<br><br>HEIGHTMEYER: Give him time. I'm sure you'll work out your differences, put the past behind you.<br><br>MICHAEL: The past -- whatever that is. It-it's just so frustrating. I didn't even remember the faces of my own parents.<br><br>HEIGHTMEYER: They've been informed of your condition. In time we'll send you home to be reunited with them, but for now I think it's best if we hold off.<br><br>MICHAEL: So what do you think? Will my memory ever return?<br><br>HEIGHTMEYER: We can't be sure. But we'll continue with these sessions, perhaps even try hypnosis.<br><br>(Michael looks wistful.)<br><br>MICHAEL: I just wanna get back to normal -- be like everybody else.<br><br><br>DREAM SEQUENCE. Looking through the eyes of the dreamer, we are walking through a Wraith ship. Other Wraith can be seen.<br><br>(Michael jerks awake in his bed, gasping for breath. He stares into the room, then breathes out in relief. He gets out of bed and walks over to a small table with a jug of water on it. He pours himself a glass, then turns to face the mirror on the wall. A Wraith stares back at him, roaring.)<br><br>(Michael jerks awake in his bed, gasping for breath. He stares into the room, then breathes out in relief.)<br><br><br>MORNING. Michael and Teyla are sitting in the gym.<br><br>MICHAEL: It was so real. I-I know it was a dream but when I saw that face staring back at me ... They did something to me, didn't they -- the Wraith, during my capture? They did something to my mind. Maybe -- maybe they implanted something into my brain. (He looks at Teyla.) What did they do? (Teyla looks worried.) Tell me.<br><br>TEYLA: We do not know. (Michael looks away.) Listen: many people here have had such dreams. You are not the only one.<br><br>MICHAEL: Really?<br><br>TEYLA (nodding): The constant fear of the Wraith attacking and the way they feed on us -- it creates a tremendous amount of stress.<br><br>MICHAEL: You've had the dream too?<br><br>TEYLA: Yes. Many times. (Michael sighs.) And I know how frightening it can be.<br><br><br>OBSERVATION ROOM. As John and Rodney continue to watch Michael on the monitors, Teyla reports her conversation. Elizabeth, Carson and Ronon are also in the room.<br><br>WEIR: He's only had the one dream?<br><br>TEYLA: Yes. He believes the Wraith did something to him during his capture.<br><br>WEIR (to Carson): Can you do something to help him?<br><br>BECKETT: Perhaps I can give him a sedative to help him sleep. Or I could increase his dosage, although I question against it at this time.<br><br>McKAY: Why? If it's helping, what's wrong with giving him more?<br><br>BECKETT: Because, Rodney, I specifically calibrated his regimen according to his current physical condition. Any alteration could adversely affect his recovery. I say we remain patient -- wait to see if he has any more dreams. If it's merely psychological, then Doctor Heightmeyer should be able to help him through it.<br><br>TEYLA: Why do we not just tell him the truth? I am finding it difficult keeping it from him, and I am beginning to question whether our course of action is the correct one.<br><br><br>NIGHT TIME. MICHAEL'S QUARTERS. Michael lies in bed asleep, but he is very restless. He jerks awake gasping, so has probably had the dream again. He looks into the mirror opposite his bed but can only see his own face.<br><br><br>DAY TIME. KATE'S OFFICE. Michael is standing at the window gazing out of the city. His face is anguished.<br><br>HEIGHTMEYER: The dreams are most likely due to post traumatic stress -- not at all uncommon in situations like yours. You can see Doctor Beckett after you leave -- have him prescribe something for sleep.<br><br>MICHAEL: I just -- I can't help thinking there's more to it. Something's not right with me.<br><br>HEIGHTMEYER: Do you feel sick?<br><br>MICHAEL: No! I mean, (he turns from the window to face her) I feel like ... I don't know what it is but ... it's not right. It's not. (He sits down.) Everyone around here -- I get the feeling like they know something -- something they're not telling me.<br><br>(Kate sits back in her chair, looking worried. Michael points at her triumphantly.)<br><br>MICHAEL: See? That -- your _expression. I see that a lot around here. People being careful with me, like they're trying to figure out what to say next.<br><br>HEIGHTMEYER: And you think this means that they're keeping secrets from you?<br><br>MICHAEL: Maybe not deliberately, but yes. I get the feeling they know something about me but aren't telling me. And it's frustrating, because if the Wraith did something to me, I'd really like to know what it is.<br><br><br>CORRIDORS. Michael, followed as always by his guards, is walking through the corridor when he sees John and Ronon approaching.<br><br>SHEPPARD: Lieutenant.<br><br>MICHAEL: Colonel.<br><br>SHEPPARD: Where you off to?<br><br>MICHAEL: My quarters. Doctor Beckett gave me some pills, help me get some sleep. (He takes the bottle of pills out of his pocket and shows them to John.) Thought I'd give ‘em a try. (He smiles and puts them away again.)<br><br>SHEPPARD (smiling): No alcohol or heavy machinery.<br><br>MICHAEL (confused): Excuse me?<br><br>SHEPPARD: Nothin'. Sleep well.<br><br>(Ronon starts to move off but Michael moves to block his path.)<br><br>MICHAEL: Hey, Ronon. Um, I don't know what happened between us in the past, but if I ever did anything to hurt or upset you, I just wanted to say that ... (he holds out his right hand) ... I'm sorry.<br><br>(Ronon glares at him.)<br><br>SHEPPARD: Ronon, shake the man's hand.<br><br>DEX: I don't think so.<br><br>(Michael looks upset but continues to hold his hand out.)<br><br>SHEPPARD (to Ronon): He's trying to bury the hatchet. It's not a bad idea, don't you think?<br><br>DEX: I gotta go.<br><br>(He moves to walk past Michael but again Michael blocks his path.)<br><br>MICHAEL: Look, I just wanna know ...<br><br>(Without warning, Ronon punches him hard in the face. Instinctively, Michael punches back at him. Ronon ducks the punch and hits him hard in the stomach.)<br><br>SHEPPARD: Knock it off!<br><br>(One of the guards grabs Michael and pushes him against the wall, while Sheppard steps into Ronon's way and holds out his hand to fend him off. The other guard and a marine who was nearby grab Ronon's arms and pull him back.)<br><br>SHEPPARD: Knock it off. (He looks at Michael, who is looking at Ronon, ready to go again, then turns and glares at Ronon.)<br><br><br>NIGHT TIME. MICHAEL'S QUARTERS. Michael lies restless and unable to sleep. Eventually he sighs and gets out of bed. He walks to the door and opens it, approaching his two guards.<br><br>COLE: Lieutenant Kenmore. What are you doing up so late?<br><br>MICHAEL: The pills Doctor Beckett gave me aren't working. I'm gonna go to the Infirmary.<br><br>COLE: After you.<br><br>(They head off.)<br><br><br>INFIRMARY. Michael walks in as the guards wait in the doorway. He says hullo to a passing nurse and walks towards Carson who is sitting with his back to him at a desk at the far end of the room.<br><br>MICHAEL: Doctor Beckett.<br><br>(Carson doesn't respond. Michael walks over to him and sees that he is asleep with one hand propping up his head. Unsure whether to wake him or not, Michael looks around. He notices a wall calendar hanging above Carson's desk. It is of "Scenic Scotland" and shows a picture of sheep in a country lane. The month is July 2005 and on one of the days, Carson has written "Dinner with Cadman". [Transcriber's note: Carson really needs to stop calling his girlfriend by her surname!] It's not the date that attracts Michael's attention, however. The location of the country lane is given as "Kenmore". Michael reaches out to touch the word, bewildered. He looks round to the guards, who are standing in the doorway chatting to the nurse and taking no notice of him. He turns back to the table and bends down to a laptop computer on the desk. He types, but a message comes up seeking his password. He glances across at Carson to check that he is still asleep, then goes across to a trolley beside the desk which has some CDs on it. He lifts one up to look at what is written on it, puts it down and picks up a black plastic case containing several CDs. He flicks through the case. Each disk is labelled "DAY TEN, DAY FOUR, DAY FIVE" etc and underneath, "PATIENT #4364". He closes the case and looks at the cover. It is labelled "PATIENT #4364: 1Lt. Michael Kenmore".)<br><br><br>MICHAEL'S QUARTERS. Michael goes back into his room, leaving his guards outside. He walks into the centre of the room and looks up at one of the closed circuit cameras on the wall. He walks over to his desk, picks up a laptop computer and walks over to a sofa. Sitting down and opening the computer, he looks across to a small spotlight standing on the floor and pointing towards the sofa. Suspecting that it too might be a camera, he turns to face it and puts the computer down on the sofa so that its screen is facing away from the spotlight.<br><br>(In the Observation Room, a marine watches what he is doing. Suspecting that he is up to something, he gets up and leaves the room while the other marine flicks through all the camera angles trying unsuccessfully to get a good shot of the laptop's screen.)<br><br>(In his room, Michael gets the CD case out from under his top, unzips it and takes out the CD labelled DAY TWELVE. He feeds it into the computer. He looks up at the spotlight/camera, then watches the computer as the CD begins to play. It shows a close up of Michael lying unconscious in bed in the Isolation Room. Carson reaches out and adjusts the flow of a drip.)<br><br>BECKETT (onscreen): Delta wave frequencies are at two point nine Hertz.<br><br>(Elizabeth and John are also in the Isolation Room.)<br><br>WEIR: Which means?<br><br>BECKETT: He may regain consciousness soon.<br><br>(Michael ejects the disk and exchanges it for the one labelled DAY TEN. This one shows Michael tethered to the bed, screaming and writhing. Carson runs to his bedside, then calls out for something.)<br><br>BECKETT: Five milligrams!<br><br>(Michael stares in shock, then inserts the disk labelled DAY SEVEN. This shows Michael writhing on the bed, desperately trying to pull his hands free of the tethers. He calls out, his voice deeper than normal.)<br><br>MICHAEL: Release me! (He roars and cries out in anguish as Carson tries to calm him.)<br><br>(Michael inserts the disk labelled DAY ONE. He stares in horror as the disk starts to play. We hear a deep voice roaring.)<br><br>VOICE: Arggh! You will die for this! Others will come for me! They will destroy you!<br><br>(We see the screen. It's a high shot of the Isolation Room. John and Ronon are holding someone down on the bed but we can't see who it is.)<br><br>SHEPPARD: Blah, blah, blah.<br><br>DEX: They have to find us first.<br><br>(The person on the bed roars in rage.)<br><br>SHEPPARD: You're gonna need a name. How does Mike sound?<br><br>(The camera angle changes and shows who is on the bed. It's a Wraith. In his quarters, Michael reaches out and hits the pause button, staring in horror. Just then, Carson and several guards burst in through the door of his quarters. Michael stares at up them, then turns the computer around to show the screen to Carson. Carson stares, appalled that he has found out the truth.)<br><br><br>EARLY MORNING. Atlantis is swathed in fog. [The CG people deserve awards for these new shots.] MICHAEL'S QUARTERS. John and Elizabeth have arrived. Michael is on his feet and is staring at them in anguish.<br><br>MICHAEL: You lied to me. I'm a Wraith.<br><br>WEIR: You were a Wraith, yes. Michael, please ...<br><br>MICHAEL: Don't call me that. That's not my name.<br><br>SHEPPARD: Alright, take it easy. (He puts his hand on his holstered pistol.)<br><br>WEIR: If you would let us explain?<br><br>MICHAEL (angrily): Go ahead. Explain. But no more lies.<br><br>WEIR: Alright. This is what we know of the Wraith: they evolved from a creature that we call the iratus bug. Now that bug began taking on characteristics of the humans it was feeding on and, over time, became the Wraith that we know now. So Doctor Beckett has developed a drug.<br><br>BECKETT: It's a retrovirus designed to suppress the iratus bug elements of the Wraith genetic code, leaving only the human aspects behind. It took some time to perfect but we finally achieved a viable drug, which we then decided to test.<br><br>MICHAEL: The injections? Insulin?<br><br>BECKETT: Not insulin. I'm sorry. You see, once the retrovirus was administered and the transformation begun, another drug was needed to prevent the Wraith elements from returning. It's actually a combination of drugs which unfortunately require a daily injection.<br><br>MICHAEL: So what are you saying, that-that being a Wraith is some kind of disease -- something you think you can cure? What gives you the right to do this to me?<br><br>SHEPPARD: We're at war. The Wraith will stop at nothing to kill every one of us. And we'll stop at nothing to make sure that doesn't happen.<br><br>MICHAEL: You made up everything: my name, the photograph of my parents.<br><br>WEIR: It was my decision to keep the truth from you.<br><br>MICHAEL (angrily): Why?<br><br>WEIR: For a while, we were concerned that if you were told, you may react the way you are now.<br><br>SHEPPARD: The whole point was to erase any trace of Wraith inside you, not to keep reminding you of it. And trust me, you're a helluva lot better off now than you were before.<br><br>(Michael snorts, but doesn't meet anyone's eyes.)<br><br>SHEPPARD: You sense we're telling the truth.<br><br><br>CONFERENCE ROOM.<br><br>DEX: This whole thing was a bad idea.<br><br>SHEPPARD: No, it wasn't. The retrovirus works -- that much is clear. Just look at the guy. (Ronon narrows his eyes at him.) If we can figure out how to deploy this as a biological weapon, it's possible that we can hit entire hive ships and turn them into humans.<br><br>BECKETT: That's still a ways off, and I've yet to develop an effective long term dose to keep the Wraith elements suppressed for a lifetime.<br><br>WEIR: But the point is, we are getting closer.<br><br>DEX: You know, you may be able to make him look like a human, talk like a human, but he'll still be a Wraith. Nothing you do will ever change that.<br><br><br>MICHAEL'S QUARTERS. Michael is sitting on the end of the bed, lost in thought. Teyla walks in.<br><br>TEYLA: Michael? (He ignores her.) I know you are angry. I am sorry for what you have been put through. But, in time, I think you may come to see this as ...<br><br>MICHAEL (interrupting): Were you part of the team that captured me?<br><br>(He finally meets her eyes. Teyla hesitates. Michael looks away, knowing what the answer is.)<br><br>MICHAEL: You told me before that you and your team rescued me when I was captured by the Wraith. But now I'm starting to realise you did the actual capture. (He looks up at her.) And you have the nerve to tell me you're my friend.<br><br>(Teyla walks closer.)<br><br>TEYLA: I would like to be your friend. I would.<br><br>MICHAEL: You expect me to believe that?<br><br>TEYLA: You may not understand this now but making you human ... I believe this could make your life better.<br><br>MICHAEL (sarcastically): Really? Because from what I was told, you made me human in order to make your lives better.<br><br>(Teyla stares at him, unable to argue against that.)<br><br>MICHAEL: So tell me then: what makes being human better than being a Wraith?<br><br>TEYLA: They are evil. They kill us, feed on us, show no mercy, know nothing of compassion ...<br><br>MICHAEL: And humans are different?<br><br>TEYLA: Yes.<br><br>MICHAEL: So what you did to me -- that was done out of compassion?!<br><br>(Again, Teyla cannot answer.)<br><br><br>KATE'S OFFICE. Kate and Michael talk as guards stand outside the open door.<br><br>HEIGHTMEYER: Your feelings of betrayal are understandable, but it's important you talk about them -- hopefully come to resolve them.<br><br>MICHAEL: With you?<br><br>HEIGHTMEYER: Yes. Of course.<br><br>MICHAEL: I already tried that once -- it didn't work out so well. But something was cleared up for me, though. Now I know what that strange feeling was, the one that's been ... gnawing inside of me. Seems I can't shake those basic Wraith instincts. (He turns his head and looks at her.) Hunger, aggression -- and now that I know the truth, I feel them even more.<br><br><br>OBSERVATION ROOM. Elizabeth, Carson, John and Teyla are watching Michael in his room.<br><br>WEIR: Doctor Heightmeyer confirmed he believes he's still experiencing Wraith compulsions. Is there anything more you can do to help suppress them?<br><br>BECKETT: I don't know. It could merely be a psychological manifestation.<br><br>SHEPPARD: Maybe we should up his dose. (Everybody looks at him.) Yeah, I know you said give it more time, but now that he knows what's going on, things might start going from bad to worse.<br><br>WEIR: I agree.<br><br>BECKETT: He's due for his next injection now. I could go ahead and increase the dosage, monitor him closely.<br><br>WEIR: Let's just hope he agrees to take it.<br><br>SHEPPARD: Well, if he doesn't, we'll have to insist. (Carson looks at him, startled.) Who knows -- maybe another big dose might wipe his memory clean again.<br><br>TEYLA: And then what? We start the lies all over again?<br><br><br>MICHAEL'S QUARTERS. Sergeant Cole comes in.<br><br>COLE: They want you in the Infirmary. Time for your injection.<br><br><br>CORRIDORS. Sergeant Cole precedes Michael along the corridor and up some stairs. The other guard follows, but then is relieved by a new guard who takes his place. Ronon falls in behind him. Michael glances round at the two men following him. When he reaches the top of the stairs, he stops and turns round to face Ronon.<br><br>COLE: What are you doing?<br><br>(Michael walks down a couple of steps and looks at Ronon.)<br><br>MICHAEL: What do you want from me?<br><br>(Ronon smiles unpleasantly.)<br><br>DEX: Just waiting for you to give me a reason to kill you.<br><br>(Michael nods.)<br><br>MICHAEL: I guess I should thank you. You're the only one around here who's been honest with me from the start.<br><br>COLE: Lieutenant Kenmore. The Infirmary?<br><br>DEX: You heard him. Better get moving ... (sarcastically) ... Lieutenant.<br><br>(Michael looks at him for a moment, then slowly turns to face Cole and the other guard. Without warning, he grabs Cole and hurls him down the stairs into Ronon, then grabs the other guard and slams him face first into the wall. He grabs the guard's pistol out of its holster and tosses him into Ronon and Cole before racing off. Ronon shoves the guard aside, draws his blaster and fires towards Michael as he chases off after him. Cole checks on his colleague.)<br><br>COLE (into radio): This is Sergeant Cole. Kenmore's escaped. Level five, east tower. (He draws his Wraith stunner and follows after Ronon and Michael as the other guard struggles to his feet.) Ronon's also in pursuit.<br><br><br>Ronon races down some stairs, looking for Michael. Nearby, Cole and his colleague come down another set of stairs. Cole gestures to his colleague to go in one direction while he heads off in another. He checks around carefully but Michael steps out of dark cover beside him, aiming his pistol at him.<br><br>MICHAEL: Drop your weapon.<br><br>(Cole freezes, not turning to face him.)<br><br>COLE: Just take it easy, Lieutenant.<br><br>MICHAEL: Stop calling me that. Drop your weapon.<br><br>(Cole starts to lower his stunner, then spins and aims his stunner at Michael. Michael fires four quick shots and Cole crashes to the ground. Michael stares in horror at what he has done. He walks over and squats down to Cole, who is lying on the floor staring up at him in agony. Michael puts his hand on one of the gunshot wounds, lifts his hand and looks at the blood, then raises his fingers to his face and smells them. He stands and turns to walk away, only to find Ronon's blaster pointed at his face. Before Ronon can fire, a Wraith stunner blast hits Michael from behind. Michael convulses and drops to the floor. John races up, grabs Ronon's blaster and looks at the setting before giving him a black look.)<br><br>SHEPPARD: I figured you'd forget to set it to stun.<br><br>(Teyla runs over and squats down to Cole, whose eyes are now closed.)<br><br>TEYLA: Sergeant Cole. (She puts her fingers on his neck, then looks up at the others.) He is dead.<br><br><br>BRIG. Michael is standing in the cell with the forcefield activated around it.<br><br><br>CONFERENCE ROOM.<br><br>WEIR: We can't keep him here, even locked up. It's too dangerous.<br><br>SHEPPARD: We can take him to the Alpha site. We'll sedate him first so he won't know where it is.<br><br>DEX: And then what?<br><br>WEIR: Continue with the drug treatments.<br><br>(Ronon smiles bitterly.)<br><br>DEX: Continue?<br><br>WEIR: Doctor Beckett was about to start increasing the dosage. Hopefully that will be effective in eliminating any remaining Wraith impulses.<br><br>DEX: Why are we even talking about this? He killed one of your people. Your experiment didn't work. We should kill him right now.<br><br>HEIGHTMEYER: We can't kill him, Ronon. We're the ones who put him in this position.<br><br>SHEPPARD: Hold on a minute, Doc. If we hadn't given him the retrovirus, he'd still be a Wraith. We wouldn't think twice about killing him.<br><br>TEYLA: But we did give him the retrovirus. We made him human. Now we have the responsibility to treat him as we would any other ...<br><br>DEX (interrupting): He's not human. He's a Wraith.<br><br>(The others think about it for a moment, then Elizabeth turns to Carson.)<br><br>WEIR: Carson, what do you think? Is it worth continuing with these treatments?<br><br>BECKETT: I, uh ... I don't know. I ... suppose it's worth seeing how he fares with the increased dosage.<br><br>WEIR: I agree. We've come too far with this just to abandon it now.<br><br>(Ronon stares at her bitterly. Carson looks anguished.)<br><br><br>BRIG. Michael is pacing slowly around the cell but stops and turns as the door to the Brig opens. Teyla walks in and addresses the two guards.<br><br>TEYLA: Would you please step outside?<br><br>(They nod and leave the room but stand just outside with the door open. Teyla walks over to the cell.)<br><br>MICHAEL: What's going to happen to me?<br><br>TEYLA: You will be transported to another planet where we are establishing an offworld base.<br><br>(Michael speaks quietly, upset.)<br><br>MICHAEL: You want to keep me from learning more about Atlantis. You're afraid that if a Wraith ship comes close enough, I'll communicate with them -- tell them you're here. (Teyla looks at him, not needing to answer. Michael looks anguished.) I didn't want to kill him. I just wanted to escape, to get out of this place.<br><br>TEYLA: We would like to continue the drug treatments. (Michael closes his eyes.) Doctor Beckett believes that an increased dose would fully suppress any Wraith urges you may still be experiencing. (Michael lowers his head.) The alternative is death.<br><br><br>GATEROOM. Carson is supervising his team as they carry equipment ready to take offworld. He talks with a German man.<br><br>BECKETT: All of this up to the Jumper Bay. The E.E.G., defib, cardiograph. Oh, cross-check the medications on the list I gave you -- make certain we're good for at least a week. (He stops to talk with Elizabeth as the team carry their gear up the stairs.) We've got a lot of equipment to take with us. From what I understand, the Alpha site's not exactly set up for this kind of work.<br><br>WEIR: It's not set up for much of anything yet, I'm afraid. Hey, how are you holding up?<br><br>BECKETT (sarcastically): Oh, I don't know -- because of me, a man is dead.<br><br>WEIR: You can't blame yourself for that.<br><br>BECKETT: Elizabeth, I'm the one who developed the retrovirus. I'm the one who pushed for this experiment. Of course I'm to blame.<br><br>WEIR: And I'm the one who approved it. This was my call, Carson, so if there's any blame to be laid, it starts and ends with me, alright?<br><br>(Carson looks away. He clearly doesn't feel any better.)<br><br><br>BRIG. Michael is sitting on the floor in the corner of the cell. The shield around the cell turns off. Michael scrambles to his feet as the cell door opens and John approaches.<br><br>MICHAEL: Colonel.<br><br>SHEPPARD: Time to go.<br><br>(He raises a Wraith stunner pistol and shoots Michael, who drops to the floor. A medical team runs in with a gurney. Carson runs over to Michael and injects him in the neck.)<br><br>BECKETT: Clear.<br><br>(A couple of medics pick Michael up and put him on the gurney.)<br><br><br>WORMHOLE TRAVEL.<br><br><br>ALPHA SITE. Michael wakes up lying on a bed in a metal hut.<br><br>TEYLA: It is alright. You are safe.<br><br>(Michael looks around to see her sitting nearby.)<br><br>MICHAEL: What happened?<br><br>TEYLA: You were sedated for transport to the Alpha site.<br><br>(Michael tries to sit up but finds that his hands and feet are tethered to the bed.)<br><br>TEYLA: Just a precaution. (Michael lies back down.) How are you feeling?<br><br>MICHAEL: Hungry.<br><br>TEYLA: I will see about getting you some food. (She walks away.)<br><br><br>Somewhere nearby, Carson takes a test tube out of a centrifuge. He takes the top off and siphons up some yellow liquid which he squirts into another test tube which already contains some clear liquid.<br><br><br>MICHAEL'S HUT. Teyla wheels over a trolley which has a bowl of vegetable soup on it, together with some M.R.E. bags. Michael looks at the trolley enquiringly.<br><br>TEYLA: They call them Meals Ready to Eat. It was all I could gather on short notice. Doctor McKay quite likes them, actually.<br><br>(She smiles awkwardly. Michael tugs at his wrist tethers pointedly, making her realise that he can't feed himself.)<br><br>TEYLA: Let me help you.<br><br>(She lifts up the bowl of soup and feeds him a spoonful. As he swallows, she offers him another spoonful but he shakes his head.)<br><br>MICHAEL: It's OK.<br><br>(Teyla puts the bowl down.)<br><br>MICHAEL: You're different from the others. I noticed it the first time I saw you. (He stares at her intently. Teyla stares back.) You're the only person willing to understand. (Teyla blinks, unable to look away.) The only one with a truly open mind {mind} {mind}.<br><br>(His voice echoes in her head. Still gazing at him, Teyla reaches down and undoes the tether around his left wrist. As he reaches across to untie his right hand, Teyla, her eyes still locked on his, moves to the foot of the bed.)<br><br>MICHAEL: The only one willing to show compassion {compassion} {compassion} {compassion}.<br><br>(Teyla unties his feet. He gets up off the bed as she walks around to his bedside. He puts his hands on her shoulders.)<br><br>MICHAEL: Thank you, Teyla.<br><br>(He spins her around and seizes her around the throat, holding his other hand behind her head so that if she moves, he can snap her neck. She gasps, the mental connection broken.)<br><br>MICHAEL: I knew I could count on you.<br><br><br>SHORTLY AFTERWARDS. John and Ronon are racing around the site looking for Teyla and Michael. Carson runs over.<br><br>BECKETT: Colonel!<br><br>SHEPPARD: What happened?<br><br>BECKETT: Don't quite know. He somehow managed to get free of his restraints and take Teyla hostage. He forced a security detail outside the Infirmary to drop their weapons or he'd kill her.<br><br>SHEPPARD: Where'd they go?<br><br>BECKETT: Up the ridge. Bravo team's on their way.<br><br>(John and Ronon race off towards the ridge. The members of Bravo team are already halfway up it.)<br><br><br>Somewhere nearby, Michael has Teyla on her knees as he fastens plastic tethers around her wrists behind her back. He pulls her to her feet as he finishes fastening them.<br><br>MICHAEL (quoting what Teyla said earlier): Just a precaution. (Teyla struggles.) I know -- you're angry. I lied to you. But you had no right to do this to me. I won't let you experiment on me any more.<br><br>(Teyla pulls free of him and turns to face him. He points a pistol at her.)<br><br>MICHAEL: Let's go.<br><br>(Teyla turns and walks off.)<br><br><br>Further back, Ronon is running ahead of John. He stops and looks at the ground.<br><br>DEX: He's changing directions. The tracks are difficult to follow. (He scans the ground.) He's good.<br><br>SHEPPARD: But you, uh, can follow them, right? I mean, that's your thing. (Ronon turns and looks at him.) Among many other things.<br><br>(Ronon looks at the ground again.)<br><br>DEX: This way.<br><br><br>ALPHA SITE STARGATE. Michael is standing at the D.H.D. as Teyla sits on the ground behind him.<br><br>TEYLA: What are you doing?<br><br>MICHAEL: We need to leave this planet. (Holding a pistol on her, he starts to dial the D.H.D.)<br><br>TEYLA: And go where?<br><br>MICHAEL: I don't know.<br><br>(He must be dredging up the memory of an address from somewhere, because he continues to dial. Behind him, Teyla, who is sitting on some large pieces of slate, picks up a small slate behind her back and starts to draw on the rock she's sitting on.)<br><br><br>Behind them, Ronon and John come upon a couple of unconscious (or dead?) guards.<br><br>SHEPPARD: These are the S.Os guarding the Gate.<br><br>(He and Ronon race for the Gate.)<br><br><br>STARGATE. Teyla has moved away from the slate she was sitting on and is on her knees. The Stargate kawhooshes. Michael runs over, pulls her to her feet and drags her towards the Gate. Ronon and John race out of the trees nearby and run towards them, Ronon firing his blaster at Michael, but he's too far away. Michael and Teyla run into the event horizon. The Gate starts to shut down. Ronon hurls himself towards it but the wormhole disengages. He flies straight through the Gate and crashes to the ground on the other side.<br><br>SHEPPARD: Dammit!<br><br><br>ANOTHER PLANET. Teyla is preceding Michael, who is still holding his pistol on her.<br><br>TEYLA: What is this place?<br><br>(Michael looks around, then jerks his head in the direction he wants her to go.)<br><br>MICHAEL: That way.<br><br>(They continue walking.)<br><br><br>ALPHA SITE STARGATE. John is staring down at the D.H.D.<br><br>SHEPPARD: We need to figure out the last address dialled, if that's even possible. We need to get McKay out here.<br><br>(Ronon spots something.)<br><br>DEX: No we don't.<br><br>SHEPPARD (still looking at the D.H.D.): Trust me, he's the only one who can figure this stuff out.<br><br>DEX: Look.<br><br>(He holds up the slate that Teyla was drawing on. It shows the address that Michael was dialling.)<br><br><br>THE OTHER PLANET.<br><br>TEYLA: How much further must we walk?<br><br>MICHAEL: We'll rest up ahead.<br><br>(He leans his head against a tree, sounding either exhausted or in pain. Teyla walks a few paces away from him, her face tense with concentration as she gazes into the distance.)<br><br>TEYLA: I am sensing something. There are Wraith nearby.<br><br>(Michael straightens up as she turns to face him. His skin is pale grey and his pupils are slits.)<br><br>MICHAEL: Yes, there are.<br><br>(Teyla backs away from him in horror as he raises his pistol and points it at her again. Michael convulses in agony.)<br><br>TEYLA: It is not too late. We can still go back. Doctor Beckett can give you an injection, take away the pain.<br><br>MICHAEL: No! This is how it's supposed to be. I'm returning to what I was. (He straightens up and walks towards her.) What I am.<br><br><br>LATER. Teyla's tethers have been removed. She is lying on her back on the ground. She wakes up. Sitting up and finding her hands free, she sees a pack lying beside her. She scrambles to her feet and grabs the pack, but quickly finds that there's nothing inside that will be of any use to her. She drops the pack and looks around for Michael. She can't see him, but something else attracts her attention. She looks in horror at the sight of a Wraith hive ship which has landed in the distance. As a Wraith cruiser flies overhead, scores of Wraith are disembarking from the hive ship.<br><br>MICHAEL: This is what I was drawn to.<br><br>(His voice is deep and more Wraith-like. Teyla turns to find him standing beside her and gazing at the ship. His transformation is continuing. His face has the facial ridges of a Wraith and the skin is becoming shiny. His hair is whiter and his teeth are longer.)<br><br>TEYLA: They are aware of us. (Michael turns and looks at her.) They are coming.<br><br>MICHAEL: I know. And I will return to them.<br><br>TEYLA: Then we shall be enemies again.<br><br>MICHAEL: We never stopped being enemies.<br><br>TEYLA: What will you do with me? Feed on me? Is that why you brought me all this way?<br><br>MICHAEL: I'd be lying if I said I didn't feel the urge. (He raises his right hand and looks at the palm.) And now that I'm truly able to feed again ... (he turns his palm towards Teyla. There is a slit in the centre of it) ... I feel it even more.<br><br>(Teyla deliberately turns to face him.)<br><br>TEYLA: Then go ahead.<br><br>(Michael stares at her, torn between his last remaining human feelings and his Wraith instinct. He slowly stretches out his hand towards her. Teyla stands resolute but afraid as Michael, groaning, struggles to stop himself from continuing to reach towards her. When his hand is mere inches from her chest, he stops and pulls his hand back. Teyla gazes at him hopefully. Then Michael roars, raises his hand high and plunges it towards her. It never reaches her. A hail of bullets is fired into his back. The cavalry has arrived. Michael crashes to the ground as John races out of the trees, followed by Ronon, who stops and turns as Wraith guards run out of the trees behind him. He fires at them.)<br><br>SHEPPARD: Fall back!<br><br>(Teyla hurries towards him as he fires his P90 at more guards. Above them on a ridge, even more guards appear. John fires at them as he and Teyla race back into the woods. Ronon follows, turning to fire his blaster at the approaching guards.)<br><br>(Nearby, a male Wraith and some guards reach Michael. The Wraith snarls in the direction of the fleeing humans before bending down to Michael and rolling him over.)<br><br>WRAITH: He's alive.<br><br>(Two of the guards pick Michael up and carry him away.)<br><br><br>ATLANTIS. CONFERENCE ROOM.<br><br>WEIR: He had completely transformed back into a Wraith?<br><br>SHEPPARD: Not completely, but well on his way.<br><br>BECKETT: His reversion occurred at a much more accelerated rate than we anticipated.<br><br>TEYLA: Unfortunately, his memory of what we did to him remained intact.<br><br>DEX: I shoulda killed him when I had the chance.<br><br>McKAY: He's right. We are totally screwed. Not only has our dear lieutenant rejoined the Wraith, but he's taken with him the knowledge that Atlantis still exists.<br><br>SHEPPARD: God knows what type of intel he was able to pick up during his stay.<br><br>TEYLA: They will send another wave of hive ships.<br><br>DEX: Probably already on their way.<br><br>McKAY: And this time, I'm guessing they're not gonna fall for the whole invisibility trick.<br><br>WEIR: We need to come up with a new defence plan.<br><br>SHEPPARD: We're gonna need more fire power.
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="217.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s2/218.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="219.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s2/index.shtml">
+<IMG SRC="/graphics/title_s2episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Two Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="201.shtml" CLASS="list">The Siege, Part 3</A><BR><A HREF="202.shtml" CLASS="list">The Intruder</A><BR><A HREF="203.shtml" CLASS="list">Runner</A><BR><A HREF="204.shtml" CLASS="list">Duet</A><BR><A HREF="205.shtml" CLASS="list">Condemned</A><BR><A HREF="206.shtml" CLASS="list">Trinity</A><BR><A HREF="207.shtml" CLASS="list">Instinct</A><BR><A HREF="208.shtml" CLASS="list">Conversion</A><BR><A HREF="209.shtml" CLASS="list">Aurora</A><BR><A HREF="210.shtml" CLASS="list">The Lost Boys</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="211.shtml" CLASS="list">The Hive</A><BR><A HREF="212.shtml" CLASS="list">Epiphany</A><BR><A HREF="213.shtml" CLASS="list">Critical Mass</A><BR><A HREF="214.shtml" CLASS="list">Grace Under Pressure</A><BR><A HREF="215.shtml" CLASS="list">The Tower</A><BR><A HREF="216.shtml" CLASS="list">The Long Goodbye</A><BR><A HREF="217.shtml" CLASS="list">Coup D'etat</A><BR><A HREF="218.shtml" CLASS="list">Michael</A><BR><A HREF="219.shtml" CLASS="list">Inferno</A><BR><A HREF="220.shtml" CLASS="list">Allies</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B000LC4ZI0/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B000LC4ZI0/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Two</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B000LC4ZI0/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B000KGGP1W/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B000LPQ67A/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B000LC4ZI0/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls2.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="217.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s2/218.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="219.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

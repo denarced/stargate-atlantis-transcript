@@ -1,0 +1,527 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Inquisition" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s5/513.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s5/transcripts/513.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=646">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=720">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s5/513.shtml#production">Production</A>
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=58714">Fan Reviews</A>
+				 | <A HREF="http://forum.gateworld.net/forumdisplay.php?f=134">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s5/513.shtml"><IMG SRC="/atlantis/graphics/513_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="INQUISITION" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://click.linksynergy.com/fs-bin/stat?id=2cvd55rHd*s&offerid=78941&type=3&subid=0&tmpid=1826&RD_PARM1=http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewTVShow?id=179127311&partnerId=30"><img height="15" width="61" border="0" alt="iTunes" src="/store/graphics/itunes_button.gif"></img></a> &nbsp; <a href="http://www.amazon.com/gp/product/B001J8EVVG/?tag=bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 513<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 5, Disc 4<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 10.24.08<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 02.15.10<BR>
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm1289249/" TARGET="_blank">Alex Levine</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0817879/" TARGET="_blank">Brenton Spencer</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">A new coalition of human worlds puts the Atlantis team on trial for their alleged crimes against the Pegasus Galaxy.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    ATLANTIS.  In the Conference Room, Richard Woolsey is sitting at the table with John Sheppard, Rodney McKay, Teyla Emmagan and Ronon Dex.<br><br>WOOLSEY: As you may have already heard, we've received an invitation – or, more precisely, your team has received an invitation – to represent Atlantis at a meeting of leaders from various human populations throughout the Pegasus galaxy.<br><br>SHEPPARD: What's this, a Pegasus version of the United Nations?<br><br>WOOLSEY: Nothing quite so formal.  At the moment it's more of a loose coalition.<br><br>McKAY: Is there any advanced technology in this coalition?<br><br>WOOLSEY: No, but the I.O.A. believes it could be an important first step toward interplanetary government – a federation, if you will.<br><br>McKAY: The Federation had ships!  Look, what do we hope to gain from this?  I mean, the only reason these people even know about each other is because they happened to inherit the Gate system from the Ancients.<br><br>TEYLA: Just because they lack advancement does not mean they cannot benefit from co-operation.<br><br>DEX: She's right.  It's about time people in this galaxy got together and stood up for themselves.<br><br>McKAY: Against the <I>Wraith</I>?!<br><br>DEX: Why not?<br><br>WOOLSEY: The Wraith are at war with each other, which is why the people trying to form this coalition feel the time is right, and they want <I>us</I> to be part of it.<br><br><br>WORMHOLE TRAVEL.<br><br><br>ALIEN PLANET.  In a village, Team Sheppard is escorted by a woman to a small windowless room.  Rodney groans quietly as he sees the room.  It has only a table and benches in it, and the only effort to make the room more welcoming is a bowl of fruit on the table.<br><br>WOMAN: The Council liaison will be with you in a moment.<br><br>(Smiling at them, she closes the door as she leaves.)<br><br>McKAY: Wow.  They're really rolling the red carpet out for us, huh?!<br><br>TEYLA: I am sure they are just trying to keep the details of this meeting a secret.<br><br>(At that moment gas begins to billow out of a grille in the wall.)<br><br>McKAY: Uh, guys, not good!<br><br>SHEPPARD: Ronon!<br><br>(As Rodney scrabbles to pull the neck of his shirt up over his nose and mouth, and Teyla covers her mouth with her arm, Ronon snatches out his blaster and fires it a couple of times at the closed door.  It has no effect.  John runs over to the door and tries to tug it open.  Ronon hurries over and assists him, to no avail.  As the gas thickens in the room, the team slowly topples to the floor.)<br><br><br>LATER.  The team is lying unconscious on the floor of a new room.  It is larger and a little grander than the previous room and the doorway is gated.  The place looks mediaeval.  John, Teyla and Ronon start to revive almost simultaneously.  Groaning, they sit up and look around.<br><br>TEYLA: Where are we?<br><br>DEX: We're not in the same room.  We've been moved.<br><br>(As they start to drag themselves to their feet, Rodney wakes up and looks around blearily.)<br><br>McKAY: What's up?  What happened?<br><br>SHEPPARD: That's a good question.<br><br>(A small group of guards comes to the gated door and looks in at the team.  Teyla walks closer to them.)<br><br>TEYLA: What is the meaning of this?<br><br>MAN: It will all be explained shortly.  The Council wishes to speak to Lieutenant Colonel Sheppard.<br><br><br>Shortly afterwards, John is escorted into a large room.  The man who spoke earlier gestures towards a low wooden plinth.  As he steps onto it, helped with a none-too-friendly shove from the guards escorting him, he looks at two men and a woman sitting behind what looks like a tall judge's bench in front of him.  They are seated in elaborately carved wooden chairs.  The younger man speaks.<br><br>KELORE: I am Kelore of Latira.<br><br>(He looks at the woman.)<br><br>KELORE: This is Shiana of the Tribes of Santhal ... (he looks at the older man) ... and Dimas of the Free Peoples of Riva.  We speak on behalf of the Coalition.<br><br>SHEPPARD: You know, if you wanted to keep this location secret, you could have just blindfolded me.  I wouldn't have peeked, I swear.<br><br>KELORE: Lieutenant Colonel John Sheppard, you stand before this Council as a representative of the Atlantis expedition.<br><br>SHEPPARD: OK.<br><br>KELORE: And, as such, it falls to you to answer the charges.<br><br>SHEPPARD: Excuse me?<br><br>KELORE: You will be given ample opportunity to present your defence, and when all evidence is heard, we will decide the outcome.<br><br>SHEPPARD: What the hell are you talking about?  What <I>is</I> this?<br><br>KELORE: The Atlantis expedition has been accused of crimes against the peoples of this galaxy.  <I>This</I> is your trial.<br><br><br>ATLANTIS.  The Stargate kawhooshes and Richard trots down the stairs to meet Major Lorne and his team as they come through from offworld.<br><br>WOOLSEY: Major.  What happened?<br><br>LORNE: Still trying to figure that out, sir.  One thing's for sure: they're not in the village any more.<br><br>WOOLSEY: They wouldn't have gone anywhere else without notifying us first.<br><br>LORNE: Not voluntarily, no.<br><br>WOOLSEY: Take as many men as you need; search the entire area.  And keep questioning the villagers.  Somebody there knows something.<br><br><br>COURT ROOM.<br><br>SHEPPARD: This was supposed to be a meet and greet, just cocktails, hors d'oeuvres, maybe a little dancing.<br><br>DIMAS: Subterfuge was necessary.  You possess technology and military power beyond the scope of most of the indigenous peoples of this galaxy.<br><br>KELORE: Which is why you have been brought to a secure location.  Only the members of this Council and key personnel know the Gate address.<br><br>SHIANA: So don't waste your time entertaining any hopes of rescue.<br><br>SHEPPARD: What is it exactly that you think we did?<br><br>DIMAS: According to our calculations, the Atlantis expedition is responsible – directly or indirectly – for the deaths of over two million people in this galaxy.<br><br>SHEPPARD (looking incredulous): You've gotta be kidding me!<br><br>KELORE: Tell us about your first encounter with the Wraith.<br><br>SHEPPARD: Oh.  OK, I see where this is going.<br><br>KELORE: When you arrived here, the Wraith were in hibernation, were they not?<br><br>SHEPPARD: Not all of ‘em.<br><br>DIMAS: What do you mean?<br><br>SHEPPARD: I mean <I>they</I> attacked <I>us</I>.<br><br><br>FLASHBACK to "Rising" and "Rising, Part 2."   On Athos, Wraith Darts scream through the Stargate and head towards the village.  Walking through the forest with John, Teyla stops and looks up.<br><br>SHEPPARD: What is it?<br><br>TEYLA: The Wraith!<br><br>(She breaks into a run.  The Darts soar over the village and fire down into it.  Colonel Sumner's team fire back up at them.  Sumner drags Sergeant Bates into position.)<br><br>SUMNER: Take that thing down!<br><br>(Bates fires his shoulder-mounted rocket launcher upwards and blows one of the Darts out of the sky.)<br><br>SUMNER: That's one.<br><br>(Another Dart swoops overhead, deploys its transporter beam and whisks Sumner and Bates away.  In the forest, another Dart flies towards John and Teyla, its transporter beam sweeping along the ground behind them.)<br><br>TEYLA: Get down!<br><br>(John hurls himself sideways to the ground.  Teyla weaves to her left but the beam sweeps over her and transports her away.  John rolls over and looks around in surprise.) <br><br>SHEPPARD: Teyla.<br><br><br>COURT ROOM.<br><br>KELORE: That was a scouting party, not a culling.<br><br>SHEPPARD: Well, <I>I</I> didn't know that.  All I knew is they took our people.<br><br>DIMAS: And you went after them?<br><br>SHEPPARD: That's right.<br><br>KELORE: You should have left them to their fate.<br><br>SHEPPARD: Oh, I'm sure that's what <I>you</I> would have done, but that's not how we operate.<br><br>DIMAS: What happened?<br><br>SHEPPARD: Well, we went in, we rescued as many people as we could, then we got out.<br><br>KELORE: But not before encountering a Queen.<br><br>SHEPPARD: No.<br><br><br>FLASHBACK.  As a Wraith guard holds John down on the table by the throat, the Caretaker Queen reaches into his pocket and takes out the life signs detector.<br><br>QUEEN: How did this come to you?<br><br>SHEPPARD: I don't remember.<br><br>(The Queen shrieks angrily and raises her feeding hand.  Aiden Ford arrives and fires at the guard, gunning it down.  Taking advantage of the distraction, John scrabbles for his radio and activates it.)<br><br>SHEPPARD: Light it up!<br><br>(As he rolls off the table, the explosives planted around the ship by his team ignite.  John grabs a stunner rifle, charges at the Queen and impales her through the chest.  She gasps in agony as he twists it in her.)<br><br>SHEPPARD: That <I>has</I> to kill you.<br><br>(He pulls the rifle out and she crumples to the floor.)<br><br>FORD: Sir, let's go.<br><br>QUEEN: You don't know what you have done.  We are merely the caretakers for those that sleep.  When I die, the others will awaken ...<br><br>(She gasps, and her voice deepens for her final dramatic announcement.)  <br><br>QUEEN: <I>All</I> of them.<br><br>(She dies.  Looking around anxiously, John lays the rifle on the table and picks up the life signs detector.)<br><br>FORD: What's she talking about?  How many are left?<br><br>(John looks at the detector as multiple signals begin to appear on its screen.  The two of them look up to the ceiling as sleeper cells start to light up, each one containing a moving figure inside.)<br><br><br>COURT ROOM.<br><br>SHIANA: So you admit it: you woke the Wraith.<br><br>SHEPPARD: Look, sooner or later, they were gonna wake up on their own anyway.<br><br>KELORE: But not for generations.<br><br>DIMAS: You see, Colonel, most of the human populations of this galaxy have not yet fully recovered from the <I>last</I> round of cullings.  As a result of this early awakening, several worlds have been driven to the point of extinction – their survivors scattered, their civilisations lost forever.<br><br>SHEPPARD (angrily): We're out there fighting the Wraith day after day, putting our asses on the line.<br><br>KELORE: But the fact remains: many who have been killed would be alive today if you had never come here.  Isn't that true?<br><br>SHEPPARD: That's it.  I'm not playing this game any more.<br><br>(He turns to leave the plinth but the guards walk towards him to stop him.)<br><br>DIMAS: This is just the first of many charges.  <br><br>(Angrily, John turns back to face them.)<br><br>DIMAS: If you refuse to participate, it will be taken as an admission of guilt on all counts and we will have no choice but to proceed to sentencing.<br><br>SHEPPARD (folding his arms and talking sarcastically): What are you gonna do, put everybody in Atlantis in jail?<br><br>DIMAS: Obviously that's not possible.<br><br>SHEPPARD: Hmm!<br><br>DIMAS: However, we <I>can</I> refuse co-operation.  That means no more trade, no more relations of any kind.  Atlantis will be completely isolated.<br><br>SHEPPARD: No relations with the likes of you.  (He pauses for a moment, pretending to think about it.)  Hmm.  I think we can handle that.<br><br>KELORE: The Coalition grows in strength and influence every day.  Soon enough, all of your current trading partners will have no choice but to join and therefore to abide by the ruling of this Council.<br><br>SHIANA: As for you and your team, an example must be made.  Justice demands it.<br><br>SHEPPARD: "Justice"?  Is <I>that</I> what you're calling this?<br><br>DIMAS: A suitable uninhabited planet has been chosen.  If you're found guilty, you will be sent there without any hope of return for the rest of your natural lives.<br><br><br>CELL.  John has been returned to the others.<br><br>SHEPPARD: Apparently the planet they picked for us has just enough food for us to survive so, technically, it's not an execution.<br><br>McKAY: Great(!)<br><br>SHEPPARD: Oh, <I>and</I> they took the D.H.D. so whoever comes through the Gate, they're not coming back.<br><br>DEX: The Daedalus can find us.<br><br>McKAY: If they had the address, but short of searching every solar system in the galaxy for a habitable planet, which would take all of, like, what, like a million years ...<br><br>SHEPPARD: All right, let's not panic.  I've been to the chamber a couple of times now.  I'm beginning to get a sense of the layout.<br><br>TEYLA: Well, the architecture is definitely different from that of the village.<br><br>SHEPPARD: We're on another planet.  Judging from the fact there's no natural light or windows, I'm guessing an underground bunker.<br><br>DEX: Guards?<br><br>SHEPPARD: Yeah, half a dozen or so.  We're gonna have to see if they change in shifts.<br><br>McKAY: Don't suppose there's any chance you could just convince them that we're not guilty?  ‘Cause we're not, right?<br><br>(He looks at Teyla and Ronon for confirmation.  They return his gaze silently.)<br><br>McKAY: Oh, come on!  There is <I>no way</I> the Pegasus galaxy would be better off if we'd never come here.<br><br>TEYLA: No, but since your arrival there <I>have</I> been setbacks.  Lives <I>have</I> been lost.  But there is hope now, where once there was none.<br><br>SHEPPARD: Look, as much as I'd like to tell these guys where to put their little trial, we're just gonna have to play along for a while until we figure out how to get out of here.<br><br><br>ATLANTIS.  The Stargate is open and Team Lorne comes through with a man who stares around the Gateroom in awe.<br><br>LORNE: Mr Woolsey, this is Myrus.  He claims to be a representative of the new Coalition of Planets.<br><br>WOOLSEY: <I>Does</I> he?<br><br>MYRUS: Are you the leader of Atlantis?<br><br>WOOLSEY: That's right.<br><br>MYRUS: Then we need to speak.<br><br><br>COURT ROOM.  John has been brought before the Council again.<br><br>SHEPPARD: Well, what's next on the agenda?  Did we step on the rose bushes on our last trip to Vidina?<br><br>DIMAS: Perhaps you've heard of a plague that's recently swept through several worlds – a sickness that arrives suddenly, runs its course in a matter of days and typically kills one out of every three men, women and children wherever it strikes.<br><br>SHIANA: There are those who believe it is not a sickness at all but a deliberate poisoning – the work of one individual.<br><br>SHEPPARD: I know who you're talking about.  His name is Michael.<br><br>KELORE: It is said that he is neither human nor Wraith but some kind of half-breed.  Can you explain to us how such a thing is possible?<br><br>SHEPPARD: One of our people was conducting research.  They were trying to come up with a way to solve the Wraith problem once and for all.<br><br><br>FLASHBACK to "Allies".   In the Observation Room above the Isolation Room, John, Elizabeth Weir and Carson Beckett stand looking down into the room below as we hear someone crying out in pain.  The camera pans down to show a male Wraith strapped to the bed and writhing in agony.  Atlantean medics in Hazmat suits are in the room with it.<br><br>(Time passes.  The Wraith continues to struggle against its bonds, screaming, as its skin slowly turns from grey to a more pink colour.)<br><br><br>COURT ROOM.<br><br>KELORE: You found a way to convert Wraith into humans?<br><br>SHEPPARD: Don't ask me the medical questions.  I'm not a doctor.<br><br>DIMAS: And this Michael was one of your test subjects?<br><br>SHEPPARD: As a matter of fact, he was the first.<br><br><br>FLASHBACK to "Michael".  In the Isolation Room Michael – looking fully human – is sitting on the side of a bed.  Carson is shining a penlight into his eye.  The doors to the room open and Elizabeth and John come in.  They walk across to the bed as Carson talks to Michael.<br><br>BECKETT: Blood pressure's fine, pulse normal.  You're bouncing back quite nicely.<br><br>MICHAEL: Bouncing back from what?<br><br>WEIR: Hullo, Michael.  (She smiles at him.)  D'you remember me?<br><br>(Michael looks at her for a moment, then shakes his head.)<br><br>MICHAEL: No.<br><br>WEIR: I'm Doctor Elizabeth Weir.  This is Lieutenant Colonel John Sheppard.<br><br>SHEPPARD: You serve under my command.<br><br>WEIR: Your name is Lieutenant Michael Kenmore.  You're in a private room off the Infirmary here in Atlantis.<br><br>(Michael lifts his head as if he recognises that last word.)<br><br>WEIR: Is that familiar to you?<br><br>MICHAEL: Atlantis.  Yeah ... I think.<br><br>SHEPPARD (voiceover): We tried to convince him he was one of us, but he knew something was wrong and then he found proof.<br><br>(Michael is in the Infirmary flicking through a case of CDs.  Later, he has returned to his room and is watching one of the discs – labelled DAY TEN – on a laptop.  It shows Michael tethered to the bed, screaming and writhing.  Carson runs to his bedside, then calls out for something.)<br><br>BECKETT: Five milligrams!<br><br>(Michael stares in shock, then inserts the disk labelled DAY SEVEN.  This shows Michael writhing on the bed, desperately trying to pull his hands free of the tethers.  He calls out, his voice deeper than normal.)<br><br>MICHAEL: Release me!  (He roars and cries out in anguish.)<br><br>(Michael inserts the disk labelled DAY ONE.  He stares in horror as the disk starts to play.  We hear a deep voice roaring.)<br><br>VOICE: Arggh!  You will die for this!  Others will come for me!  They will destroy you!<br><br>(We see the screen.  John and Ronon are holding someone down on the bed but we can't see who it is.)<br><br>SHEPPARD: Blah, blah, blah.<br><br>DEX: They have to find us first.<br><br>(The person on the bed roars in rage.)<br><br>SHEPPARD: You're gonna need a name.  How does Mike sound?<br><br>(The camera angle changes and shows who is on the bed.  It's a Wraith.  In his quarters, Michael reaches out and hits the pause button, staring in horror.  Just then, Carson and several guards burst in through the door of his quarters.  Michael stares at up them, then turns the computer around to show the screen to Carson.)<br><br><br>COURT ROOM.<br><br>SHEPPARD: After that, he escaped.  He went back and forth between Wraith and human a couple more times until finally he settled somewhere in between.<br><br>SHIANA: So, once again, you admit your guilt.  You unleashed this ... <I>thing</I> on the galaxy.<br><br>SHEPPARD: We didn't just let him out the front door and forget about him.  We've been chasing him ever since.  A couple of months ago we managed to catch up with him.<br><br><br>FLASHBACK to "Search and Rescue".  As Daedalus' F-302s engage Darts from Michael's Cruiser, John has attached a block of C4 to the ship's hyperspace generator and he and Ronon have retreated to a safe distance.<br><br>SHEPPARD: Fire in the hole.<br><br>(He presses the button and the hyperspace generator explodes.  The Cruiser shakes violently.  On the Bridge, Michael and his hybrids struggle to stay on their feet as the lights go out and the engines begin to power down.)<br><br>MICHAEL: What happened?<br><br>KANAAN: The hyperdrive just exploded!<br><br>MICHAEL: No.  That's impossible.<br><br>KANAAN: Main power is out across much of the ship.<br><br>MICHAEL: An accidental overload?<br><br>KANAAN: It doesn't appear that way.<br><br>MICHAEL: How did they do that?<br><br>KANAAN: I will look into it.<br><br>(Later, a lone Dart flies towards Daedalus.)<br><br>SHEPPARD (over radio): Daedalus, please come in.<br><br>CALDWELL: Colonel Sheppard, what the hell happened to your Jumper?<br><br>SHEPPARD: Well, I got all turned around in the parking garage.  I was in a rush so I borrowed this Dart.  I've got the team beamed into a storage device.  Feel free to do whatever you want to that Cruiser.<br><br>CALDWELL: Major Marks, please make that ship go away.<br><br>MARKS: Yes, sir.<br><br>(As the F-302s race out of the way, Daedalus soars towards the Cruiser and fires an Asgard beam directly at it.  A second beam follows and the Cruiser blows into a million bits.)<br><br><br>COURT ROOM.<br><br>DIMAS: Are you sure he was killed?<br><br>SHEPPARD: The ship was vapourised.  There was no body to recover.<br><br>KELORE: Well, then, you <I>cannot</I> testify before this Council and under the eyes of the Ancestors that you know for certain that he is dead.<br><br>(John glares around angrily, but eventually and reluctantly has to admit the truth.)<br><br>SHEPPARD: No.<br><br><br>ATLANTIS.  Sitting in the Conference Room with Myrus and Lorne, Richard slams his hand angrily onto the table.<br><br>WOOLSEY: This is outrageous.  You're telling me that one of the first official acts of your new government was to assault and kidnap my people?<br><br>MYRUS: They weren't <I>assaulted</I>; they were <I>arrested</I>.<br><br>LORNE: Oh, you've gotta be kidding me!<br><br>MYRUS: Believe me, not all of us agreed with this decision, but it wasn't taken entirely without reason.<br><br>LORNE: We've been trying to <I>help</I> you people!<br><br>MYRUS: What you've been doing is making unilateral decisions that affect the lives of millions without consultation and without accountability.  This is no longer acceptable.<br><br>WOOLSEY: I'm not gonna get drawn into a debate here.  I only need to know one thing: where are my people being held?<br><br>MYRUS: Of course I can't tell you that.<br><br>WOOLSEY: Fair trials don't take place in secret locations.<br><br>MYRUS: Nevertheless ...<br><br>WOOLSEY (to Lorne): I think Mr Myrus needs a little time to reconsider his position here.  Escort him to a cell.<br><br>LORNE (standing): My pleasure.<br><br>MYRUS: You're making a mistake.<br><br>WOOLSEY: Am I?<br><br>(Lorne walks around the table to Myrus and pulls his chair backwards, forcing him to stand.  He looks down at Richard.)<br><br>MYRUS: When I was chosen to deliver this message, I knew there was a chance I wouldn't be coming back.  But if you detain me, you will only be confirming what many already suspect: that you're a rogue element in this galaxy, operating without restraint or due process.<br><br>(Richard looks away for a moment, then jerks his head at Lorne.)<br><br>WOOLSEY: Lock him up.<br><br>LORNE: Let's go.<br><br>(Taking Myrus' arm, he escorts him out of the room.)<br><br><br>COURT ROOM.<br><br>SHEPPARD: All right, I'm not saying we haven't made some mistakes, but that's ‘cause we're the only ones out there fighting.  Nobody else is out there taking on the Wraith.<br><br>KELORE: But isn't that your own fault as well?<br><br>SHEPPARD: What are you talkin' about?<br><br>KELORE: The Genii had a plan to combat the Wraith, but they were thwarted when you betrayed them.<br><br>SHEPPARD: Oh, is <I>that</I> what they told you, because that's <I>not</I> what I remember.<br><br><br>FLASHBACK to "Underground".  On the Genii homeworld, Sora and several other Genii soldiers approach a Puddle Jumper as Cowen and the team walk out of it.  Sora looks at them.<br><br>SORA: Where is my father?<br><br>(Cowen walks over and looks down at her.)<br><br>COWEN: He did not survive.<br><br>SORA (grief-stricken): How?  What happened?<br><br>COWEN: I think we should find out.  (He looks up and calls out.)  Take aim!<br><br>(Many Genii burst out of the trees and bushes nearby and aim weapons at the Atlantis team who raise their weapons but soon realise that they are surrounded.)<br><br>SHEPPARD: Cowen, I thought we were just learning how to get along.<br><br>COWEN (looking at Teyla): She killed Tyrus.<br><br>TEYLA: No.<br><br>COWEN: By leaving him to die, you may just as well have killed him yourself.<br><br>(He reaches into his pocket and takes out a Wraith data device.)<br><br>COWEN: We will keep this intelligence information – <I>and</I> your ship, and whatever quantities of C4 you have in your possession.<br><br>TEYLA: That is all you ever intended.  To use us.<br><br>COWEN: Your weapons.<br><br>SHEPPARD: No, I don't think so.<br><br>TEYLA (to Sora): This is what your father died for?  In the name of people who would lie and steal from those they would call friends?<br><br>SHEPPARD: Well, I lied, too.  (He activates his radio.)  Jumpers Two and Three, execute.<br><br>(Above their heads, two Puddle Jumpers decloak.  The Genii stare in amazement.)<br><br>SHEPPARD: You didn't really think we had one ship, did you?<br><br><br>COURT ROOM.<br><br>DIMAS: So you betrayed each other?<br><br>SHEPPARD: We came ... prepared.  They made the first move.  Look, the Genii plan was never gonna work anyways.  They had bombs they couldn't finish without our help; they had no methods of delivery.  If you want a military victory against the Wraith, we're your only chance.<br><br><br>ATLANTIS.  Richard is walking with Lorne.<br><br>WOOLSEY: You've been in touch with our offworld contacts?<br><br>LORNE: Yes, sir.<br><br>WOOLSEY: And?<br><br>LORNE: Nobody knows anything – at least, that's what they're saying.<br><br>WOOLSEY: You don't believe them?<br><br>LORNE: Well, frankly, right now I don't know <I>what</I> to believe, sir.  I mean, these people are supposed to be our friends, but if we can't just walk into an ordinary village without worrying about an ambush, what's the point?<br><br>WOOLSEY: We're not there yet.  I refuse to believe that the whole galaxy has turned against us.<br><br>LORNE: Well, it might as well, because right now we have <I>nothing</I>.<br><br>(Richard looks thoughtful.)<br><br>WOOLSEY: Maybe not.  Come with me.<br><br>(They go to the closed doors of the room where Myrus is being held.  Richard addresses one of the guards standing outside.)<br><br>WOOLSEY: Open it.<br><br>(The guard swipes his hand over the wall panel and the doors open.  Richard and Lorne walk in and Richard goes over to where Myrus is sitting.)<br><br>WOOLSEY: Mr Myrus, I have a proposal for you.<br><br><br>COURT ROOM.<br><br>DIMAS: So you claim to have had military success against the Wraith?<br><br>SHEPPARD: We've done our share of damage; even managed to take a few Hive ships out here and there.<br><br>SHIANA (sarcastically): Really?  And how did you manage to accomplish this remarkable feat?<br><br>SHEPPARD: Well, I can tell you one thing: it's never easy.  But one good trick is to get them to shoot at each other.<br><br><br>FLASHBACK to "The Hive".  John flies a Dart out of the Hive ship and heads towards the second Hive, swooping around and over it, firing as he goes.  On board a nearby Daedalus, Rodney points towards the second Hive.<br><br>McKAY: Look – see that?  It's a Dart firing on one of the Hive ships.<br><br>CALDWELL: Why?<br><br>(Rodney stares at the ship, realising what must be happening.)<br><br>McKAY: Sheppard!<br><br>(John continues to fire on the Hive ship.  Out in space, the Darts from the two ships turn and start to fire at each other.)<br><br>LORNE: Sheppard's actually getting them to fire at each other!<br><br>(Rodney smiles in delight as, side by side, the two hive ships fire a barrage of missiles at each other.  Finally the onslaught becomes too much and there is a massive explosion, followed by a second one.)<br><br>SHEPPARD (voiceover): Now, if two Hive ships are going at it and you happen to be on board one of them, that can be a bit of a problem.  That's when you have to improvise.<br><br>FLASHBACK to "Spoils of War".  As two Hives fire at each other, John and Rodney soar towards one of them in a Puddle Jumper.<br><br>SHEPPARD: Teyla, Lorne, come in.<br><br>TEYLA: Colonel, where are you?<br><br>SHEPPARD: On our way.<br><br>TEYLA: You must hurry.  The other Hive has found us.<br><br>SHEPPARD: Can you hold ‘em off?<br><br>TODD (hurrying over to the weapons console): Not for long.<br><br>SHEPPARD: Approaching Dart Bay.<br><br>TEYLA: Acknowledged.<br><br>TODD: They're inside.<br><br>LORNE: Colonel, request permission to jump to hyperspace immediately.<br><br>SHEPPARD: Negative.  I have another idea.  Teyla, I want you to set a new course.<br><br>(As the Hives continue to exchange fire, Teyla gets her ship moving and it heads away from the enemy Hive.  In the complex below, a Wraith technician approaches the Wraith scientist.)<br><br>WRAITH: Commander.<br><br>WRAITH SCIENTIST: What is it?<br><br>WRAITH: We just received an urgent communication from the Hive.  The enemy – they're headed straight for us.<br><br>(The Hive ship plunges out of the sky and smashes nose first straight into the complex, setting off a massive explosion.)<br><br>SHEPPARD (voiceover): Did I also mention that we have a fair amount of Ancient technology at our disposal?  Because that can be pretty handy too.<br><br>FLASHBACK to "No Man's Land".  Daedalus watches as a Hive ship approaches the Aurora-class Ancient ship Orion.<br><br>CALDWELL: There's a Hive bearing down on your position.<br><br>LORNE (on board Orion): Yes, sir, I see that.  Stand by.  (He stands up and goes down to Radek Zelenka.)  Doc, you're killing us here.<br><br>ZELENKA (rapidly): OK.  I have it.  I have it.  I have it.<br><br>LORNE: Firing drones!<br><br>(Scores of drones fly out of the top of Orion and head off into the sky.  They duck around incoming Darts and surge towards the Hive ship before impacting it.  Orion turns away as the Hive begins to explode.)<br><br><br>COURT ROOM.<br><br>SHEPPARD: Let's see: what else did I leave out?  There's been so <I>many</I> over the years, you know, it's hard to keep track.<br><br>SHIANA: Enough.  You spin a colourful tale, Colonel, that much is obvious.  Yet, for all these fantastic claims, we have no evidence but your word.<br><br>SHEPPARD: This <I>trial</I> is evidence.  None of this would be happening and your precious little Coalition wouldn't even exist if we hadn't have pushed the Wraith so far back that you got an opportunity you haven't had in ten thousand years.<br><br>KELORE: Your responsibility in this has already been determined.  You woke the Wraith early before the population of this galaxy had sufficient time to recover, which eventually led to the Wraith going to war with each other over feeding grounds.  <I>That</I> war is what has given us this opportunity, not some imagined victory on your part.<br><br>(John grimaces angrily.  Just then the doors open and a man hurries in, trots up the steps to the bench and whispers into Kelore's ear.  John frowns as Kelore listens and then looks around to the other two judges.)<br><br>KELORE: We will take a recess.  Please take the prisoner back to his cell.<br><br>(John turns and steps off the plinth and two guards put their hands onto his shoulders and walk him away.  They take him back to the cell, open the door and shove him roughly inside.  The rest of the team look around at him and then part to reveal Richard standing with them.)<br><br>SHEPPARD: Woolsey!  What the hell are <I>you</I> doing here?<br><br>WOOLSEY: I've made an arrangement with your captors.  (He smiles.)  I'm taking over your defence.<br><br>SHEPPARD: Don't suppose you managed to bring along a sub-space locator beacon, did you?<br><br>WOOLSEY: That's Wraith technology.  It's not like we have one just lying around.<br><br>(John grimaces ruefully and nods, then sits down on a bench.)<br><br>WOOLSEY: I even tried to contact Todd to see if we could borrow one but he never responded.<br><br>McKAY: Well, what about the D.H.D. on the planet where we were ambushed?  I mean, you could pull the most recent addresses that were dialled from there.<br><br>WOOLSEY: Already done.  There were over fifty addresses in the buffer.  I almost cleaned out the entire city sending people to investigate all of them, but they turned up nothing.<br><br>TEYLA: They took us through more than one Gate.<br><br>WOOLSEY: So it would seem.  This was obviously very well thought-out.<br><br>McKAY: All right, well, they had a very clever plan but we're smarter and better armed.  There's gotta be a way around this.<br><br>WOOLSEY: They took advantage of one significant weakness: we trusted them.<br><br>(John sighs and buries his head in his hands.  Richard throws him a sympathetic look, then walks over to another bench and dusts it off with his hand before sitting down.)<br><br>WOOLSEY: Look, I came here because I have a plan to get you out of here.<br><br>(He pauses dramatically.  Rodney rolls his eyes.)<br><br>McKAY: Well, what <I>is</I> it?<br><br>(Richard looks at him as if he's an idiot for not realising it himself.)<br><br>WOOLSEY: Win the trial.<br><br>(Rodney and Teyla stare at him, then look away in a vain attempt to hide their doubtful expressions.  John glances at them before turning to Richard.)<br><br>SHEPPARD: Look, we were just playing along to buy us enough time to figure out a way out of here.<br><br>WOOLSEY: And how's that coming along?<br><br>SHEPPARD: Well, we're ... we're workin' on it.<br><br>WOOLSEY: I was Harvard Law Review.  I was Chief Counsel of the U.S. Army Corps of Engineers.  Prior to that, I was an appellate advocate for Hartshorn and Slaughter, one of the most prestigious litigation boutiques in all New York City.<br><br>(He looks up triumphantly at Ronon, who gazes back at him blankly.  Despite that, Richard nods at him.)<br><br>WOOLSEY: Yeah.<br><br>(He looks back at John.)<br><br>WOOLSEY: Believe me, I can handle three tribal elders with a stack of papyrus.<br><br>(He smiles smugly.)<br><br><br>COURT ROOM.  Richard is on the stand facing the judges with a smug and confident expression on his face.<br><br>KELORE: Some time ago, a number of human worlds were attacked and destroyed from space – not by the Wraith, but by someone else.<br><br>DIMAS: Little is known of this mysterious race except that they possess incredibly advanced technology and are rumoured to be allies of Atlantis.<br><br>WOOLSEY: I think I know who you're referring to – and, believe me, they are not our allies.  They're called Replicators.  They were created by the Ancients.<br><br><br>FLASHBACK to "Progeny".  The central section of the Asuran city has taken off and flies into hyperspace.  On a balcony, Niam the Replicator talks to Elizabeth.<br><br>NIAM: If you wish to know the truth of who we are, I will show you.<br><br>(He holds out his hand to her and she takes it.  They ‘appear' in a lab in Atlantis.)<br><br>NIAM: The Ancients, as you call them, were desperate in their search for a better way to fight the Wraith.  Though greatly outnumbered, they relied on their technological superiority to give them a needed advantage.  Instead of building bigger, more powerful weapons, they chose to build smaller ones.<br><br>WEIR: Nanites.<br><br>(The lab dissolves around her and Niam and they're now in a totally dark room, lit only by a broad spotlight from above.)<br><br>NIAM: In these tiny killing machines, the Ancients imbued an aggression that surpassed even that of their enemy.  The technology allowed for organic assimilation and self-replication to increase their effectiveness ... and replicate they did.<br><br>(The dark room dissolves and Niam and Elizabeth appear in the Asuran Conference Room.  For a moment they are alone, then human-form Replicators/Asurans appear as if from nowhere.)<br><br>NIAM: They grew in numbers, evolving at a rate that took the Ancients by surprise.  The molecular machines began interlocking, assembling themselves to form even more complex organisms, eventually evolving into the most effective and efficient form they knew of.<br><br>(As some of the Asurans leave the room, Niam and Elizabeth walk across to the room to where Oberoth, their leader, is standing.  Niam walks across to stand next to him and turns to face Elizabeth.)<br><br>NIAM: This is how we were born.  When the Ancients concluded that we would never become the weapon they desired to create, they decided to end it.<br><br>(Elizabeth and Niam reappear on a rocky landscape as an Aurora-class warship flies slowly overhead.  They turn to watch the ship.  Not far away is the Asuran city, parts of it burning as several warships hover over the city, bombarding it.)<br><br>NIAM: And so they chose to destroy us, to leave no trace of us behind.<br><br><br>COURT ROOM.<br><br>DIMAS: Some of them managed to survive.<br><br>WOOLSEY: That's right.  And, as the name suggests, they replicated and rebuilt themselves into a powerful force.<br><br><br>FLASHBACK to "Progeny".  As Niam leads the team through Asuras, they reach a window.  Elizabeth gasps and turns to look out of it.  The others join her.<br><br>WEIR: Oh ... my.<br><br>SHEPPARD: No kidding!<br><br>(They stare in awe at the vast city surrounding the central Atlantis-like core.)<br><br><br>COURT ROOM.<br><br>KELORE: But why would they attack human worlds?<br><br>WOOLSEY: It was a strategy they developed in their campaign against the Wraith: eliminate the enemy's food supply.<br><br>(The judges glance at each other uncomfortably for a moment.)<br><br>DIMAS: There's one thing I don't understand, Mr Woolsey.  If, as you suggest, they were originally designed to fight the Wraith, why did they wait until now?<br><br>(For the first time, Richard's confident expression begins to fade.)<br><br><br>FLASHBACK to "Lifeline".  On Asuras, John and Ronon run into the Puddle Jumper where Rodney and Elizabeth are waiting.<br><br>SHEPPARD: Hook up the ZeeP.M.  We're leaving.<br><br>McKAY: Wait a minute.  We can't go.<br><br>SHEPPARD: What are you talking about?  You said you could get the hyperdrive back online.<br><br>McKAY: Yeah, I mean we <I>can</I>, but not yet.  Look, while Elizabeth's been connected, I've been going over the Replicators' base code and I found this.<br><br>(He turns the screen of his laptop to John.)<br><br>DEX: What is that?<br><br>McKAY: The Holy Grail.  I mean, it's their whole reason for being.  It's a command code that directs them to attack the Wraith.<br><br>SHEPPARD: Yeah, but they <I>don't</I> attack the Wraith.  They've been sitting on their nanite asses for ten thousand years.<br><br>McKAY: Well, that's because it's been deactivated.<br><br><br>COURT ROOM.<br><br>DIMAS (furiously): Are you telling us that <I>you're</I> the ones that activated the attack code?!<br><br>WOOLSEY: We didn't know they were going to target human worlds.<br><br>KELORE: No – because you acted rashly without considering the consequences!<br><br>WOOLSEY: We had an opportunity – one that wasn't going to present itself again.  Believe me, councillors, this decision was not taken lightly.  In fact, it cost us one of our best people.<br><br><br>FLASHBACK to "Lifeline".  In a corridor on Asuras, Elizabeth and Oberoth are locked in a mental battle for supremacy.  Oberoth, on his knees in front of her, seizes her hand just as John and Ronon race around the corner behind her and aim their weapons.<br><br>SHEPPARD: Elizabeth.<br><br>WEIR (still staring down at Oberoth): Get to the Jumper.<br><br>SHEPPARD: You're coming with us.<br><br>(Ronon gets a clear shot and fires his weapon at Oberoth.  The blast hits him but has no effect.)<br><br>WEIR: I can't keep them frozen much longer!<br><br>SHEPPARD: We're <I>not</I> leaving you behind!<br><br>WEIR: If you don't leave right now, <I>none</I> of us will get out of here, so <I>go</I>.  (She turns her head slightly towards John.)  THAT'S AN ORDER!<br><br>(Her distraction breaks her concentration.  Oberoth drops her hand and a blast from a Replicator weapon behind him heads towards Ronon.  He ducks out of the way and turns to run, grabbing at John to get him moving.)<br><br>DEX: Come on!<br><br>SHEPPARD (anguished): Elizabeth!<br><br>(As Replicators hurry down the corridor from behind Oberoth, Elizabeth turns and yells at John.)<br><br>WEIR: <I>Go!</I><br><br>(John's last glimpse of Elizabeth is her frantic face as Replicators surround her.  As they seize her arms, John and Ronon race off around the corner.)<br><br><br>COURT ROOM.<br><br>SHIANA: <I>One</I> of your people died and you consider this a grave sacrifice?<br><br>WOOLSEY: As a matter of fact, I do.<br><br>SHIANA: Then imagine how <I>we</I> feel – those of us who have witnessed the deaths of <I>thousands</I>.<br><br>WOOLSEY: We <I>cannot</I> be held responsible for the actions of the Replicators!<br><br>DIMAS: Colonel Sheppard made the same argument in respect to the Wraith – and in that case, I might be inclined to agree with him.  But by your own admission, these Replicators are machines, so if I were to set a detonator, can I then later deny responsibility for the actions of the bomb?<br><br>WOOLSEY: By that logic, you might just as well blame the Ancients.  <I>They</I> created them.<br><br>DIMAS: The Ancients, as you call them, are not here to answer for their actions.  You <I>are</I>.<br><br>WOOLSEY: We know for certain of six human worlds that were destroyed by the Replicators, but we also know of at least a dozen Hive ships that were destroyed – Hive ships that would almost certainly have culled within a year.  One <I>could</I> make the argument that, on balance, more lives were saved than were lost.<br><br>SHIANA: "On balance."  Is <I>that</I> what we are to you?  Figures on a ledger, pieces that can be moved about in a game of strategy, some to be saved while others are sacrificed?<br><br>WOOLSEY: I'm sorry.  I certainly didn't mean to ...<br><br>SHIANA (interrupting): Real people are being killed, Mr Woolsey, real villages destroyed.  <I>My</I> village, <I>my</I> people, my husband and children murdered before my eyes.<br><br>WOOLSEY (quietly): You're from one of the planets destroyed by the Replicators.<br><br>SHIANA (her eyes filling with tears): I barely escaped with my life, but not before I saw everything I hold dear get wiped out by a beam of light from the sky.  And I will not rest until someone is made to pay for it.<br><br><br>CELL.  Richard has returned to the others and told them what has happened so far.<br><br>McKAY: Well, I guess we can rule out getting <I>her</I> vote.<br><br>WOOLSEY: It's clearly inappropriate for someone that biased to be on the Council.<br><br>SHEPPARD: So, they stacked the deck against us.<br><br>WOOLSEY: I'm not sure.  Dimas seems to be a reasonable man.  I think he might even be persuaded to vote our way.  Kelore is a little harder to read.<br><br>SHEPPARD: He seemed pretty hostile to me.<br><br>WOOLSEY: Didn't you say he was from Latira?<br><br>SHEPPARD: Yeah, that's right.<br><br>WOOLSEY: One of our last intelligence reports suggests a growing relationship between Latira and the Genii.<br><br>SHEPPARD: Well, he did try to convince me that they should be the ones leading the fight against the Wraith.<br><br>TEYLA: You think the Genii are behind this?<br><br>WOOLSEY: It makes sense.  Apart from Atlantis, they're clearly the biggest military power in the Coalition.  If they played their cards right, they could wind up running the whole thing.<br><br>SHEPPARD: But only with us out of the picture.<br><br>McKAY: So we were right all along.  This whole thing is fixed.<br><br>DEX: I say we go to Plan B.  Wait for the guards to come in, I beat ‘em up, we take their guns and we shoot our way out of here.<br><br>WOOLSEY: Do we even know the way out?<br><br>SHEPPARD: Well, we know we're at least two levels underground and there's no more than a dozen or so guards at any one time.<br><br>WOOLSEY: What about on the surface?  How many guards are up there?  And which way is the Gate, and how far?<br><br>(John opens his mouth, then hesitates.)<br><br>SHEPPARD: ... Well, there's a few things we'll have to figure out along the way.<br><br>WOOLSEY (shaking his head): It's too risky.  We could wind up being shot before we even got out of the building.<br><br>McKAY: What other choice do we have?  I mean, we know we can't win this thing.<br><br>WOOLSEY (thoughtfully): Not fairly, no.<br><br>SHEPPARD: What are you talking about?<br><br>WOOLSEY: I'm saying, now that I know what the game is, I can play it.<br><br><br>COURT ROOM.  A guard opens the doors and steps aside to let Richard in.  Only Kelore is there, standing in the shadows on the other side of the room.<br><br>WOOLSEY: Kelore, thank you for agreeing to meet me.<br><br>KELORE (to the guard): Wait outside.<br><br>(The guard nods and leaves the room, closing the doors behind him.)<br><br>WOOLSEY: It cost me rather a fine pocket watch that used to belong to my father to get him to bring me here.<br><br>KELORE: You shouldn't have bothered.  There's nothing I can do for you.<br><br>WOOLSEY: Well, maybe I'm just feeling generous tonight.<br><br>KELORE: Speak plainly.<br><br>WOOLSEY: You're backing the wrong horse.  We know you're connected with the Genii.<br><br>(Kelore steps forward out of the shadows.)<br><br>KELORE: I don't know what you're talking about.<br><br>WOOLSEY: We also know they're looking to become the military muscle behind the Coalition.  We think <I>we'd</I> make a better choice.<br><br>KELORE: You?  Atlantis?<br><br>WOOLSEY: That's right.<br><br>KELORE: Well, I didn't realise you had those kinds of ambitions.<br><br>WOOLSEY: We've been content to keep to ourselves up until now, but if it's a choice between getting pushed out of the game and taking a more active part, well that's no choice at all, is it?  Of course, for appearances' sake, we can't be too aggressive, so we'll need someone on the inside to help push our agenda ... (he steps closer to Kelore) ... someone to whom we'll be very, very grateful.<br><br>KELORE: And how do I know you haven't made this offer to the others?<br><br>WOOLSEY: I think we both know Dimas will only be swayed by reason and Shiana's going to vote against us no matter what.  (He steps closer still.)  That leaves you.<br><br><br>LATER.  The trial has resumed.  Richard is escorted into the Court Room by guards and steps onto the plinth to face the judges.<br><br>DIMAS: Mr Woolsey, are you ready to face the final charge?<br><br>WOOLSEY: I am.<br><br>DIMAS: The people of Atlantis stand accused of conspiring with the Wraith.<br><br>WOOLSEY: Conspiring?!<br><br>KELORE: We have reports that Atlantis has negotiated with the Wraith and performed military operations with them.  It is said you have formed an alliance with one Wraith in particular.<br><br>WOOLSEY (nodding): Todd.<br><br>(Dimas frowns uncomprehendingly.)<br><br>WOOLSEY: That's what we call him.  This Wraith was imprisoned with Colonel Sheppard by the Genii.  The Wraith was allowed to feed on him but, despite this, Colonel Sheppard realised that their best chance of escape was to work together.<br><br><br>FLASHBACK to "Common Ground".   Held prisoner by Acastus Kolya of the Genii and fed on several times by the Wraith which will in future be known as Todd, John is led out of his cell by a couple of guards.  A heavily chained Todd is brought out of the adjoining cell.  John summons all his strength and hurls himself and the guards backwards, slamming them against the bars of the cell.  While they're still winded, he hurls one of the men to the floor.  At the same time, Todd grabs one of its guards and hurls him across the floor, then wraps its chains around the neck of the second guard and starts to strangle him before slamming its hand onto the man's chest and starting to feed.<br><br>(Over at the other cell, John turns to his second guard and elbows him ferociously several times in the throat.  The other guard jumps up from the floor and tries to grab him from behind but John swings around, seizes him and slams his head into the bars of the cell.)<br><br>(Back at Todd, the guard which it threw to the floor gets up onto one knee and fires his pistol into Todd's back.  Todd roars in pain.  John pulls a knife out of the belt of the guard he is holding against the cell bars and flips it across the room, where it embeds itself into the shooting guard's chest.  He drops to the floor.  Todd roars and continues to feed.  John looks at the face of the guard he is holding – he looks pretty out of it but just for safe measure he punches him in the face and drops him.  He looks across to Todd, which is still feeding.  Leaving it to it, he bends down to one of the unconscious guards and takes a pistol from him.)<br><br>(Todd, finally finished with its prey, stands up and walks towards John who stands up and looks at it nervously.  Todd stops and waits.  John, realising that it's not going to attack him – at least for the time being – offers it the pistol.  Todd takes it.)<br><br>SHEPPARD: Which way?<br><br>TODD: This way.<br><br><br>COURT ROOM.<br><br>DIMAS: And you continue to have dealings with this Wraith?<br><br>WOOLSEY: We have ... occasional contact.<br><br>SHIANA: You trust him?<br><br>WOOLSEY: Of course not, but he has proven to be useful at times.  He helped us hold off the Replicator fleet long enough for Doctor McKay to enact the plan to destroy them.<br><br><br>FLASHBACK to "Be All My Sins Remember'd".  A fierce battle is going on above Asuras between the Replicator ships and the alliance of Atlantis, the Travellers and a fleet of Hive ships.  On Todd's Hive, a technician reports.<br><br>WRAITH TECHNICIAN: Power down in interior section.<br><br>TODD: Transferring power from non-critical systems to hull regeneration.<br><br>(On board Apollo, Kevin Marks reports from the Weapons position to Abe Ellis.)<br><br>MARKS: Our shields can't take much more of this, sir.<br><br>ELLIS: Hopefully they won't have to – but get ready to transfer power from the beam weapons to the ...<br><br>(He trails off and stares in amazement as Replicator cells begin to stream out of all the enemy ships and head down towards the planet.  Marks gazes at the sight.)<br><br>MARKS: What the hell?<br><br>ELLIS (smiling): Son of a bitch.  He actually did it.<br><br>(Above the city, cells stream down from the sky towards the mass in the middle of the city.  In the Core Room, Rodney looks up nervously as the room begins to shake.)<br><br>McKAY (nervously): Um, we need to get out of here.<br><br>DEX: All right, let's go!  (He yells to the marines in the room with them.)  Come on!<br><br>(Rodney disconnects his tablet from the console and Ronon grabs his arm and supports him as they stumble into an open area of the room.  The marines gather around them and a transporter beam whisks them away, depositing them onto Daedalus' Bridge.)<br><br>McKAY: Much as I'd love to, we shouldn't stick around and watch this go down.<br><br>CARTER (to Caldwell): We should tell the fleet to jump to the rendezvous point immediately.  The planet's become unstable.<br><br>(Above the planet, the fleet begins to enter hyperspace.  Below, the surface of the planet begins to break apart and lava spews out of the gaps.   As the last of the fleet jumps away, leaving only the unmanned Replicator ships drifting helplessly, the planet explodes in a massive fireball.)<br><br><br>COURT ROOM.<br><br>WOOLSEY: The fact is, we would never have defeated the Replicators without his help.  I think it's safe to say they would have continued their policy of attacking human worlds and, by now, everyone in this galaxy would be dead.<br><br>DIMAS: Very well.  As that was the final charge, we will recess to deliberate.<br><br>WOOLSEY: I'd like to make one final statement, if I may.<br><br>DIMAS: Very well.<br><br>WOOLSEY: The Wraith are in disarray, but that won't last forever.  Sooner or later, one faction will win out over the others and when that happens they will turn their attention to this Coalition with a ruthless vengeance the likes of which you've never seen.<br><br>(He steps closer to the judges.)<br><br>WOOLSEY: If you don't want us there when that day comes, fighting by your side, then by all means vote us guilty.<br><br>SHIANA: I need no deliberation.  I say we get this over with now.<br><br>(Dimas looks at Kelore, who nods his agreement.)<br><br>DIMAS: Very well.<br><br>(Richard can't help but look down and sigh a little nervously as he braces himself for the verdict.)<br><br>SHIANA: I vote guilty on all charges.<br><br>DIMAS: I vote not guilty on all charges.  It falls to you, Kelore.  Yours is the deciding vote.<br><br><br>CELL.  Team Sheppard stands and walks nervously towards the door as a guard starts to unlock it.  Richard walks in and goes over to them as the guard walks away, leaving the door open.<br><br>SHEPPARD: Well, what's the word?<br><br>WOOLSEY: Not guilty.<br><br>McKAY: Oh, thank God!<br><br>WOOLSEY: We're free to go.<br><br>(John shakes his hand.)<br><br>SHEPPARD: I never doubted you for a second.<br><br><br>ATLANTIS.  NIGHT TIME.  John is standing on the outside balcony of the Control Room.  Richard comes out wearing a suit and tie and carrying two glasses of something like whisky.<br><br>SHEPPARD: Ooh!  Nice suit!<br><br>WOOLSEY: Being back in the courtroom made me miss my old uniform.<br><br>(He hands him one of the glasses.)<br><br>SHEPPARD: You're kidding!<br><br>WOOLSEY: Not the job – just the uniform.<br><br>(They drink.)<br><br>SHEPPARD: Oh, that's nice!<br><br>(Richard reaches into his jacket, pulls out a long cigar and hands it to John.)<br><br>WOOLSEY: Well, it seemed appropriate.<br><br>(John takes it, frowning a little, but takes the cigar cutter that Richard offers him and starts to clip his cigar.)<br><br>SHEPPARD: So, you gonna tell me how you managed to pull this one off?<br><br>WOOLSEY: Well, I'd say it was a combination of things: my legal skills, my eloquence, the indisputable logic of my arguments ...<br><br>(John rolls his eyes a little, while Richard takes the cutter and clips his own cigar.)<br><br>WOOLSEY: ... and the bribe I offered Kelore.<br><br>SHEPPARD (pointing to him appreciatively): Mmm!<br><br>(Richard flicks open a lighter and John puts his cigar into the flame to light it.)<br><br>WOOLSEY: On top of that, I had to commit Atlantis to a much larger day to day participation in the politics of the Pegasus galaxy.<br><br>(He puts his own cigar into his mouth and talks around it as he starts to light it.)<br><br>WOOLSEY: Can't wait to explain <I>that</I> in my report!<br><br>SHEPPARD: Yeah.  Well, what's the point of being out here if we're not gonna try to make a difference, right?<br><br>WOOLSEY: Let's hope the I.O.A. agrees with you.<br><br>SHEPPARD: Let's worry about that later.  For now ... (he raises his glass to Richard) ... congratulations.<br><br>(They clink their glasses together.)<br><br>WOOLSEY: Thanks.<br><br>(They turn to look over the illuminated city and enjoy their drinks and cigars.)
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="512.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s5/513.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="514.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s5/index.shtml">
+<IMG SRC="/graphics/title_s5episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Five Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="501.shtml" CLASS="list">Search and Rescue</A><BR><A HREF="502.shtml" CLASS="list">The Seed</A><BR><A HREF="503.shtml" CLASS="list">Broken Ties</A><BR><A HREF="504.shtml" CLASS="list">The Daedalus Variations</A><BR><A HREF="505.shtml" CLASS="list">Ghost In the Machine</A><BR><A HREF="506.shtml" CLASS="list">The Shrine</A><BR><A HREF="507.shtml" CLASS="list">Whispers</A><BR><A HREF="508.shtml" CLASS="list">The Queen</A><BR><A HREF="509.shtml" CLASS="list">Tracker</A><BR><A HREF="510.shtml" CLASS="list">First Contact</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="511.shtml" CLASS="list">The Lost Tribe</A><BR><A HREF="512.shtml" CLASS="list">Outsiders</A><BR><A HREF="513.shtml" CLASS="list">Inquisition</A><BR><A HREF="514.shtml" CLASS="list">The Prodigal</A><BR><A HREF="515.shtml" CLASS="list">Remnants</A><BR><A HREF="516.shtml" CLASS="list">Brain Storm</A><BR><A HREF="517.shtml" CLASS="list">Infection</A><BR><A HREF="518.shtml" CLASS="list">Identity</A><BR><A HREF="519.shtml" CLASS="list">Vegas</A><BR><A HREF="520.shtml" CLASS="list">Enemy At the Gate</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Five</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B002ACP0MO/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B002612S6A/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls5.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="512.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s5/513.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="514.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

@@ -1,0 +1,515 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "The Long Goodbye" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s2/216.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s2/transcripts/216.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=543">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=287">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s2/216.shtml#production">Production</A>
+				
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=21929">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s2/216.shtml"><IMG SRC="/atlantis/graphics/216_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="THE LONG GOODBYE" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 216<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 2, Disc 4<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 02.10.06<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 02.19.07<BR>
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0454307/" TARGET="_blank">Damian Kindler</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0586539/" TARGET="_blank">Andy Mikita</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">The team discovers two pods that contain the minds of alien beings, who take control of Weir and Sheppard's bodies to continue their personal war.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    SPACE. PUDDLE JUMPER. Team Sheppard is on board: Lieutenant Colonel John Sheppard piloting, Teyla Emmagan in the co-pilot's seat, and Doctor Rodney McKay and Ronon Dex sitting behind them.<br><br>DEX: So people just sit and watch this box for hours at a time?<br><br>SHEPPARD: Yeah, people do.<br><br>TEYLA: Is it that engaging?<br><br>SHEPPARD: Depends what's on it. There are lots of programmes on dozens of channels, every day, all day.<br><br>McKAY: Most of which are fictional representations of ridiculously attractive people in absurd situations.<br><br>SHEPPARD: There are educational programmes, all sorts of documentaries. Not many people watch 'em but, uh, well, they're on.<br><br>DEX: And that's what everybody on your planet does for entertainment? Watch a box?<br><br>McKAY: Not everyone -- although I will confess to the occasional half hour of "Jeopardy."<br><br>DEX: Jeopardy?<br><br>McKAY: It's the name of the show -- "Jeopardy".<br><br>DEX: Sounds dangerous.<br><br>SHEPPARD: Double jeopardy -- that's twice as dangerous.<br><br>(The heads-up device appears on the windshield, flashing the words "PROXIMITY ALARM". McKay turns around to his console as the H.U.D. shows a planet and some items above it.)<br><br>SHEPPARD: It's a proximity alarm. Somethin's out there.<br><br>DEX: A ship?<br><br>SHEPPARD: No. There's two of 'em. There's another one in a lower orbit.<br><br>McKAY: Yeah, but another what?<br><br>SHEPPARD: I don't know, but big enough to hold a person.<br><br>DEX: Maybe it's a coffin.<br><br>TEYLA: Perhaps jettisoned from a ship?<br><br>SHEPPARD: Space burial?<br><br>McKAY (turning around from his console): No. It's definitely not a coffin. I'm reading life signs coming from inside of both of them. Whoever's in there, they're still alive.<br><br>(The Jumper flies towards the two life pods as they drift in space above the planet's surface.)<br><br><br>ATLANTIS. DAY TIME. ELIZABETH'S OFFICE. Doctor Elizabeth Weir gets a message over her headset radio from Doctor Carson Beckett.<br><br>BECKETT: Doctor Weir? The first pod is ready.<br><br>WEIR (into radio): I'm on my way down.<br><br>(She turns to leave the office but stops as Colonel Steven Caldwell approaches.)<br><br>WEIR: Colonel Caldwell. I see you have arrived without your ship!<br><br>CALDWELL: Yes, well, Hermiod's doing some repairs to the hyperdrive that requires travelling in a wide orbit around the solar system, so while my ship flies in circles I thought I'd beam down early and see if I could do a little repair work of my own.<br><br>WEIR: That's not necessary.<br><br>CALDWELL: I think it is. The host to a Goa'uld parasite is aware of what's happening to them. I won't soon forget what I was forced to do.<br><br>WEIR: Still, you can't be held responsible for your actions ... whereas I can.<br><br>CALDWELL: No. You did what you had to do. Lives were at stake. I would have done the same thing if the situation had been reversed.<br><br>(Elizabeth nods gratefully to him.)<br><br>WEIR: Colonel Sheppard's team just discovered something very interesting in the Cohall system. I was on my way down to see -- do you care to join us?<br><br>CALDWELL: I would love to. Thank you.<br><br>(They head off.)<br><br><br>LAB 3. The pod is in the centre of the room on a stand. Rodney is sitting on the floor underneath the pod attaching leads to it and looking at readouts on a computer tablet. John strolls around the pod looking at it while Carson scans it. Elizabeth and Caldwell enter the lab.<br><br>BECKETT: Doctor Weir. (He sees who is with her.) Oh! Colonel Caldwell! Welcome back!<br><br>CALDWELL: Thank you, Doctor. (He looks at John.) Colonel. What've we got?<br><br>SHEPPARD: We think it's a life pod of some kind.<br><br>BECKETT: It appears to be designed solely for the purposes of maintaining a single human life in stasis. This one's a female.<br><br>SHEPPARD: There's another one in a decaying orbit but, uh, we could only fit one inside the Jumper.<br><br>WEIR. I've already sent Lorne in Jumper Six to recover the second pod. Ronon and Teyla went along to help them locate it.<br><br>(Rodney stands up from underneath the pod.)<br><br>McKAY: OK! I'm ready to crack her open. (He looks up and freezes at the sight of Caldwell.) Hey.<br><br>(Caldwell smiles at him.)<br><br>CALDWELL: Hello, Doctor.<br><br>(Rodney stares at him for a moment, then pointedly looks down to his computer tablet.)<br><br>McKAY: Hmm. (He presses something on the tablet and the lid of the life pod slides open. Inside lies a very elderly woman in a green uniform. Carson looks at his scanner.)<br><br>BECKETT: She's alive -- barely. It appears we found her very near the end. All the major organs are shutting down.<br><br>WEIR: How long was she out there?<br><br>BECKETT: There's no way to tell for certain.<br><br>WEIR: So she could be an Ancient?<br><br>McKAY: Uh, the pod design makes me doubt that.<br><br>WEIR: It's a shame she can't speak with us. (She walks closer to the pod.) Just imagine what she could tell us about her people and about what happened to her.<br><br>(She looks down at the woman. A white beam shoots out of the pod and envelops Elizabeth, who starts to collapse. John and Caldwell catch her.)<br><br>McKAY: Elizabeth!<br><br>(John and Caldwell lower her gently to the floor.)<br><br>BECKETT (into radio): Medical team to Lab Three, stat! (He rushes over to Elizabeth.)<br><br><br>INFIRMARY. Elizabeth is lying unconscious in bed as Carson tends to her. Caldwell is standing on the other side of the bed. Rodney walks over to John who is standing nearby. He points at Elizabeth.<br><br>McKAY: This is not my fault.<br><br>SHEPPARD: We were all there -- relax.<br><br>(Elizabeth starts to rouse.)<br><br>BECKETT: She's coming around.<br><br>(John and Rodney turn and walk over to her bedside. Elizabeth opens her eyes, looks around at everybody and sits up.)<br><br>SHEPPARD: You OK?<br><br>WEIR: Doctor Weir is fine. (She smiles.)<br><br>(John frowns suspiciously.)<br><br>SHEPPARD: Doctor Weir doesn't talk about herself in the third person.<br><br>WEIR: She was simply overcome by the effects of the imprinting.<br><br>(Caldwell activates his headset radio.)<br><br>CALDWELL: Security team to the Infirmary.<br><br>WEIR: That's not necessary, Colonel ... Caldwell. She is merely harbouring my consciousness.<br><br>McKAY: Oh, here we go again!<br><br>SHEPPARD (to Elizabeth): And you are ...?<br><br>WEIR: I am Phebus. We are a race of explorers. On our journey home our vessel was attacked.<br><br>CALDWELL: By the Wraith?<br><br>WEIR: Yes. We were forced to abandon ship and launch our life pods. If this has happened to me, then I've been adrift for some time and the pod has determined my body is beyond resuscitation.<br><br>BECKETT (gently): You're quite correct.<br><br>WEIR: Then for all intents and purposes I am already dead.<br><br>BECKETT: I'm sorry.<br><br>WEIR: So am I.<br><br>SHEPPARD: Yeah, yeah, yeah, we're all very sorry. Where's Elizabeth?<br><br>WEIR: She is here also.<br><br>CALDWELL: And I suppose you'd like us to take your word for that?<br><br>WEIR: Would you like to speak with her?<br><br>SHEPPARD: Yes, we would.<br><br>(Elizabeth lowers her head in an uncannily similar movement to someone allowing a host to take over from a Goa'uld or Tok'Ra symbiont. She falls back against the pillow momentarily. Carson hurries towards her but Elizabeth rouses instantly and holds her hand to her head. She sighs.)<br><br>CALDWELL: Doctor Weir?<br><br>WEIR (sitting back up): Oh! Oh, it's OK, Carson. I'm -- I'm fine.<br><br>SHEPPARD: Elizabeth? I'm not sure if you're aware of this, but there's another, um ...<br><br>WEIR: I know. Her name is Phebus.<br><br>McKAY: You seem remarkably sanguine about all this.<br><br>WEIR: Well, the imprinting will only last a matter of hours. The other pod -- Phebus urgently desires to be here when we bring the other pod back to Atlantis.<br><br>SHEPPARD: Why?<br><br>(Elizabeth smiles.)<br><br>WEIR: She believes it's her husband.<br><br>CALDWELL: Husband?<br><br>WEIR: He escaped the ship -- she's certain of it and, uh ... (she laughs) the rush of emotion is ... it's overwhelming.<br><br>SHEPPARD: I can imagine.<br><br>McKAY (pointedly): No, no, you can't.<br><br>SHEPPARD: No -- I can't.<br><br>WEIR: John, I'd like you to try. (She smiles at him.) Phebus has a favour she would like to ask of you.<br><br>(She raises her eyebrows at him, smiling. John looks at her suspiciously.)<br><br><br>LAB 3. NIGHT TIME. The second pod has arrived and is being put into place where the earlier pod stood. John, Rodney, Caldwell and various scientists are in the room.<br><br>McKAY: As I understand it, the beam that hit Elizabeth was part of a failsafe feature built into the pod system. As cellular failure progressed, the pod stored her consciousness in a sort of, uh, flash memory.<br><br>CALDWELL: Why? I mean, what good is the technology if the effects are temporary?<br><br>SHEPPARD: It's a Black Box!<br><br>McKAY: Well, that makes sense. Even if the body is incapable of being revived, the survivor can still report what happened to their ship. The rescue team could interrogate them even if they were incapable of regaining consciousness.<br><br>CALDWELL: You're talking about a human flight recorder. That's pretty dark.<br><br>SHEPPARD: Pretty useful thing in times of war.<br><br>McKAY: Well, it could also be the means for two survivors to say one last goodbye, hmm?<br><br>(He grins at John. Carson wheels Elizabeth into the lab in a wheelchair. She stares at the pod.)<br><br>CALDWELL: Are you sure she's up for this?<br><br>(As Carson wheels her closer, Elizabeth stands up and steps closer to the pod. The other scientists leave the room.)<br><br>BECKETT: Physically, she's perfectly fine. Besides, Elizabeth wouldn't take no for an answer.<br><br>WEIR: Ah, love is a powerful thing, Carson.<br><br>SHEPPARD: You're a hopeless romantic, you know that?<br><br>WEIR (smiling at him): Well, you're just as hopeless, otherwise you wouldn't have agreed.<br><br>BECKETT: I've gone over the respective E.E.G. patterns and I can say with some degree of confidence that this ... imprinting ... that Doctor Weir's temporary occupant calls it won't last more than a few hours.<br><br>CALDWELL: You can guarantee that?<br><br>BECKETT: A day at most.<br><br>McKAY: Well! I'm sold! Shall we? (He backs away from the pod.) And ... (He presses something on his computer tablet. The lid of the pod slides open, revealing an elderly man inside. He too is wearing a uniform although his is brown whereas Phebus' was green.)<br><br>BECKETT (checking his scanner): He's still alive. (Elizabeth looks down at the old man.) Same as before. Life signs even fainter than the first one. If we're gonna do this, we should do it now.<br><br>(Caldwell turns to John.)<br><br>CALDWELL: I'd prefer if this alien consciousness weren't armed.<br><br>SHEPPARD: Right. (He takes his pistol out of its holster and holds it out to Rodney.)<br><br>McKAY: Oh!<br><br>(He takes it. John looks down at the old man in the pod.)<br><br>BECKETT: Colonel Sheppard. You'll have to be in close proximity to the pod for the transfer to happen.<br><br>SHEPPARD (nervously): Yeah, yeah, I know. (He continues to look down at the old man.)<br><br>BECKETT: But you're not moving.<br><br>SHEPPARD: You know, they were husband and wife. Anything could happen.<br><br>(Elizabeth lowers her head, takes a deep breath and raises it again as Phebus takes over.)<br><br>WEIR: I promise to be discreet, Colonel.<br><br>SHEPPARD: Well, um, I guess I'll see you guys later. (He starts to walk slowly towards the pod.)<br><br>McKAY: Have fun!<br><br>(John walks closer to the pod until he is right beside it. He leans forward slightly and the white beam shoots out of the pod and envelops him. As the beam dissipates, John totters, his eyes closed. Carson starts to move towards him but Elizabeth holds out her hand to stop him.)<br><br>WEIR: Give him a moment.<br><br>(John stands with his head lowered for a moment longer, then his eyes open and his head snaps up. He stares at Elizabeth.)<br><br>WEIR: Thalen? It's me.<br><br>SHEPPARD: Phebus?<br><br>WEIR: It's alright -- these people recovered our pods.<br><br>(Carson waves to John.)<br><br>WEIR (starting to walk around the pod towards John): We may well be the very last of our kind. These generous people have allowed us to be together one last time.<br><br>(John looks round at Caldwell.)<br><br>SHEPPARD: You consented to this?<br><br>WEIR: One last chance ... (John looks at her again) ... to say goodbye to my husband.<br><br>(She seizes his head and kisses him deeply. Carson blinks a couple of times, then looks away diplomatically. Caldwell, looking a little startled, also looks away. Rodney's eyebrows lift, then he chuckles. Eventually Elizabeth breaks the kiss. John stares at her.)<br><br>SHEPPARD: It's not what I expected.<br><br>WEIR: I know this body is different but I assure you, Thalen, it's me. (To the others, without breaking her gaze at John) Is it possible for us to be alone, just for a few minutes?<br><br>CALDWELL: No, absolutely not.<br><br>BECKETT: Oh, don't be so heartless!<br><br>McKAY: They are two consenting adults!<br><br>CALDWELL: That's not what I'm concerned about, Doctor.<br><br>SHEPPARD (still looking at Elizabeth): The Colonel's right.<br><br>WEIR: Doctor Weir is in charge of this facility.<br><br>SHEPPARD: I'm just saying, there should be an armed guard just outside the door.<br><br>WEIR: Two guards -- one in each door.<br><br>CALDWELL: I've already taken that precaution. They're right outside.<br><br>WEIR (staring at John): Of course they are.<br><br>(John smiles at her. A moment later, they rapidly turn around and race for one door each.)<br><br>McKAY (startled): Hey!<br><br>(John races out of one door and punches the guard to the floor while grabbing the Wraith hand stunner that he is holding. Elizabeth punches the other guard and grabs his hand stunner. John turns and heads back into the room again, firing his stunner towards the other door.)<br><br>CALDWELL (activating his radio): Security to Lab Three!<br><br>(John shoots him with the stunner. As Elizabeth stays out of sight around the door, McKay, cowering against the pod, aims the pistol that John gave him and fires it wildly three times in John's direction.)<br><br>BECKETT (cowering nearby): Rodney, don't shoot! That's Colonel Sheppard!<br><br>(John turns and runs off.)<br><br>McKAY (yelling sarcastically): I'm sorry! I ... (He breaks off as Elizabeth comes into the room, aiming her stunner at him. He raises his hands in surrender.) You two need some very serious marriage counselling.<br><br>WEIR: He's not my husband -- he's the enemy. Drop your weapon.<br><br>(Rodney drops the pistol to the floor.)<br><br>WEIR: Now radio security and tell them everything is fine.<br><br>BECKETT (standing up and walking towards her): Everything's not fine.<br><br>(Elizabeth shoots him. He collapses. Elizabeth aims the stunner at Rodney.)<br><br>WEIR: Rodney?<br><br>(Rodney activates his headset.)<br><br>McKAY (nervously): Security, this is Doctor Rodney McKay. Everything is fine, never been better. Uh, Colonel Caldwell was kidding when he said what he said ...<br><br>WEIR (irritably): Oh, forget it. (She shoots him. As he drops, she walks over to him, takes his headset off and speaks into the mouthpiece.) This is Doctor Weir. Attention all personnel. Colonel Sheppard is not -- I repeat, not -- who he pretends to be. (She bends down and picks up the pistol that Rodney dropped.) If you find him, secure the area and contact me immediately. I'll deal with him myself. (She leaves the lab.)<br><br><br>SHORTLY AFTERWARDS. As Elizabeth walks along the corridors, Major Lorne and three other marines fall in behind her.<br><br>LORNE: Heard there was trouble.<br><br>WEIR: Yes, Major -- it's Colonel Sheppard. He's not himself.<br><br>LORNE: What exactly does that mean?<br><br>WEIR: It means he's a threat to the city. We have to find him. Your team's with me.<br><br>LORNE: Yes, ma'am.<br><br><br>LAB 3. As Rodney and Carson lie on the floor unconscious, Caldwell revives and stands up just as Ronon and Teyla run in.<br><br>TEYLA (into radio): We have a medical emergency in Lab Three. (To Caldwell) You alright?<br><br>CALDWELL: Yes. Stunner blast. I'm fine.<br><br>DEX: What happened?<br><br>CALDWELL: She was playing us from the beginning.<br><br>DEX: Weir?<br><br>CALDWELL: Sheppard too. It's both of them now. (He activates his radio.) Control Room: patch my radio through to security teams only. (Ronon bends down to Carson, who is reviving and sitting up.) This is Caldwell. Both Doctor Weir and Colonel Sheppard are under the influence of alien entities. If at all possible, subdue and contain them with non-lethal force.<br><br>DEX (standing up): We can track them down faster.<br><br>TEYLA: There is a medical team on its way.<br><br>CALDWELL: Go.<br><br>(Teyla and Ronon race off. Caldwell bends down to Carson, who is holding his head in pain.)<br><br><br>CORRIDORS. Elizabeth leads Lorne and his team along the corridor.<br><br>LORNE: You know, it would help a lot if we knew more about what was going on.<br><br>(As Elizabeth continues on, Lorne and his team stop as they receive the radio message from Caldwell. Elizabeth walks a few more paces, then stops, realising that the boys have stopped behind her.)<br><br>LORNE: Ma'am! (He and his team cock their rifles as she turns around. The other three marines move to encircle her.) I'm gonna need you to hand over that weapon.<br><br>WEIR: Did it occur to you that Colonel Caldwell might be under the same influence as Colonel Sheppard? You weren't there.<br><br>(Lorne walks closer to her, aiming his rifle at her.)<br><br>LORNE: Hand over the weapon, now. (He holds out his hand to her.)<br><br>(Elizabeth smiles.)<br><br>WEIR: I guess you leave me no choice.<br><br>(She hands the stunner to him. Behind her, one of the marines takes the pistol out of her waistband with one hand and puts his other hand on her shoulder. Elizabeth looks at his hand, then grabs it and pulls the marine forward and off balance while simultaneously punching Lorne in the throat with her other hand. As he reels back and falls, she spins and kicks the third marine in the knees before grabbing the marine who was holding her and throwing him aside. She grabs the fourth marine by the throat and slam dunks him to the floor, grabbing his pistol at the same time. She aims the pistol down at the marines for a moment, blowing her hair out of her eyes, but none of them are in any fit state to do anything. She has taken all four of them down in four seconds. She bends down and grabs a P90, some ammunition and one of the marine's packs and trots to the nearest door. She goes through it, waves her hand across the wall panel to close the door, opens the panel and takes the middle crystal out to stop anyone opening it from the other side, then heads off.)<br><br><br>CONTROL ROOM. Caldwell, Rodney and Carson come down the stairs.<br><br>CALDWELL (to the Canadian technician): Report?<br><br>TECHNICIAN: We just lost contact with Major Lorne.<br><br>CALDWELL: Alright -- I want all non-essential personnel to return directly to their quarters and remain there until notified. The only people I want moving through the city are my security teams.<br><br>TECHNICIAN: Sir.<br><br>McKAY: We may be able to track their progress using the life signs detectors.<br><br>BECKETT: How? They'll read as human. We won't be able to differentiate.<br><br>CALDWELL: Security teams travel in groups of two or more. They'll be the only individual signals travelling through the city. Let's go! (He turns to Rodney.) What are you waiting for?<br><br>McKAY: Uh, look, I don't wanna get all, uh, chain of command on you here but, um, I am a senior member of this expedition, so with Elizabeth and Colonel Sheppard out of the equation, then ...<br><br>CALDWELL: ... I'm in charge.<br><br>McKAY: No-no, no-no, see, I-I don't think that's technically true, because you are here for, like, what, about one week out of six. That doesn't ...<br><br>CALDWELL (interrupting): Is it possible that because I was host to a Goa'uld, you don't trust me, Doctor?<br><br>McKAY: I didn't say that.<br><br>CALDWELL: I'm the highest-ranking military officer here, and this is clearly a military situation. Does that clear things up for you?<br><br>(He turns away as Rodney glares at him and then turns to Carson as if for help. Carson looks away.)<br><br>McKAY: Fine!<br><br><br>CORRIDORS. Elizabeth is making her way cautiously along, aiming her P90.<br><br>WEIR (into radio): Weir to Sheppard. I'm assuming you can hear me?<br><br>(John is on a walkway somewhere.)<br><br>SHEPPARD (into radio): Yeah, I can hear you, but if we keep using these radios, it'll only help them find us.<br><br>WEIR: We don't have much time, Thalen. The imprinting is temporary and these people are gonna try to stop us.<br><br>SHEPPARD: We've got all the time in the world and there's only one of them I'm worried about.<br><br>WEIR: We both want a shot at the same thing.<br><br>SHEPPARD: You mean each other.<br><br>(Elizabeth laughs.)<br><br>WEIR: And neither one of us will get that chance if you keep running.<br><br>(In the Control Room, the technician frowns as he listens to the conversation.)<br><br>TECHNICIAN (to Caldwell): Sir, I'm picking up some chatter I think you'll want to hear.<br><br>CALDWELL: Put it on speaker.<br><br>(He, Rodney and Carson walk over and listen as the conversation is piped through the Control Room speakers.)<br><br>SHEPPARD: You're the one that likes to run. My ship ran out of fuel before I could even get a clean shot.<br><br>WEIR: That was my plan.<br><br>SHEPPARD: You didn't have a plan. You just wanted me dead. (He is fixing a dressing to his arm, so presumably one of Rodney's shots must have grazed him.)<br><br>WEIR: Still do. As a matter of fact, I can't wait to see that look of defeat on your face, just one last time.<br><br>SHEPPARD: You mean the look on my face when you rammed my fighter, making sure neither one of us would win? That was hatred, not defeat, Phebus.<br><br>WEIR: Is that any way to talk to your wife?! (John doesn't reply.) Thalen? (Still no reply.) Run all you like. The moment I find you, you die.<br><br>(In the Control Room)<br><br>BECKETT: Well ... they're headin' straight for divorce.<br><br>CALDWELL: That whole thing was a ruse -- in fact, I doubt very much if we were ever speaking with Doctor Weir.<br><br>McKAY: It was a remarkable impression -- I'll give you that.<br><br>CALDWELL: From the sound of it, we have two fighter pilots who don't know that their war is over.<br><br>McKAY: It is much worse than that. They know everything about this city -- the layout, defensive systems, how to access weapons.<br><br>CALDWELL: We just need to find a way to stop them without unduly harming the hosts.<br><br>McKAY: "Unduly". What does that mean?<br><br>CALDWELL: Well, obviously, some force may be necessary.<br><br>(He walks away. Carson and Rodney look at each other in dread.)<br><br><br>BALCONY. As Elizabeth makes her way along a balcony somewhere in the city, Teyla is lurking nearby. She ducks out of sight as Elizabeth passes nearby, then looks round to where Ronon is also hiding. They wait as Elizabeth moves nearer to them, waiting for the ideal shot with their stunners.<br><br><br>Elsewhere, two marines make their way down some stairs, unaware that John is hiding underneath the steps. As they pass him, he reaches through gap in the runners and grabs their ankles, tipping them down the stairs. One of them is knocked out by the fall. John jumps out, punches the other one unconscious, picks up his P90 and heads off.<br><br><br>CONTROL ROOM.<br><br>CALDWELL (to a technician): Contact any teams that may be offworld -- let 'em know that we're suspending all Gate activity until further notice. (He calls out to the room.) We're going to full alert status.<br><br>(Rodney turns from the screen that he and Carson are watching.)<br><br>McKAY: I think I just located one of them near the Power Room.<br><br>(The lights in the Control Room go out. All the consoles go dead and all the screens go off.)<br><br>McKAY: Oh, you're kidding!<br><br><br>BALCONY. At Teyla and Ronon's position, the lights go out. Elizabeth looks around towards where the other two are hiding, then races to the balcony and vaults over it. Ronon and Teyla run to the balcony. Ronon aims his stunner down to where Elizabeth dropped but it's too dark to see anything.<br><br>DEX: How'd she know?<br><br>TEYLA: Intuition.<br><br>DEX: Alright, we need to split up. I'll take Sheppard, you go after Weir.<br><br>TEYLA: Why?<br><br>DEX: 'Cause I know how he thinks. I don't have the slightest clue how she thinks. (He runs off.)<br><br>TEYLA: Very well.<br><br>(She heads in the opposite direction.)<br><br><br>CONTROL ROOM.<br><br>BECKETT (shining a torch around the dark room): What happened?<br><br>McKAY: The whole city just went dark! (He turns to Caldwell.) Oh, tell me you had someone guarding the Power Room?!<br><br>CALDWELL: Two marines from Daedalus. (He activates his headset.) Hutchinson, this is Caldwell, report?<br><br>(In the Power Room, John aims his P90 at the central console and fires a hail of bullets into it. He looks around and heads off, running past two unconscious marines lying on the floor.)<br><br>CALDWELL: Where's auxiliary power?<br><br>TECHNICIAN: Naqahdah generators aren't kicking in. He or she must have damaged the back-ups.<br><br>CALDWELL: We've lost everything?<br><br>McKAY: Shields, communications, long range and biometric sensors.<br><br>CALDWELL: The sensors from the Daedalus -- we can contact them.<br><br>McKAY: Subspace communications are also down.<br><br>CALDWELL: I need for you to get down to the Power Room, Doctor. Restore primary systems.<br><br>BECKETT: I should go along too. Marines could be hurt.<br><br>McKAY: Exactly! Marines may have been injured. We can't go down there!<br><br>CALDWELL: I will send two of my people along with you just in case. (He turns and nods to one of the marines in the room.)<br><br>McKAY: Well, how do we know that Sheppard isn't down there waiting in ambush?<br><br>BECKETT: Because he's not tryin' to kill us -- he's tryin' to kill Doctor Weir.<br><br>McKAY: Oh, that is so much more comforting!<br><br>CALDWELL (shouting): This is not a request, Doctor McKay! (Rodney turns and stares at him. Caldwell speaks more quietly but still firmly.) Let me know the moment you have a damage assessment.<br><br>(Rodney glares at him for a moment, then turns to the marines who will escort him and Carson.)<br><br>McKAY: Go! (They head off.)<br><br><br>ARMOURY. As John approaches the open doorway, he hesitates, then calls out softly.<br><br>SHEPPARD: Ronon? Are you in there? (He walks cautiously into the dark room, his P90 aimed.) Ronon? Are you there?<br><br>(Ronon is indeed inside the room, waiting around the corner of a gun rack for John to walk into range.)<br><br>SHEPPARD: Look, I came here looking for you, buddy, so, uh, don't shoot or you'll ruin my entire plan. What'd Caldwell tell you?<br><br>DEX (remaining in hiding): That you're not who you say you are.<br><br>SHEPPARD: Yeah, well, consider the source. There are two alien entities running around, and it's him and Weir. I'm the good guy here.<br><br>DEX: So who cut the power?<br><br>SHEPPARD: OK, I admit -- that was me.<br><br>DEX: And why?<br><br>SHEPPARD: I'm just tryin' to stay alive here. Caldwell's giving the orders and you're the only one I can trust not to shoot me on sight.<br><br>DEX: And what about Weir?<br><br>SHEPPARD: Her you can shoot ... and ... by shoot, I mean stun, and only because she's not herself.<br><br>DEX: Can you prove you're you?<br><br>SHEPPARD: No, I can't.<br><br>(Ronon spins around the rack and faces John, aiming his blaster at him. John lowers his rifle.)<br><br>DEX: What would Sheppard watch on TV?<br><br>SHEPPARD: No, that won't work.<br><br>DEX (walking closer): Why not?<br><br>SHEPPARD: Because if there was an alien consciousness in my head, he'd know the answer was football.<br><br>DEX: But only Sheppard would admit that, so ...<br><br>SHEPPARD: Right!<br><br>(Ronon lowers his blaster.)<br><br>SHEPPARD: Look, just help me find her before they do -- that's all I'm asking.<br><br>DEX: Give me the gun.<br><br>SHEPPARD: Can I keep my stunner?<br><br>DEX: Yeah.<br><br>(John hands over his P90. Ronon puts it down on a nearby box, then turns and picks up a life signs detector and some stun grenades.)<br><br><br>ELSEWHERE. Elizabeth races up some stairs, then stops when she realises that a couple of marines are on the level below, searching. She waits silently until they move on, then heads off again.<br><br><br>Back with John and Ronon, both of them are wearing night goggles as they walk through the dark corridors, John consulting the life signs detector as they go. He gestures in the direction they should go and they continue on.<br><br><br>POWER ROOM. Rodney and Carson have arrived. Rodney is checking the Z.P.M. while Carson tends to the injured marines.<br><br>McKAY: Well, the good news is the ZedP.M. is still intact.<br><br>CALDWELL (in the Control Room): And the bad?<br><br>McKAY: Well, the control system's been damaged by some well-placed weapons fire.<br><br>CALDWELL: How soon 'til it's operational again?<br><br>McKAY: I just got here! I have no idea!<br><br>CALDWELL: Report when you can.<br><br>(Rodney sighs heavily.)<br><br>McKAY: Right.<br><br><br>Back with John and Ronon, they round a corner. John lifts his night goggles onto his forehead.<br><br>SHEPPARD: She's not here. Keep movin'.<br><br>(Ronon raises his own goggles and they move on. Around the corner, Elizabeth is waiting silently for them, her P90 raised. Ronon walks into view. He spots her and races to dive over some metal boxes as Elizabeth fires a hail of bullets at him. She turns and sees John aiming his stunner at her. He fires it but she ducks out of the way and shoots at him before running off. Nearby, Ronon lies on the floor, grunting in pain, a large bullet wound in his stomach. John walks towards him aiming his stunner at him.)<br><br>SHEPPARD: Sorry, buddy. The plan didn't work. She got away because all I had was this stupid little thing. (He throws the stunner away. Ronon tries to reach for his blaster but John treads on his wrist to stop him, then reaches down, picks it up and aims it at him.) At least you're out of the way.<br><br>DEX: You're not ... (He grunts in pain as John steps harder onto his wrist.)<br><br>SHEPPARD: Not Sheppard, no. But I tell you what: he's screaming in my head right now like you wouldn't believe. (He activates his radio.) Medical team to the south fork Cargo Hold. You have a man down.<br><br>(He turns and walks away. Ronon looks down at the bullet wound in his stomach, then lies back, unable to move.)<br><br><br>CONTROL ROOM.<br><br>CALDWELL: Who called in the man down?<br><br>TECHNICIAN: I don't know, sir, but it sounded like Colonel Sheppard.<br><br>CALDWELL: Alright. Send in a medical team. Tell them to be careful not to walk into an ambush. (The technician nods. Caldwell activates his headset.) McKay, report please.<br><br>(In the Power Room, Rodney looks up in exasperation from his work on the fibreoptic cables under the console.)<br><br>McKAY: Still working.<br><br>CALDWELL: It doesn't have to be pretty, Doctor, just get the primary systems up and running again.<br><br>McKAY: Yeah, that is what I'm doing.<br><br>(Carson walks away from the marines that he has been treating.)<br><br>BECKETT: Instead of running after them with bloody guns, why don't you try talking to 'em?<br><br>CALDWELL: And say what?<br><br>BECKETT: I don't know, just stall 'em. We know it's only a matter of time before Doctor Weir and Colonel Sheppard are themselves again.<br><br>CALDWELL: Yeah, I'll take that under advisement, Doctor. In the meantime, I think you should return to the Infirmary. I'm sending you a patient.<br><br>BECKETT: On my way. (He leans down to Rodney and puts his hand on his shoulder.) Rodney, I could use some light down there as well.<br><br>McKAY (irritably): Yes, working!<br><br><br>Somewhere in the city, Elizabeth walks over to a metal wheel on a system of pipes. She turns the wheel and gas starts to hiss through the pipes. Not far away, but far enough not to be able to see her yet, Teyla heads cautiously in her direction.<br><br><br>INFIRMARY. Ronon has been brought in and prepped for surgery. A nurse is bagging him. Carson walks over, holding his hands out in front of him as a medic gets him into a surgical gown. A marine walks alongside him, shining a torch down onto Ronon.<br><br>SERGEANT: He was unconscious when we found him. He's been shot.<br><br>BECKETT: I can see that, son. Now go drum us up a few more torches. (The marine looks at him blankly.) Flashlights. Off you go. (He looks around the dark Infirmary as the marine heads off.) Bloody dark ages! Gloves.<br><br>(A medic opens a pack of surgical gloves as the nurse continues to pump air into Ronon.)<br><br><br>CENTRAL TOWER. Teyla activates her radio and speaks quietly.<br><br>TEYLA: Colonel Caldwell, this is Teyla. I'm at the base of the central tower tracking Doctor Weir.<br><br>(In the Control Room)<br><br>CALDWELL: Understood. I'll send reinforcements.<br><br>TEYLA: I can handle Doctor Weir. But if she is here, Colonel Sheppard is also close by.<br><br><br>INFIRMARY. Carson is operating on Ronon.<br><br>BECKETT: Just a little more light over the wound. (A nurse aims the light of a torch over his shoulder and onto Ronon's stomach.) Thank you, dear. (He reaches into the wound with a pair of surgical scissors.) Come on. ... There it is, you little bugger! (He lifts the scissors out of the wound and holds them up.) One bullet. (He drops the bullet and the scissors into a tray that another nurse is holding ready.) Now to stop the bleeding.<br><br><br>CENTRAL TOWER. Elizabeth prowls through the corridors. Teyla does likewise nearby. A short distance away from her, John -- wearing night goggles -- is kneeling behind a box with his arms braced on the top of the box and Ronon's blaster aimed down the corridor. Elizabeth moves on. Teyla comes around the corner, stalking her, and walks into John's line of fire. He shoots her. As she drops and Elizabeth runs off, John adjusts the blaster to a higher setting and heads towards Teyla.<br><br>SHEPPARD (angrily): Will you people stop getting in the way?!<br><br>(He passes Teyla and heads towards Elizabeth, who is lurking around a corner. He fires at her but misses. She fires her rifle at him. He ducks for cover.)<br><br>SHEPPARD (calling out): Go ahead and expend all your ammunition, just like you did last time! You people don't know how to fight, Phebus. That's why we're gonna win the war! (He swings around the corner and fires his blaster in her direction.)<br><br>WEIR: This war's not over yet! (She comes out of cover and fires at him again, blasting some nearby plants and wall cabinets into bits.)<br><br><br>POWER ROOM. Rodney puts the cover of the console back in place and stands up. He picks up the Z.P.M. and puts it into its slot on top of the console.<br><br>McKAY: Colonel Caldwell, I'm ready to attempt a partial power-up.<br><br>(The Z.P.M. lights up as it sits on top of the slot.)<br><br>CALDWELL (in the Control Room): Give me everything you've got, Doctor. I have a report of automatic weapons fire and Teyla's not answering her radio.<br><br>McKAY: Here we go. (He types on the console and the Z.P.M. begins to lower into its slot. As it reaches its final position, the city lights up.)<br><br>(In the Infirmary, the lights come on. Carson grimaces in exasperation.)<br><br>BECKETT: Of course -- now they come on. (He pulls down his surgical mask.) Right -- let's get him under a scanner. I wanna make sure I didn't miss any tissue damage. Lovely work, everyone.<br><br><br>CENTRAL TOWER. Elizabeth looks round as the lights come on. John marches towards her, his blaster aimed. He fires at her as she ducks across a doorway. She activates the panel to close the door. He fires again but the door closes before he can reach it. Elizabeth pulls out the middle crystal and heads off.<br><br>SHEPPARD (yelling): There's more than one way in, Phebus! (He runs off past an unconscious Teyla and races up a flight of stairs.)<br><br><br>Elizabeth finds herself in a lab. She walks over to a computer and scrolls through the options on it, selecting "LOCKDOWN". The computer seeks her password, which she types in. The computer shows "ACCESS GRANTED -- ELIZABETH WEIR" . All around the city, the lockdown alarm sound and bulkhead doors begin to close. In the Control Room, Rodney comes in through the door just in time as it closes behind him.<br><br>CALDWELL: Now what the hell's going on?<br><br>TECHNICIAN: I don't know. Sections of the city have begun automatically sealing themselves off. (He goes over to a laptop computer to take a look but Rodney gets there at the same time.)<br><br>McKAY: Move.<br><br>(The technician backs away.)<br><br>(In the Central Tower, Teyla rouses. She opens her eyes, looks up, then gasps and scrambles out of the way of the closing bulkhead doors that were just about to crush her head.)<br><br>(Nearby, John races for a bulkhead door but can't reach it in time to get through before it closes.)<br><br>(In the Control Room, Caldwell types his password onto a computer but gets an "OVERRIDE REQUEST DENIED" message.)<br><br>CALDWELL: It's not letting me override.<br><br>McKAY: Because the moment the power came back up, she used a remote computer terminal to take control of the city. (He types his password onto another computer but gets the same message.) She's put us into a total lockdown under her command code.<br><br>CALDWELL: Can you invalidate her code?<br><br>McKAY: Maybe I could have before the lockdown but the command's already been given. (He folds his arms.) Look, somebody shoulda thought of that, huh?<br><br>CALDWELL (turning to face him): You mean I should've thought of that. (Rodney looks away, trying not to look smug.) Can you hack it -- somehow override her code?<br><br>McKAY: You do know who you're talking to?<br><br>CALDWELL: So that's a yes?<br><br>McKAY: I'm just saying, if anyone can, I can. I helped design the system.<br><br>CALDWELL: Then do it, please.<br><br>McKAY: Alright, but I'm using my command code.<br><br>CALDWELL: Why, 'cause you still don't trust me?<br><br>McKAY: No, because it is a sixteen digit alphanumeric code that I will have to enter God knows how many times, and I haven't got around to memorising yours yet.<br><br>CALDWELL: Just get me control of the city back.<br><br>McKAY: Fine!<br><br><br>LAB. Elizabeth contacts the Control Room over the radio.<br><br>WEIR: Caldwell. Can you hear me?<br><br>CALDWELL: Go ahead.<br><br>WEIR: By now you're aware the city is entirely under my control, and there are several bulkhead doors between me and your nearest search teams. You can't possibly get to me.<br><br>CALDWELL: Yes, we're well aware.<br><br>WEIR: I'm sure Doctor McKay believes he can override my command code -- and it's possible in a matter of several hours he could, but I don't have that kind of time.<br><br>CALDWELL: We'd be more than happy to wait this out.<br><br>WEIR: Now who knows what kind of trouble I could cause with life support while I wait? Or maybe I'll just send a signal to the Wraith, like you did.<br><br>CALDWELL: What do you want?<br><br>WEIR: I want Sheppard.<br><br>CALDWELL: Well, I'm sorry I can't help you with that. Is there something else I can do for you?<br><br>WEIR: Don't screw with me, Caldwell. At the very least, I can kill Weir. (Caldwell doesn't reply. Elizabeth smiles.) When you get him, contact me.<br><br>(In the Control Room, the technician calls Caldwell over to a screen.)<br><br>TECHNICIAN: Colonel Caldwell. We have three signals on two separate floors at the base of the tower.<br><br>CALDWELL: Weir has to be the one in the Science Lab, which leaves these other two over here.<br><br>TECHNICIAN: The other one is Teyla.<br><br>CALDWELL: Then the other one has to be Sheppard. (He activates his headset.) Teyla, this is Caldwell.<br><br>(In the Central Tower, Teyla is rubbing her neck, still recovering from the stunner blast.)<br><br>TEYLA: I was unable to capture Doctor Weir.<br><br>CALDWELL: So were a lot of people. Weir's put the city under a lockdown. I want you to go after Sheppard. You and he have been locked in the same section. He's one floor up.<br><br>TEYLA (hurrying towards the stairs): I will contact you as soon as I have him. Teyla out.<br><br><br>NEARBY. John waves his hand past a wall panel in an attempt to open a bulkhead door but it doesn't move. He turns away, angry.<br><br>SHEPPARD (into radio): Is this what you wanted, Phebus? Another stalemate? I thought you wanted to finish this.<br><br>WEIR (in a taunting voice over radio): What's wrong, Thalen? You can't get out?<br><br>(Breathing rapidly in his fury, John aims his blaster at the wall panel of another nearby bulkhead and fires. The panel explodes and the doors jerk, opening a tiny bit. He walks to the doors, crams his fingers into the gap and, with a great deal of effort, forces them open a little further and starts to squeeze through. He is only partway through when he turns his head and stares in shock at the sight of Teyla standing on the other side with her Wraith stunner held in both hands and aimed at him. She fires and he slumps in the doorway. She activates her headset.)<br><br>TEYLA: This is Teyla. I have Colonel Sheppard.<br><br>CALDWELL: Good work. Secure him and stand by for further instructions. (He looks round to Rodney.) The next move is hers.<br><br><br>LAB. Elizabeth has adjusted the computer to show footage from various security cameras around the city. She radios to the Control Room.<br><br>WEIR: Caldwell? Do you have him or not? I'm losing patience.<br><br>(In the Control Room, Rodney is sat at a computer typing busily. He looks up at Caldwell.)<br><br>McKAY: I'm working.<br><br>CALDWELL (into radio): We're working on it.<br><br>WEIR: I don't buy it, Colonel.<br><br>CALDWELL: I'm telling the truth.<br><br>WEIR: Oh, please! Even Weir thinks you're hopeless. (She laughs.) She can't hide it.<br><br>(Caldwell looks startled but keeps his voice steady.)<br><br>CALDWELL: We're close.<br><br>McKAY (to Caldwell): We're not close.<br><br>WEIR: I have found an interesting way of rerouting your new halon fire suppression system all the way from Hazmat storage to personnel quarters. (Rodney stares up at Caldwell in shock.) Now, that's where the majority of your city's population is holed up, isn't it?<br><br>CALDWELL (trying to keep his voice calm): You know it is.<br><br>WEIR: Ironically, Doctor Weir was concerned when the system was installed that halon gas extinguishes people as well as fires. So, shall we take it to the point that I start counting down from an arbitrary number?<br><br>(Caldwell lowers his head in defeat.)<br><br>CALDWELL: We have him.<br><br>(Elizabeth smiles.)<br><br>WEIR: I thought you might. (She walks over to the computer screen.) There's a new security camera on the northern-most stairwell of that part of the tower. I want him taken there so that I can see him -- kicking and screaming, if possible.<br><br>(Caldwell closes his eyes briefly.)<br><br>CALDWELL: Teyla, we've been requested to put the Colonel in front of the nearest security camera.<br><br>TEYLA: I'm doing that right now, Colonel.<br><br>(In the lab, Elizabeth watches the screen as Teyla drags an unconscious John by his collar across the floor into view of the camera. Teyla has bound his hands and feet with plastic tethers. Elizabeth smiles in delight.)<br><br>WEIR: I'm not surprised that you're the only one that managed to get to him.<br><br>(Teyla settles John on the floor, then walks over to the camera and looks up into it.)<br><br>TEYLA: What do you want?<br><br>WEIR: We're just gonna wait until he regains consciousness.<br><br><br>CONTROL ROOM. Caldwell walks around the console to Rodney.<br><br>CALDWELL: Are you making any progress?<br><br>(Rodney looks up, rolling his eyes in irritation.)<br><br>McKAY: Yes.<br><br>CALDWELL (unconvinced): Really?<br><br>McKAY (turning away from the computer furiously to face Caldwell): I would just like to state for the record that it is astounding to me that, once again, I find myself in a position of having to save this city when you and your ... space marines can't figure out how to track down two people!<br><br>CALDWELL: They're two people with the skills and resources of Doctor Weir and Colonel Sheppard, who probably know this city better than anyone else. (He leans down and gets into Rodney's face.) And also for the record, I was against this from the very beginning.<br><br>(Rodney points at him vehemently.)<br><br>McKAY: Yes, y... (He trails off and calms down.) ... Yes you were.<br><br>CALDWELL: Thank you! Please -- continue.<br><br><br>NORTHERN-MOST STAIRWELL. John starts to revive. Teyla snatches out her stunner, aims it at him and glances at the camera.<br><br>TEYLA: He is regaining consciousness.<br><br>(John props himself up on one elbow.)<br><br>SHEPPARD: Teyla -- it's me.<br><br>(Teyla squats down to him, still aiming her stunner at him.)<br><br>TEYLA: Do not waste your breath trying to convince me you are John Sheppard. I do not believe you.<br><br>SHEPPARD: Don't you see what they're doing? They're pitting us against each other. You know me!<br><br>WEIR (over radio): Oh, please! You call that acting?!<br><br>(John, who has now sat up, stares up at the camera.)<br><br>SHEPPARD: Phebus!<br><br>(Elizabeth turns around to look at a larger screen behind her which also shows the camera footage.)<br><br>WEIR: There's that look of defeat I love.<br><br>(In the Control Room, the technician has tapped into the same footage.)<br><br>TECHNICIAN: Sir. I have Colonel Sheppard on my screen.<br><br>(Caldwell walks over to watch.)<br><br>SHEPPARD (to Elizabeth): Wrong again. Still hatred.<br><br>WEIR: I guess I'm satisfied with this. Teyla?<br><br>(Teyla stands and looks up at the camera while still aiming her stunner at John.)<br><br>TEYLA: Yes?<br><br>WEIR: Kill him.<br><br>(Teyla stares in shock, then turns to look at John.)<br><br>SHEPPARD: Don't listen to her.<br><br>WEIR: Kill him now, or I vent halon fire suppressant into all the living spaces in Atlantis.<br><br>(In the Control Room, Caldwell looks round to Rodney.)<br><br>CALDWELL: McKay?!<br><br>McKAY: I know, I know. I'm almost done here.<br><br>TEYLA (to Caldwell over radio): Colonel -- can she do this?<br><br>(The technician looks up at Caldwell.)<br><br>TECHNICIAN: Yes. She's created a shunt between the fire suppressant system and life support.<br><br>CALDWELL (to Teyla over radio): I believe so.<br><br>TEYLA: How many people are at risk?<br><br>CALDWELL: Three-quarters of the expedition.<br><br>(Teyla looks up at the camera.)<br><br>TEYLA: Why are you doing this?<br><br>WEIR: I have spent my entire life at war with his world. Thousands have died with no hope for victory, both sides reduced to a mere handful of fighters. If he really is the last, then in the end my people will have won.<br><br>(Teyla looks round at John.)<br><br>SHEPPARD: Don't believe her.<br><br>WEIR: Believe me when I say I have absolutely nothing to lose. In a very short time, I will feel excruciating pain, this body will convulse, and I will cease to exist. That's what is ahead for me. All I can hope for now is to achieve victory for my people.<br><br>TEYLA (looking at the camera): Phebus, your people are long dead. Who lost or won a war so many years ago does not matter.<br><br>WEIR: It matters to me.<br><br>(Teyla looks round at John with an expression of dread on her face.)<br><br>SHEPPARD: If you kill me, you're killing him. He cares for you more than you know.<br><br>(In the Control Room, listening in on the conversation, Rodney looks startled. In the stairwell, Teyla turns to the camera again.)<br><br>TEYLA: Please do not make me do this.<br><br>SHEPPARD: You don't have to.<br><br>WEIR: Shoot him, or I release the gas and just hope it reaches the both of you.<br><br>CALDWELL: She has the capability of doing what she claims. Teyla ... I'm not gonna tell you what to do.<br><br>WEIR: I am. Kill him.<br><br>(Rodney turns round from his computer to stare at Caldwell. Teyla stares down at the floor, wracked with indecision for a moment. Then she turns to face John. Somewhere during the conversation she has put away the stunner and taken hold of her P90, which she now raises and aims at him. John stares up at her.)<br><br>(In the Control Room, Rodney continues typing frantically.)<br><br>(In the stairwell, Teyla stares at John as she aims her rifle at him. He looks up at her.)<br><br>SHEPPARD: Sheppard doesn't believe you'll do it.<br><br>(He doesn't look totally confident, however. In the lab, Elizabeth glares at the screen as she waits to see what Teyla will do. In the stairwell, Teyla stares wide-eyed, then cocks the rifle.)<br><br>TEYLA: Forgive me, John.<br><br>(In the Control Room, Rodney's computer beeps.)<br><br>McKAY: I've got it! I'm overriding her code now.<br><br>CALDWELL: Are you sure?<br><br>McKAY: It's done! Go!<br><br>CALDWELL: Teyla, this is Caldwell. Do not fire! I repeat, do not fire!<br><br>(Teyla's eyes widen in relief and she lowers her rifle. In the lab, Elizabeth races to the computer and types. The computer beeps at her in a negative way. She slams her hands down on the desk, crying out in rage, grabs her P90 and fires it at the large screen, shattering it. She storms out of the lab.)<br><br><br>CONTROL ROOM. Caldwell turns to Rodney.<br><br>CALDWELL: Can you maintain the lockdown on the science lab -- keep Weir where she is?<br><br>McKAY: Nope. The only way to do it is to override everything. Nobody's in control now. She is long gone.<br><br>CALDWELL (into radio): All security teams -- this is Caldwell. Resume your search for Doctor Weir.<br><br>(Out in the city, marines race off through the newly opened bulkhead doors.)<br><br><br>NORTHERN-MOST STAIRWELL. Teyla turns to run off but John calls her back.<br><br>SHEPPARD: Teyla! Come on -- you can't leave me like this.<br><br>TEYLA: I will not let her harm you.<br><br>SHEPPARD: You don't know how determined she is. (He grunts as if he is in pain.) You can't let her win. (He grunts again, then starts to groan in pain and topples over.)<br><br>TEYLA (into radio): He is going into convulsions.<br><br>CALDWELL: Do not release him, no matter what happens!<br><br>(In the corridors, Elizabeth races along, turning to fire on approaching marines, who duck for cover. She runs on.)<br><br>(In the stairwell, John is writhing on the floor as Teyla stands over him. After a moment, his convulsions stop and he appears to fall unconscious. Teyla steps forward and squats down to him, looking concerned. John opens his eyes and stares upwards. He looks at her.)<br><br>SHEPPARD: Teyla.<br><br>TEYLA: Is that really you?<br><br>SHEPPARD: You're never gonna believe me, so ... (he turns his head away from her) ... I'm not even gonna try.<br><br>(Behind Teyla, Elizabeth comes through the doorway, aiming her rifle.)<br><br>WEIR: Stand away from him and up against the wall.<br><br>TEYLA (without turning around or standing up): He is unconscious.<br><br>(John, whose face cannot be seen by Elizabeth, closes his eyes.)<br><br>WEIR: I don't know how many bullets I have left in this thing, or I would have already shot you!<br><br>(Carefully, her body blocking Elizabeth's view, Teyla puts her Wraith hand stunner into John's hands.)<br><br>WEIR: I said back off!<br><br>(Teyla raises her hands and stands up slowly, turns to face Elizabeth, and starts to move slowly away from John, who is holding the stunner so that Elizabeth can't see it. Elizabeth walks towards John.)<br><br>WEIR: Unconscious or not, I wanna see his face.<br><br>(Teyla looks down at John who is still lying with his eyes closed. Suddenly he sits up and shoots Elizabeth. She convulses and collapses to the floor. Teyla kicks the stunner out of John's hands. Lorne and some other marines run in.)<br><br>LORNE (to Teyla): You alright?<br><br>TEYLA: Yes. It is over.<br><br>LORNE: Sorry we took so long. We got stuck in that damned corridor for two hours.<br><br>TEYLA: Call a medical team and have them both taken to the Infirmary.<br><br>LORNE: You got it. (He activates his headset.) This is Lorne. I need a medical team to my location.<br><br>(John looks up at Teyla.)<br><br>SHEPPARD: How'd you know it was me?<br><br>TEYLA: I still do not. (She turns to one of the marines.) Keep his hands bound until Doctor Beckett tells you otherwise.<br><br>(The marine nods.)<br><br>SHEPPARD: Well, if you didn't know, why'd you give me the stunner?<br><br>TEYLA: Because you would have shot her either way.<br><br>(She turns and walks away.)<br><br><br>DAY TIME. INFIRMARY. Elizabeth wakes up in bed.<br><br>SHEPPARD (offscreen): Good morning!<br><br>(Elizabeth stares upwards for a moment, her eyes wide, then turns her head to see John sitting up in the bed next to hers working on a palm pilot and studiously avoiding looking at her. She looks away, horrified by her memories, closes her eyes and sighs.)<br><br>WEIR: Good morning.<br><br>SHEPPARD (still working on his palm pilot): What's-her-name sure hung in there for a while.<br><br>WEIR: When-when did she ...?<br><br>SHEPPARD: Some time in the middle of the night -- kicking and screaming.<br><br>(Elizabeth glances across at him but he carries on working.)<br><br>WEIR: Yeah, well, that was ... the strangest feeling, you know? (John nods in agreement.) The entire time I was shouting to everyone, but nothing I wanted to would come out of my mouth.<br><br>SHEPPARD: I know. It was a real nightmare. Especially when you shot Ronon.<br><br>WEIR: Oh God! But I wasn't ...<br><br>SHEPPARD: I know. I know. It was her.<br><br>WEIR: How is he?<br><br>SHEPPARD: He's fine. Teyla and Rodney just went to see him in post-op.<br><br>WEIR: Did they believe you were ... you?<br><br>SHEPPARD: To be honest, I think the only people who believe one hundred percent are Beckett, ... you ...<br><br>CALDWELL: ... and me.<br><br>(John and Elizabeth look up as he walks over to them.)<br><br>CALDWELL: In fact, I can safely say that I know how you feel.<br><br>SHEPPARD: Yes, sir!<br><br>WEIR: Thank you, Colonel -- for keeping a potentially explosive situation under control!<br><br>CALDWELL: Yeah, well, it was a lot closer than I would like to admit.<br><br>SHEPPARD: For what it's worth, uh, McKay says you did a good job.<br><br>CALDWELL: Did he? Well ... (he smiles across at Elizabeth) maybe there's still hope for me yet!<br><br>(John glances across at Elizabeth, who suddenly remembers what she, as Phebus, said to Caldwell.)<br><br>WEIR: Oh God, no! Don't believe anything she might have said!<br><br>CALDWELL: I'm kidding. (Elizabeth smiles in relief.) Don't give it another thought. Well, if you'll excuse me, I'm sure you'll both agree that the paperwork on this is going to be a nightmare ... (he smiles wickedly) especially that kiss.<br><br>(John and Elizabeth stare at him in horror.)<br><br>SHEPPARD: Yes, sir!<br><br>CALDWELL: Well, try not to kill each other while I'm gone.<br><br>(Elizabeth gives him a half-hearted thumbs-up. He turns and walks away. Elizabeth smiles ruefully at John, then looks away and slides down in the bed in embarrassment.)
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="215.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s2/216.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="217.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s2/index.shtml">
+<IMG SRC="/graphics/title_s2episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Two Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="201.shtml" CLASS="list">The Siege, Part 3</A><BR><A HREF="202.shtml" CLASS="list">The Intruder</A><BR><A HREF="203.shtml" CLASS="list">Runner</A><BR><A HREF="204.shtml" CLASS="list">Duet</A><BR><A HREF="205.shtml" CLASS="list">Condemned</A><BR><A HREF="206.shtml" CLASS="list">Trinity</A><BR><A HREF="207.shtml" CLASS="list">Instinct</A><BR><A HREF="208.shtml" CLASS="list">Conversion</A><BR><A HREF="209.shtml" CLASS="list">Aurora</A><BR><A HREF="210.shtml" CLASS="list">The Lost Boys</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="211.shtml" CLASS="list">The Hive</A><BR><A HREF="212.shtml" CLASS="list">Epiphany</A><BR><A HREF="213.shtml" CLASS="list">Critical Mass</A><BR><A HREF="214.shtml" CLASS="list">Grace Under Pressure</A><BR><A HREF="215.shtml" CLASS="list">The Tower</A><BR><A HREF="216.shtml" CLASS="list">The Long Goodbye</A><BR><A HREF="217.shtml" CLASS="list">Coup D'etat</A><BR><A HREF="218.shtml" CLASS="list">Michael</A><BR><A HREF="219.shtml" CLASS="list">Inferno</A><BR><A HREF="220.shtml" CLASS="list">Allies</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B000LC4ZI0/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B000LC4ZI0/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Two</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B000LC4ZI0/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B000KGGP1W/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B000LPQ67A/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B000LC4ZI0/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls2.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="215.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s2/216.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="217.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

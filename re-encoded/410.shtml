@@ -1,0 +1,527 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "This Mortal Coil" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s4/410.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s4/transcripts/410.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=568">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=321">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s4/410.shtml#production">Production</A>
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=49260">Fan Reviews</A>
+				 | <A HREF="http://forum.gateworld.net/forumdisplay.php?f=103">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s4/410.shtml"><IMG SRC="/atlantis/graphics/410_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="THIS MORTAL COIL" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://click.linksynergy.com/fs-bin/stat?id=2cvd55rHd*s&offerid=78941&type=3&subid=0&tmpid=1826&RD_PARM1=http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewTVShow?id=179127311&partnerId=30" TARGET="_blank"><img height="15" width="61" border="0" alt="iTunes" src="/store/graphics/itunes_button.gif"></img></a> &nbsp; <a href="http://www.amazon.com/exec/obidos/ASIN/B0010ZXQOG/bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 410<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 4, Disc 3<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 12.07.07<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 11.17.08<BR>
+				    <STRONG>STORY BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0942249/" TARGET="_blank">Brad Wright</A>, <A HREF="http://www.imdb.com/name/nm0540695/" TARGET="_blank">Joseph Mallozzi</A> & <A HREF="http://www.imdb.com/name/nm0612283/" TARGET="_blank">Paul Mullie</A><BR>
+				    <STRONG>TELEPLAY BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0540695/" TARGET="_blank">Joseph Mallozzi</A> & <A HREF="http://www.imdb.com/name/nm0612283/" TARGET="_blank">Paul Mullie</A><BR>
+				    
+				    
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0912272/" TARGET="_blank">William Waring</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">A mysterious drone crashes into Atlantis, indicating that the Replicators may have found the city.  But when Elizabeth Weir appears, the team realizes that the probe is just a part of a bigger mystery.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    ATLANTIS.   In the Control Room, Rodney McKay and Radek Zelenka are sitting at two separate consoles looking at their laptops.<br><br>McKAY (typing): Initiating secondary diagnostics ... now.<br><br>ZELENKA (after a couple of seconds): No variances.<br><br>McKAY: Huh.  Are you sure?<br><br>ZELENKA: Yeah, positive.<br><br>McKAY: Well, check again.<br><br>ZELENKA: Rodney, there's nothing here.<br><br>(Rodney stands up and starts walking over to Radek's console.)<br><br>McKAY: OK, just get over here and monitor power readings.<br><br>(Sighing, Radek stands up and Rodney takes his seat.  Radek takes Rodney's former seat.  Rodney looks at Radek's laptop, which is showing a schematic of the Stargate.)<br><br>McKAY: Huh!  No variances.<br><br>(Radek shrugs in an "I <I>told</I> you so!" sort of way.)<br><br>McKAY: You catching any discrepancies on your end?<br><br>ZELENKA: Nothing.<br><br>McKAY: You sure?<br><br>ZELENKA: Rodney!<br><br>McKAY (standing up): OK, just go back, go back, go back, go back, go back, go back, go back.<br><br>(They swap seats again.  John Sheppard walks into the room.)<br><br>SHEPPARD: All right.  Do we know what the problem is?<br><br>McKAY: Yeah.  The Gate's not working.<br><br>SHEPPARD: I think we figured that much last week when you broke it.<br><br>McKAY: I did <I>not</I> break the Gate.<br><br>SHEPPARD: It just happened to stop working around the same time you were screwing around with it.<br><br>McKAY: I wasn't screwing around with it!  I was running a streamlining programme designed to boost its operating efficiency.<br><br>SHEPPARD: Yeah, well, good job(!)<br><br>McKAY: It had nothing to do with why the Gate malfunctioned!  Look, we've been able to eliminate a number of possible reasons, <I>including</I> my streamlining programme, and I feel confident that we're making some progress and that things will be up and running in ...<br><br>(Just then there is the sound of a distant impact somewhere in the city.)<br><br>McKAY: What was that?<br><br>(A female Chinese technician answers as her screen shows a red dot on the edge of the main city.)<br><br>TECHNICIAN: An unidentified object just struck the city.<br><br>McKAY: Well, why didn't the sensors pick it up?<br><br>TECHNICIAN: I don't know.  It came in so fast.<br><br>(Rodney looks at the screens.)<br><br>McKAY: I'm getting a low-level energy signature.<br><br>ZELENKA: What could it be?<br><br>SHEPPARD: Let's find out.<br><br><br>At the edge of the city, a two-tiered room has a large hole in the roof.  On the floor lies a cylindrical object, surrounded by debris from the roof.  The room has some sofas and armchairs in it, and there are a few bookshelves around the walls.  As soldiers stand guard, a scientist is squatting by the object and running a scanner over it.  John, Rodney and Radek come in.  John turns to one of the soldiers.<br><br>SHEPPARD: Any injuries?<br><br>SOLDIER: No, sir.<br><br>McKAY: Thank God it hit the reading library or somebody <I>really</I> could have gotten hurt.<br><br>(He, John and Radek walk over to the object and squat down around it as the scientist walks away.)<br><br>ZELENKA: What is it?<br><br>McKAY: It's obviously some kind of mobile self-contained unit  a drone, possibly a probe.  It's definitely not Wraith design.<br><br>ZELENKA: Perhaps it's Lantean, you know?  A de-orbited satellite or a device on a recall directive.<br><br>McKAY: Uh, maybe.  (He looks at his Ancient scanner.)  It's still emanating a trace energy field.<br><br>(John leans away from the device nervously.)<br><br>SHEPPARD: Is it dangerous?<br><br>McKAY: No, it's just interesting.<br><br>(John leans closer to the device again and points to the top of it.)<br><br>SHEPPARD: Check that out.<br><br>(There's a long gouge in the casing of the device.)<br><br>ZELENKA: It was damaged on re-entry.  So what?<br><br>McKAY: Re-entry wouldn't have caused that.<br><br>SHEPPARD: Looks like weapons fire.  Maybe it took a hit before it came down.<br><br>McKAY: And yet it came out in one piece.<br><br>SHEPPARD: Tough little bastard!<br><br><br>LATER.  John has left the room and meets up with Major Lorne.<br><br>LORNE: Colonel.  Do we know what it is yet?<br><br>SHEPPARD: Looks like a probe of some kind.<br><br>LORNE: Any idea who sent it?<br><br>SHEPPARD: McKay and Zelenka'll figure it out.<br><br>LORNE: And in the meantime, who's working on the Gate?<br><br>SHEPPARD: The Gate can wait.  This is more important.<br><br>LORNE: Well, with all due respect, sir, I think they're <I>equally</I> important.  Wouldn't it make more sense to keep Zelenka working on this mystery object and move McKay back to his Gate diagnostics?  It's already been over a week now.<br><br>SHEPPARD: Major, not being able to use the Gate is an inconvenience.  The possibility that someone may have pinpointed our location is a threat.  The <I>threat</I> gets the priority.<br><br>LORNE: Yes, sir.<br><br><br>LATER.  RODNEY'S LAB.  Rodney and Radek are again working on two separate laptops.  The probe is standing in between the two computers and is wired into them.  Rodney takes a bite out of a sandwich as he stares at his screen.<br><br>ZELENKA: This is pointless.  Even though the object survived re-entry physically intact, its internal systems are shot.  These are just incomprehensible readings.<br><br>McKAY (through a mouthful of sandwich): By design.<br><br>(Radek sighs.)<br><br>ZELENKA: There's no design here, Rodney  just meaningless data.<br><br>McKAY (his mouth still full of food): But my instincts tell me that's because they're running an advanced masking programme, to fool us.  They're good  <I>I'm</I> better.<br><br>ZELENKA: Who's "they", Rodney?<br><br>McKAY: Just do me a favour.  Re-launch your decryp sweep.<br><br>(Radek looks at him as if to ask, "What's the <I>point</I>?")<br><br>McKAY: Humour me.<br><br>(Radek rolls his eyes but starts to type.)<br><br>ZELENKA: Fine.<br><br>(Rodney's screen beeps as the programme starts to run again.)<br><br>ZELENKA: You realise we don't have to stand around here waiting for the results.  It could take hours.  Why don't we go back to the Gate?<br><br>McKAY (looking at his screen): Hang on.<br><br>(The text on his screen starts to alter slowly.)<br><br>McKAY: It's working.  I'm getting something.<br><br>(Radek starts to type again.)<br><br>McKAY: Hey, d-d-d-d-d-d-d-don't touch anything!<br><br>(Radek stops typing.  Rodney watches as the text on his screen continues changing.  The text disappears briefly, then some different text scrolls briefly down the screen, then suddenly everything disappears.)<br><br>McKAY: Oh!  Whoa-whoa-whoa-whoa-whoa.  What happened?  (He looks at Radek.)  What did you do?<br><br>ZELENKA: Nothing!<br><br>McKAY: I told you not to touch anything!<br><br>ZELENKA: I <I>didn't</I> touch anything!  The diagnostic programme must have crashed.<br><br>McKAY: You lost all the data!<br><br>ZELENKA: What did you see, Rodney?<br><br>McKAY: Nanite code.  It's the Replicators.<br><br><br>CORRIDOR.  As John walks along, Rodney runs to join him.<br><br>McKAY: It's the Replicators.  They've found us.<br><br>SHEPPARD: Are you sure?<br><br>McKAY: The drone we recovered contained nanites.<br><br>(Radek catches them up.)<br><br>ZELENKA: You cannot be certain of that, Rodney.  (To John) The programme went down before we had a chance to retrieve any significant data.<br><br>McKAY: I <I>know</I> what I saw.  It was nanite code a split second before the system crashed.<br><br>ZELENKA (to John): I saw nothing.<br><br>McKAY: That's because you weren't looking.<br><br>ZELENKA: Our laptops were retrieving the same data stream, Rodney.  If there <I>had</I> been anything, I would have seen it.<br><br>McKAY: Well, obviously you didn't, otherwise we wouldn't be having this dis...<br><br>(Just then there is the sound of a distant explosion somewhere in the city.)<br><br>McKAY: Another one!<br><br>LORNE (over radio): Colonel Sheppard.  Major Lorne here.<br><br>SHEPPARD: Go ahead, Major.<br><br>LORNE: There's been an explosion in Doctor McKay's lab.  I suggest you get down here.<br><br><br>RODNEY'S LAB.  The place is a burnt-out mess and smoke is rising from the table which held the probe and the computers.  Rodney, Radek and John come in to join Lorne and his team.<br><br>McKAY: What the ...?!  What happened?<br><br>(John picks up a soggy mess from the table.)<br><br>SHEPPARD: Well, either your sandwich exploded or that mystery drone had a built-in self-destruct protocol.<br><br>ZELENKA: We must have inadvertently initiated it when we ran our analysis.<br><br>LORNE: Sorry, Doc.  At least you weren't around when it went off.<br><br>McKAY: Lucky us(!)<br><br><br>LATER.  John and Rodney are walking through the city.<br><br>McKAY (quietly): Something's not right.  (He waits for a couple of scientists to walk past, then continues.)  That diagnostic programme should never have crashed.  It's perfectly capable of handling any of the data coming from the probe.  And then before we get a chance to get it up and running again, what happens?  The probe gets destroyed.<br><br>SHEPPARD: What are you talking about?<br><br>McKAY (sighing): I don't know.  I just ... it feels like someone or something is working very hard to get in my way.  And yes, I know what that sounds like.  Just do me a favour: keep an eye out, OK?<br><br>SHEPPARD: Mmm.<br><br>(As Rodney walks away, John frowns around the city suspiciously.)<br><br><br>GYM.  John is sparring with Ronon Dex.  They trade blows for a while, then stop moving as John blocks Ronon's attack.<br><br>DEX: Think he's imagining it?<br><br>(He pushes John backwards and wanders away a little.)<br><br>SHEPPARD: Maybe he needs a vacation.<br><br>(Ronon rushes in again and they trade a few more blows before Ronon gets behind John and smacks him hard across the back with his stick.  John grunts in pain.)<br><br>SHEPPARD: I guess you disagree, huh?<br><br>DEX: Uh, I don't know.  Just seems like people are acting different lately.<br><br>SHEPPARD: Different?<br><br>DEX: I don't know how to explain it.  They just, uh, haven't been themselves.<br><br>(They spar for a few more seconds, then break.)<br><br>SHEPPARD: Huh!<br><br>DEX: Teyla's noticed it too.<br><br>SHEPPARD: Well, maybe everyone's getting a little stir crazy not being able to get offworld.  You know, acting a little weird, getting a little paranoid.<br><br>DEX (charging in and leaping into the air): I'm not paranoid.<br><br>(He continues to talk as they fight.)<br><br>DEX: People have been acting weird lately.<br><br>(They fight on, then Ronon gets in a blow that smashes into John's right eyebrow.  John shakes his head, his eyebrow covered in blood.  He touches his hand to the wound.)<br><br>SHEPPARD: You make a compelling argument!<br><br>DEX: I think you're gonna need stitches.<br><br>(He drops his stick and walks across to the wall where a towel is hanging up.  He tosses it over to John.)<br><br>DEX: Here.<br><br>(John catches it and holds it to the wound.)<br><br>DEX (smiling in an insincerely apologetic way): Sorry.<br><br><br>INFIRMARY.  John walks in, still holding the towel over his eye.  Jennifer Keller is sitting at a computer but looks up as he comes in.<br><br>KELLER: What happened?<br><br>SHEPPARD: Well, Ronon decided to knock some sense into me.<br><br>(He sits down on the side of a bed.)<br><br>KELLER: Well, let me take a look.<br><br>(She picks up some medical gloves and walks over the bedside just as John lowers the towel.  She peers at his eye.)<br><br>KELLER: You're fine.<br><br>(John frowns.)<br><br>SHEPPARD: No stitches?<br><br>KELLER: No.  Not even a Band-Aid.<br><br>(She picks up a mirror and hands it to him.)<br><br>KELLER: There's nothing there.<br><br>(John holds up the mirror and looks.  Although there is some blood on his eyebrow, there is no wound underneath it.)<br><br>SHEPPARD: Well, I'm bleeding.<br><br>(He starts to wipe his eye with the towel.)<br><br>KELLER: Well, not from any head wound.  It was probably Ronon's blood.<br><br>(John lowers the towel and the blood has almost gone.)<br><br>SHEPPARD: No.  He hit me.  I was bleeding.<br><br>(He puts the mirror down and looks at Jennifer thoughtfully.)<br><br>SHEPPARD: Run a scan on me.<br><br>(He hops down from the bed and goes over to another bed which has a scanner over it.)<br><br>KELLER: A scan?<br><br>SHEPPARD: If McKay's right and there are nanites in that probe, there's a good chance I got infected.<br><br>(He lays down on his back on the bed.  Jennifer looks at him, a little bewildered, but walks to the scanner's screen.)<br><br>KELLER: OK.  Hold still.<br><br>(She activates buttons on the screen and the scanner fires up and begins to run along the bed.  As John gazes upwards, Jennifer covertly moves the screen round a little so that John can't see it from the bed.  The scanner moves back up the bed again and shuts down.  Jennifer smiles.)<br><br>KELLER: No nanites.<br><br>(She shuts the screen down and walks over to the bed.)<br><br>KELLER: You're clean.<br><br>(John sits up on the bed and thinks for a moment.)<br><br>SHEPPARD: Run a blood test.<br><br>KELLER: John, if you were infected with nanites ...<br><br>SHEPPARD: Forget the nanites.  Something like this happened to me before.  I got infected with a retrovirus and I was able to heal right away.<br><br>KELLER: I'm sure that's not the case now, since you haven't been exposed ...<br><br>SHEPPARD: Maybe it's a relapse.  I don't know.<br><br>KELLER (smiling): I seriously doubt ...<br><br>SHEPPARD (loudly, anxious): Just run a blood test.<br><br>(Jennifer's smile fades.  John nods to her pleadingly.)<br><br>KELLER: OK.<br><br><br>LATER.  In the corridors somewhere, Lorne is talking with Jennifer.<br><br>LORNE: I thought the problem was dealt with.  I destroyed the drone.<br><br>KELLER: You made them suspicious in the process.<br><br>LORNE: So what do you suggest we do?<br><br>KELLER: We're still a long way from knowing the truth.  For now, we just need to be careful.<br><br><br>LATER.  Jennifer joins John as he is walking along.  She hands him a computer tablet.<br><br>KELLER: Colonel.  I got your test results back.  I'm pleased to tell you you're one hundred percent bug-free.  No sign of the retrovirus in your system.<br><br>(John looks at the results, then looks up and gazes off into the distance for a while before handing the tablet back to her.)<br><br>KELLER: What's the matter?  I thought you'd be happy.<br><br>SHEPPARD: All that says is my blood's clean.  Doesn't explain the magical head wound.<br><br>KELLER: Well, maybe it doesn't make sense because you're refusing to consider the only possible explanation for what happened.  You made a mistake.<br><br>SHEPPARD: Ronon wasn't bleeding.  I checked.<br><br>KELLER: Well, maybe the blood was already on the towel and you mistakenly transferred it to your forehead.<br><br>SHEPPARD: Ronon saw the cut.  <I>He</I> was the one who said I needed stitches.  (Sarcastically) Unless he was wrong too.<br><br>KELLER: All right.  Well, I'll run your blood work again and if I still can't find anything, we'll do a complete physical.<br><br>(She smiles at him and walks away.  John watches her go, his eyes narrowed.) <br><br><br>NIGHT TIME.  RODNEY'S LAB.  The damage from the explosion has been repaired.  Rodney walks in to find John, Ronon and Teyla Emmagan waiting for him.<br><br>McKAY: Hey.<br><br>DEX: Hey.<br><br>McKAY (walking over to John): What are you all doing here?  What's going on?<br><br>(John holds up a knife and looks at Rodney seriously.)<br><br>McKAY (nervously): Uh, I'll be right back.  I just remembered that I forgot to unplug something ... or plug it in ...<br><br>(He turns to leave but Ronon grabs his arms from behind and holds him still.)<br><br>McKAY: Whoa.  Whoa-whoa-whoa.  Whoa-whoa-whoa-whoa.  Wait-wait.  Wh-what are you doing?<br><br>SHEPPARD (reaching out and taking his right hand): This may hurt a little.<br><br>McKAY (his eyes wide): What?!  No-no-no!  Wait-wait-wait-wait!<br><br>(John drags the tip of the knife across Rodney's palm.  Rodney wails in pain as blood wells out of the wound.  He gasps in shock and anger as Ronon lets him go.)<br><br>McKAY: What is the <I>matter</I> with you?!<br><br>(John hands him a cloth.)<br><br>SHEPPARD: Here.<br><br>McKAY (pressing the cloth to his hand): I'm gonna need more than that!  I'm gonna need disinfectant and some stitches ...<br><br>SHEPPARD: Shut up and hold on a second.<br><br>(There's silence for a couple of seconds as John, Ronon and Teyla look expectantly at Rodney's hand.)<br><br>SHEPPARD: All right.  Let's take a look.<br><br>(Anxiously, Rodney lifts the cloth away.  There is blood on the cloth, but his palm has completely healed.)<br><br>McKAY: Oh, it's gone!  That's impossible!  How could ... how could it ...<br><br>DEX: That's the reaction we were hoping for.<br><br>TEYLA: If it's any consolation, I can assure you we all underwent the same test.<br><br>McKAY: Test?!  What test?!  What the hell's going on here?<br><br>SHEPPARD: That's what <I>we'd</I> like to find out.<br><br>TEYLA: Rodney, you're not the only one who's noticed the strange behaviour of many of the people on this base.  They've been acting unusually withdrawn, even secretive.<br><br>McKAY: Yeah.  I wasn't sure what to make of it.  At first, I was ready to dismiss Zelenka's screw-up as just gross incompetence, but then the more I thought about it, the more I thought it didn't make sense, even for him.  No, no, that was no accident.  I mean, he crashed that diagnostic system on purpose.<br><br>SHEPPARD: I'm assuming what happened with that drone was no accident either.<br><br>McKAY: But what does any of this have to do with my super-healing abilities?<br><br>SHEPPARD: Last night Ronon clubbed me in the head.<br><br>DEX: By accident ... sort of.<br><br>(Rodney looks at him.  He shrugs.)<br><br>SHEPPARD: I was cut.  I went to the Infirmary to have Keller check it out and by the time I got there it was completely healed.<br><br>McKAY: Oh, but the last time that happened, it was the, uh, it was the retrovirus.<br><br>SHEPPARD: That's what <I>I</I> thought, so I had her run a blood test.<br><br>McKAY: And?<br><br>SHEPPARD: She says she didn't find anything.<br><br>McKAY: What, you think she's lying?<br><br>SHEPPARD: I don't know, but we've gotta find out.<br><br>McKAY: Well, I can access the Infirmary's database from here.  Just ...<br><br>(He looks at Ronon and gestures towards his computer, seeking his permission to go and use it.  Ronon nods.)<br><br>DEX: Yeah.<br><br>(Wiping the last blood off his hand, Rodney goes over to his computer and starts to type.)<br><br>McKAY: OK, I'm in.  (He types some more.)  Now ...  And ...  (He frowns.)  Huh.<br><br>DEX: What?<br><br>McKAY: There's no record of any blood test.  If she did one, then she didn't enter the results.<br><br>SHEPPARD: She did a full body scan too.<br><br>McKAY: Well, there's nothing here.<br><br>TEYLA: That's impossible.  The scanner is wired directly into the computer.  Results are recorded automatically.<br><br>McKAY: It doesn't mean they can't be erased.<br><br>SHEPPARD: All right.  We need to run our own tests.  Until we figure out what's going on, we can't risk trusting anyone outside this room.<br><br>TEYLA: We have to get to the Infirmary without anyone knowing.<br><br>McKAY: I have an idea.<br><br><br>SHORTLY AFTERWARDS.  John and Teyla make their way through the city, looking nervously at anyone who passes them.  John speaks quietly into his headset radio.<br><br>SHEPPARD: How's it goin', Rodney?<br><br>McKAY (from his lab): I've patched into the life signs detector, but there's a problem.<br><br>SHEPPARD: <I>What</I> problem?<br><br>McKAY: Just ... I'm not sure.  Just-just-just hold on a minute.<br><br>DEX (sitting beside him): Looks like it's working fine to me.<br><br>McKAY: Right(!)  Thank you for your input.<br><br>SHEPPARD: Is the Infirmary clear?<br><br>McKAY (typing): Hold on.<br><br>SHEPPARD: Rodney!<br><br>McKAY: This is bizarre.  I mean, I can't get it to give me a live feed.  It's like it's stuck in a loop.<br><br>SHEPPARD: Well, fix it!<br><br>(Rodney sighs and carries on typing.  Finally, the laptop beeps.)<br><br>McKAY: Ha!  All right, I got it.<br><br>(The screen shows an overhead shot of the entire city, indicating life signs all around the city.  As Rodney's reprogramming kicks in, all the life signs go out except four in the central tower.  The image shifts to a side-on view of the tower and the four life signs are shown about two thirds of the way up.  Rodney stares at it in amazement.)<br><br>McKAY: What the hell?!<br><br>DEX: Oh, now you broke it.<br><br>McKAY: I didn't break it!  It's working fine!<br><br>SHEPPARD: Is the Infirmary clear or not?<br><br>McKAY: Yeah  the Infirmary, the corridors, the surrounding towers.  I mean, according to this, we're the only people <I>on</I> the base!<br><br>SHEPPARD: How's that possible?<br><br>(He glances at people walking around behind him and Teyla.)<br><br>McKAY: Off-hand, I would say it's <I>not</I>, but right now I am reading four life signs.<br><br>SHEPPARD (to Teyla): Let's keep moving.<br><br><br>EXTERNAL BALCONY.  Lorne and Radek come out onto the balcony to join Jennifer.<br><br>LORNE: We have a problem.<br><br><br>INFIRMARY.  John and Teyla run in.<br><br>SHEPPARD: All right.  Let's make this quick.<br><br>(He trots across to the scanner bed and lies down on it.  Teyla goes to the computer and activates the scanner, which starts to run along the bed.)<br><br>(In the lab, Rodney looks at his screen in concern.)<br><br>McKAY: I've got something.  It's another life sign.  It's the outer edge of the city.<br><br>DEX: Let's check it out.  Come on.<br><br>McKAY: Maybe we should ...<br><br>DEX: Come <I>on</I>!<br><br>(Reluctantly, Rodney follows Ronon out of the room.)<br><br><br>INFIRMARY.  Teyla looks at the scanner results in dread, then turns to the bed.<br><br>TEYLA: John?<br><br>(John gets off the bed and comes across to look at the screen.)<br><br>SHEPPARD: What the hell?<br><br>TEYLA: Nanites!<br><br>(The screen shows that John's entire body is teeming with thousands of the little buggers.)<br><br><br>OUTER EDGE OF THE CITY.  Rodney and Ronon exit a transporter and Rodney checks his life signs detector.  They make their way along a corridor but partway along Rodney stops and looks at the wall.<br><br>McKAY: There's supposed to be a room here.<br><br>(He puts his hand against the wall and looks at the detector again.)<br><br>McKAY: There <I>is</I> a room here.<br><br>(He presses against the wall and it opens, revealing a room behind it.)<br><br>DEX: Wait.<br><br>(He takes out his blaster, raises it and precedes Rodney into the dark room.  As Rodney steps inside, the lights come on.  They stare in amazement as they see someone lying on her back on a table in the middle of the room.  She is wearing an Atlantis uniform and her eyes are closed.  It's Elizabeth Weir.)<br><br>McKAY: Elizabeth!<br><br>(They run across to her and help her to sit up.)<br><br>DEX: Easy, easy.<br><br>(Elizabeth looks at them in confusion.)<br><br>McKAY: How did you get here?<br><br>WEIR: I-I don't know.<br><br>KELLER: I can answer that.<br><br>(The three of them look around to see Jennifer standing in the doorway with a couple of armed guards.  She smiles at them.)<br><br>KELLER: This is where we made her.  This is where we made you all.<br><br><br>INFIRMARY.  John and Teyla are still looking at the scanner screen.<br><br>TEYLA: This explains why we can heal so rapidly.  We get injured and the nanites effect repairs.<br><br>SHEPPARD: We'd better tell the others.<br><br>TEYLA: Yes.<br><br>(They turn to leave but Lorne is standing in the doorway with two armed guards.)<br><br>LORNE: That won't be necessary.<br><br>SHEPPARD: What the hell's going on?<br><br>LORNE: I'm sorry, Colonel.  You're gonna have to come with us.<br><br>SHEPPARD: I don't think so.<br><br>(He slowly reaches towards his pistol holster.)<br><br>LORNE: That won't do you any good.<br><br>SHEPPARD: I'm warning you, Major.  Stand down.<br><br>LORNE (stepping forward): Go ahead.  Shoot.<br><br>(John snatches out his pistol and fires it into Lorne's right thigh.  A hole appears in the leg but Lorne doesn't even flinch.  He looks down as the wound heals instantly, then smiles up at John.)<br><br>LORNE: You see?<br><br><br>ROOM IN THE OUTER CITY.  Rodney glares at Jennifer.<br><br>McKAY: You're Replicators.<br><br>KELLER: That's right.  Until you began making changes to our base code, we were forbidden from assuming the form of any living human, but now we can take any form we like.<br><br>(Her outward appearance melts into a silver sheen, then morphs into the form of a dark-haired woman.  She holds that form for a few seconds, then melts back into silver before re-taking the form of Jennifer Keller.)<br><br>McKAY: You <I>couldn't</I> have replaced everyone on the base.  It's impossible!<br><br>KELLER: Only because you believe this is the real Atlantis, and that you're the real Doctor McKay.<br><br><br>INFIRMARY.<br><br>TEYLA (to Lorne): So you're saying that we're also Replicators?<br><br>LORNE: No.  You are flesh and blood  ordinary humans in every way except that you were manufactured from the inside out by nanites, some of which remain in your system, effecting repairs as necessary.<br><br>SHEPPARD: I'm not buying it.<br><br>LORNE: All that you are  your thoughts, your memories  everything was taken from the real John Sheppard and his team when their minds were probed over a year ago.<br><br>(In the other room)<br><br>McKAY (to Jennifer): Ah ha!  See, now I <I>know</I> you're lying, because a year ago Carson Beckett was our Chief of Medicine, not Doctor Keller.  In fact, she hadn't even arrived yet.<br><br>KELLER: This scenario was updated with information obtained from the last member of your expedition to be captured by the Replicators  Elizabeth Weir.<br><br><br>BRIG.  Team Sheppard and Elizabeth are locked in the cell. <br><br>SHEPPARD (to Elizabeth): You sure about this?<br><br>WEIR: Yeah.  I need to see for myself.<br><br>(John takes out his knife and hands it to her.  She takes it, sighing.  Rodney half covers his face and looks away as, a little reluctantly, she draws the knife across her hand, grimacing.  Rodney can't help looking but then cringes with nausea.  Blood appears in the cut but before it can well out, the wound heals again.  John scowls and turns away as Elizabeth stares down at her hand in shock.)<br><br>WEIR: Oh my God.<br><br>DEX: All right.  We're all infected by nanites.<br><br>McKAY: Not infected with  constructed by.<br><br>DEX: I don't believe it.<br><br>McKAY: I know it's tough to swallow.  I'm having a hard time wrapping my head around it myself, but it would explain a couple of things.<br><br>SHEPPARD: Such as?<br><br>McKAY: Such as why the Gate's not working, for one.  Look, if none of this is real, if this is all just a lab rat experiment, then it stands to reason the Gate's not real either.<br><br>TEYLA: If this is not the <I>real</I> Atlantis, Rodney, you of all people would have noticed.  The stars alone ...<br><br>McKAY (interrupting): The whole time the Gate's been down, it has been solid overcast.  That's over a week now.  Think about it: when was the last time any of you saw stars?<br><br>(Everyone looks at each other as the truth begins to sink in.)<br><br><br>CONFERENCE ROOM.  Elizabeth is escorted by two armed guards to the room where Jennifer is waiting for her.  The guards wait outside as the doors close.  Jennifer smiles at Elizabeth.<br><br>KELLER: Doctor Weir.<br><br>WEIR: That's what you named me.<br><br>KELLER: There's no point in calling you anything else.  You're exactly like her in every way.<br><br>WEIR: Except that I'm <I>not</I> her.<br><br>KELLER: No.  The real Elizabeth Weir was killed several months ago.<br><br>(Elizabeth looks shocked.)<br><br>KELLER: Part of her brain had been replaced by nanites.  It was done to save her life but it made her dangerous.  Whenever she linked with other Replicators, the human part of her exerted an unhealthy influence  at least, that's the way Oberoth saw it.<br><br>WEIR: But you don't agree?<br><br>KELLER: Why do you think we did all this?  Your humanity is what we're interested in.  Because the Ancients created us with one fatal flaw.<br><br>WEIR: You can't ascend.  That's what you're after, isn't it?<br><br><br>BRIG.<br><br>SHEPPARD: All right, I know this is a lot for everyone to deal with, but we're just gonna have to ... suck it up and re-focus.<br><br>McKAY: Re-focus on <I>what</I>?<br><br>DEX: Getting the hell out of here.<br><br>McKAY: So we can go where?  Back to Atlantis to resume our lives?  (Sarcastically)  Oh, yeah, I forgot  they're not ours.<br><br>DEX: Says them.<br><br>McKAY: There's no point in denying the facts.  They were telling the truth.  We're not who we thought we were.<br><br>SHEPPARD: Well, I may not be the original, but you're gonna have a hard time convincing me that I'm not pretty damned close.<br><br>TEYLA: Our origins do not make us any less human  not physically and certainly not mentally.  Not while we can think for ourselves.  And in my heart there is no doubt  we <I>must</I> return to Atlantis.<br><br>SHEPPARD: OK.  We'll go back  take things from there.<br><br>McKAY: Great(!)  We're all in agreement  we're gettin' out of here.  Now, all we have to do is figure out how(!)<br><br><br>CONFERENCE ROOM.<br><br>WEIR: You're part of Niam's group.<br><br>KELLER: Most were reprogrammed, but some of us managed to stay hidden within the collective.<br><br>WEIR: You think by studying us, you'll discover the secret ingredient?<br><br>KELLER: You're all fully human.  You have the same minds as your original selves, the same thoughts, the same emotions.  More importantly, you have something that's always eluded us, something that kept your kind apart from the very beginning and made you special in the eyes of our creators.  You would call it a soul.  It is that "secret ingredient" you referred to  the key to ascension.<br><br>WEIR: That is not something you can learn to acquire simply by studying us.<br><br>KELLER: Why not?  The human brain is just an electro-chemical machine  biologically created, but a machine nonetheless.  Everything is quantifiable.<br><br>WEIR: Now you sound like Oberoth.<br><br>KELLER: The others have given up on ascension.  They're destroying human populations throughout the galaxy as a tactic in their war with the Wraith.  They're consumed with hatred and revenge.  We believe there is another path.<br><br>WEIR: Why are you telling me all this?<br><br>KELLER: You're open-minded, and it's important that we gauge your reactions.<br><br>WEIR: Why?<br><br>KELLER (smiling): So we can avoid the same mistakes next time.<br><br><br>BRIG.  Elizabeth has been returned to the cell.<br><br>WEIR: They're gonna wipe our memories and then start again on another planet.  That probe was sent by Oberoth and the other Replicators.  Our friends out there tried to destroy it, but they only managed to disable it.<br><br>McKAY: If that thing hadn't crashed into the city, who knows how long this could have gone on?<br><br>WEIR: Yeah, but the point is, this position's been compromised.  Once the other Replicators find this city, they'll destroy it.<br><br>SHEPPARD: Oh, yeah, and us too.<br><br>TEYLA: Is that any worse than having our memories erased and starting this whole process again?<br><br>DEX: We've gotta find a way out of here.<br><br>(Jennifer comes in and walks over to the cell.)<br><br>KELLER: I'm sorry it's come to this.<br><br>WEIR: Listen to me.  You have probed our minds.  You know <I>everything</I> there is to know about us.  You should know, we will <I>never</I> accept this.  No matter <I>how</I> many times you wipe our memories, we'll always figure it out.<br><br>SHEPPARD: She's right.  We're genetically pre-disposed to being ... stubborn, really pesky.<br><br>WEIR: You want to understand what it means to be human, right?  You wanna know what qualities might eventually lead to ascension?  You can start with compassion.<br><br>(Jennifer's eyes fill with tears.)<br><br>KELLER: I understand what you're saying, and under different circumstances I might even agree with you.  Unfortunately, it's too late.<br><br>SHEPPARD: What are you talking about?<br><br>KELLER: The other Replicators have found us.<br><br><br>Above the city, an Aurora-style Replicator warship heads downwards, multiple drones deploying from it.  The Brig shakes as the first drones impact the city.<br><br>KELLER: They failed to break down our mental defences and bring us back into the collective, so now they want to destroy us.<br><br>McKAY: Well, you have to raise the shield!<br><br>KELLER: We can't.  Your creation required too much power and we couldn't get our hands on multiple ZeeP.M.s without drawing too much attention.<br><br>(The Brig shakes again as more drones hit the city.)<br><br>SHEPPARD: Let us out.<br><br>WEIR: Your fellow Replicators are targeting human worlds.  They are murdering thousands of innocent people.  If you are serious about following the footsteps of your creators, you will let us go so we can stop this.<br><br>KELLER (shaking her head): Oberoth is too powerful.<br><br>WEIR: If this city falls and we're destroyed with it, this will be nothing more than a wasted opportunity  a failed experiment.  You know what that feels like.<br><br>KELLER: That's what the Ancients considered <I>us</I>  failed experiments.<br><br>SHEPPARD: Well, now's your chance to prove em wrong.<br><br>WEIR: All we are asking is that you give us a chance to make a difference.<br><br><br>From a viewpoint above the ocean, drones soar down towards Atlantis.  Inside, explosions are happening everywhere and people run for cover as massive chunks of the walls crash down.  Jennifer, followed by Team Sheppard and Elizabeth, races up the stairs into the Control Room.  She grabs a device and hands it to John.<br><br>KELLER: Take this.<br><br>SHEPPARD: What's this?<br><br>KELLER: It's the core drive of a ship's tracking system.  With this, you should be able to pinpoint the locations and movements of every one of Oberoth's Aurora-class vessels in this galaxy.  Take this to Atlantis  it will be their best chance of stopping Oberoth.  Go up to the Bay  take a Jumper.<br><br>(John turns and leads his team to the stairs.  Elizabeth turns back to Jennifer.)<br><br>WEIR: Come with us.<br><br>KELLER: I can't.  Oberoth might be able to track me.  I'll only be a liability.<br><br>(Reluctant to leave her, Elizabeth reaches towards her but Jennifer holds up her hand.)<br><br>KELLER: Go.<br><br>(Elizabeth turns and runs up the stairs.  Outside, drones smash into various towers and debris rains down onto the lower city.  In the Control Room, Jennifer turns and braces herself for her inevitable destruction.  Outside, another drone smashes directly into the central tower two-thirds of the way up.  The impact destroys the walls and the top third of the tower topples and plunges towards the ground.)<br><br>(In a Puddle Jumper some distance away from the city, the team stares in shock at the devastation.)<br><br>McKAY (horrified): That's it.  The city's gone.<br><br>DEX: So now what?<br><br>SHEPPARD: Well, we're already cloaked.  All we need to do is follow the ship out of the atmosphere and catch a ride before it jumps into hyperspace.<br><br>TEYLA: "Catch a ride"?<br><br>SHEPPARD: Yeah.  Watch.<br><br>(The Replicator ship heads up into space.  The Jumper follows, flies closely over the ship and lands in a narrow gap between two protruding sections.)<br><br>SHEPPARD: OK.  Re-appoint drive pods.<br><br>(The heads-up display appears on the windshield.  It shows the engine pods deploying so that they touch against the two sections of the Replicator ship, holding it tightly in position.)<br><br>SHEPPARD: OK.  Nice and snug.<br><br>(The Replicator ship jumps into hyperspace.)<br><br><br>LATER.  Rodney is asleep in the co-pilot's seat.  His head is back against the headrest, his mouth is open and he is snoring.  John glances round to see that Elizabeth is sitting on one of the benches in the rear section.  He stands up and goes to join her.  Rodney snores on as Teyla and Ronon exchange a despairing glance.  Ronon shakes his head in exasperation and kicks the back of Rodney's chair ferociously.  Rodney shifts in his seat and closes his mouth.  In the rear section, John looks at Elizabeth.<br><br>SHEPPARD: You doing OK?<br><br>WEIR: Sure, all things considered.  (She smiles.)  Not bad for a dead woman.<br><br>SHEPPARD: Everything'll be fine.  My guess is we're headed back to the Replicator homeworld.  Once we get there, we can find a ship with a hyperdrive.<br><br>WEIR: And go where?<br><br>SHEPPARD: Well, obviously we can't fly straight back to Atlantis.  They'd probably take us out before we had a chance to explain  but maybe New Athos.  We can contact em once we get there.<br><br>WEIR: And <I>then</I> what?  How d'you think the real Sheppard's gonna react when he sees you?  How would <I>you</I> react?<br><br>(John is unable to answer her.)<br><br>WEIR: Hmm.  In a way, I'm lucky.  At least I know I'm the only Elizabeth Weir out there.<br><br>(Just then, the ship comes out of hyperspace and heads towards a planet.  John and Elizabeth head for the front of the Jumper as Rodney calls up the H.U.D.)<br><br>McKAY: You were right.  It's the Replicator homeworld.  Looks like they've been busy.<br><br>WEIR: What do you mean?<br><br>(Rodney calls up a close-up of part of the planet.)<br><br>McKAY: Remember those shipyards we destroyed?  That's one of them.<br><br>TEYLA: They rebuilt it.<br><br>McKAY: And <I>then</I> some!<br><br>SHEPPARD: Good.  Then we should be able to find a ship they won't miss.<br><br><br>ATLANTIS (the <I>real</I> one  at least, we assume so at this point).  Rodney is talking with John in the Control Room.<br><br>McKAY: It's a streamlining programme designed to boost its operating efficiency.  Look, the Gate'll be offline for, what, one hour, two hours tops.<br><br>(Just then the Gate starts to dial in.  It kawhooshes.  John and Rodney look at it as Chuck the technician activates the shield over it.)<br><br>SHEPPARD: We expecting someone?<br><br>CHUCK: No, sir, but it's Major Jordan reporting in from M34-227.<br><br>SHEPPARD: You got video?<br><br>CHUCK: Yes, sir.<br><br>(He lowers the shield and activates a wallscreen nearby.  John and Rodney walk over to it as Major Jordan appears on the screen.)<br><br>SHEPPARD: What's the situation, Major?<br><br>JORDAN: Well, sir, there's someone here who would like to have a word with you.<br><br>(Rodney frowns in confusion.  Jordan steps out of the way.  A couple of seconds later, Elizabeth walks into view.  John and Rodney's eyes widen and they stare in disbelief.)<br><br>SHEPPARD: Elizabeth!<br><br>WEIR (smiling): Hello, John.<br><br>McKAY: Elizabeth!  What happened to you?  How did you get away?<br><br>WEIR: I'm not Elizabeth.  Well, not the Elizabeth <I>you</I> knew.  I have all of her memories and all of her thoughts  everything that makes her me.  But I'm a duplicate.  I was created by a faction of the Replicators as a means to attaining ascension.<br><br>McKAY (shocked): But you ... look and sound just like her.<br><br>WEIR: I'm sorry, Rodney, but it's true.  This group managed to isolate themselves from the others in order to pursue their study in secrecy, but they were eventually discovered and destroyed.<br><br>SHEPPARD: I ... don't know what to say.  This is all very, uh ...<br><br>WEIR: Strange?  Yeah, I know.  But we need to meet.  We have some information that you can use against the Replicators.<br><br>SHEPPARD: "We"?<br><br><br>WORMHOLE TRAVEL.<br><br><br>NEW ATHOS.  The Replicator versions of Team Sheppard are waiting in a tent and look up as Elizabeth leads the real Team Sheppard inside.  The latter foursome stare in amazement.<br><br>WEIR: Well, I suppose introductions aren't really necessary.<br><br>SHEPPARD: Great(!)  Last time I came face to face with myself, I ended up kicking my own ass.<br><br>(Ronon walks over to face his Replicator self and they stand toe to toe and glare at each other.  RepliRodney looks admiringly at Rodney's leather jacket.)<br><br>RepliMcKAY: Nice jacket!<br><br>McKAY: Uh, yeah, it's new.  We got new versions of those uniforms.  The old ones used to ... <br><br>RepliMcKAY and McKAY (simultaneously): ... bunch up under the arms.<br><br>McKAY: Yeah.<br><br>RepliMcKAY: Huh!<br><br>SHEPPARD (to Elizabeth): You said you've got something for us.<br><br>RepliSHEPPARD: Yeah.  McKay.<br><br>(Both Rodneys look round at him.)<br><br>McKAY: Hmm?<br><br>RepliSHEPPARD: No, <I>my</I> McKay.<br><br>RepliMcKAY: Oh, yeah, right.<br><br>(Clicking his fingers, he walks to a different part of the tent to fetch something.  The Ronons are still staring at each other, the real one smiling humourlessly.  RepliRodney brings the core drive over to the group.)<br><br>TEYLA: What is that?<br><br>RepliMcKAY: This is the core drive of a Replicator ship tracking system.  Once it is up and running, we'll be able to track every Aurora-class Replicator ship in the Pegasus galaxy.<br><br>RepliSHEPPARD: It's not much, but it's a start.<br><br>McKAY: Are you kidding?!  This is <I>huge</I>!  We can get working on a ...<br><br>RepliMcKAY and McKAY (simultaneously): ... modification programme ...<br><br>RepliMcKAY: ... uh, reconfigure the base sequencing ...<br><br>McKAY: ... run it through one of the Ancient relays so the information's ...<br><br>RepliMcKAY and McKAY (simultaneously): ... automatically adapted and outputted.<br><br>SHEPPARD: "Outputted"?  Is that even a word?<br><br>McKAY: Of course it is!<br><br>RepliMcKAY: We can't <I>both</I> be wrong.<br><br>(John grimaces.)<br><br>RepliMcKAY: Look, we need to get started on this now.<br><br>RepliSHEPPARD: Whoa, whoa.  Not so fast.  (He looks at John.)  Where do you plan on doing this?  We're too big of a security risk to be allowed back on Atlantis.<br><br>SHEPPARD: He's got a ... <I>I've</I> got a point.  (To the Rodneys) You two are gonna have to find another way to do that.<br><br>McKAY: It's not a problem.  I'll just go back to Atlantis and get what we need.  We can do all the work right here.<br><br>RepliMcKAY: Oh, this is great!  Finally, someone in whom I can have a hundred percent confidence!  I cannot <I>tell</I> you how much I'm looking forward to working with you!<br><br>McKAY: And this is just the beginning!<br><br>(The Johns grimace at each other.) <br><br>RepliMcKAY: Humanity's about to benefit from one of the greatest living scientific minds times two!<br><br>McKAY: Can you imagine?!<br><br>RepliSHEPPARD: I'm trying not to.<br><br>(Grinning, Rodney stands aside and gestures his double towards the exit of the tent.  Smiling happily, RepliRodney leads him outside.  John turns to the rest of the other team.)<br><br>SHEPPARD: We appreciate all this, but the truth is, we came here for another reason.  You were with the Replicators.  What do you know about our Elizabeth, and are you willing to help us get her back?<br><br>(RepliJohn and Elizabeth look at each other, wondering which of them should break the news.)<br><br><br>LATER.  John and Elizabeth are walking through the forest.<br><br>SHEPPARD: You think this other Keller was telling the truth?<br><br>WEIR: I don't know why she'd lie.<br><br>SHEPPARD: It's kinda weird, that's all.  I mean, I don't see you for all this time and then five minutes later I find out ...<br><br>(He trails off.)<br><br>WEIR: ... that I'm dead.  Yeah.  Don't worry  the moment I learned the truth, I knew there'd be no going back the way things were  not for me, not for any of us.<br><br>(Elsewhere in the forest, Teyla and Ronon are walking along.)<br><br>DEX: I don't like him.<br><br>TEYLA: I know, it's odd.<br><br>DEX: I know I'm me, so who the hell's this other guy?<br><br>TEYLA: He's you as well.<br><br>DEX: No, there's only one me.<br><br>TEYLA: Apparently not!<br><br>DEX: He's nothing but a copy, then.<br><br>TEYLA: From what I understand, even though he's not the original, he's as much Ronon Dex as you are.<br><br>DEX: I don't like him.<br><br>(Elsewhere, the copies of Ronon and Teyla are also walking.)<br><br>RepliDEX: I didn't really believe it  not until we got out here.<br><br>RepliTEYLA: I know.  I was holding out hope as well.  I thought that the Replicators had captured us and implanted the nanites and that they were lying to us to keep us from wanting to return.<br><br>RepliDEX: Yeah, well, it worked.  I'm not going back with them.<br><br>RepliTEYLA: Ronon.<br><br>RepliDEX: What?  I've been on my own before.  At least, that's how I remember it.  Now I've got these nanites that'll heal me if I get injured.<br><br>RepliTEYLA: You are not invincible.  The nanites can only do so much.<br><br>RepliDEX: Yeah, well, I'll take my chances.<br><br>RepliTEYLA: I understand your anger and your disappointment, but it makes no difference who came first.  You're as much Ronon as he is.<br><br>RepliDEX: Oh yeah?  Well, why's he leading my life on Atlantis while I'm treated like an outsider?<br><br>RepliTEYLA: Their circumstances are different.<br><br>RepliDEX: You mean we make them feel uncomfortable, so they'd rather not have us around.<br><br>RepliTEYLA: Given our origins, they see us as a potential threat.  Can you blame them?<br><br>RepliDEX: I guess not.  I'd probably do the same.  Still, it doesn't change the ...<br><br>(He stops and glares as the real Ronon and Teyla walk into view.  The four of them look uncomfortably at each other for a moment.)<br><br>RepliDEX: We'll go back to the camp.<br><br>DEX: We'll go find Sheppard and Weir.<br><br>(The two teams split up again.)<br><br>(Back with John and Elizabeth)<br><br>SHEPPARD: It's not like this hasn't happened before.  The other Elizabeth got infected by those little nanite things and we figured out how to stop em somehow.  Maybe we can do the same for you.<br><br>WEIR: So we wouldn't be a security threat?<br><br>SHEPPARD (awkwardly): You can contribute.  Things'll just be ... different.<br><br>(Elizabeth sighs and shakes her head ruefully.)<br><br>WEIR: That's not really the issue, John.  I guess what really bothers me is just knowing that you and the others will always consider me less than what I really am.<br><br>(A deep humming sound begins but John and Elizabeth don't notice it.)<br><br>SHEPPARD: That's not true.<br><br>WEIR: Of course it is  and I don't blame you.<br><br>(John frowns upwards, noticing the sound as it gets louder.)<br><br>SHEPPARD: D'you hear something?<br><br>(Elsewhere, Ronon and Teyla stop and look up as they too hear the humming.)<br><br>TEYLA (into radio): Colonel Sheppard, this is Teyla.  Please respond.<br><br>SHEPPARD: Go ahead, Teyla.  What's wrong?<br><br>TEYLA: The Replicators are here.<br><br>WEIR: They managed to track the ship.<br><br>(She and John walk into a clearing and look up into the sky.)<br><br>TEYLA: John, do you hear me?<br><br>SHEPPARD: Oh, yeah, I heard ya.<br><br>(A Replicator warship comes into view.)<br><br>WEIR: Our ship must have had a hidden sub-space transponder.<br><br>SHEPPARD: All right, run.<br><br>(They race off into the forest as the ship fires drones towards the ground.  Fortunately these drones must have taken lessons from the Wraith and are useless at finding their targets.  They hit the ground all around John and Elizabeth but all explode too far away to injure them.)<br><br>(In the tent, the Rodneys look up at the sound of explosions.)<br><br>McKAY: What was that?<br><br>(RepliRodney runs to the door of the tent to look out.  In the forest, Ronon points in the direction of the explosions.)<br><br>DEX: That way.  Come on.<br><br>(He races off in another direction.)<br><br>TEYLA: Ronon, wait!<br><br>(He doesn't, of course, and Teyla chases off after him.  Nearby, a drone explodes near enough to blow Elizabeth off her feet.  John pulls her up again and they run on and meet Ronon and Teyla.)<br><br>SHEPPARD: Where's McKay?<br><br>DEX: He's still at the compound.<br><br>SHEPPARD (activating his headset): Rodney, this is Sheppard.  We need you to fall back to the Gate immediately.<br><br>JORDAN (over radio): Colonel, this is Major Jordan.  The Gate is a no-go.  I repeat, the Gate is a no-go.  There's a Replicator ship in position ready to take us out the second we show ourselves.<br><br>SHEPPARD: All right, everybody fall back to the Jumper.  Rodney, did you hear me?<br><br>McKAY: Yeah, I heard you.  We're on our way.<br><br>WEIR: John, regarding the Gate: they have us trapped.  Even cloaked, if the Jumper so much as rustles a bush, they will pinpoint our position and blast us out of the sky.  We need a diversion.<br><br><br>SHORTLY AFTERWARDS.  The Rodneys run through the forest, stopping as they meet RepliTeyla and RepliRonon.<br><br>RepliTEYLA: What happened?<br><br>RepliMcKAY: It's the Replicators.  Let's go.<br><br>(They run off together.)<br><br><br>(Back with John and Elizabeth)<br><br>WEIR: We'll all have a better chance this way.<br><br>SHEPPARD: I don't want you doing this because you feel any less, uh ...<br><br>WEIR: ... human?  From the beginning we've been trying to convince ourselves that we're just like you.  (She smiles.)  Now we've got a chance to prove it.<br><br>SHEPPARD (reluctantly): All right.  Let's go.<br><br><br>STARGATE.  A second Replicator warship is hovering over the Gate.  The Puddle Jumper whizzes into view and flies across its nose.  The warship turns and chases after it, followed by the other warship.  Behind them, unnoticed, the Gate begins to dial, presumably activated by the Jumper's dialling system.  The Jumper flies into the clouds, trying to avoid the warships for as long as possible.  A drone hits it but doesn't do much damage and the Jumper flies on.  A second drone deploys from the leading warship and this one blows off the left engine pod.  The Jumper rolls and plunges into the forest.<br><br><br>Shortly afterwards, Replicators make their way through the forest towards the crashed Jumper.  Drawing their weapons, they look inside.  Elizabeth is lying dead or unconscious on the floor just inside.  The Replicators climb inside and see Ronon lying a little further in.  His head has hit a metal box and there is blood all over it.  One of the Replicators walks to the front section and sees Rodney and John slumped over the console.  It pulls John up into a sitting position.  John turns to face it, his face and cheek cut, but moments later the wounds heal.  The Replicator backs away a little, startled but still aiming its weapon at him.<br><br>RepliSHEPPARD: Yeah.  We tricked you, but don't feel so bad.  After all, we almost had <I>ourselves</I> convinced.<br><br>(The Replicator fires.)<br><br><br>ATLANTIS GATEROOM.  Team Jordan and Team Sheppard run through the Gate.  John looks up to the Control Room.<br><br>SHEPPARD: Shut it down!<br><br>(The Gate closes.  John looks at the rest of his team.)<br><br>SHEPPARD: No-one else is coming.<br><br><br>RODNEY'S LAB.  Rodney and Radek are working on computers.  The two men have their backs to each other.  Rodney has the core drive on his desk.  Radek takes his glasses off and rubs his eyes, exhausted.<br><br>ZELENKA: Shall we take a break?<br><br>McKAY (without looking round at him): You go ahead.<br><br>ZELENKA (turning to him): Oh, Rodney, we've been working for five hours straight.  We should take a break.<br><br>McKAY: Yeah, I will  when I'm finished.<br><br>ZELENKA: I know what you're trying to do.<br><br>McKAY: Yeah, what's that?<br><br>ZELENKA: Lose yourself in your work to avoid thinking about Elizabeth.<br><br>(Rodney looks up from his computer but still doesn't turn around.)<br><br>ZELENKA: You must realise it's only a temporary distraction.<br><br>McKAY (his voice full of pain): That's one of the perks of the job.  Something terrible happens, you don't have enough time to dwell on it cause you're too busy trying to stop the <I>next</I> terrible thing from happening.  Seriously, if it wasn't for the Replicators and their plan to wipe out every human in the galaxy, I'd be in pretty bad shape right now.<br><br>(Radek looks at him sympathetically.)<br><br>McKAY: Now, this is Carson all over again and I'm just not ready to deal.  Not yet.<br><br>(He gets back to work.)<br><br>ZELENKA (gently): You're not the only one who misses him, Rodney.  I don't suppose you want to talk about it.<br><br>McKAY: Eventually, but not now.<br><br>ZELENKA (sighing): OK.  (He stands up.)  Oh, shall I get you anything?<br><br>McKAY: No.<br><br>(Radek turns and starts to leave.)<br><br>McKAY: Radek.<br><br>(Radek stops and turns back to him.  Rodney turns his head towards him but still doesn't meet his eyes.)<br><br>McKAY: Thank you.<br><br>ZELENKA: You're welcome, Rodney.<br><br><br>NIGHT TIME.  Rodney is still working on the core drive, frowning at his laptop.  John comes in.<br><br>SHEPPARD: How's it going?<br><br>McKAY: S'all right.<br><br>SHEPPARD: Why don't you call it a night?<br><br>McKAY: No, I wanna finish this.  What about you  isn't it past your bedtime?<br><br>SHEPPARD (quietly): I'll approve the removal of her personal items tomorrow  have everything shipped back to Earth.<br><br>(Rodney nods understandingly, his face sad.)<br><br>SHEPPARD: I would have done it sooner, but I actually thought we were gonna bring her back.<br><br>McKAY: Yeah.  Me too.<br><br>SHEPPARD: Let me know when you get this thing working.<br><br>(He pats Rodney's shoulder and starts to leave the room.)<br><br>McKAY: Will do.<br><br>(Just then, his computer beeps.)<br><br>McKAY: Oh!  Wait!<br><br>(Data begins to scroll across his screen as John comes back over to him.)<br><br>McKAY: Huh!  If this works, we should be able to track every Aurora-class Replicator ship in the galaxy in real-time.<br><br>(He types, and a map of the galaxy appears on the screen.  The computer beeps six times as six dots appear on the map in various places.)<br><br>McKAY: That's not so bad.  I guess the Wraith have really taken a toll.<br><br>(The computer beeps eight more times and corresponding dots appear on the map.)<br><br>McKAY: Oh the other hand, my duplicate did say they were building more.<br><br>(There are fifteen more beeps, and fifteen more dots appear on the screen.  John and Rodney stare in horror.)<br><br>McKAY: A <I>lot</I> more!<br><br>(Fade to black.)<br><br><br>(About eleven more beeps sound.)<br><br>McKAY: Oh, <I>crap!</I>
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="409.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s4/410.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="411.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s4/index.shtml">
+<IMG SRC="/graphics/title_s4episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Four Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="401.shtml" CLASS="list">Adrift</A><BR><A HREF="402.shtml" CLASS="list">Lifeline</A><BR><A HREF="403.shtml" CLASS="list">Reunion</A><BR><A HREF="404.shtml" CLASS="list">Doppelganger</A><BR><A HREF="405.shtml" CLASS="list">Travelers</A><BR><A HREF="406.shtml" CLASS="list">Tabula Rasa</A><BR><A HREF="407.shtml" CLASS="list">Missing</A><BR><A HREF="408.shtml" CLASS="list">The Seer</A><BR><A HREF="409.shtml" CLASS="list">Miller's Crossing</A><BR><A HREF="410.shtml" CLASS="list">This Mortal Coil</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="411.shtml" CLASS="list">Be All My Sins Remember'd</A><BR><A HREF="412.shtml" CLASS="list">Spoils of War</A><BR><A HREF="413.shtml" CLASS="list">Quarantine</A><BR><A HREF="414.shtml" CLASS="list">Harmony</A><BR><A HREF="415.shtml" CLASS="list">Outcast</A><BR><A HREF="416.shtml" CLASS="list">Trio</A><BR><A HREF="417.shtml" CLASS="list">Midway</A><BR><A HREF="418.shtml" CLASS="list">The Kindred, Part 1</A><BR><A HREF="419.shtml" CLASS="list">The Kindred, Part 2</A><BR><A HREF="420.shtml" CLASS="list">The Last Man</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Four</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B0019J2UHW/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B0017MO11O/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls4.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="409.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s4/410.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="411.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

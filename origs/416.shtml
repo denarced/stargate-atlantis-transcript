@@ -1,0 +1,527 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Trio" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				
+				<A HREF="/atlantis/s4/transcripts/416.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=572">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=327">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s4/416.shtml#production">Production</A>
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=50910">Fan Reviews</A>
+				 | <A HREF="http://forum.gateworld.net/forumdisplay.php?f=112">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s4/416.shtml"><IMG SRC="/atlantis/graphics/416_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="TRIO" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://click.linksynergy.com/fs-bin/stat?id=2cvd55rHd*s&offerid=78941&type=3&subid=0&tmpid=1826&RD_PARM1=http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewTVShow?id=179127311&partnerId=30" TARGET="_blank"><img height="15" width="61" border="0" alt="iTunes" src="/store/graphics/itunes_button.gif"></img></a> &nbsp; <a href="http://www.amazon.com/exec/obidos/ASIN/B0013PLYJW/bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 416<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 4, Disc 4<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 02.08.08<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 03.09.09<BR>
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm1236625/" TARGET="_blank">Martin Gero</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0939869/" TARGET="_blank">Martin Wood</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">McKay, Carter, and Keller are trapped in an underground chamber while on an off-world mission, with no apparent means of escape.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    ATLANTIS.  John Sheppard, Samantha Carter, Rodney McKay and Jennifer Keller walk into the Gateroom.  John, Rodney and Jennifer are geared up and have just returned from offworld.  As they talk, they head up the stairs to the Control Room before entering Sam's office.<br><br>CARTER: Which planet is this, again?<br><br>SHEPPARD: M5V-801.<br><br>McKAY: The one with the frequent tremors.<br><br>KELLER: Not to mention an abnormally number of people with debilitating respiratory problems.<br><br>McKAY: It's a <I>mining</I> planet.  It's not that surprising.<br><br>KELLER: How long have you worked in the mines, Rodney?<br><br>SHEPPARD: Get to the point, guys.<br><br>McKAY: They're experiencing upwards of four tremors a day.  My seismic teams concluded that the area where they built their settlement is dangerously unstable ...<br><br>KELLER: Not to mention my environmental and air quality tests came out <I>way</I> into the red.<br><br>McKAY: <I>My</I> analysis was enough, thank you.<br><br>KELLER: Well, obviously it wasn't enough for <I>them</I>.  Anyway, these people said they've experienced tremors for as long as they can remember.<br><br>McKAY: Yes, and I'm pretty sure they've been <I>breathing</I> even longer, so, again, <I>my</I> problem trumps yours.<br><br>CARTER: This is not a contest.  Obviously they're living in a settlement that's not safe for habitation.  You need to convince them to move to another part of the continent.<br><br>SHEPPARD: Well, we tried.  It's not working.<br><br>CARTER: Why not?<br><br>SHEPPARD: Twenty years ago, the Genii kind of took over the planet and employed ‘em all as miners.<br><br>CARTER: Mining what?<br><br>McKAY: Haven't a clue, but whatever it was, they cleaned out the deposits and left.<br><br>CARTER: So ...?<br><br>SHEPPARD: So they think we're like the Genii and they want their cut.<br><br>CARTER: Ah.<br><br>KELLER: They're willing to move, but they have a list of demands a mile and a half long.<br><br>SHEPPARD: And negotiating with alien settlements is not exactly why I joined the Air Force.<br><br>KELLER (to Sam): We were hoping if <I>you</I> had some time, maybe you'd be willing to come ...<br><br>McKAY (talking over her): It'd save us a lot of time in the back and forth.<br><br>CARTER: OK.  I'll free up my afternoon.<br><br>SHEPPARD: Appreciate that, Colonel.<br><br>(John, Rodney and Jennifer turn to leave.)<br><br>CARTER: Jennifer, Rodney.<br><br>(The two of them turn back to her.)<br><br>CARTER: I'll meet you at the Gate in one hour.<br><br>McKAY: Uh, I was rather hoping you'd go by yourself and I wouldn't ...<br><br>CARTER: One hour.<br><br>(Rodney sighs and leaves.)<br><br><br>ONE HOUR LATER.  WORMHOLE TRAVEL.<br><br><br>M5V-801.  Sam, Rodney and Jennifer are walking across a large open grassy area.  Jennifer is breathing heavily.<br><br>KELLER: Man, I've gotta start doing more cardio!  All this back and forth is getting me winded.  We couldn't have taken the Jumper?<br><br>McKAY: Oh, suck it up.  It's not that bad.  I have to hike this much almost every day.<br><br>CARTER: You do?<br><br>McKAY: Yeah.  I'm a very active person.<br><br>CARTER: You are?!<br><br>KELLER: Your last physical would kind of contradict you.<br><br>McKAY: That is private medical information that should not so cavalierly be shared in casual conversation, <I>Doctor</I>.<br><br>(Sam and Jennifer grin.)<br><br>KELLER: I don't think it comes as a great surprise to the colonel.<br><br>McKAY: That's not the point, you know?  I'm no Ronon – I'm not gonna be on the cover of “Shape” magazine any time soon ...<br><br>(Sam giggles silently.  Jennifer joins in.)<br><br>McKAY: ... but I can handle myself in combat; stand my ground when I need to.<br><br>(Just then the ground gives way under his feet and he drops from view.)<br><br>KELLER: Rodney!<br><br>(Sam grabs her arm.)<br><br>CARTER: Don't move.<br><br>(They stare at the hole that Rodney disappeared into.  A moment later they hear him groan.)<br><br>CARTER: Get down on your stomach – spread out your weight.<br><br>(Lying down on their stomachs, they carefully crawl to the edge of the hole and look down as Rodney groans again.)<br><br>CARTER: Rodney?  McKay, are you all right?<br><br>(Rodney is lying on his back at the bottom of what looks like a cavern, about thirty feet deep.)<br><br>McKAY: Ow.<br><br>CARTER: Oh, thank God.<br><br>KELLER: Don't move, OK?<br><br>McKAY: Not a problem.<br><br>(The area he is lying in is clearly not a natural cavern.  The floor is smooth, although now covered with earth that fell into the hole with Rodney, and there are some broken planks near him, together with a large wooden crate.)<br><br>CARTER: We're gonna head back to the Gate, try to get some help.<br><br>KELLER: Just try to stay as still ...<br><br>(At that moment, the ground underneath the girls gives way.  Sam cries out and Jennifer screams as they plunge into the cavern.)<br><br><br>OPENING CREDITS.  RESUME.<br><br><br>In the cavern, dust billows all around.  Unlit electric lights hang from the ceiling on long cables and now that there is more natural light in the room, we can see that there are several wooden crates of differing sizes scattered around the place.  Luckily the girls didn't land on top of any of them, and they and Rodney are all lying on the floor and are conscious.<br><br>KELLER: Don't move if you feel any shooting pains.<br><br>McKAY: I would <I>never</I> move if <I>that</I> was the case.<br><br>(Cautiously, Jennifer and Sam sit up.)<br><br>CARTER: Well, it doesn't look like any of us are bleeding.<br><br>McKAY: At least externally.<br><br>KELLER: Well, that's a godsend.<br><br>(Groaning, the three of them slowly stand up.  Jennifer looks at the earth, dust and broken wooden planks on the floor.)<br><br>KELLER: This whole place is a tetanus shot waiting to happen.<br><br>(Straightening up, Rodney looks around and sees a familiar large metal symbol on the wall.  He sighs in exasperation.)<br><br>KELLER: In fact, where the hell <I>are</I> we?<br><br>McKAY (jerking a thumb towards the symbol): I'd guess the Genii mining facility.<br><br>CARTER: They just don't build ‘em like they used to, huh?<br><br>McKAY: I am particularly not fond of the ceiling work.<br><br>KELLER: If this is part of a larger facility ...<br><br>CARTER: ... then there should be a way for us to walk out of here, right.<br><br>(She goes to a blue-painted door on the left.)<br><br>CARTER: OK.<br><br>(Rodney goes to another door on the right.  This one is painted red and has a large airlock-type wheel in the middle of it.  As he takes hold of the wheel, Sam turns and calls to him.)<br><br>CARTER: Little help here.<br><br>McKAY (turning to her): What about this one?<br><br>CARTER (shaking her head): Red means bad.<br><br>McKAY: Ooh.  Yeah, can't argue with that logic.<br><br>(He goes over to the other door as Sam and Jennifer try to tug it open.  He looks at a keypad on the wall beside the door.)<br><br>McKAY: Well, d'you see this?  That's not gonna budge unless we enter the right code.  Look, these symbols are Genii numerals.<br><br>KELLER: Yeah, but you can crack the code, though, right?<br><br>(Sam and Rodney talk over each other.  It's hard to hear what they say but both sentences end the same.)<br><br>McKAY: ... electronic.<br><br>CARTER: ... electronic.  What <I>he</I> said.<br><br>McKAY: What <I>she</I> says.<br><br>CARTER: I mean, it's not impossible, though, right?<br><br>McKAY: No.  No, it's just ... highly, highly unlikely.<br><br>CARTER: OK, so ... (she points to the red door) ... door number two?<br><br>McKAY: After you, Monty.<br><br>(Sam leads him over to the door, rubbing her left shoulder with her right hand as she goes.  She and Rodney both take hold of the wheel.)<br><br>CARTER: OK, on three.  One, two, three.<br><br>(They tug on the wheel but it won't turn.  Rodney sighs.)<br><br>McKAY: There goes <I>that</I> plan.<br><br>(Sam looks around the room.)<br><br>CARTER: Wait a minute, wait a minute.<br><br>(She picks up a long heavy metal rod and takes it to the door.  She and Rodney insert the rod into the wheel.)<br><br>CARTER: OK, three: one, two, three, go.<br><br>(They lean onto the rod as hard as they can and the wheel turns a little.  Rodney pulls the rod out and Sam reaches for the wheel.)<br><br>KELLER: Wait, whoa-whoa-whoa.  What if ... what if that door was sealed for a reason?<br><br>McKAY (with a sarcastic expression on his face): What, you think maybe there's a scary monster back there?<br><br>KELLER: No!  But this <I>is</I> a mining facility and who knows what kind of toxins are in there?  Like you said, red means bad.<br><br>(Rodney nods a little nervously, taking her point.  Sam looks around the room, then looks back at the others.)<br><br>CARTER: I'm willing to take the chance.<br><br>(Rodney and Jennifer don't look very happy but realise that they have no choice.  He and Sam push hard on the door and it swings open.  Sam gasps as she sees what's behind it.)<br><br>CARTER: Woah!<br><br>(Clinging onto the door frame, she and Rodney look through the doorway.  There's a long drop beneath them.  On the other side of the chasm are horizontal shafts dug into the rock.  Daylight appears to be coming from the far end of the shafts.  In the distance there are large metal boxes – about the same size as the room they're in – on stilts.  There's no way for the team to get into the mine from where they are.  Rodney gazes at the sight in horror.)<br><br>McKAY: Well, I guess in Genii, red means screwed.<br><br>(The camera pulls out from their room into the mine.  Unseen by the team, we see that only about two thirds of the room is built onto earth or rock.  The entire side of the room where the red door is is supported on metal stilts.)<br><br>CARTER: OK.<br><br>(She tugs the door closed again, then looks at her watch.)<br><br>CARTER: OK, look, it's ... we've been in the field for, what, half an hour?  We've got another five before we need to check in, so the safest thing for us to do is just sit tight and wait.<br><br>(Rodney goes back to the other door and the keypad on the wall.)<br><br>CARTER: When we don't check in, they'll send a team.  Our radios should work down here, right?<br><br>McKAY: Yeah, they should.<br><br>CARTER (looking inside a metal locker to see if there's anything useful in there): OK, so we sit and wait.<br><br>(Finding nothing, she closes the locker door again.  She tries another locker.  Jennifer sits down on a box.)<br><br>KELLER: OK.<br><br>(Rodney starts trying to prise the keypad open while Sam investigates the rest of the room.)<br><br>KELLER: Anyone bring any cards?<br><br>(Sam laughs ruefully.)<br><br>CARTER: No.<br><br>(Just then the room begins to shake.  Rodney stares up in horror.)<br><br>McKAY: Tremor!<br><br>(Jennifer jumps up off her box and whimpers as earth starts to fall down from the ceiling.  Sam clings onto the wall and looks around nervously as the room begins to creak ominously.  After several seconds the tremor subsides.)<br><br>McKAY: That sounded very very bad.<br><br>CARTER: Uh, what do you suppose the probability is that this room is on the same kind of metal stilts as those other rooms we saw over there?<br><br>McKAY: Very high.<br><br>KELLER (nervously): But this one's more stable, right?  I mean, we're still standing.<br><br>CARTER: Yeah, but with the three of us and this dirt, we've just added, what, three, four hundred pounds?<br><br>McKAY (looking down at himself): Uh, I'd say about <I>five</I> hundred.<br><br>CARTER: Right.  And this region experiences how many tremors a day?<br><br>McKAY: Four times a day at least.<br><br>(Sam closes her eyes and lowers her head.)<br><br>KELLER (sighing): What is it?  What's wrong?<br><br>CARTER (turning to her): The supports that are stopping this room from dropping into the chasm are gonna rapidly destabilise now that we've added all this extra weight.<br><br>McKAY: I don't think we're gonna be able to just wait for Atlantis to figure out we're missing.<br><br>CARTER: You're right.  We're gonna have to find a way out of here.<br><br>(She and Rodney look up to the hole in the ceiling.)<br><br>KELLER: Well, there are a lot of crates in here.<br><br>McKAY: Yeah, rickety old ones!  I killed, like, three of them on the way down!<br><br>KELLER: Yeah, but maybe we could make, like, a pyramid – stack ‘em up, climb out.<br><br>McKAY: I don't think there's enough to ...<br><br>CARTER: There <I>are</I>, actually – just barely enough to get us high enough, but we <I>should</I> be able to make it work.<br><br>McKAY: D'you think they'll support our weight?<br><br>CARTER: There's only one way to find out.<br><br>(Rodney sighs.  They get to work.  As Sam and Rodney start moving the crates into position, Jennifer uses a large piece of broken metal to shovel the earth out of the red door to reduce the weight of the room.  Rodney groans at the exertion and turns to Sam.)<br><br>McKAY: All right, look.  If we're actually gonna do this, I figure we need to stack these things, like, twenty feet high in order to climb out, so no matter <I>how</I> we build it, it's gonna be unstable.<br><br>CARTER: Well, only one person has to climb it.<br><br>(Having finished removing the earth, Jennifer pulls the door closed again and walks over to the others.  As Sam looks at her, her eyes widen.)<br><br>KELLER: Oh, no.  I'm kind of awful with heights, so ...<br><br>McKAY: So, Sam goes.<br><br>CARTER: What, you're not even gonna <I>consider</I> yourself?<br><br>McKAY: It's heights!  I'm probably worse than <I>she</I> is!<br><br>(Sam sighs.)<br><br>CARTER: Let's get started.<br><br>McKAY: All right.<br><br>(He helps her up onto one of the crates and they start to build.  Some time later Sam is three layers high.  Jennifer strains as she hands another crate up to Rodney who is standing on the first level.  He groans and pushes it up to Sam who settles it in place.  All the wood starts to creak ominously.)<br><br>KELLER: Maybe ... maybe you should come down from there.  It sounds like it's ...<br><br>(Trying to ignore the sound, Sam carefully kneels up and adjusts the last crate.  Leaning on it, she cautiously starts to stand.  As she straightens up and looks up to the ceiling, the side of one of the crates on the first layer bursts open and the entire structure topples over, throwing Sam to the floor.)<br><br>McKAY: Sam!<br><br>(Jennifer hurries over to her as she groans and tries to turn over.)<br><br>KELLER: Easy, easy.  You OK?<br><br>McKAY: Is she all right?<br><br>CARTER (sitting up and groaning): Oh, that was fun.<br><br>McKAY: Look, the bottom level won't hold.  The crates aren't strong enough to stack.<br><br>CARTER: Yeah, I got that, thanks.<br><br>KELLER: So ...?<br><br>(There's another short tremor and the metal of the room begins to creak.)<br><br>CARTER: That's not good.<br><br>(She stands up, Jennifer helping her.)<br><br>CARTER: We need another plan – and quick.<br><br><br>SHORTLY AFTERWARDS.  Jennifer has found a concertina file in the corner of the room.<br><br>KELLER: Hey, I got some files here.  (She takes out a folder from one of the compartments.)  Anyone read Genii?<br><br>(On the other side of the room, Rodney has found something interesting in one of the lockers.)<br><br>McKAY: Hello, hello!<br><br>CARTER: What have you got?<br><br>McKAY: Grappling hook – at least, something we can use as a grappling hook.<br><br>(He brings the metal hooks over to a crate and puts them down on top of it.)<br><br>KELLER: Great!  Now all we need is some rope.<br><br>McKAY (looking upwards): OK, just a sec.  The ceiling is, like, what, twenty feet?<br><br>CARTER: Twenty five?<br><br>McKAY: All right, twenty five, so our jackets end to end are five or six feet.  We tie those to our shirts, maybe even our pants together.  That should be able to get us up there and support our weight.<br><br>(Sam goes to another locker.)<br><br>KELLER: Great!<br><br>(She unzips her jacket and takes it off as Rodney starts tinkering with the grappling hook.  She puts the jacket onto the crate.  Rodney looks at her with interest as, gazing up at the ceiling, she crosses her arms and starts to lift her shirt upwards.  Just as her bra comes into view, Sam calls out.)<br><br>CARTER: Found rope!<br><br>(Smiling, Jennifer lowers her shirt down again.  Rodney looks disappointed.)<br><br>CARTER: Rope and lanterns.<br><br>McKAY: Oh good(!)<br><br>CARTER: More than enough for what we need.<br><br>McKAY: Well, nice work(!)<br><br>CARTER: Thank you!<br><br>(Jennifer puts her jacket back on.  As Sam brings the rope over to the crate, Rodney takes one end of it.)<br><br>CARTER: What are you doing?<br><br>McKAY: Well, I'm gonna tie the rope on, toss it up there so you can climb up.<br><br>CARTER: I can't do it.<br><br>McKAY: Hey, quitter talk.<br><br>CARTER: No, I can't climb <I>this</I>.  This rope – it's too thin.  We need to tie knots in it.  I need something to grip onto.<br><br>McKAY: Right.  (He looks up to the ceiling.)  That's a lot of knots.<br><br>CARTER: Well, we only need about ... (she squints up to the ceiling) ... thirty feet or so.<br><br>McKAY: OK, well, you gals get started on the knotting and I'll read those files.<br><br>(Jennifer frowns at Sam who shrugs.  Walking over to the concertina file, Rodney sees their expressions.)<br><br>McKAY: What?  Look, they could contain the code to the door there.  Besides, three people can't knot the same rope – unless either of <I>you</I> speak Genii.<br><br>CARTER: Fine(!)  We'll get started.<br><br>(She and Jennifer start to untangle the rope to find both ends and then begin tying knots along its length.)<br><br>KELLER: Well, wanna play Twenty Questions?  I'll let you go first.  Animal, vegetable or mineral?<br><br>CARTER: I'm good, thanks.<br><br>(Jennifer sighs.)<br><br>KELLER: Oh, here's a better one we can play: Brad Pitt or George Clooney?  If you had to choose?<br><br>(Sam looks thoughtful.)<br><br>CARTER: Mmm, Clooney, I guess.<br><br>KELLER: Pitt, all the way.  OK, you go.  C'mon, it's easy.  Any two guys I would know.<br><br>CARTER: OK.  (She thinks for a moment.)  Uh, Brian Green or Neil deGrasse Tyson?<br><br>(Jennifer stares at her blankly.)<br><br>CARTER: They're physicists.<br><br>KELLER (vaguely): Uh-huh.<br><br>CARTER: They're on TV.  I picked ones you should know.<br><br>KELLER (picking one at random): Uh, Brian Green, I guess.<br><br>(Sam grimaces.)<br><br>CARTER: Oh!  Tyson, all the way!<br><br>McKAY: Are you talking about <I>Neil</I> deGrasse Tyson?  He once stole an idea from me.  Did I tell you that story?<br><br>CARTER: Only about a dozen times, McKay.<br><br>KELLER: We're playing “Who Would You Rather ...?”  Wanna join us?<br><br>McKAY: Uh, “Would You ...”?  Sorry, I don't get it.<br><br>KELLER: Well, if you had to choose who to fool around with, would it be ... (she thinks for a moment) ... Robert Redford or Paul Newman?<br><br>McKAY (frowning): Uh, neither.<br><br>KELLER: Yeah, I know, but if you <I>had</I> to.<br><br>McKAY (still frowning): If I <I>had</I> to.  So I'm to choose which one of those guys I would wanna force themselves on me because ...<br><br>KELLER: It's just a dumb game, McKay.  You're not secure enough in your masculinity to play a dumb game?!<br><br>(Sam grins.)<br><br>McKAY: Uh, yes, well I think I am, I just ... maybe I should go back to my reading – you know, the one thing that could get us out of here?<br><br>(He turns away, then gazes upwards as he hears distant voices.  Unaware of this, Jennifer turns back to Sam.) <br><br>KELLER: Newman.<br><br>CARTER: Absolutely, not even a question.<br><br>McKAY: Shut up a sec.<br><br>KELLER: No!  We're allowed to talk!<br><br>McKAY: No-no-no.  I hear something.<br><br>(The girls listen and hear the sound of children's voices.)<br><br>McKAY: There's someone up there!  (He calls out as the girls drop the rope and run over to him and they all look upwards.)  Help!  We're stuck down here!  Hello!<br><br>KELLER: What if the ceiling caves in on them too?<br><br>McKAY: Well, we caved through <I>that</I> section – it's been eaten away by rust.  The rest of the ceiling looks fine.<br><br>CARTER: He's right.  As long as they don't fall in the hole, they should be able to get help.<br><br>(The children's voices get closer.)<br><br>CARTER (calling out): Hello?<br><br>McKAY (calling out): Help!  We're stuck down here!  Can you hear us?<br><br>(The faces of two young boys appear at the edge of the hole.)<br><br>BOY 1: Hello?<br><br>McKAY: Oh, thank God!<br><br>BOY 2: Who <I>are</I> you?<br><br>CARTER: We're visitors.  We were on our way to speak to the people of your settlement.<br><br>BOY 1: You shouldn't be down there.<br><br>McKAY: Yeah, we know!  We fell in here by accident.<br><br>BOY 2: You all OK?<br><br>McKAY: Yeah, yeah, we're fine.  We're just stuck.  We need some help.<br><br>BOY 1: You shouldn't be down there.<br><br>McKAY: Yeah, thanks, kid(!)  Like I said, we ...<br><br>(Sam puts her hand on his arm to shut him up, then calls up to the boys.)<br><br>CARTER: Go tell your parents.  Tell them where we are, that we're stuck and we need help.<br><br>(The boys look at each other for a moment, then look down to the team.)<br><br>BOY 2: I don't think we can do that.<br><br>McKAY: What?!   Why not?<br><br>BOY 1: We're not really supposed to play out here.  If our parents find out ...<br><br>CARTER: It's OK.  I promise you won't get into trouble.<br><br>BOY 1: You don't know my father.  He'll be very upset.<br><br>CARTER: I'll explain the situation to him.  It'll be OK.<br><br>KELLER: Please?  We're ... hurt.  We need help.<br><br>BOY 2: Wait a minute.  <I>He</I> said you were all OK.  I asked him.<br><br>McKAY (angrily): All right.  Listen to me, you little brats.  I am older than you and I am in charge!<br><br>(Jennifer puts a hand on his shoulder, trying to stop him.)<br><br>KELLER: Rodney, Rodney ...<br><br>McKAY (taking no notice): You will go back to your parents, you will tell them we need help, or so help me ...<br><br>(Sam grabs his arm to shut him up, then calls up to the boys.)<br><br>CARTER: D'you need something?  Anything.  We can get it for you.  If you help us, we'll get you whatever you want.<br><br>(Boy 2 starts to whisper to his friend.  Rodney turns to Sam.)<br><br>McKAY: Oh, yes, good.  Great idea, yes.<br><br>CARTER: Thanks.<br><br>McKAY: Maybe you should show ‘em your, um ...<br><br>(He gestures to his own chest.)<br><br>CARTER: Excuse me?!<br><br>McKAY: Hey, I was once a ten year old boy too!  I know what gets their attention!<br><br>(He mimes lifting up his shirt and showing his chest to the boys.)<br><br>CARTER: McKay!<br><br>McKAY: What?  D'you wanna get out of here or not?!<br><br>CARTER: I think we can reason with them without resorting to that, thank you!<br><br>McKAY: If you say so.<br><br>(He turns to Jennifer hopefully.  She rolls her eyes and looks up to the boys.)<br><br>BOY 1: We're gonna go now.  Bye.<br><br>(The boys pull back from the hole.)<br><br>KELLER: No!  Wait-wait-wait-wait-wait!<br><br>(Boy 1's face appears again.)<br><br>BOY 1: Uh, good luck.<br><br>(He disappears again.  Rodney turns to Sam in irritation.)<br><br>McKAY: Would it have killed you to show them ...?<br><br>CARTER: Stop it, McKay!  It's not gonna happen.  (She looks at her watch.)  Four hours and fifty minutes.<br><br>McKAY: I'm warning you.  I mean, I can go crazy down here.  Look, ever since the Jumper thing a couple of years ago, I've been <I>very</I> bad with tight spaces.<br><br>CARTER: <I>Please</I>, that's nothing.  I was stuck in a transporter with <I>Zelenka</I> for three hours!  Now <I>that's</I> hard.<br><br>McKAY: Wait a sec.  What are you saying?  You don't like Zelenka?<br><br>CARTER: No, I just ...  It-it was more claustrophobic than this.<br><br>McKAY: Yeah, but that's not what you <I>said</I>.  You emphasised “Zelenka”.  You said being stuck with <I>Zelenka</I> for three hours – like <I>that</I> was the hard part.<br><br>KELLER: It <I>did</I> kinda sound that way.<br><br>CARTER: Look ...<br><br>McKAY: You can say you don't like him.  It's fine!  <I>I</I> don't like him!<br><br>KELLER: Oh, he's certainly a unique guy.  (She grimaces briefly at Sam.)  He's always telling me how nice my hair smells – it's a little weird.<br><br>CARTER: He's a very good person.<br><br>McKAY: Oh, sure-sure-sure-sure!  He's the best!  You just don't like him.<br><br>CARTER: I did not <I>say</I> that!<br><br>McKAY: No, you didn't <I>have</I> to.  I know which one's your favourite now.  (He points to himself.)<br><br>CARTER: It's not a contest!<br><br>McKAY: <I>Everything</I> is a contest.<br><br>CARTER (gesturing to the files): Don't you have some reading to do?<br><br>McKAY: There's nothing in there.  I mean, there's certainly nothing about the door code.<br><br>CARTER: So.<br><br>McKAY: So?<br><br>KELLER: Back to knotting.<br><br><br>LATER.  Sam and Jennifer are still knotting.<br><br>KELLER: Steve Carell or Stephen Colbert?<br><br>CARTER: Ooh!  Colbert, I think.<br><br>(Rodney is standing nearby.)<br><br>McKAY: Carell, but I would pick Jon Stewart over both of them.<br><br>CARTER: Hmm!<br><br>McKAY (hurriedly): ... if I was forced to.<br><br>CARTER: Uh-huh!<br><br>KELLER: Are you and Katie still, um ...?<br><br>McKAY: Oh.  Uh, well, it's kind of messed up now.<br><br>KELLER: Why?  What happened?<br><br>McKAY: Well, I was gonna propose ...<br><br>CARTER: You were?!<br><br>McKAY: Yeah, bought her a ring and everything, you know, was gonna ask her and then the quarantine error happened.<br><br>KELLER: What does <I>that</I> have to do with anything?<br><br>McKAY: Well, I don't particularly want to go into the details but, you know, I just, I told her that I needed some time for <I>me</I> – you know, it had nothing to do with <I>her</I>; I just – I just needed to figure some stuff out, and now she doesn't wanna speak to me, she's filed for a transfer back to Earth ...<br><br>KELLER: You broke up with her.  That's a break-up.<br><br>McKAY: No it isn't.<br><br>CARTER: Yeah, you did.<br><br>(Jennifer nods her agreement.)<br><br>McKAY: No, I said I needed some time for <I>me</I>.<br><br>KELLER: Yeah, code for “I'm not that into you any more.”<br><br>McKAY: But I meant it!<br><br>KELLER: It doesn't matter!  You can't almost propose to someone and then take it back.  It's a relationship-killer.<br><br>McKAY: Oh.  Well, I suppose it's for the best.  I mean, you know, she deserves to be with someone who would have known that.  (He smiles bravely.)<br><br>KELLER: What she deserves is to be with a nice guy, like you.<br><br>(Rodney smiles at her gratefully.)<br><br>CARTER (looking at the rope): Hey.<br><br>McKAY: What?<br><br>CARTER: We're finished.<br><br>McKAY: Ooh, finally!<br><br>(Sam picks up the grappling hook but Rodney snatches it away from her and walks away with it.  Sam throws up her arms in frustration.  Shortly afterwards, Jennifer pushes a crate out of the way as Rodney carries the rope to the area underneath the hole in the ceiling and drops it to the floor, holding the hook in his other hand.  As he shakes out the first part of the rope to make sure that it isn't tangled, he looks up as he hears children's voices above him in the distance.)<br><br>BOY'S VOICE: Here!  Over here!<br><br>McKAY: You guys hear that?<br><br>KELLER: It's the kids!  They've come back for us!<br><br>McKAY: Oh, I knew they were good kids!  I knew it!  (Shouting) Down here!  I knew you'd come back!  Guys?!<br><br>(The ceiling creaks ominously as the two boys walk to the edge of the hole and peer down.  A moment later two more boys walk into view.)<br><br>BOY 3: Woah!<br><br>BOY 1: See?  I <I>told</I> you they were down there!<br><br>CARTER: Are your parents up there?  Did you bring help?<br><br>BOY 2: No.  Our friends didn't believe us.  We bet them a week's supply of taffa that we were telling the truth.<br><br>BOY 4 (indignantly, to Boy 3): See?  I <I>told</I> you not to!<br><br>McKAY: Where are the adults?<br><br>BOY 1: We can't tell them!  We'll get in trouble!<br><br>McKAY: Trouble?!  You wait ‘til I get out of here, you little brats!  I'll show you what <I>trouble</I> is!<br><br>(The kids move away from the hole, then the room begins to shake.)<br><br>KELLER: Tremor!  We're moving!<br><br>(The three of them run to the side of the room and cling onto crates as the floor begins to tilt.  Under the floor, some of the struts begin to buckle.)<br><br>CARTER: We're tilting over!<br><br>(The tremor subsides.  The floor is now tilted about 25 degrees towards the red door.)<br><br>KELLER: It's stopped.<br><br>CARTER: The super-structure under this room must have buckled.<br><br>McKAY: One more tremor and this whole chamber's gonna fall into the chasm.<br><br><br>SHORTLY AFTERWARDS.  Sam has lit some of the lanterns she found earlier and Jennifer helps her hang them up around the room.  In the middle of the floor, Rodney is experimentally swinging the grappling hook around on the rope.<br><br>CARTER: Uh, d'you want me to do that?<br><br>McKAY: No, I can do it.  (He catches the hook.)<br><br>CARTER: Uh, well, it's just, have you ever done anything like this before?<br><br>McKAY: What, <I>you</I> have?<br><br>CARTER: Yes, actually, I <I>have</I>, a bunch of times.<br><br>McKAY: Yeah?  (Unconvincingly) Well, I mean, so have I.  You know, missions and such.<br><br>CARTER: OK.<br><br>McKAY: You should probably, uh ...<br><br>(Taking the hint, Sam moves away from.  Jennifer takes a moment longer to realise what he's talking about but then he gestures to the far wall.)<br><br>KELLER: Oh, right.<br><br>(She joins Sam at the wall in front of Rodney.)<br><br>McKAY: All right.  (He checks that he has enough free rope to swing, and looks up at the hole in the ceiling.)  All right.<br><br>(He swings the hook around three times and throws it.  The hook flies straight across the room and smashes into the wall near Sam's head, who ducks out of the way.  Sparks fly off the wall as the hook crashes against the metal of the wall.)<br><br>CARTER (indignantly): McKay!<br><br>McKAY: Sorry.  Sorry.<br><br>CARTER: You just about took my head off!<br><br>McKAY: Yeah, but I didn't <I>mean</I> to.  It ... slipped.<br><br>(Sam picks up the hook and walks into the middle of the floor.)<br><br>CARTER: Let <I>me</I> do it.<br><br>McKAY (trying to take the hook off her): I can do it.<br><br>CARTER: Apparently you can't.<br><br>McKAY: I can <I>do</I> it.  Just don't stand in front of me ...<br><br>(He looks at Jennifer, who smiles nervously.)<br><br>McKAY: ... or behind me.<br><br>(Shrugging, Sam lets him take the hook and moves to the side of him, taking cover behind a crate.  Jennifer trots over to join her.)<br><br>McKAY: OK.  Oh ... kay.<br><br>(He swings the hook three times and hurls it.  This time it goes upwards but doesn't get as far as the hole.  It crashes down again.  Rodney looks at it in exasperation, then turns to the girls.)<br><br>McKAY: See?  Almost there.<br><br>(They nod.  He goes over to the hook which has landed on top of a large metal pipe which runs through the room.  One of the prongs has embedded itself into the pipe.)<br><br>KELLER (encouragingly): You'll get it.<br><br>(Rodney tugs the hook off the pipe, leaving a large hole in it where the prong had been.  Unseen by him, colourless gas begins to flow out of the hole.)<br><br>KELLER: You can <I>do</I> this.  This is the one.  I can feel it – this is the one.<br><br>(Rodney swings the hook three times and hurls it upwards.  It still doesn't reach the hole and falls down again.  As it lands on top of the pipe, sparks fly and the gas ignites.  The blast sends Rodney flying.  Jennifer runs to get as far away as possible from the plume of flame spurting out of the pipe but Sam heads towards it.)<br><br>KELLER: What are you <I>doing</I>?!<br><br>CARTER: Stay there!<br><br>(She puts her hand on a metal wheel near the pipe but snatches it back again when she finds that it's already hot.  She pulls her sleeves down over her hands, then turns the wheel.  The gas cuts off and the flames die down.  Jennifer runs over to Rodney.)<br><br>KELLER: Anything hurt?<br><br>McKAY: Just my pride.<br><br>KELLER (smiling): That'll heal.<br><br>(Sam picks up the grappling hook and, using a much shorter length of rope, whirls the hook around five times before hurling it upwards.  The hook flies up and out of the hole and lands on the ground up there.)<br><br>KELLER: You did it!<br><br>McKAY (trying and failing to sound enthusiastic): Oh, great!<br><br>(Sam wraps the rope around her wrist and tugs down hard on it.)<br><br>CARTER: All right, here goes nothing.<br><br>(Slowly she puts her full weight onto the rope.  The hook promptly tears free and falls back into the hole, dragging a load of earth and grass down with it.  Sam runs out of the way until everything has finished falling, then walks back into the middle of the floor.)<br><br>CARTER: Oh, nuts.<br><br>(She picks up the hook, swings it five times and hurls it upwards.  Again it soars out of the hole.  Jennifer smiles.  Rodney doesn't look so happy that Sam has again succeeded where he failed.  Sam tugs on the rope again but as soon as she puts her full weight onto it, it again tears free and plummets back down, bringing another load of earth and grass down.)<br><br>CARTER: There's no way the hook can grab onto that soil.<br><br>(Jennifer looks down at the rope ruefully.)<br><br>KELLER: <I>All</I> those knots.<br><br>CARTER: Well, we had to try.  Any other ideas?<br><br>(Rodney looks around, then clicks his fingers several times as he has an idea.  He points up to a rectangular grid of metal beams suspended about ten feet above their heads.)<br><br>McKAY: See those beams up there?  We use the rope to get up there.  That buys us at least ten feet, <I>then</I> we build a bridge – a bridge using ... (he looks around the floor) ... using these.<br><br>(He picks up one of three wooden planks lying on the floor and drags it across to the girls.)<br><br>McKAY: Stack a couple of crates, we're gold, and we got that high before.<br><br>CARTER: Yeah, but I don't think these are long enough to span the distance between these two beams.<br><br>McKAY: So we find a hammer and nails.<br><br>CARTER: Sure – why not just add a jet pack and a trampoline to that list?<br><br>McKAY: It is possible to find a hammer and nails.<br><br>(He starts to search through the lockers.)<br><br>KELLER: We've been over the room pretty thoroughly.<br><br>McKAY (plaintively): But there's <I>gotta</I> be hammer and nails.<br><br>CARTER: Well, even if we found them ...<br><br>McKAY: Look, we just have to build a bridge.<br><br>KELLER: Wait a second, wait a second.  That bar bet.<br><br>CARTER: Sorry?<br><br>KELLER: That dumb trick you do to get free beer.<br><br>(Sam frowns and shakes her head at Rodney.  He looks equally blank and turns to Jennifer.)<br><br>McKAY: We don't know what you're talking about.<br><br><br>SHORTLY AFTERWARDS.  Jennifer has found three equally sized metal pots and has stood them upside down onto a crate in a triangle shape.  She has also found (or taken from their packs) three knives.<br><br>KELLER: The bet goes like this: using these three knives and without moving these three cups, you need to build a bridge that can support another cup's weight.<br><br>(Rodney looks exasperated and glances at Sam before turning back to Jennifer.)<br><br>McKAY: We don't have another cup.<br><br>KELLER: Well, whatever.  (She picks up a small plastic object from the crate.)  We'll use this.  OK, now, see ...<br><br>(She puts the handle of one of the knives onto one of the “cups” and shows that the blade won't reach the next cup.)<br><br>KELLER: Just like our boards, just a little too short to span the space between the two beams there.<br><br>(She gestures upwards.  Rodney looks up, then everyone looks nervous as the room creaks loudly.)<br><br>McKAY: OK, you know what?  We're geniuses, we can probably figure it out, but a little under the gun, so ...<br><br>KELLER: OK.<br><br>(She starts to put the knives into position on top of the cups, resting the blade of each on one cup each and pointing the handles into the middle of the triangle.  The handles meet and overlap.  She carefully interlaces them so that they lock together and support each other, then takes the plastic object and stands it on top.  Immediately Rodney walks away and gazes up at the beams thoughtfully, while Sam walks over to the wooden planks.  Jennifer turns and smiles at them smugly.)<br><br>KELLER: You owe me a beer, by the way.<br><br>McKAY: Hey, if this works, I'll buy you a keg.<br><br><br>LATER.  They're putting Jennifer's plan into action.  Sam is standing on one of the narrow metal beams and is keeping herself upright by hanging onto the cable which suspends one of the electric lights from the ceiling.  A rope has been slung over the beam and Jennifer is hauling on one end which has one of their backpacks tied to it to add weight.  One of the wooden planks is tied to the other end and Rodney is guiding it as Jennifer hauls it upwards.  As the plank reaches the beam and turns horizontal, Sam carefully crouches down and aims it in the right direction.  Shortly afterwards, Rodney has tied another of their backpacks onto the end of another rope and tosses the pack up and over a second beam.  Jennifer has nervously climbed up onto the beam and, clinging onto an upright, cautiously stands up as Rodney drags another plank across the floor.  Sam is busy tying the back end of her plank to her beam.  Later again, Rodney is up on a third beam and is hauling the third plank up to him.  Straining with the effort, the three of them lean onto the ends of their planks to bring them up horizontal and laboriously struggle to interlock the ends together.  Finally they succeed and Sam, hanging onto the electric cable for support, tentatively puts the weight of her front foot onto the bridge and gently bounces it a couple of times.  It holds.<br><br>(A little later, Sam is standing in the middle of the bridge.  Jennifer stands with one foot on the bridge and the other on the beam while Rodney is back on the ground and is straining to lift the large crate which the girls are pulling up with ropes.  The crate rises above Rodney's hands and he watches as the girls haul it the rest of the way and place it in the middle of the bridge.  They pull up a smaller crate and put it on top of the other one.  As Jennifer stands on the beam and Sam steps up onto the lower crate, her head is only a couple of feet below the hole in the ceiling.  Everything creaks ominously.  Jennifer backs away on her beam.)<br><br>KELLER: Maybe this wasn't such a good idea.<br><br>(Sam looks up.  There's a horrendous cracking sound somewhere in the woodwork.)<br><br>McKAY: Listen.  I know I have a reputation for being overly pessimistic, but I really think you should come down right now before it all collapses.<br><br>(Sam looks down at him, then slowly starts to straighten up.  The wood creaks again.)<br><br>McKAY: Sam.  Sam, just head back.<br><br>CARTER: I'm almost there.<br><br>(She reaches up to the edge of the hole, putting her knee onto the top crate.  Just then, with irritating bad timing, another tremor starts.)<br><br>KELLER: Oh no.<br><br>(She lets go of the electric cable and heads for the relative safety of a metal upright.  In the middle of the bridge, the planks snap and the crates and Sam plunge downwards.  She crashes into the middle of the splintering wood.)<br><br>KELLER: Sam!<br><br>(Rodney races over to Sam as she lies on her back groaning.)<br><br>McKAY: Don't move!  Don't move!<br><br>(He looks up to make sure that nothing else is going to fall on her.  Jennifer climbs down a rope and hurries over to Sam as she continues to groan.)<br><br>KELLER: Let me see.<br><br>(She starts to check her over.  Sam wails as Jennifer touches her leg.)<br><br>KELLER: Your leg is broken.<br><br>CARTER: We're in trouble now, aren't we?<br><br>McKAY: No, we'll be fine.  We just, uh ... we'll be fine.<br><br><br>LATER.  Jennifer has rolled up Sam's trouser leg and has fetched her medical kit.<br><br>KELLER: OK.  (She looks at Rodney.)  Will you help me?<br><br>(Rodney nods.)<br><br>KELLER: OK.  One hand here, on her knee ...<br><br>(Rodney puts his hand in place.  Jennifer pulls Sam's sock down a little.  Sam grunts in pain.)<br><br>KELLER: ... one hand down here near her ankle.  Keep it nice and straight.<br><br>(As Rodney takes Sam's ankle with his other hand, Jennifer looks at her.)<br><br>KELLER: You're not gonna like this, but I've got to take your boot off.<br><br>CARTER (her voice full of dread): Yeah, I thought you might.<br><br>(Rodney grimaces at the look of pain on Sam's face.  Jennifer unlaces her boot.  Sam grimaces as she braces herself.)<br><br>KELLER: OK.  Here it comes.<br><br>(As carefully as she can, she pulls the boot off.  Sam yelps in pain.)<br><br>KELLER: OK.<br><br>(She pulls the sock off.)<br><br>KELLER: Tell me when you can feel my finger on the bottom of your foot.<br><br>CARTER: OK.<br><br>(Jennifer gently presses her finger against the sole of Sam's foot about halfway up.)<br><br>CARTER: Yep.  Yeah.<br><br>(Jennifer moves her finger to the other side just under the ball of the foot.)<br><br>KELLER: Here?<br><br>CARTER: Yeah.<br><br>KELLER: OK.<br><br>(She looks around and picks up a broken piece of plank, then looks at Rodney.)<br><br>KELLER: We need to find another one of these, make a split.<br><br>McKAY: OK.<br><br>(They stand up and start to look around for a suitably sized piece of wood.  As Jennifer picks up a small piece and looks it over, Rodney walks over to her.)<br><br>McKAY (quietly): Look, how bad is she?<br><br>KELLER (quietly): Well, it's not so bad.  She still has feeling in her foot, so there doesn't seem to be any nerve damage, but the break's pretty severe ... which means there may very well be internal bleeding.<br><br>McKAY: Yeah, but that's ... I mean, that's <I>bad</I>, isn't it?<br><br>KELLER: Well, it's not really good, no.  I mean, I would need to get her under a scanner.<br><br>McKAY: OK, worst case scenario: she's bleeding internally.  How long has she got before she ... before it becomes very serious?<br><br>KELLER: An hour.<br><br>McKAY: Oh, boy.<br><br>KELLER: Come on.<br><br>(She leads him back to Sam.)<br><br>CARTER: So, what?  An hour before internal bleeding becomes a problem?<br><br>McKAY: How did you ...?<br><br>CARTER: It's not my first rodeo, Rodney.<br><br>(Jennifer unzips her kit and hands a blister pack of pills to Sam.)<br><br>KELLER: Here's some ibuprofen.<br><br>McKAY: Ibuprofen?!  That's the strongest thing you've got?!<br><br>KELLER: It's all I have in this basic kit – although from this point on I think I'm making morphine mandatory ... (she glances up at the ceiling) ... as well as maybe a grappling gun.<br><br>CARTER (chewing on the tablets as Jen starts to splint her leg): I wouldn't take the morphine.  Gotta keep a clear head.  We still have to figure out a way out of here – at least, one of us does.  Chances are pretty slim that I'm gonna climb out.  Ow.<br><br>McKAY: Yeah, well, the crates are out.<br><br>CARTER: Yeah.<br><br>McKAY (to Jennifer): Hey, if you've got an idea, feel free.<br><br>KELLER: Hey, I came up with the bar trick thing, OK?  And that didn't work out so well, so I think I'll just leave it to the pros.<br><br>McKAY: Yeah.<br><br>(He looks hopefully at Sam.)<br><br>CARTER: Sorry.  All my energy's focussed on not screaming in agony.<br><br>McKAY: Wonderful(!)  OK, well, the grappling hook didn't work because the hook wouldn't hold our weight in the soil; the crates didn't work because Sam was too heavy ...<br><br>(Sam turns her head and looks at him indignantly.)<br><br>McKAY: Oh, well, we <I>all</I> would've been – I mean our weight in general.  Nothing to do with you, you just .. I mean, you're in very good shape, seriously.  You have like, uh, the perfect body.<br><br>(Jennifer, who had wandered off to find something to use as a pillow for Sam's head, comes back and squats down beside her, glaring up at Rodney darkly.)<br><br>McKAY: Oh, not that you <I>don't</I>.  Oh, no, no-no, I realise that your bodies are different and-and-and, uh, uh, maybe that would mean that I think that your body is <I>im</I>perfect but that is not the case.  No, no-no, far, far, far from it.  That is a sweet ... uh, which is to say, I mean, it would be impossible for me to choose which of you ...<br><br>CARTER: Rest assured, you're never gonna have to.<br><br>KELLER: Aw, if we'd kept quiet, I bet he would have gone on like that forever.<br><br>McKAY: OK, I'm sorry.  (He gestures towards Jennifer.)  What it mean is that <I>you</I> have ...<br><br>CARTER: Rodney.<br><br>(He stops and looks at her.)<br><br>CARTER: Stay on topic.<br><br>McKAY: Right, right, OK.  Uh, where was I?  Uh, all right, look.<br><br>(He goes over to a metal pole leaning against the wall and brings it back to them.)<br><br>McKAY: If we can get this rod up there, attach the rope to it, it'll lay across the hole, support our weight.  We don't have to worry about the soil.<br><br>KELLER: You were barely able to get the grappling hook up there.<br><br>McKAY: “Barely”?!  Were you not watching?  It was ...<br><br>CARTER: It's just that it's a lot heavier than that.<br><br>McKAY: So, we ...<br><br>(He looks around for inspiration and finds it as he spots the gas pipe.)<br><br>McKAY: A detonator.  I need a detonator.<br><br><br>LATER.  Rodney switches on a detonator and puts it into the end of a large thick pipe which he has found.<br><br>McKAY: First you fix the detonator in the bottom of the tube.<br><br>(He picks up the tube.)<br><br>McKAY: OK.  Now ...<br><br>(He takes it across to the gas pipe where Jennifer has wrapped some cloth around the hole in the pipe, leaving the hole open.  He stands the tube up on top of the material and Jennifer takes the tube from him, supporting its weight whle holding it in place.)<br><br>McKAY: ... we have to seal the bottom of the tube around the gas leak, like so.<br><br>(He picks up some more cloth and wraps it around the bottom of the tube to form a seal.  He then goes and collects a couple of pieces of metal rod which he has taped together.  He has also tied the end of a rope to it.  He takes it over to the tube which is pointing up towards the hole in the ceiling.  Jennifer is packing some more cloth into the top of the tube.)<br><br>McKAY: All right, so, put the wadding and the rod into the barrel, and then gently create a seal.<br><br>(Jennifer hands him some more cloth.)<br><br>McKAY: Don't pack it too tight, otherwise we've got ourselves a pipe bomb, but if we play it right ...<br><br>(He and Jennifer push the rest of the cloth into the tube.)<br><br>McKAY: ... our very own cannon.<br><br>KELLER: You really think this is gonna work?<br><br>McKAY: It should.<br><br>(Jennifer finishes pushing the cloth into the tube, then steps back and looks at Rodney.)<br><br>KELLER: You can build a cannon, just like that?<br><br>McKAY: Please!  I've got access to pressurised gas.  It's a cinch!  You should have seen my Grade Six science project.  I actually had to ...<br><br>(Sam, now sitting up against the wall, sighs tiredly.)<br><br>CARTER: Rodney.<br><br>McKAY: Right.  OK.  Yeah.<br><br>(He and Jennifer move behind the tube.  She squats down behind it, holding the bottom of it, and, closing one eye, sights up the length of it to make sure it's pointing towards the hole in the ceiling.)<br><br>McKAY: All right.  Ready?<br><br>(She nods.  Rodney turns the wheel to release the gas into the tube for several seconds, then turns it off again.)<br><br>McKAY: All right.  OK.  And ... are we ready?<br><br>(Being so close to the tube, Jennifer looks really nervous and can't help but shake her head but then turns it into a nod.)<br><br>KELLER: Ready.<br><br>(Rodney takes out the trigger from his pocket.)<br><br>McKAY: Fire in the hole.<br><br>(He presses the trigger and there's an explosion inside the tube.  The metal rod soars upwards, trailing the rope behind it, and disappears out of the hole in the ceiling.  The rope, secured to a crate at the other end, reaches the end of its length and the rod drops to the ground outside.)<br><br>McKAY: Nice aim!<br><br>CARTER: Nice cannon!<br><br>(Rodney goes over to the bottom end of the rope and unties it from the crate.  Walking underneath the hole he begins to pull the rope and rod back towards the hole.  Jennifer takes hold of the very end of the rope.  Soil gets dragged in and falls on his head.  He moves out of the way and continues pulling the rope in.  Even more earth and grass starts tumbling in until it's like a small avalanche.)<br><br>CARTER: Uh, McKay?  You should stop.  There's too much dirt coming in.  The room's gonna get too heavy.<br><br>McKAY: I've almost got it!<br><br>(As he keeps pulling, more earth cascades into the room.  The metal begins to groan and, underneath the room, the stilts underneath the red door buckle.  One of them cracks and breaks and the room tilts to about forty five degrees.  Jennifer loses her balance and tumbles towards the red door, which swings open under her weight and she falls through and drops into the chasm, screaming.  However, she's still holding onto the rope and it breaks her fall about twenty feet below the room.  Rodney clings onto the other end.)<br><br>CARTER: Jennifer!<br><br>KELLER: Down here!  Rodney, don't let go!<br><br>(Wide-eyed, Rodney has his arm wrapped around a metal upright and struggles to hold Jennifer's weight.  Sam pushes a crate out of her way and drags herself across the floor to the doorway.  She hauls herself into the doorway and looks down at Jennifer dangling below her.)<br><br>KELLER: Rodney, don't let go!<br><br>CARTER: Rodney?<br><br>McKAY: Sam, I can't hold it.<br><br>CARTER: Yes you can!<br><br>(Rodney whimpers.)<br><br>McKAY: No, no, I've never been good at holding heavy things.  I had an old lady's grocery cart when I was in college; it's one of the reasons I didn't date as much as I could have!<br><br>CARTER: Stay focussed!  You need to pull her up!<br><br>McKAY: Oh, really?(!)  I was just getting used to the idea of not letting go here!<br><br>CARTER: She can't hang here forever, Rodney!<br><br>McKAY: Well, <I>help</I> me!<br><br>CARTER: Help you?  I can't even stand up.  You're gonna have to pull her up on your own.<br><br>(Realising that he can't do that with one arm wrapped around the metal upright, Rodney reluctantly lets go and moves away from it.  Jennifer drops another few feet, squealing.  Straining, he starts to slowly haul her in.)<br><br>KELLER: Hang on, wait a minute, don't pull me up!<br><br>(She has managed to calm down a little and is looking around the chasm.)<br><br>McKAY: What?!  Why?<br><br>KELLER: I see light!<br><br>McKAY: No-no-no-no-no!  Don't go towards the light!  You wanna stay in the land of the living!<br><br>KELLER: No!  <I>Day</I>light!  There's a mineshaft down there.  I see daylight!<br><br>CARTER: Of course!  Just like the ones on the other side of the mine.  We should have thought of that.<br><br>McKAY (straining to support Jennifer's weight): Guys, what do you want me to do?  What do I do?!<br><br>KELLER: Lower me!<br><br>McKAY: What?!  <I>Lower</I> you?!<br><br>KELLER: It's about ten feet away.  I just need to swing over.<br><br>McKAY: If the mineshaft is harder to get out of than this chamber ...<br><br>CARTER: We've already lost our exit, Rodney.<br><br>McKAY: What?<br><br>(He looks up.  The hole in the ceiling is completely covered in earth.  It must have tilted so far over that it has become buried in the soil.)<br><br>KELLER: I'll take my chances.  Just lower me.  I can't hold on forever.<br><br>McKAY: You and me both.<br><br>(Slowly he starts to lower her down.  After she has gone down several feet, she calls out.)<br><br>KELLER: OK, good, stop.<br><br>McKAY (grimacing against the strain): Gladly.<br><br>(Jennifer starts to pendulum her body so that she swings back and forth.  Sam calls back encouragingly to Rodney.)<br><br>CARTER: You're doing great, Rodney.  You're doing just great.<br><br>McKAY: No, “great” is a beach with a fibreoptic hook-up.  <I>This</I> is just complete agony.<br><br>(Jennifer swings towards the mineshaft again and manages to grab hold of a pipe on the wall.  She pulls herself into the shaft and lets go of the rope.  Rodney flies backwards and crashes to the floor.)<br><br>KELLER: I made it!<br><br>McKAY (sitting up): You could have warned me!<br><br>(Jennifer goes a little way along the shaft and looks along it, then comes back to the opening and calls up.)<br><br>KELLER: This thing leads straight out!  It's a nice steady slope!  Come on, you guys, you've gotta get down here!<br><br>(Sam turns to Rodney.)<br><br>CARTER: You go.<br><br>McKAY: What?  No way.<br><br>CARTER: There's no way I'm gonna be able to lower myself.<br><br>McKAY: You won't have to.  <I>I'll</I> lower you.<br><br>CARTER: Rodney, your hands.<br><br>(He looks down at his hands.  They're shaking with the strain they've been under, and his palms are covered with blood from rope burns.)<br><br>McKAY: Look, I'm not leaving you behind.  Come on – I'll make you a seat.<br><br><br>LATER.  Rodney has made a bosun's chair from rope and Sam is in it and slowly descending into the chasm.  Up in the room, Rodney has flung the rope around a metal upright and it is taking most of the weight as he slowly lowers Sam downwards.  She can't help but groan as she jerks downwards.  Rodney too is groaning with the effort and the pain in his hands, even though he has wrapped some material around them to protect them a little.  Finally Sam calls up.<br><br>CARTER: OK, that's good!  Stop!<br><br>McKAY: Stopping!<br><br>(He and Sam have thought about how to get her to the mineshaft and she is holding another length of rope.  She tosses one end towards Jennifer, who catches it.)<br><br>KELLER: OK.<br><br>(She starts to pull Sam towards her.)<br><br>KELLER (calling up to Rodney): Almost there!  Just give me a few more feet of slack!<br><br>(Sam manages to grab hold of the pipe on the wall and Jennifer pulls her the last few feet until she's sitting on the floor of the shaft.  Jennifer calls up.)<br><br>KELLER: OK, I've got her!<br><br>(Gasping with relief, Rodney drops the rope.)<br><br>KELLER: You're up, McKay!<br><br>(Leaning over against the 45 degree tilt of the room, Rodney sags with exhaustion.)<br><br>McKAY: Oh great!  Great!  You know, I was just thinking what would be awesome would be more physical exertion!<br><br><br>LATER.  Rodney has tied a rope to the metal upright and has climbed down until he is level with the mineshaft.<br><br>KELLER: Come on.  Now start swinging.<br><br>(With his back to her, Rodney grimaces.  He is shaking with pain and weariness.)<br><br>KELLER: Rodney, you have to use your body and start swinging.  Come on, you're <I>so</I> close.<br><br>McKAY: No, I've given everything I've got to get this far.<br><br>KELLER: So that's it, then?  You're quitting?  You're just gonna die there on the rope?<br><br>McKAY (starting to get irritated): No.  No, I'm just taking a little rest.<br><br>(Above him, unseen by anyone, the part of the rope bent at ninety degrees over the lip of the doorway begins to fray.)<br><br>McKAY (plaintively): You know, I might ... be like a real-life action star, kinda.<br><br>KELLER: What?<br><br>McKAY: You know: shooting guns, running around, saving people.  (He grimaces in pain.)  You think I'd be ... you think this'd be easy for me now.  You think I'd be, like, super-buff by now.<br><br>KELLER: Hey, come on, Schwarzenegger, start swinging.<br><br>McKAY: Just a second more.<br><br>(He closes his eyes to gather his strength, but they snap open a moment later as the room above him begins to creak loudly.)<br><br>McKAY: OK.  Break's over.<br><br>(He starts to swing himself backwards and forwards.  Jennifer reaches for him.  On the third swing he holds out his hand towards her but isn't near enough.  Above him, the rope continues to fray.  He swings again ... and again, and finally Jennifer manages to grab his hand.  Right on cue, the rope snaps and he falls into the mineshaft, knocking Jennifer over.  As she scrambles up, he looks up at her as the room above them groans loudly again.)<br><br>McKAY: That was close.<br><br>(Just then, soil and rock begin to tumble past the opening of the shaft.  Seconds later the room lets go and plunges past the opening on its way to the bottom of the chasm.)<br><br>McKAY: Great!  (He points down the chasm.)  <I>That</I> was close.<br><br>(Jennifer nods in agreement.)<br><br>KELLER: OK.  C'mon.  (She looks around at Sam, then turns back to Rodney.)  You need to help me.<br><br>(They clamber to their feet and head towards Sam.)<br><br><br>ATLANTIS.  INFIRMARY.  Rodney and Jennifer are sitting side by side on the edge of a bed.  Jennifer has had her hands bandaged and is looking at a report being held for her by a medic while a doctor is finishing off bandaging Rodney's hands.<br><br>KELLER: Looks good.  OK, thank you.<br><br>(The medic walks away.)<br><br>McKAY: How's Sam?<br><br>KELLER: She's gonna be OK.  It's a clean break.  Still, they're re-setting it and putting her into a cast, which means she's gonna be on crutches for a few weeks or so, but ...<br><br>(The doctor finishes dressing Rodney's hands.  Jennifer smiles at him as he walks away.)<br><br>KELLER: Thank you.  (She finishes her earlier sentence.)  She's gonna be fine.  How're <I>you</I> doing?<br><br>McKAY: I'd like to take a bath in whatever magical ointment they just put on my hands, ‘cause they're the only thing that doesn't hurt.  It's not gonna scar, is it?<br><br>KELLER: Chicks dig scars.<br><br>McKAY: Not the chicks <I>I</I> dig.<br><br>KELLER: You're gonna be fine.<br><br>(Rodney nods, not totally convinced.)<br><br>KELLER: Thanks, by the way.<br><br>McKAY: For what?<br><br>KELLER: You saved my life.  If you'd let go ...<br><br>McKAY: Ah, you're welcome.  Right, well, I'm going back to my room, curling up in the foetal position and sleeping for the next three days.<br><br>KELLER: Oh, well, not quite yet.<br><br>McKAY: Hmm?<br><br>KELLER: You owe me a beer from the bar trick thing earlier.  You couldn't figure it out, so ...<br><br>McKAY: Well, there was no time!  I would have figured it out!<br><br>KELLER: Yeah, well, eventually <I>chimps</I> would have been able to figure it out, but the thing is, <I>you</I> didn't, so I win, and you owe me a beer.<br><br>McKAY: I don't remember ever agreeing to the beer!<br><br>KELLER: McKay.<br><br>McKAY: What?<br><br>KELLER: D'you wanna have a drink with me or not?<br><br>(Rodney stares at her in surprise.)<br><br>McKAY: What – you wanna have a drink?<br><br>(Jennifer looks at him, smiling.)<br><br>KELLER: You're not very good at this, are you?<br><br>McKAY: Uh, no.  No, I'm not.<br><br>(She laughs.)<br><br>KELLER: C'mon.<br><br>(They hop down off the bed and leave the room.)
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="415.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s4/416.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="417.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s4/index.shtml">
+<IMG SRC="/graphics/title_s4episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Four Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="401.shtml" CLASS="list">Adrift</A><BR><A HREF="402.shtml" CLASS="list">Lifeline</A><BR><A HREF="403.shtml" CLASS="list">Reunion</A><BR><A HREF="404.shtml" CLASS="list">Doppelganger</A><BR><A HREF="405.shtml" CLASS="list">Travelers</A><BR><A HREF="406.shtml" CLASS="list">Tabula Rasa</A><BR><A HREF="407.shtml" CLASS="list">Missing</A><BR><A HREF="408.shtml" CLASS="list">The Seer</A><BR><A HREF="409.shtml" CLASS="list">Miller's Crossing</A><BR><A HREF="410.shtml" CLASS="list">This Mortal Coil</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="411.shtml" CLASS="list">Be All My Sins Remember'd</A><BR><A HREF="412.shtml" CLASS="list">Spoils of War</A><BR><A HREF="413.shtml" CLASS="list">Quarantine</A><BR><A HREF="414.shtml" CLASS="list">Harmony</A><BR><A HREF="415.shtml" CLASS="list">Outcast</A><BR><A HREF="416.shtml" CLASS="list">Trio</A><BR><A HREF="417.shtml" CLASS="list">Midway</A><BR><A HREF="418.shtml" CLASS="list">The Kindred, Part 1</A><BR><A HREF="419.shtml" CLASS="list">The Kindred, Part 2</A><BR><A HREF="420.shtml" CLASS="list">The Last Man</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Four</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B0019J2UHW/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B0017MO11O/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls4.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="415.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s4/416.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="417.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

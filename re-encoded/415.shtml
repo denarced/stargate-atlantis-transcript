@@ -1,0 +1,527 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Outcast" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s4/415.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s4/transcripts/415.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=571">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=326">Screen Captures</A><BR>
+				<A HREF="/atlantis/s4/415.shtml#analysis">Analysis</A>
+				
+				
+				
+				 | <A HREF="/atlantis/s4/415.shtml#production">Production</A>
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=50908">Fan Reviews</A>
+				 | <A HREF="http://forum.gateworld.net/forumdisplay.php?f=111">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s4/415.shtml"><IMG SRC="/atlantis/graphics/415_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="OUTCAST" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://click.linksynergy.com/fs-bin/stat?id=2cvd55rHd*s&offerid=78941&type=3&subid=0&tmpid=1826&RD_PARM1=http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewTVShow?id=179127311&partnerId=30" TARGET="_blank"><img height="15" width="61" border="0" alt="iTunes" src="/store/graphics/itunes_button.gif"></img></a> &nbsp; <a href="http://www.amazon.com/exec/obidos/ASIN/B0013FU3HG/bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 415<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 4, Disc 4<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 02.01.08<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 03.02.09<BR>
+				    <STRONG>STORY BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0281167/" TARGET="_blank">Joe Flanigan</A><BR>
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0567166/" TARGET="_blank">Alan McCullough</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0586539/" TARGET="_blank">Andy Mikita</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">While on personal leave on Earth, Sheppard and Ronon learn that scientists have engineered a human-form Replicator -- who is now on the loose.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    ATLANTIS.  John Sheppard and Ronon Dex are walking along a corridor.<br><br>DEX: I watched it last night.  There was hardly any fighting.<br><br>SHEPPARD: That's 'cause it's not about fighting.<br><br>DEX: Then why's it called "Blades of Glory"?<br><br>SHEPPARD: 'Cause it's about ... <I>skate</I> blades.<br><br>DEX: And this is a real sport?  Men and women dancing around on ice?<br><br>SHEPPARD: Unfortunately.<br><br>DEX: Your planet's weird.<br><br>SHEPPARD: Mmm, you can say <I>that</I> again.<br><br>(They reach the door to his quarters and John swipes his hand over the wall panel.  Just then, Samantha Carter walks over to them.)<br><br>CARTER: Colonel.<br><br>(The boys turn to face her.)<br><br>CARTER: I was just coming to see you.  Do you have a minute?<br><br>SHEPPARD: Yeah, sure.<br><br>(Sam glances nervously at Ronon, unsure whether she should be talking to John in front of him, but then continues.)<br><br>CARTER: I received a message from Stargate Command.  I'm afraid I have some bad news.<br><br>SHEPPARD: OK.<br><br>CARTER: Your father suffered a heart attack last night.<br><br>(John stares at her, shocked.)<br><br>CARTER: I'm sorry, John, but he passed away.<br><br><br>EARTH.  In a research facility somewhere, a screen shows a satellite map of the world.  A scanner is running over various areas of Europe, searching news and press information.  The scanner moves across to North America and stops and beeps repeatedly as the message "SEARCH CRITERIA MATCH" appears on the screen.  A young woman walks over to the screen and pulls up the front page of Globe Business.  The headline reads, "Utilities Mogul Patrick Sheppard dies at 69."  Underneath is a photograph of John's father.  The woman sends the page across to a printer on the other side of the room and walks over to await the printout.  On a table nearby are several other printouts of newspaper reports.  One shows a photo of Sam Carter's presentation to the Applied Technologies conference during the SG-1 episode "Bounty".  The headline reads, "Hologram System Wows Crowd."  Another printout shows a newspaper article with a photo of Sam in her dress blues.  The headline reads, "Air Force Colonel Wins Second Binder Prize".  A third printout shows a photograph of Henry Wallace, the man who kidnapped Jeanie Miller in "Miller's Crossing," with the headline "Scientist Awarded $600K Grant".  Also on the table is a photograph of Ronon taken outside the Millers' house during the events of "Miller's Crossing," together with a couple of photos of John taken at the same time.<br><br><br>ATLANTIS.  In his quarters, John is packing some clothes into a bag to take back to Earth.  The doors open and Rodney McKay walks in.<br><br>McKAY: Hey.  I, uh, heard what happened.  I'm very sorry.<br><br>SHEPPARD: Thanks.<br><br>(He finishes packing.  Rodney walks closer.)<br><br>McKAY: You OK?<br><br>SHEPPARD: Yeah, I'm fine.<br><br>McKAY: You know, I requested to go back with you, but the Ancient device at M7G-677 is malfunctioning.<br><br>SHEPPARD: That the planet with all the kids?<br><br>(Rodney grimaces.)<br><br>McKAY: Yeah.<br><br>SHEPPARD: Well, that should be fun for you(!)<br><br>McKAY: Yeah, well, believe me, I'd get out of it if I could, but without the E.M. field they're an easy target for the Wraith.  I guess it's just bad timing.<br><br>SHEPPARD: Hey, don't worry about it.<br><br>(They look at each other awkwardly for a moment.)<br><br>McKAY: If you wanna ... you know ... talk or ...<br><br>SHEPPARD: Rodney.  I'm fine.<br><br>(His facial expression shows that he's not fine at all, but Rodney takes the hint that he doesn't want to talk.)<br><br>McKAY: Right.<br><br>(He hesitates, wishing he could think of the right thing to say, but eventually coughs uncomfortably and turns and leaves the room.)<br><br><br>GATEROOM.  John stands in front of the Stargate holding his bag as the Gate begins to dial out.  He stands there alone for several seconds as the Gate continues to dial, then Ronon walks over and stands beside him holding a bag.  John looks at him.<br><br>SHEPPARD: Where are <I>you</I> goin'?<br><br>DEX (without looking at him): With you.<br><br>(The Gate kawhooshes and Ronon heads towards it.  John frowns, then follows him.)<br><br><br>WORMHOLE TRAVEL.<br><br><br>EARTH.  Cars pull up the drive to a large house.  Many people, all wearing black, are milling around outside the house.  John  wearing a black suit and dark tie with a muted pattern on it  and Ronon  wearing black slacks and a dark jacket  get out of a car and walk towards the house.<br><br>DEX: Lot of people.<br><br>SHEPPARD: Yeah.  The old man was pretty well connected.<br><br>(A man standing on the steps of the house is talking to some of the visitors but now walks towards John.)<br><br>DAVE: John.<br><br>SHEPPARD: Dave.<br><br>DAVE: I wasn't sure you were gonna make it.<br><br>(They shake hands.)<br><br>DAVE: It's good to see you.  I contacted your unit commander at Peterson but sometimes those messages don't seem to reach you.<br><br>SHEPPARD: Well, I came as soon as I heard.<br><br>(Dave nods, then looks curiously at Ronon.)<br><br>SHEPPARD: Uh, this is Ronon.  Ronon, this is Dave, my brother.<br><br>DEX: Yeah.  Nice to meet you.<br><br>DAVE (shaking his hand): Pleasure.  You two work together in the Air Force?<br><br>SHEPPARD: He's a civilian contractor.<br><br>(Dave looks at him, obviously not believing it for a moment.)<br><br>DAVE: Right.  Anyway, John, I think we should probably talk.<br><br>SHEPPARD: Yeah.<br><br>DAVE: I'll catch up with you later.<br><br>(John nods, and Dave turns and walks off.  A short distance away, the woman who we saw earlier in the research facility stands watching the Atlantis boys.)<br><br><br>SHORTLY AFTERWARDS.  Patrick Sheppard's closed casket is in one of the rooms of the house, with a large photograph of him on a stand nearby.  A couple of mourners leave the room.  John nods to them as he walks in and slowly approaches his father's casket, self-consciously buttoning up his jacket as he goes.  As he gazes down at the casket, Ronon comes to the doorway, then stops and respectfully turns away to leave John to mourn on his own.  John continues to gaze at the casket, his face full of pain and memories.<br><br><br>A LITTLE LATER.  Ronon has found a food table in the garden and is loading as many sandwiches and cakes as he can onto a plate.  He looks up at a man and woman who are watching him from the other side of the table.<br><br>DEX: This is free, right?<br><br>WOMAN: Yes, it's free.<br><br>DEX: Excellent.<br><br>(He loads some more food onto his plate, then wanders off, smiling at a waitress as he goes.  He rejoins John, who is standing in the garden gazing into the distance.)<br><br>DEX (with his mouth full): Lots of food over there.<br><br>SHEPPARD: I'm good.<br><br>DEX: This the house you were raised in?<br><br>SHEPPARD: One of them.<br><br>DEX: That's nice.<br><br>SHEPPARD: Yeah.  Couldn't wait to get out of here.<br><br>DEX: Yeah?  Why?<br><br>SHEPPARD: My dad's idea of teenage rebellion was going to Stanford instead of Harvard.<br><br>(He smiles at Ronon, who frowns back, uncomprehending.)<br><br>SHEPPARD: Never mind.  He just  he had everything planned out for me since I was about fourteen.<br><br>DEX: So what do we do now?<br><br>SHEPPARD: Mostly people sit around, drink ... (he looks down at Ronon's plate) ... eat  some more than others.  Mostly they talk.  They don't know what to say, but they talk.<br><br>(Ronon looks at the people all around.  He sees Dave talking and laughing with the minister and some other mourners.)<br><br>DEX: Your brother seems to be handling it well.<br><br>SHEPPARD: That's what he does  he handles things.<br><br>DEX: How come you never mentioned him before?<br><br>SHEPPARD: It's complicated.<br><br>(There's an awkward pause for a while, then John looks round and sees a woman approaching, wearing a simple black dress.  He looks away, shocked, then lowers his head briefly.)<br><br>SHEPPARD: I told you I had an ex-wife, right?<br><br>DEX: Yeah, why?<br><br>SHEPPARD: Here she comes.<br><br>(He turns to face her.)<br><br>NANCY: Hi, John.<br><br>SHEPPARD: Nancy.  I didn't expect to see you here.<br><br>(She hugs him sympathetically.)<br><br>NANCY: I'm very sorry.<br><br>(As she breaks the hug and steps back, John gestures towards Ronon.)<br><br>SHEPPARD: Nancy, Ronon.  Ronon, Nancy.<br><br>(Nancy offers her hand to Ronon, who wipes his hand on his jacket before taking it.)<br><br>NANCY: Pleased to meet you.<br><br>SHEPPARD: How long're you here?<br><br>NANCY: Just for today.  I have to be in Washington tomorrow, so ...<br><br>SHEPPARD: Still with Homeland Security?<br><br>NANCY: Yeah.  I just got promoted.  I'm a director now.<br><br>SHEPPARD: Oh, congratulations.<br><br>(She smiles at him.  They pause awkwardly for several seconds.)<br><br>SHEPPARD: How's  how's Greg?<br><br>NANCY: Grant.<br><br>SHEPPARD: Grant.<br><br>(He grimaces.  Ronon turns and walks a few paces away, perhaps to hide a smile, and stands with his back to them, eating some of his food.)<br><br>NANCY: He would have come, but he's trying a case in Phoenix.<br><br>SHEPPARD: Sounds like he's doing well.<br><br>NANCY: Yeah, he is.  He's, uh ... yeah, he's doing well.  (She smiles awkwardly again, then looks serious.)  You know, your dad was always very good to me.<br><br>SHEPPARD: Well, in <I>his</I> mind, marrying you was probably the best thing I ever did.<br><br>(Nancy smiles a little bitterly at the emphasis which John made.)<br><br>NANCY: OK.  Well, it's good to see you again, John.  Take care of yourself.<br><br>(John nods.  She looks over to Ronon.)<br><br>NANCY: It's nice to meet you.<br><br>(Ronon turns around, his mouth full of food.)<br><br>DEX: Oh, it's nice to meet you.<br><br>(Nancy turns and walks away.)<br><br><br>LATER.  Inside the house is a room with a bar.  A barman is serving drinks to the mourners.  John and Ronon walk in and go over to the bar.  Before they can order anything, the young woman from the research facility walks over to them.<br><br>DIXON: Lieutenant Colonel John Sheppard?<br><br>SHEPPARD: Yes.<br><br>DIXON: My name is Ava Dixon.  (She looks at Ronon.)  You must be Ronon.<br><br>SHEPPARD: Do I know you?<br><br>DIXON: No, we've never met, but you knew the man I used to work for  Henry Wallace.<br><br>(John shrugs.)<br><br>SHEPPARD: Doesn't ring a bell.<br><br>DIXON (quietly): Look, I realise you have to keep up appearances in public, but I don't have time to play games.  Henry Wallace was the man who kidnapped your colleague, Doctor Rodney McKay, and forced him to work on a highly illegal research project involving alien technology ...<br><br>(John grabs her arm and leans in close to her face.)<br><br>SHEPPARD: Who the hell are you?<br><br>DIXON: We need to talk, but not here.<br><br>(They leave the house and start to walk towards where the cars are parked.  John sees Dave standing in the garden talking to some mourners.  Dave looks round at him.  John tosses his keys to Ronon.)<br><br>SHEPPARD: Take her to the car.<br><br>(As Ronon and Ava continue walking, Dave turns to the people he's with.)<br><br>DAVE: Excuse me.<br><br>(He walks over to his brother.)<br><br>DAVE: John.  I was thinking that we should probably ...<br><br>SHEPPARD: Uh, look, something came up.  I've gotta go.<br><br>DAVE: It's Dad's wake.<br><br>SHEPPARD: I know, but this is work-related.<br><br>DAVE (irritated): Oh.  Oh.  What is it, top secret, national security, that sort of thing?<br><br>SHEPPARD: Yeah, something like that.<br><br>DAVE: You know, this is so typical.<br><br>SHEPPARD: If you've got something to say, just say it.<br><br>DAVE: Look, there's just one thing I wanna know.  What's your level of expectation here?<br><br>SHEPPARD: What are you talking about?<br><br>DAVE: I mean, are you gonna challenge the will?<br><br>(John stares at him.)<br><br>DAVE: I have no idea what it says, of course, but I think I can guess.<br><br>SHEPPARD: <I>That's</I> what you wanna talk about?  You wanna talk about money?<br><br>DAVE: That's why you're here, isn't it?  You've been gone a long time, John.  It's not such a stretch.<br><br>(John glares at him.)<br><br>SHEPPARD: You've got nothing to worry about.<br><br>(He turns to walk away.)<br><br>DAVE: Hey.<br><br>(John turns back.)<br><br>DAVE: If I've got the wrong impression of you, it's not my fault.  You're the one who left, remember?  I stayed.  <I>I</I> looked after Dad; <I>I</I> ran the business while you're off doing God knows what.<br><br>SHEPPARD: I'm assuming that's what Dad wanted.<br><br>DAVE: No.  No, it's not, John.  Dad regretted what happened between you two right up to the end.<br><br>(He turns and walks away.  John stares after him for a moment, then turns and heads for the car.)<br><br><br>A BAR IN TOWN.  John, Ronon and Ava are sitting at a table.<br><br>DIXON: I would have come to you sooner, but you were a hard man to find.<br><br>SHEPPARD: All right, you've got our attention.  What's this all about?<br><br>DIXON: For the past three years I've been working for a company called Stanton Research, a division of Devlin Medical Technologies.  I was recruited out of college by a brilliant scientist named Doctor Richard Poole and together we worked on a secret project codenamed Archetype.<br><br>DEX: What kind of project?<br><br>DIXON: We were experimenting with nanite programming, trying to increase the complexity of their interactions.  Listen, I wasn't aware of what happened to Doctor McKay and his sister until much later.  At the time, all I knew was that we'd been given a key piece of programming, something that allowed us to make a major breakthrough.<br><br>SHEPPARD: What are you talking about?<br><br>DIXON: Well, it's one thing to inject nanites into a mechanical or a biological system for the purpose of effecting changes at a molecular level, but it's quite another to use them as building blocks to create an entirely self-sustaining entity.<br><br>(In a flashback, Doctor Poole, a middle-aged man, takes a computer tablet across to Ava who is sitting at a computer in a lab.)<br><br>DIXON (voiceover): To be honest, I never thought I'd see it in my lifetime, but then all of a sudden we began making incredible advancements, and the next thing I knew, there it was.<br><br>(In the flashback, Poole walks over to a table on which is lying a human form Replicator wearing a red jumpsuit.  He types on his tablet and the Replicator's eyes open, glowing with a silver light.  After a few seconds, the glow fades and the eyes become human-looking.)<br><br>DEX: They built a Replicator.<br><br>DIXON: Technically, that term isn't accurate because self-replicating isn't one of its primary directives, but ... yes.<br><br>SHEPPARD: There's no way you had authorisation to do this.<br><br>DIXON: Richard told me the project was being funded at the highest levels.<br><br>SHEPPARD: And you believed him.<br><br>DIXON: Maybe it sounds a little naïve, but Richard was like a father to me.  My own parents died when I was very young.  I trusted him.<br><br>(In flashback, Poole hurries into the lab.)<br><br>DIXON (voiceover): But then one day he came back to the lab in a panic.<br><br>(Poole hurries over to a computer, breathing heavily.  The Replicator sits up on its table.) <br><br>DIXON: What's happening?<br><br>(Poole starts typing rapidly on the computer.)<br><br>POOLE: There's been a security breach.  We have to shut everything down.<br><br>DIXON (standing up): I don't understand.<br><br>(Poole takes a memory module from the computer and puts it into his jacket, then hurries across the lab.)<br><br>POOLE: Look, I don't have time to explain it to you right now.  Just <I>do</I> it!<br><br>(As he pulls the cables from another computer, Ava bends to her computer and starts to shut it down.  Poole goes to some wall panels and switches them off.)<br><br>DIXON (voiceover): I later found out what was <I>really</I> going on.<br><br>(Poole picks up a computer tablet and, typing on it, walks over to the Replicator.)<br><br>DIXON (voiceover): The I.O.A.'s investigation of Devlin Medical was closing in and Richard wanted to get rid of the evidence.<br><br>(Poole looks up at the Replicator.)<br><br>POOLE: I'm sorry about this.<br><br>(As he continues to type frantically on the tablet, the Replicator frowns round at Ava, then turns and seizes Poole's arm and hurls him across the room.  Poole slams into a wall and crashes to the floor.)<br><br>DIXON: Richard!<br><br>(She hurries across and bends down to him as he lies on the floor groaning.  The Replicator runs to the door and tries to open it, but it's locked.  Ava hurries to an alarm button on a nearby wall and pushes it.  As alarm bells begin to ring, the Replicator rips the door off its hinges and races out of the room.  Ava chases after it.  It runs down the corridor, turns a corner and sees two security guards running towards it.  It grabs both of them by the throat and yanks down hard.  Around the corner, Ava runs along and rounds the corner only to see the two guards lying on the floor.  There's no sign of the Replicator.)<br><br>DIXON (voiceover): He killed to escape.  If he's threatened, he could kill again.  You have to do something.<br><br>(In the bar, John and Ronon stare at her.)<br><br>SHEPPARD: You're telling me there's a Replicator loose on Earth?<br><br>DIXON: That's right.<br><br>DEX: How long?<br><br>DIXON: Well, he escaped three weeks ago.  We've been working on a way to track him, but so far had no success.  He could be <I>anywhere</I> by now.<br><br><br>STANTON RESEARCH FACILITY.  Ronon kicks in the door to Doctor Poole's lab and he and two military men rush in.  Poole, sitting at a computer, stands up in terror as the men charge towards him, aiming their guns at him.<br><br>SOLDIER: Show your hands!  Get 'em up!<br><br>(As Poole raises his hands, Ronon runs over to him and he and the soldier twist his arms behind his back and handcuff him.  John and a sergeant walk in.)<br><br>SERGEANT (to John): Sir, the facility is secure.  Looks like he was the only one here.<br><br>POOLE: Colonel Sheppard  and Ronon, of course.  How did you find me?<br><br>SHEPPARD: We had a little help.<br><br>(Ava walks into the room, escorted by another soldier.)<br><br>POOLE: Ava!<br><br>DIXON: I'm sorry, Richard.<br><br>POOLE: Ava!  My God!  Do you realise what you've done?<br><br>DIXON: I didn't have a choice!  I couldn't let this continue any longer.<br><br>POOLE: I had the situation under control!<br><br>SHEPPARD: Your little science project got two of your own men killed  <I>and</I> he's still on the loose.  I don't think you have control of anything.<br><br>POOLE: He killed in self-defence!  If he's not threatened again, he won't harm anyone.<br><br>SHEPPARD: Well, that's because we're gonna find him, and we're gonna neutralise him ...<br><br>(He takes a small device out of his pocket and activates it before handing it to Ava.  He activates a second identical device and brandishes it at Poole.)<br><br>SHEPPARD: ... and <I>you</I> are gonna help.<br><br>(He drops the device into Poole's shirt pocket.)<br><br>SHEPPARD: Apollo, we're ready.<br><br>(The soldiers stand back.  An Asgard transporter beam envelops the others and whisks them away.)<br><br><br>APOLLO.  The ship is in orbit above Earth.  In a room, John and Poole sit either side of a small table while Ava stands nearby.<br><br>SHEPPARD: All right, let's start with giving me the access code to the data files we recovered.<br><br>(Poole chuckles.)<br><br>POOLE: I don't think so.<br><br>SHEPPARD: You <I>do</I> know we will crack it eventually.<br><br>POOLE: The entire directory's encrypted with a 448-bit key symmetric algorithm.  Good luck.<br><br>(John looks at Ava.)<br><br>SHEPPARD: What about you?<br><br>POOLE: I never gave her the code.  It's for her own protection.  Look, I'll co-operate as long as you guarantee that <I>I</I> get to bring him in.<br><br>SHEPPARD: Forget it.<br><br>POOLE: We are talking about an incredibly advanced and valuable piece of technology here.<br><br>SHEPPARD: You've had your chance; now it's my turn.  Are you gonna help us track this thing or not?<br><br>(Ava steps forward.)<br><br>DIXON: I'll help you, Colonel.<br><br>POOLE: Ava ...<br><br>DIXON: Be realistic, Richard.  He's out there alone.  You <I>know</I> he's not programmed for ordinary social interaction.  What happens if someone accidentally frightens him or corners him?  We can't afford to wait any longer.<br><br><br>LATER.  John and Ronon are walking through the ship.  A man in a suit approaches from behind.<br><br>BATES: Colonel Sheppard.<br><br>(John turns and looks at him in surprise.)<br><br>SHEPPARD: Bates!<br><br>(As Bates grins and walks towards him, offering his hand to shake, Ronon looks at John.)<br><br>DEX: You two know each other?<br><br>SHEPPARD (shaking Bates' hand): Yeah, Bates served on Atlantis when we first got there, then he got into it with a Wraith.  Took a pretty good beating.<br><br>BATES (to Ronon): He got the drop on me, but I still managed to get in a few shots.  How're you doing?<br><br>(They shake hands.)<br><br>DEX: Ronon.<br><br>SHEPPARD (to Bates): You with N.I.D.?<br><br>BATES: I.O.A.  After the Air Force gave me an honourable discharge due to my injuries, the I.O.A. contacted me.  They were starting up a new field division dealing specifically with operational threats on Earth, and it seemed like a good fit.<br><br>SHEPPARD: Well, it's good to see you back in action.<br><br>BATES: You too, sir.<br><br>SHEPPARD: You don't have to call me that any more.<br><br>BATES (smiling): I guess not.  Old habits die hard.  <br><br>(They continue walking along the corridor.)<br><br>BATES: So how are our prisoners?<br><br>SHEPPARD: The girl's co-operating.<br><br>BATES: What about Doctor Poole?<br><br>SHEPPARD: Yeah, not so much.<br><br>BATES: Can we track the Replicator without him?<br><br>SHEPPARD: I've got a guy working on it.<br><br><br>LAB.  John, Ronon and Bates have joined Doctor Bill Lee, who is wearing a lurid shirt and has a terrible sunburn.  He is muttering as he plugs some leads into a bank of crystals.<br><br>LEE: Stupid emergency contact numbers.  Never should have answered that damned phone.<br><br>SHEPPARD: C'mon, Doc, it's not so bad.<br><br>LEE: Ha!  That was my first vacation in three years!  Two weeks, all-inclusive, nothing but surf, sun and skimpy bikinis as far as the eye could see, and then they beam me right out of the damned hotel room.<br><br>SHEPPARD: Looks like they did you a favour.  Next time, use a little sun block, all right?<br><br>(Bill looks across to Ava, who is sitting at a console nearby.)<br><br>LEE: Give it another shot.<br><br>(Ava types for a moment, then the computer beeps.)<br><br>DIXON: It's working.<br><br>(Everyone walks over to her.)<br><br>DIXON: This sensor technology is incredible.  Is it alien?<br><br>(Bill looks up at John.)<br><br>DIXON: Sorry.  I forgot.  I'm not supposed to know any of this.<br><br>(Bill's computer beeps.)<br><br>LEE: Oh, hey, I'm picking up a signal.  Let me see if I can narrow in on this a bit.<br><br>(He types and a map comes up on a wallscreen.)<br><br>LEE: There.  He should be in there.<br><br>DEX: How big of an area is that?<br><br>LEE: That's about five city blocks.<br><br>SHEPPARD (to Bates): Seal it off  get everyone out.<br><br>BATES: We'll call it a chemical spill.  I'll get my people on it.<br><br>(He leaves the room.  John looks at Ava.)<br><br>SHEPPARD: I need to know what I'm up against.  What kind of capability does this thing have?<br><br>DIXON: Speed, strength, agility  all well beyond normal human levels.<br><br>SHEPPARD: What about tactics?  Escape, evasion  does it have any military training?<br><br>DIXON: I wasn't responsible for that aspect of his programming.<br><br><br>HOLDING CELL.  John is pacing around the table at which Poole is sitting.<br><br>SHEPPARD (angrily): See, I've had this really crappy few days, so I'm beginning to lose my patience.<br><br>(He leans on the table and glares at Poole.) <br><br>SHEPPARD: So whatever you can do to make this easier may work in your favour.<br><br>POOLE (sarcastically): Where?  At my trial?  In front of a judge and jury of my peers?  We both know that's not gonna happen.  They're gonna put me in some deep, dark hole at Area 51, never to be heard from again, and nothing I say or do now is gonna make any difference.<br><br>SHEPPARD: Well, maybe not for <I>you</I>.  What about the girl?<br><br>POOLE: She didn't know that this technology was obtained illegally.  She's completely innocent.<br><br>SHEPPARD: Well, like you said, there isn't gonna be a trial.<br><br>POOLE: But she's helping you!<br><br>SHEPPARD: Not good enough.  (He straightens up and looks down at him.)  What's it gonna be, Doc?<br><br><br>SEARCH AREA.  At the location of the Replicator, Ronon, John, Bates and Poole are gathered with several military men.<br><br>DEX: All right, where do we start?<br><br>SHEPPARD (to Poole): Well, Doc?<br><br>(The map which Bill pulled up earlier has been printed and stuck to the side of a large van.  The area looks like docks on the edge of a river.)<br><br>POOLE: He's in defensive mode.  Basically, he's hiding.  He'll be where he's least likely to encounter people.<br><br>(Bates points to an area on the map.)<br><br>BATES: That would be this warehouse here.  It's been abandoned for months.  The company went bankrupt.<br><br>(Poole looks at the sergeant standing nearby who is readying an A.R.G.  He points to the gun.)<br><br>POOLE: And you won't need these.  He's been specifically designed to be resistant to current anti-Replicator technology.<br><br>BATES: So what do we hit him with?<br><br>POOLE: Well, without access to base materials, he has a limited ability to self-repair.  (He sighs.)  But if you insist on damaging him, conventional weapons ought to do the trick, although you'll need a fair amount of fire power.<br><br>SHEPPARD: Fire power we can do.  What's he gonna do when he sees us?<br><br>POOLE: He'll continue to evade as long as possible.  He'll counter-attack only as a last resort.<br><br>(John addresses the soldiers.)<br><br>SHEPPARD: All right, listen up.  Let's try to get this right the first time.  We're gonna operate in teams of two.  Your objective is to find the target, and once you do that, you will not engage him.  You'll radio in his position.  We'll co-ordinate, see if we can't corral him into a corner, at which point we will bring as much force to bear as we can and take him out, all right?  Let's do this.<br><br>(They start to head off in different directions.)<br><br>BATES: Doctor Poole, you're with me.<br><br>(The sergeant offers Ronon a rifle.)<br><br>DEX: No, I'm good.<br><br>(He takes his blaster out of a bag.  John takes the rifle.  As the soldier walks away, Ronon looks at John.)<br><br>DEX: How're you doing?<br><br>(John shrugs.)<br><br>DEX: It's one hell of a week.<br><br>SHEPPARD: Yeah.<br><br>(Ronon pats his back sympathetically as they head out.)<br><br><br>Around the area of the warehouse, the teams begin to search.  Bates leads Poole along a narrow gap between two buildings, then holds up his hand and stops.<br><br>POOLE: What is it?<br><br>BATES: It's him.<br><br>(He activates his headset radio.)<br><br>BATES: Colonel Sheppard, come in.<br><br>SHEPPARD (over radio): Go ahead.<br><br>(Bates gets out a small pair of binoculars and looks through them as, in the distance, the Replicator opens the door to a building and goes inside.)<br><br>BATES: We've got a visual on the target.  He's hiding out in a building about a hundred yards due east of my start position.  Looks like he's alone.<br><br>SHEPPARD: Stay put.  We'll be there in a minute.<br><br>BATES: Understood.  Bates out.<br><br>(He deactivates his radio.  Poole, who had wandered off a little while Bates was talking, promptly whacks him around the back of his head with a large plank of wood.  Bates drops to the ground unconscious.  Poole drops the plank and hurries towards the building.  Opening the door, he goes inside.)<br><br>POOLE: Hello?  It's OK.  You can come out now.  I'm here to help you!<br><br>(He turns as he hears a noise behind him.  The Replicator steps out of its hiding place and starts to walk slowly and hesitantly towards him.)<br><br>POOLE: Good.  OK, listen to me: there are men out there who are looking for you.  It's all right  they won't hurt you as long as I can convince them that you're not a threat.<br><br>REPLICATOR: How did you find me?<br><br>POOLE: Your nanites give off an energy signature.  We were able to track it.  That's why you can't run any more.  (He walks closer to it.)  You have to do as I say.  You have to self-deactivate.<br><br>(The Replicator shakes its head.)<br><br>POOLE: You've done it before in the lab many times.  I was always right there to help you get back online.  This isn't any different.<br><br>(The Replicator bows its head.  Poole walks closer.)<br><br>POOLE: You have to trust me.<br><br>(The Replicator looks up at him hopefully.)<br><br>POOLE: Everything is gonna be all right.<br><br>(The Replicator surges forward and seizes him by the throat.  It looks at him regretfully.)<br><br>REPLICATOR: I'm sorry.<br><br><br>Outside, John and Ronon run around the corner and stop as they see Bates lying on the ground.  They run towards him, Ronon checking the area while John squats down to Bates, then activates his radio.<br><br>SHEPPARD: Apollo, this is Sheppard.  I need you to beam up Agent Bates immediately.<br><br>DEX (looking around): Where's Doctor Poole?<br><br>(They head into the building, aiming their weapons, and begin to look around.)<br><br>DEX: Hey.  Over here.<br><br>(He has found Poole lying on the floor.  John trots over to him and puts his fingers against his neck.)<br><br>SHEPPARD: He's dead.<br><br><br>APOLLO.<br><br>SHEPPARD (over radio): Lee, come in.<br><br>LEE: Uh, yeah, go ahead.<br><br>SHEPPARD: We've got a problem.  Poole's dead.<br><br>(Nearby, Ava turns around and looks at Bill in horror.)<br><br>SHEPPARD: Are you still tracking the Replicator?<br><br>LEE: Uh, yeah, just hang on.<br><br>(He types.)<br><br>LEE: OK, I've got him.  He's on the move.  He's heading south  he's right by ...<br><br>(Just then, his screen fritzes and the map disappears.  The message "SIGNAL LOST" comes up.)<br><br>LEE: Woah!<br><br>SHEPPARD: What?<br><br>LEE: Uh, I-I just lost the signal.<br><br>SHEPPARD: Crap!<br><br>LEE: It wasn't me.  I mean, he just disappeared.<br><br>SHEPPARD: Well, get him back online.  Ronon and I are going after him.<br><br>(They run outside and look around.  A few seconds later they hear gunfire in the distance and run towards the sound.  They find the sergeant lying on the ground, conscious but very groggy.)<br><br>SERGEANT: Sorry, sir.  I know we weren't supposed to engage but he came from out of nowhere.  He hit us before we knew what was happening.<br><br>(Ronon runs to a second soldier lying on the ground and puts his fingers to his neck.)<br><br>SHEPPARD: All right, you'll be OK, Sarge.  Sit tight.<br><br>(He looks across to Ronon, who shakes his head to indicate that the other soldier is dead.  More soldiers approach.  John walks over to Ronon while looking at the new arrivals and jerking his thumb back to the sergeant.)<br><br>SHEPPARD: Take care of him.  (To Ronon) All right, so much for evasion.<br><br>DEX: He's desperate.  He knows we've got him trapped.<br><br>(John activates his radio.)<br><br>SHEPPARD: This is Sheppard.  Change of plans: fall back, create a defensive perimeter.  Ronon and I are gonna flush him out.<br><br>DEX: Let's go.<br><br>(They run off, leaving the soldiers tending to the sergeant, and make their way to a metal staircase leading up a wall.  John trots up it, reaches the top and aims his rifle carefully over the other side of the wall before going down the staircase on the other side.  Nearby, the Replicator breaks cover and slides down another staircase above John.  John spins around and fires at it but it jumps over the side and drops down another level.  Hearing the shot, Ronon turns and starts to head back.  The Replicator drops to the ground and we see that John's bullet hit it squarely in the side of the leg, making a sizeable hole, but the wound is already beginning to heal, although it remains silver rather than becoming flesh-coloured again.  The Replicator races off, John firing after it.)<br><br>SHEPPARD (into radio): I'm heading south-east toward the water.<br><br>DEX: Copy that.<br><br>(He chases off in the same direction.  The Replicator runs into view and Ronon fires his blaster at it.  It runs into a building and hurls itself down a flight of metal stairs.  Reaching the bottom, it stops and backs quietly into the darkness as Ronon comes cautiously down, aiming his blaster through the rungs.  He checks the immediate area carefully, then moves off in a direction away from where we saw the Replicator go.)<br><br>(Shortly afterwards, the Replicator races along a corridor.  John steps into its path and fires directly into its chest.  The Replicator stops, bits of its silver innards flying off in slivers, then turns and runs back the way it came.  John fires into its back and more silver slivers fly out but it keeps running.  John chases after it.  It bursts out of a door and turns right, only to find soldiers running towards it, firing.  It turns and runs in the other direction.  John runs to the doorway and looks out cautiously, making sure he doesn't get into the firing line of the soldiers, then comes out and fires towards the fleeing Replicator, which screeches to a halt as Ronon walks into its path.  To its left is the wall of the building.  To its right is the river.  It turns and trots back to a nearby crane and begins to climb.  John, Ronon and the soldiers fire up at it as it continues to climb.  Ronon starts to scramble up after it.  John and the soldiers continue firing until Ronon gets high enough to be dangerously near the area they are firing at.)<br><br>SHEPPARD: Hold your fire!<br><br>(Ronon reaches the same gantry that the Replicator is on.  It turns and runs along the gantry but there's nowhere for it to go.  It looks down into the river below, then turns and looks at Ronon, who stops and aims his blaster at it.  It jumps off the gantry and plunges into the river.  Everyone runs to the edge of the pier and looks down, aiming their weapons expectantly ... but the Replicator doesn't surface again.)<br><br><br>LATER.  DUSK.  A small boat awaits the return of divers.  Bates, holding an ice pack to the back of his head, is walking along the pier with John and Ronon.<br><br>BATES: We checked the whole area twice.  No sign of him.<br><br>DEX: Which means he can be anywhere by now.<br><br>SHEPPARD: What about the tracking system?<br><br>BATES: Doctor Lee's working on it but the sensors haven't picked up anything yet.  He must have found a way to mask his signal.<br><br>SHEPPARD: Great(!)  Back to square one, then.<br><br><br>APOLLO.  John, Ronon and Bates have returned to the ship.<br><br>LEE: Sorry, guys.  I managed to boost the sensitivity two hundred percent but I still can't pick anything up.<br><br>SHEPPARD: How's it going with those files from the lab?<br><br>LEE: Well, I'm running a decryption programme but it's slow going.  I may have to make a few tweaks.<br><br>SHEPPARD: Well, focus on that for now.<br><br>LEE: We don't know there's anything in there that's gonna help us track him.<br><br>SHEPPARD: I know, but something's not right.<br><br>BATES: What do you mean?<br><br>SHEPPARD: Well, why'd Poole go in there?  Why'd he risk his life?<br><br>DEX: He thought he could talk the Replicator in.<br><br>SHEPPARD: Even if that worked  even if we decided not to destroy that thing, it doesn't change the fact that Poole's going away forever.<br><br>BATES: Maybe he didn't wanna see his life's work destroyed.<br><br>SHEPPARD: That's what he wanted us to think, but I'm not buying it.  He's been spoon-fed half this technology; he stole the rest.  No  he wanted to save the Replicator 'cause he thought it would do him some good.  I'm thinking he's got a buyer  somebody who can get him out of this if he delivers the goods.<br><br>BATES: I know the type: military  or ex-military.  Probably a colonel.  Not a general  too high-profile.  Regular I.O.A. channels won't help.  These guys operate in the shadows with no official authorisation.<br><br>SHEPPARD: That way, everyone's ass is covered.<br><br>DEX: So, where does this leave <I>us</I>?<br><br>(John sighs.)<br><br><br>WASHINGTON.  DAYTIME.  In a park, John sits on a bench waiting.  Nancy walks over and joins him.<br><br>NANCY: Well, this is a surprise.<br><br>SHEPPARD (standing): Why's that?<br><br>NANCY: Two John Sheppard encounters in two days?<br><br>(They sit down.)<br><br>NANCY: I hardly saw you that much when we were married.  What can I do for you?<br><br>SHEPPARD: Uh, I need a favour.  Um, I need as much information as possible about a project possibly codenamed Archetype.<br><br>NANCY: You want me to use my security clearance to get you classified information?<br><br>SHEPPARD: Well, I didn't say it was a <I>small</I> favour.<br><br>NANCY: Do you know how hard I've worked to get to where I am?  If I get caught doing something like this, I could lose everything.<br><br>SHEPPARD: Well, I know!  I wouldn't ask you if it wasn't important.<br><br>(Nancy sighs.)<br><br>NANCY: All right.  What's it about?<br><br>SHEPPARD: I can't tell ya.<br><br>NANCY: Ah, that's typical!<br><br>SHEPPARD: What the hell's <I>that</I> supposed to mean?<br><br>NANCY: I haven't seen you in over four years and now you want me to put my job on the line and you won't even tell me why?!<br><br>SHEPPARD: All right, when you put it that way, it sounds a little crappy.<br><br>NANCY: Well, I'm glad you noticed!  It's too bad you didn't a little bit earlier  say, like when we were still together?  When I think back to all those times that you would just take that call and leave  no apologies, no explanations ... For all I knew, you were halfway around the world, flying secret missions into Somalia.<br><br>SHEPPARD: That's ridiculous.  I've never been to Somalia.<br><br>NANCY: North Korea, then.<br><br>SHEPPARD: There's a big difference.<br><br>NANCY: I put up with your secrets then, John.  I don't have to do it now.<br><br>(John nods understandingly.)<br><br>SHEPPARD: Right.<br><br><br>STANTON RESEARCH FACILITY.  Ava is packing some items into a box.  A guard is watching her.  John walks in.<br><br>SHEPPARD: Hey.<br><br>DIXON: Colonel.  They said I could come, take some of his personal things.<br><br>SHEPPARD: I'm sorry about what happened.<br><br>DIXON: Me too.  He died thinking I betrayed him.<br><br>SHEPPARD: Well, you don't know that.<br><br>DIXON: It's nice of you to say, but this project meant everything to him.<br><br>SHEPPARD: Well, maybe you meant something to him too.  You never know what people are thinking.<br><br>DIXON: Even those you're closest to?<br><br>SHEPPARD: <I>Especially</I> those.<br><br>(He frowns, lost in thought.  Ava looks at him.)<br><br>DIXON: Colonel?<br><br>(He pulls himself together.)<br><br>SHEPPARD: Look, I know this is not a good time, but I've gotta ask you something.<br><br>DIXON: What is it?<br><br>SHEPPARD: Did anyone else know about this project?<br><br>DIXON: No.<br><br>SHEPPARD: No-one came to check on your progress?<br><br>DIXON: Richard and I were the only ones who had access to the lab.<br><br>SHEPPARD: Was he in contact with anyone, maybe from the military  phone, e-mails?<br><br>DIXON: Not that I know of.<br><br>SHEPPARD: All right.<br><br>(He stands and starts to leave.)<br><br>DIXON: Colonel, how's it coming with the sensors?<br><br>SHEPPARD (turning back to her): It's not, but Doctor Lee says he's pretty close to breaking the encryption code.<br><br>DIXON: I thought that was impossible.<br><br>SHEPPARD: Hmm, guess not.<br><br><br>APOLLO.  John walks into Bill's lab.<br><br>SHEPPARD: Well, how's it going?<br><br>DEX: I was just about to call you.<br><br>LEE: I managed to open those files from the lab.<br><br>SHEPPARD: Nice work.  Anything interesting?<br><br>LEE: Yeah, you <I>could</I> say that.<br><br>(He pulls up a file onto the screen which has Ava's photograph on it.) <br><br>LEE: Stanton Research personnel records.  That is Ava Dixon's file.  She was in a car accident last December  head-on collision.  She's been dead for almost a year.<br><br><br>STANTON RESEARCH FACILITY.  John, Ronon and Bates burst into the lab, their guns raised, but find only the guard lying on the floor.  John checks the pulse at his neck.<br><br>DEX: Is he dead?<br><br>SHEPPARD: No, but he's gonna have a hell of a headache.<br><br>(Bates picks up a sheet of paper from a desk and looks at it.)<br><br>BATES: Sheppard.<br><br>(He hands the paper to John, who reads it aloud.)<br><br>SHEPPARD: "Colonel Sheppard.  I never meant for any of this to happen.  I am very sorry.  Ava."<br><br>(He screws up the paper and throws it to the floor, and they leave the room.)<br><br><br>APOLLO.<br><br>DEX: So  she's a Replicator.<br><br>LEE: Yeah, looks that way.  I got two sets of blueprints  one male and one female.<br><br>SHEPPARD: What about the sensors?<br><br>LEE: Ah, we've got nothing.  She's masking her energy signature, same way the other one did.<br><br>BATES: Doesn't make any sense.  She came to <I>us</I>.  Why didn't she just keep her mouth shut?<br><br>LEE: Why didn't she kill the guard?<br><br>SHEPPARD: C'mon  a Replicator with a conscience?!<br><br>LEE: Well, her programming is distinct from the other one.  He's a military model; she's designed for social interaction, simulation of emotions, maybe even empathy.  He built her to replace a dead woman from his past.<br><br>BATES: Does that mean she can't kill?<br><br>LEE: I'd say it's less likely, but not impossible.<br><br>SHEPPARD: Well, we need 'em both.  Anything useful left in those files?<br><br>LEE: Well, not much so far.<br><br>(A male voice comes over the comms.)<br><br>VOICE: Colonel Sheppard, come in.<br><br>SHEPPARD: Yeah, it's Sheppard.  Go ahead.<br><br>VOICE: You've got an urgent message, sir, relayed through Peterson.<br><br>(John frowns and heads out of the room.)<br><br><br>WASHINGTON.  John sits in a parked car, waiting.  As he checks his watch, Nancy opens the passenger door and gets in.<br><br>SHEPPARD: Well, you've really got the cloak and dagger thing down.<br><br>NANCY: I learned from the best.<br><br>(She hands him a memory stick.)<br><br>NANCY: It's everything I could find on Archetype.  It's not much, but whatever it is, no-one will touch it with a ten foot pole.<br><br>SHEPPARD: I owe you one.<br><br>NANCY: Damn right you do!  (She smiles briefly.)  You know, it's funny  when you and I were together, I couldn't stand it when you wouldn't be able to tell me where you were going or what you were doing.  And now, every once in a while, I catch Grant looking at me the same way.<br><br>(John looks at her sympathetically.)<br><br>NANCY: When I was doing my snooping around, I took the liberty of asking a few questions about <I>you</I>, John.<br><br>SHEPPARD: That's probably not such a good idea.<br><br>NANCY: Yeah, I got that impression.  I've seen walls go up quickly before, but <I>never</I> like this.  And whatever you're into, it's obviously big and  my guess  is very dangerous.<br><br>(She puts her hand on his arm.)<br><br>NANCY: I just want you to be careful.<br><br>SHEPPARD: Well, you know <I>me</I>.<br><br>NANCY: Yeah, that's the problem.<br><br>(John smiles at her faintly.)<br><br>NANCY: Goodbye, John.<br><br>(She gets out of the car and walks away.)<br><br><br>APOLLO.  Bill and the others are looking through the information which Nancy provided.<br><br>LEE: She wasn't kidding.  So far, it's a whole lot of nothing.  I mean, lab requisitions, non-disclosure agreements.  Oh, here's an exciting one: an internal memo reminding employees not to use the south parking lot due to ongoing re-paving!<br><br>(He calls up the next screen and looks more interested.)<br><br>LEE: Hold on.<br><br>DEX: What is it?<br><br>LEE: It's a Shipping Waybill with instructions to deliver a load of pre-assembled masonry panels to a warehouse in Redding.<br><br>SHEPPARD: So?<br><br>LEE: So  "pre-assembled masonry panels"  that was a code word we used a few months back to identify shipments of neutronium.<br><br>(John shrugs.)<br><br>LEE: Neutronium  it's the base element from which nanites are made.  You guys damaged him, right?  So if he wants to fully repair, he's gonna need this.<br><br>SHEPPARD: He's gonna go for the warehouse.<br><br>LEE: Yeah, exactly.<br><br>BATES: Assuming he knows where it is.<br><br>LEE: Well, to be perfectly honest, we don't have anything else.<br><br>SHEPPARD: It's a good point.<br><br>BATES: All right.  I'll set up a stake-out and if he shows up, we'll know about it.<br><br>(He leaves the room.  Ronon looks at John.)<br><br>DEX: This could be our last shot at this guy.  We've gotta make sure he goes down for good this time.<br><br>LEE: It's not gonna be easy.  I mean, if this was the movies, we'd dip him into a vat of molten steel, or a volcano.<br><br>(He laughs, then looks at John who has narrowed his eyes at him.)<br><br>LEE: You know, the fires from whence he came.<br><br>DEX (to John): What the hell's he talking about?<br><br>SHEPPARD: That's a really good idea!<br><br>DEX and LEE (simultaneously): Really?<br><br><br>REDDING WAREHOUSE.  John, Ronon and several soldiers are lurking inside the warehouse, hiding behind various containers.  A voice comes over John's headset.<br><br>VOICE: Sheppard, this is Apollo.  We're all set.<br><br>SHEPPARD: Understood.<br><br>DEX: Are you sure he's gonna show up?<br><br>SHEPPARD: The I.O.A. said they spotted him nearby.<br><br>DEX: And what if <I>he</I> spotted <I>them</I>?<br><br>(John shrugs and activates his radio.)<br><br>SHEPPARD: Bates.  See anything?<br><br>BATES (over radio): Negative.  All quiet over here.<br><br>SHEPPARD (to Ronon): Be patient.  He'll show up.<br><br>(Just then, the Replicator shows up.  It jumps down from somewhere high and grabs a couple of soldiers by the neck with each hand, yanking backwards to snap their necks before dropping them to the floor.  Ronon stands up and shoots it straight in the chest with his blaster.  It recoils, then turns and runs.  Ronon races to cut it off but it grabs him, punches him, kicks him, then backhands him across the floor.  As it tries to run off, John shoots it dead centre in the back.  It turns and heads back towards him.  John snatches a small device from his vest but before he can do anything with it, the Replicator kicks him hard in the stomach, sending him flying across the room.  He crashes into a crate and falls to the floor, winded.  The Replicator walks across to him, picks him up and slams him against the crate again, wrapping its hand around his throat.  Slowly, John begins to suffocate.)<br><br>(All seems lost, then Ava appears as if out of nowhere, grabs the Replicator and hurls it across the floor.  She [I'm sticking with "she" to avoid confusion with the other Replicator, although technically I should start referring to her as "it' too] looks down at John as he slumps to the floor, gasping, then she walks across to the Replicator as it tries to stand and kicks it in the face.  It springs up and they begin to fight.  They're equally matched and the fight goes on for some time.  Nearby, John is too breathless to help Ava, and Ronon is only just rousing from unconsciousness.  The Replicators fight on.  Eventually the male Replicator hurls Ava hard against a crate and, as she falls to the floor, it picks up a gas cylinder and slams it across her head.  It looks down at her.)<br><br>REPLICATOR: You should not have interfered.<br><br>(Dropping the cylinder, it kicks her across the room.  She smashes into another crate and slumps to the floor.  Ronon has finally got to his feet and grabs the Replicator from behind, landing several punches before it rallies and grabs him by the throat, slamming him up against a crate.  John crawls across the floor and picks up the device he was holding earlier.  Lifting it, he presses it and a blade springs out of it.  As the Replicator continues strangling Ronon, John charges up behind it and slams the blade into its side.  The Replicator drops Ronon and turns towards John, its expression murderous.  John yells out.)<br><br>SHEPPARD: Now!<br><br>(A transporter beam whisks the Replicator away.  Ava scrambles to her feet.)<br><br>DIXON: What happened?  Where did you send him?<br><br>SHEPPARD (slumping to the floor, exhausted): Low Earth orbit.  I know by experience, re-entry's a bitch.<br><br><br>In the blackness of space, the Replicator rematerialises.  Flailing its arms and legs in helpless horror, it begins to plunge downwards into the Earth's atmosphere.  Its extremities begin to burn, then its face ignites and finally the heat becomes too much and it disintegrates.<br><br><br>APOLLO.  John, Ronon, Bill and Bates stand watching a screen showing a live feed of Ava sitting at the table in the holding cell.<br><br>BATES: The I.O.A. isn't just gonna let her go.<br><br>DEX: If she'd stayed away, we never would have found her.  The only reason she's here is because she chose to help us.<br><br>SHEPPARD: Yeah, I know.<br><br>BATES: She's a machine.<br><br>LEE: Well, we're <I>all</I> machines  just different kinds, you know.<br><br>DEX: What about if we took her to a different planet  somewhere with no people where she can't do any harm?<br><br>SHEPPARD (grimacing): I don't think that's much of a reward.<br><br>BATES: The I.O.A. would never agree to let her leave Earth anyway.<br><br>LEE: She could work at Stargate Command.  She would be a valuable asset.<br><br>BATES: She'd be a constant security threat.<br><br>LEE: We don't know that!<br><br>SHEPPARD: No, he's right.  There's no escaping the fact she's still a Replicator.<br><br>DEX: So, what then?<br><br>(John looks at the screen thoughtfully.)<br><br><br>SOME TIME LATER.  John and Ava are walking in a park on Earth.<br><br>SHEPPARD: How're you settling in to your new life?<br><br>DIXON: It's a bit of an adjustment.  One of the stipulations of my release is that I don't look for a job in any scientific field.  To be honest, I'm not sure <I>what</I> I'm gonna do.<br><br>SHEPPARD: Well, I'm sure you'll figure something out.<br><br>DIXON: I wanted to thank you, Colonel.  I know they never would have agreed to let me go if you hadn't put in a word for me.<br><br>SHEPPARD: You saved my life  putting a word in is the least I can do.<br><br>DIXON: I have to admit: I'm a little scared.  I mean, I know these emotions are supposed to be artificial, but they seem pretty real to me.<br><br>SHEPPARD: C'mon, what've you got to be scared about?<br><br>DIXON: Well, I've never really been alone before.  Richard was the closest thing I ever had to family.  (She stops and turns to him.)  Anyway, it was nice for you to check up on me.  I guess we'll never see each other again.<br><br>SHEPPARD: Well, one thing I've learned about my business is never say never.<br><br>DIXON: Goodbye, Colonel.<br><br>(She walks away.  John turns and watches her go, then simply vanishes.)<br><br><br>In Stargate Command, a stasis pod similar to the ones seen in "Aurora" slides out of the wall.  The lid of the pod lifts and John is lying inside.  He opens his eyes as Bill walks over to him.<br><br>LEE: So?  How was it in there?<br><br>SHEPPARD (sitting up and getting out): Well, it's very nice work.  <I>Very</I> convincing.<br><br>LEE: Yeah.  I'm just glad we were able to download her consciousness intact.  Anyway, now she has a whole virtual world to explore.<br><br>SHEPPARD: It should keep her pretty busy for a while.<br><br>(Ronon is sitting at a desk in the room.)<br><br>DEX: So, uh, what happened to the rest of her?<br><br>LEE: Oh, they deactivated the bond between her nanites, effectively breaking her into base elements.<br><br>(Ronon looks at him for a moment, then looks across to John for a translation.)<br><br>SHEPPARD: They scrapped her.<br><br>DEX: Yeah.  So, we headin' back?<br><br>SHEPPARD: Yeah.  You go ahead.  I've got a few things to take care of.<br><br>(He leaves the room.  Frowning, Ronon turns around on his stool and watches him go.)<br><br><br>A taxi pulls up in the drive of a house and John gets out from the back seat.  He braces himself for a moment, then walks to the front door and knocks on it.  His brother Dave opens the door and looks at him in surprise.  John gazes back at him, uncertain of his welcome.  After a moment, Dave nods.<br><br>DAVE: Come in.<br><br>(Smiling slightly, John walks inside.  Dave smiles and closes the door.)
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="414.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s4/415.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="416.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s4/index.shtml">
+<IMG SRC="/graphics/title_s4episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Four Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="401.shtml" CLASS="list">Adrift</A><BR><A HREF="402.shtml" CLASS="list">Lifeline</A><BR><A HREF="403.shtml" CLASS="list">Reunion</A><BR><A HREF="404.shtml" CLASS="list">Doppelganger</A><BR><A HREF="405.shtml" CLASS="list">Travelers</A><BR><A HREF="406.shtml" CLASS="list">Tabula Rasa</A><BR><A HREF="407.shtml" CLASS="list">Missing</A><BR><A HREF="408.shtml" CLASS="list">The Seer</A><BR><A HREF="409.shtml" CLASS="list">Miller's Crossing</A><BR><A HREF="410.shtml" CLASS="list">This Mortal Coil</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="411.shtml" CLASS="list">Be All My Sins Remember'd</A><BR><A HREF="412.shtml" CLASS="list">Spoils of War</A><BR><A HREF="413.shtml" CLASS="list">Quarantine</A><BR><A HREF="414.shtml" CLASS="list">Harmony</A><BR><A HREF="415.shtml" CLASS="list">Outcast</A><BR><A HREF="416.shtml" CLASS="list">Trio</A><BR><A HREF="417.shtml" CLASS="list">Midway</A><BR><A HREF="418.shtml" CLASS="list">The Kindred, Part 1</A><BR><A HREF="419.shtml" CLASS="list">The Kindred, Part 2</A><BR><A HREF="420.shtml" CLASS="list">The Last Man</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Four</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B0019J2UHW/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B0017MO11O/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls4.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="414.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s4/415.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="416.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

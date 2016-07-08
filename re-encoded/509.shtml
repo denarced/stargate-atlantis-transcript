@@ -1,0 +1,527 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Tracker" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s5/509.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s5/transcripts/509.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=642">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=744">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s5/509.shtml#production">Production</A>
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=58708">Fan Reviews</A>
+				 | <A HREF="http://forum.gateworld.net/forumdisplay.php?f=131">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s5/509.shtml"><IMG SRC="/atlantis/graphics/509_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="TRACKER" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://click.linksynergy.com/fs-bin/stat?id=2cvd55rHd*s&offerid=78941&type=3&subid=0&tmpid=1826&RD_PARM1=http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewTVShow?id=179127311&partnerId=30"><img height="15" width="61" border="0" alt="iTunes" src="/store/graphics/itunes_button.gif"></img></a> &nbsp; <a href="http://www.amazon.com/gp/product/B001GF3VD6/?tag=bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 509<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 5, Disc 3<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 09.19.08<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 11.09.09<BR>
+				    <STRONG>STORY BY</STRONG> - <A HREF="http://www.imdb.com/name/nm2369919/" TARGET="_blank">David Schmidt</A> & <A HREF="http://www.imdb.com/name/nm0082772/" TARGET="_blank">Carl Binder</A><BR>
+				    <STRONG>TELEPLAY BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0082772/" TARGET="_blank">Carl Binder</A><BR>
+				    
+				    
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0912272/" TARGET="_blank">William Waring</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">Ronon and McKay join Dr. Keller on an off-world errand of mercy, and must track her through the forest when a Runner kidnaps her.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    ATLANTIS.  In his quarters, Rodney McKay is standing in front of a mirror and checking his appearance while quietly rehearsing a phrase.<br><br>McKAY: Neuraminidase inhibitor.  Neuraminidase inhibitor.  Neuraminidase inhibitor.<br><br>(The doors open and John Sheppard is standing outside.  Rodney turns around self-consciously.)<br><br>SHEPPARD: Hey.<br><br>McKAY: Hey.<br><br>SHEPPARD: Heard you're going offworld.<br><br>McKAY: I'm, uh, assisting with a medical follow-up on M33-985, yes.<br><br>SHEPPARD: With Keller.<br><br>McKAY: Right again.<br><br>SHEPPARD: On your day off.<br><br>McKAY: What, I can't go offworld in my free time?<br><br>SHEPPARD:  No, no, go ahead.  I just think it's odd that you're volunteering for goodwill missions on your day off.<br><br>McKAY (unconvincingly): Well, I'm turning over a new leaf.  It's a whole new, uh, you know, kinder, gentler Rodney McKay.<br><br>(John frowns suspiciously, then nods, turns and leaves the room.)<br><br><br>GATEROOM.  Smiling, Rodney walks into the Gateroom, then pauses and loses his smile as he sees Jennifer Keller standing in front of the Stargate checking one of the two bags which she is taking offworld.  The reason for his unhappiness is because Ronon Dex is with her.  She turns and sees Rodney.<br><br>KELLER: Oh, there you are.  Y'all set?<br><br>(Putting his jacket on, Rodney walks closer to the others, forcing a smile at Ronon.)<br><br>McKAY: You're coming too, are you?<br><br>KELLER: Yeah, Ronon offered to help out too, so I just thought, you know, the more the merrier, right?<br><br>McKAY: Hmm.<br><br>DEX: Is there a problem?<br><br>McKAY: No-no-no, it's just ... I was just ... no, it's nothing.<br><br>KELLER: OK.  Uh ... (she looks up to the Control Room) ... go ahead and dial, Chuck.<br><br>McKAY: Right.<br><br>(As the Gate starts to dial out, she picks up one of the bags.  Ronon and Rodney both reach down and take the handles of the other bag.)<br><br>McKAY: I've got this.<br><br>(They straighten up, still both holding the bag.)<br><br>McKAY: I'm good.  I got it.  I got it.  I'm good.<br><br>(Ronon just looks at him.)<br><br>McKAY (nervously): You want it?<br><br>(He lets go of the handles.)<br><br>McKAY: You take that.  I got ... my own stuff that I'll bring.<br><br><br>WORMHOLE TRAVEL.<br><br><br>M33-985.  The three of them are walking through a village.<br><br>KELLER: So the people we're seeing today: as long as you avoid any physical contact, we should be fine.<br><br>(Rodney instantly flinches out of the way of a woman walking past.)<br><br>KELLER: The contagion doesn't seem to be airborne.<br><br>(Behind them, we look through someone's eyes as he or she watches them.)<br><br>DEX: What's wrong with these people again?<br><br>KELLER: It's a disease similar to one on Earth.  It's called influenza.  It's been spreading throughout the village.  Not too severe a strain, but enough to put a scare into them.<br><br>(They continue walking as the someone watches them go.)<br><br><br>HOUSE.  Jennifer sits at the bedside of a young boy and checks him over with her stethoscope.  She looks up at the boy's mother, smiling sympathetically.<br><br>KELLER: He's got it too.<br><br>ERRAN: Will he be all right?<br><br>KELLER: His fever's mild, so plenty of rest, lots of fluids and he should be fine.  I'm also gonna prescribe some medicine.<br><br>McKAY (casually): Oh, a neuraminidase inhibitor?<br><br>KELLER (impressed): Very good!  <br><br>(Rodney folds his arms and looks smug as Ronon throws him a look and then smirks, realising that he's been practising specially to impress Jen.  Unaware of all this, Jennifer looks at Erran.)<br><br>KELLER: Uh, can I have a look at you too, Erran, just to be on the safe side?<br><br>(Erran looks round at the boys, embarrassed.)<br><br>KELLER: Uh, would you guys mind giving us some privacy?  I think there's a tavern close by -- why don't you go get some lunch?<br><br>McKAY (awkwardly): Oh ... (he makes a few incoherent noises, then turns to Ronon and points in the direction of the tavern) ... You wanna ...?  Sure.<br><br><br>TAVERN.  The boys are sitting opposite each other at a table outside the tavern.  Ronon is tucking into the bowl of soup or stew in front of him while Rodney is gazing down at his own bowl distastefully.<br><br>DEX: What's the matter?  You don't like it?<br><br>(Rodney reaches into the bowl and takes out what looks like the leg and claws of a large bird.  Pointedly he puts it onto the table.)<br><br>DEX: You know, you don't have to be here.  I'm sure you've got plenty of stuff to do back on Atlantis.<br><br>McKAY: Oddly enough, I don't, actually, but if <I>you</I> need to get back, then ...<br><br>DEX: No, I'm good.<br><br>McKAY: Of course you are.  Mmm-hmm.<br><br>(Ronon picks up the bird's leg and bites off a large piece of it.  Rodney grimaces.)<br><br><br>LATER.  The boys are walking back to the house.<br><br>McKAY: Think we've given them enough time?  I mean, I don't wanna interrupt if they're in the middle of medical ...<br><br>(Reaching the front door of the house, Ronon knocks on it.)<br><br>McKAY: ... stuff.<br><br>(Erran opens the door.)<br><br>McKAY: Hi.  Uh, is Doctor Keller done?<br><br>ERRAN: She's not with you?  She finished with us, then left.  Said she was going to join you at the tavern.<br><br>McKAY: Oh.  All right, very good.  Thanks.<br><br>(They head off, Rodney activating his headset radio.)<br><br>McKAY: Jennifer.<br><br>DEX (calling out): Jennifer!<br><br>McKAY: Jennifer, it's Rodney.  Do you read me?<br><br>DEX: Jennifer!<br><br>McKAY: Doctor Keller, please respond.<br><br>(They look around but there's no sign of her.)<br><br>McKAY: All right, well, either her radio isn't working or she's turned it off.<br><br>DEX: She wouldn't do that.<br><br>McKAY: Then what happened to her?<br><br><br>LATER.  The boys get back together after a further search.<br><br>McKAY: Anything?<br><br>DEX: Checked up and down the street; no-one's seen her.  It's like she just vanished.<br><br>McKAY: It doesn't make any sense.  I mean, she wouldn't take off without letting us know where she was going.<br><br>DEX: Not unless someone took her against her will.  Maybe you should go back to the Gate; radio Atlantis for help.<br><br>McKAY: Maybe you're right.<br><br>DEX: I'll stay here and check the entire village.<br><br><br>FOREST.  Jennifer regains consciousness sitting on the ground and leaning against a tree.  She looks around and sees a man dressed in black leathers nearby.  He has his back to her as he rummages through her bags.  She tries to sit up but finds her hands bound in front of her with rope.  She lifts them towards her ear but finds her headset gone, noticing at the same time that the man has a Wraith stunner pistol in a holster on his leg.  He looks round, sees that she's awake and stands up and walks over to her.  A strange alien device with a crystal in the middle of it is wrapped around his left arm just below the elbow.<br><br>KELLER: Who are you?<br><br>KIRYK: If you'd stopped struggling, I'd wouldn't have had to stun you.<br><br>KELLER: What do you want from me?<br><br>KIRYK: And stop asking questions.<br><br>KELLER: I just wanna know why you kidnapped me.  How did you take me from the village?  I don't even remember ...<br><br>(Kiryk pulls out his stunner pistol and aims it at her.  She flinches away from it for a moment, then turns back to him.)<br><br>KIRYK: Good.<br><br>(He reholsters the pistol.)<br><br>KIRYK: Let's go.<br><br><br>Ronon has left the village and is making his way into the forest.  He activates his headset.<br><br>DEX: McKay.<br><br>McKAY (over radio): Yeah, go ahead.<br><br>DEX: I got some footprints outside the village.<br><br>McKAY: Jennifer's?<br><br>DEX: Standard Atlantis tread.  There's someone with her.  Bigger prints, like my size.  Looks like there was a struggle.<br><br>McKAY: Oh, dammit!<br><br>DEX: Weird thing is, it's like they just appeared out of nowhere.<br><br>McKAY: What do you mean, nowhere?<br><br>DEX: I mean, there's nothing at all between here and the village, then they just appear like they dropped out of the sky.<br><br>(He looks around.)<br><br>DEX: Wait a sec.  Got a single set of tracks heading into the woods.<br><br>McKAY: A single set?<br><br>DEX: Not Keller's.  The other guy's.<br><br>McKAY: So what happened to Keller's?<br><br>DEX: These prints are deeper.  My guess is, he's carrying her.  Probably knocked her unconscious or ...<br><br>(He refuses to finish the sentence.)<br><br>McKAY: Oh God!<br><br>DEX: I'm gonna check it out.<br><br>McKAY: Maybe we should wait, all right?  I'm almost to the Gate.  I'll radio ahead; get a team here -- do a proper search.<br><br>DEX: That sounds good.  You do that.  Meantime, I'm goin' after her.<br><br>(Rodney hurries on, while Ronon continues to follow the tracks.  He reaches the tree where Jennifer woke up, and activates his headset again.)<br><br>DEX: McKay?<br><br>McKAY: Yeah, I'm here.<br><br>DEX: I got two sets of tracks again.  (He smiles.)  She's still alive.<br><br>(Reaching the Stargate, Rodney also smiles.)<br><br>McKAY: Great!  That's great!  All right, I'm at the Gate.  I'll get the search teams mobilised; join you shortly.<br><br>(Just then, the Stargate starts to dial in.  He stares at it for a moment, then runs for cover in the surrounding trees.  The Gate kawhooshes and his eyes widen in horror as four male Wraith walk through.  They look around for a moment, then one of them gestures to the others and they start to head off in different directions.  Putting his hand on the low branch of a tree, Rodney leans on it to try to stand up carefully but the branch snaps off noisily.  The one Wraith still in the clearing turns at the sound.)<br><br>McKAY: Oh, crap!<br><br>(He turns and runs off.  The Wraith snarls and chases after him.  Rodney screams into his headset.)<br><br>McKAY: Ronon!<br><br>DEX: What?<br><br>McKAY: We got Wraith!<br><br>DEX (springing to his feet and charging off): How many?<br><br>McKAY: Four!  They just came through the Gate and one of them's about to kill me!<br><br>(He pulls his pistol out as he runs and, yelling hysterically, fires back randomly at his pursuer.  One of the bullets hits it -- more by luck than judgement -- but the Wraith keeps coming, firing its own stunner at him but missing.  Rodney stumbles on, then takes shelter crouched behind a large tree stump.  The Wraith runs into view and stops, looking around and hissing.  A few moments later Rodney hears the sound of footsteps receding.  Slowly he stands up, only to find the Wraith waiting for him on the other side of the stump.)<br><br>McKAY: Oh ...!<br><br>(The Wraith slashes at him but he flinches back and runs.  The Wraith fires its stunner but again misses.  It chases after him and soon catches up, hurling itself at him and bundling him to the ground.  Rodney crawls away, then rolls onto his back and fires his pistol repeatedly up into its chest as it walks towards him.  The bullets don't slow it down much and it reaches down, seizes his shirt, pulls him to his feet and pushes him back against a tree.  Roaring, it lifts its hand ready to slam it against his chest but then the familiar sound of Ronon's blaster can be heard and the blast impacts its back and it falls to the ground.  Rodney gasps in relief as Ronon runs into view, aiming his blaster down at the Wraith.)<br><br>McKAY: Oh, <I>finally</I>!  What took you so long?!<br><br>DEX: Hey, you're welcome.<br><br>(He looks down at the Wraith.)<br><br>DEX: It's a hunter.<br><br>McKAY: What?<br><br>DEX: Wraith hunter.  They chase Runners.<br><br>McKAY: I thought Runners were extremely rare -- like only a few in galaxy?<br><br>DEX: That's right.<br><br>McKAY: Yeah, so, a few years we run into you and now another one?  I mean, what are the odds of that?<br><br>DEX: Where'd the other Wraith go?<br><br>McKAY: I don't know.  They spread out into the forest.<br><br>(Ronon runs off.)<br><br>McKAY: Where are you going?  Where are you going?  (He chases after him.)  Hey, wait!<br><br><br>ELSEWHERE.  Kiryk shoves Jennifer along a pathway.<br><br>KIRYK: This is as far as we go on the trail.<br><br>(He pushes her to a tree and shoves her down into a sitting position.)<br><br>KELLER: Where are you taking me?<br><br>(He doesn't respond.)<br><br>KELLER: At least tell me your name.<br><br>KIRYK (tying her legs together with rope): There'll be time to talk when we get there.<br><br>KELLER: Where?<br><br>(Standing up, Kiryk starts to stomp carefully forwards, making heavy footprints on the path.)<br><br>KELLER: What are you doing?<br><br>(Ignoring her, Kiryk continues to stomp forward.  Jennifer looks round as she hears rustling.)<br><br>KELLER (in a stage whisper): Ronon?<br><br>(It's not Ronon who comes out of the trees.  It's a Wraith.  Jennifer stares at it in horror, then glances towards Kiryk.  Following her gaze, the Wraith turns and aims its stunner at his back.)<br><br>KELLER: Watch out!<br><br>(Kiryk turns and, seeing the Wraith, immediately slams his right hand down onto the device on his left elbow.  As the Wraith fires at him, Kiryk disappears.  Both Jennifer and the Wraith stare in surprise.  A whooshing can be heard behind the Wraith, followed by the sound of a large knife being unsheathed.  The Wraith turns and Kiryk is standing behind it.  He slashes out with his knife and the Wraith's head drops to the ground.  The rest of its body slumps down a moment later.  Kiryk kneels down and starts to clean his knife on the Wraith's coat as Jennifer stares at him wide-eyed.)<br><br><br>VILLAGE.  Rodney and Ronon have returned to warn the villagers.  Ronon talks to Erran as Rodney trots up to join them.<br><br>DEX: We need to get your people to a safe place as fast as possible.<br><br>ERRAN: Why?  What happened?<br><br>DEX: We spotted Wraith in the area.<br><br>ERRAN: Wraith?!  Coming here?<br><br>McKAY: It's hopefully just a few of them and we think they're looking for someone else.<br><br>DEX: But we don't wanna take any chances.<br><br>McKAY: Look, have you seen anyone different in the village recently?  Any -- any newcomers, anyone who looks, uh, I dunno ... (he points at Ronon) ... like that?<br><br>(Ronon looks at him indignantly.)<br><br>ERRAN: No.<br><br>DEX: We don't have time for this.  (He turns back to Erran.)  Is there a place you people can hide?<br><br>ERRAN: There are dozens of caverns surrounding the village.  Our ancestors used them during the last culling.<br><br>DEX: Good.  Come on, let's go.<br><br><br>FOREST.  Kiryk and Jennifer are on the move again.  She looks at the device on his arm.<br><br>KELLER: What <I>is</I> that thing?<br><br>KIRYK: It'd take too long to explain.<br><br>KELLER: Too long?!  We've been walking for hours now.  Can I at least rest for a bit?<br><br>KIRYK: No.<br><br>KELLER: Just a few minutes?<br><br>KIRYK: A few minutes to allow your team to gain ground on us?<br><br>KELLER: What team?<br><br>(Kiryk stops and looks at her.)<br><br>KIRYK: You're from Atlantis.  You're a doctor.  There were two men travelling with you.<br><br>(Jennifer pulls free of him and runs into the forest.  With her hands bound in front of her she can't move very fast but she does her best, running for some time but suddenly Kiryk is standing in her path with his stunner pistol aimed at her.  She stops, gasping, and he shoots her.  She tumbles to the ground unconscious.)<br><br><br>Elsewhere in the forest, Ronon and Rodney are escorting the villagers to safety.  They stand either side of the procession, looking impatient.  Obviously they're anxious to get back to the search for Jennifer, but they make encouraging comments as the villagers pass them.<br><br>DEX: Watch your step.  Just keep goin'.  It's just past that gulley.  You're almost there.<br><br>McKAY: That's it.  That's it.<br><br>(He looks at a large person passing by.)<br><br>McKAY: Mind your step, sir.<br><br>FEMALE VILLAGER (indignantly): Sir?<br><br>McKAY: Ma'am, sorry.  Uh ... (he gestures to his own upper lip) ... you have a ...<br><br>(He looks at Ronon as the woman walks away.)<br><br>McKAY: That is clearly a moustache!<br><br>(Ronon throws him a look as the last of the villagers passes by.  Erran brings up the rear.)<br><br>ERRAN: That's the last of them.  The village is empty now.<br><br>DEX: Good.  Go with them.  Make sure they stay in the caverns.  And keep them quiet.  Make sure no-one makes a sound unless you hear from me.<br><br>McKAY: Or me.<br><br>ERRAN: All right.  Thank you.<br><br>(As she follows her people, Ronon turns to go in another direction.)<br><br>McKAY: Hey.  Maybe we should go back to the Gate?<br><br>DEX: Go ahead.  I'm gonna keep tracking Keller.<br><br>McKAY: I do not think it is wise for us to split up right now.  We have no idea where the Wraith are.<br><br>DEX: It takes too long to go back.  That Runner took her.  If we let em get too far ahead, we'll never find them.  Look, if you wanna go to the Gate, go ahead.  I'm leavin'.<br><br>(He turns and trots off.  Rodney is still looking in the direction of the Gate.)<br><br>McKAY: Ronon?  Ronon, I ...<br><br>(He turns and sees that Ronon is already on the move.  Sighing in exasperation, he follows.)<br><br>McKAY: Dammit!  Will you just ...?  <I>Ronon</I>!<br><br><br>ELSEWHERE.  Jennifer regains consciousness again and groans as she realises her hands are still tied in front of her.  As she lifts her head, Kiryk steps over her and looks down at her.<br><br>KIRYK: Are you done trying to escape?<br><br>(She nods in resignation.)<br><br>KIRYK: More Wraith close by.  (He hauls her to her feet.)  We need to keep moving.<br><br>(They start to walk.  She looks at him as they go.)<br><br>KELLER: You're not from the village, are you?  I've never noticed you, and I've pretty much met everyone.  Are you even from this planet?<br><br>(He doesn't answer.)<br><br>KELLER: You're the one who brought the Wraith here.  They're after you.  Why?<br><br>KIRYK: I'm a Runner.  You know about Runners?<br><br>KELLER: One of the men I'm travelling with -- he used to be one.<br><br>KIRYK: <I>Used</I> to be?  It's impossible.  Runners don't stop being Runners.<br><br>KELLER: Yeah?  Well, this one did.<br><br>KIRYK: Yeah?  Well, how?<br><br>KELLER: Take me to him and we'll tell you.  I promise.  Look, we don't have to be enemies.<br><br>(She smiles at him.)<br><br>KIRYK: Nice try.<br><br>(He shoves her onwards.)<br><br><br>Back on the trail of Jennifer, Ronon is squatting down and looking closely at the ground.  Rodney runs up to join him.<br><br>McKAY: Hey!  If you ...<br><br>(He stops at Ronon's expression.)<br><br>McKAY: What?<br><br>DEX: This is where Keller's tracks start up again.<br><br>(He stands up and points down to the ground.)<br><br>DEX: Look.  Smaller, shallower, Atlantis tread.<br><br>(He squats down to another set of tracks.)<br><br>DEX: These tracks are bigger and deeper.<br><br>McKAY: The Runner.<br><br>DEX: Keller's tracks are uneven.  She's either hurt or bound -- probably both.<br><br>McKAY: Well, at least the tracks are clear.  They'll be easier to follow, right?<br><br>DEX: That's the problem.  No Runner's that stupid.<br><br><br>LATER.  DUSK.<br><br>DEX: It's gonna be dark soon.<br><br>McKAY (looking at a small device he's holding): Actually, we have two hours, forty-three minutes and seventeen seconds.  This planet's sun currently has a very gradual angle of descent and a very short night.  I always make it a point to download the planetary data on every address I dial -- even goodwill missions.  You know, things like, uh, atmospheric conditions, soil consistencies, available water supplies ...  (Off Ronon's look)  What?<br><br>DEX: Just wondering how long you'd make it out here without your little gadgets.<br><br>McKAY: Oh, you know, I think you'd be surprised, you know?  I mean, I may not be exactly what you would call an outdoors person, but that doesn't mean I don't find the whole man versus nature thing uninteresting.  Hell, I joined a scouting organisation when I was a child.  Lodge Fourteen of the Fort McMurray Eager Beavers.<br><br>DEX: Beavers?<br><br>McKAY: Yeah.  Large rodent, big teeth.  They use them to chop down trees and build dams.  Very industrious.  I was with them for a few months before they asked me to leave, but I got the manual -- still have it.  "Scouting for Beavers."  Invaluable resource, so I think you'll find in a pinch I handle myself very well, thank you ver ...<br><br>(He trails off as Ronon looks around.)<br><br>McKAY: What is it?<br><br>DEX (pointing to the ground): Blood.<br><br>McKAY: Oh my God!<br><br>DEX: No, it's Wraith blood.<br><br>(He looks around, then squats down to the bottom of a tree.)<br><br>DEX: Here you go.  Someone was sittin' here.<br><br>(He stands up and looks along the track.)<br><br>DEX: Look.  A single set of tracks.<br><br>(He looks to his left and frowns.)<br><br>DEX: But they left a trail goin' that way.<br><br>McKAY (looking at the track): Are you sure?  Cause the footprints keep going this way.<br><br>DEX: A single set.<br><br>McKAY: Yeah, I know, but maybe he's carrying her again.  Maybe they were attacked by the Wraith, Jennifer was stunned and then the Runner kills the Wraith and disposes of the body, and then carries Jennifer on up the trail.<br><br>(He squats down to the ground.)<br><br>McKAY: Look how deep these tracks are.  I say we follow these.<br><br>(He stands up to step forward but is stopped by Ronon smacking a thin tree branch into his chest to stop him.)<br><br>DEX: Easy.<br><br>(Leading the way, he walks slowly forward on the track, prodding the ground ahead of him.  Reaching an area which looks suspicious to him -- but would look totally ordinary to anyone else -- he lifts the branch and slams the end of it down hard.  The area around his impact snaps open to reveal a pit.  The boys look down into the pit, which has revolving wooden spikes in it which would shred anyone falling on top of them.)<br><br>DEX: Like I said: no Runner's that stupid.<br><br><br>CLIFF.  Kiryk and Jennifer reach the bottom of a small cliff.<br><br>KELLER: What now?<br><br>KIRYK: We go up.<br><br>KELLER: Up?!  How?  Do you even have a rope?<br><br>KIRYK: No need for ropes.<br><br>(Taking her arm, he presses the device on his elbow and they disappear, then reappear a moment later on the top of the cliff.  Jennifer gasps and looks around.)<br><br>KELLER: Did we just ...?  How did we do that?!<br><br>KIRYK: I was on a planet a while back -- lots of technology.  (He looks at the device.  Its crystal is glowing red.)  Got this from one of the locals.  Barely put it on my arm before it fused to my skin.  Since then, if I hit this light when it's green, I can disappear -- move around from place to place.<br><br>KELLER: Teleportation.  That's how you got me out of the village so fast.<br><br>KIRYK: I can only go short distances.  It needs time to recharge between jumps, especially when I take someone with me.  But it's helped me stay ahead of the Wraith.<br><br>(He takes her arm again and they start to walk.)<br><br>KELLER: I imagine so!<br><br><br>ELSEWHERE.  Ronon stops when he realises that Rodney isn't behind him.<br><br>DEX (yelling): McKay!<br><br>(He curses when there's no reply.  Some distance behind him, Rodney has sat down and taken off his boot.  He shakes a stone out of it and checks inside for anything else.  Suddenly a Wraith comes into view and fires its stunner at him.  Ducking out of the way, he hops backwards on one foot, firing his pistol repeatedly at it.  Miraculously, the bullets hit it right and it falls to the ground, dead.  Rodney stares in amazement.  Ronon arrives, his blaster drawn.)<br><br>DEX: What the hell are you doing?<br><br>McKAY: At the moment, killing Wraith!<br><br>DEX: What are you stopping for?<br><br>McKAY: I'd got a stone in my boot -- I told you.<br><br>(He sits down to put his boot back on.)<br><br>DEX: No you didn't.<br><br>McKAY: I did!  I said, "Wait up, I've got a stone in my boot."<br><br>(Ronon walks closer and glares down at him.)<br><br>DEX: Every second you lag behind makes it that much harder for me to track this guy, especially at night.<br><br>(Rodney looks across to the Wraith.)<br><br>McKAY: Not any more.  (He smiles and stands up.)  We don't have to play Mantracker now.  We're gonna know exactly where this guy is ...<br><br>(He walks over to the Wraith and takes a device off its arm.)<br><br>McKAY: ... thanks to <I>this</I> handy gadget.<br><br>(He smiles smugly at Ronon, but Ronon snatches it angrily out of his hand.)<br><br>DEX: <I>Look</I> at that signal.  They're even farther away than I thought.<br><br>(Shoving it back into Rodney's hands, he storms off.)<br><br><br>LATER.  The boys continue onwards.<br><br>McKAY: I'm sorry, but I guarantee you: at some point you're gonna need my help.  You'll see.  There'll be some problem you can't solve and you'll turn to me, I'll figure it out in the nick of time and you'll say, "Good job," or just grunt, or slap me on the back harder than necessary.  Anyway, the point is, we both have our gifts, so you need to stop resenting my presence here and start realising that we're on the same team, both trying to achieve the same goal, right?  Are you listening?  Keep up the tracker faith -- can you hear what I'm saying here?<br><br><br>FURTHER AHEAD.<br><br>KELLER: When are you gonna tell me what you want from me?<br><br>KIRYK: I need you to help someone.<br><br>KELLER: Who?<br><br>KIRYK: That's not important to you.  You just need to give her medical attention.<br><br>KELLER: "Her"?  Who is she -- your wife?<br><br>KIRYK: When we get there, I won't be able to stay with you.  The longer I'm in one place, the greater the danger, and there's probably a dozen more Wraith on the way.<br><br><br>CLIFF.  Rodney and Ronon reach the bottom of the cliff.<br><br>DEX: The trail ends here.<br><br>McKAY (looking at the tracking device): Oh, he's dead ahead, so either he climbed this thing or he figured out how to get around it.<br><br>DEX: No sign they went around.<br><br>McKAY: Well, so, they must have had a rope or something, unlike us.  Look, how're we gonna get up there?<br><br>DEX: You said something about solving a problem.<br><br>McKAY: Yeah, technological problems, not rock climbing problems.<br><br>DEX (walking away): Thought so!<br><br><br>FURTHER AHEAD.<br><br>KELLER: You ever thought about trying to remove that tracking device?<br><br>KIRYK: You could say that.  I had a few doctors try.  No luck.<br><br>KELLER: I have advanced medical technology with me.<br><br>KIRYK: I know.<br><br>KELLER: So I could probably remove it.  That Runner I was telling you about -- one of our doctors removed <I>his</I> tracking device.  That's how he was able to stop being a Runner.<br><br>KIRYK (holding up her bag): You have something in here that can remove it?<br><br>KELLER: I have a scanner.  With that, I can pinpoint the location of your tracking device, give you some anaesthetic, make a quick incision -- you're free of it.<br><br>KIRYK (doubtfully): I ...<br><br>KELLER: Look, you say there's someone who needs medical attention.  It's gonna be a lot safer for all of us if we throw the Wraith off your trail before we get there.<br><br>(Kiryk gives her a long look, trying to work out if he can trust her, then sighs and puts her bags down before pulling out his big knife.  Jennifer cringes as he steps towards her, but he cuts the ropes binding her wrists.  She bends down to one of the bags, unzips it and takes out the portable scanner.)<br><br>KELLER: OK, turn around.<br><br>KIRYK: If you try anything, I'll ...<br><br>KELLER: Just turn around.<br><br>(He gives her another long doubtful look, then turns his back on her.  She activates the scanner and runs the reader slowly down his head and back.  The scanner beeps as it detects the tracking device.)<br><br>KIRYK: D'you see it?<br><br>(Jennifer deactivates the scanner, her face full of dread.  He turns back to her.)<br><br>KIRYK: What did you see?<br><br>KELLER: Your tracking device -- it's different.  It's much more complicated.  It's branched out -- fused not only to your spine but also to your brain stem.  Removing it would kill you.  I'm sorry.<br><br>KIRYK: We need to get moving.<br><br>(He picks up one of the bags.  Jennifer puts the scanner into the other bag, zips it and picks it up before following him.)<br><br><br>Some distance behind them, Rodney and Ronon have found a way around the cliff and are heading into the forest again.<br><br>McKAY: OK, nightfall: seventeen minutes, but like I said, it's very brief, like Whitehorse in June -- not that you have any idea what Whitehorse is, or June for that matter.<br><br>(A cracking noise can be heard behind them.)<br><br>McKAY: What the ...?<br><br>(Ronon glances behind them.)<br><br>DEX: Woah!<br><br>(Grabbing Rodney, he shoves him to the ground and follows him down as a large log, studded with huge vicious spikes, swings down from the trees on the end of two long ropes.  The log swings over their heads and back.)<br><br>McKAY (starting to scramble up): Did you see that thing?!<br><br>(Ronon shoves him down as the log swings over their heads again.  They roll over onto their backs and watch as the log continues to swing back and forth above them.)<br><br>DEX: This guy's good.<br><br>McKAY: This guy's a killer!<br><br><br>NIGHT TIME.  Kiryk and Jennifer reach a cliff wall.<br><br>KIRYK: Good.  No-one found it.<br><br>KELLER: Found what?<br><br>(Kiryk removes some leafy branches from an opening in the cliff wall and leads her into a cave lit by a lantern.  Lying unconscious on a makeshift bed inside is a little girl, about nine years old.)<br><br>KIRYK: Her name is Celise.<br><br>KELLER: What happened to her?<br><br>KIRYK: She fell; injured her leg.<br><br>(He removes a rough dressing from the girl's leg and shows Jennifer a nasty wound underneath.  Jen gets out a torch for a better look.)<br><br>KIRYK: I did my best to clean the wound but ...<br><br>KELLER: It's infected.  When did this happen?<br><br>KIRYK: A few days ago.  When she got worse, I went looking for a doctor.  I went to three different planets.  I heard there were people from Atlantis helping the village here with their sickness, so I brought her here, found this cave to hide her, set a few traps to keep the Wraith or anyone else away, then waited for you to show up.<br><br>KELLER: You know, you could've just <I>asked</I> for my help instead of kidnapping me.<br><br>KIRYK: I couldn't take that chance.  Most people don't want anything to do with Runners.<br><br>(While they've been talking, Jennifer has been checking the girl over, taking her pulse, blood pressure etc.)<br><br>KELLER: Is she your daughter?<br><br>KIRYK: No.  She lived in a village that was destroyed by the Wraith.<br><br>KELLER: Let me guess: you brought the Wraith there.<br><br>KIRYK: I stayed there <I>one</I> night.  I didn't think they'd find me that fast.  They culled the whole village.  Celise was the only person I could save.<br><br>(Jennifer puts a thermometer into the girl's ear, then looks at its readout when it beeps.)<br><br>KIRYK: How bad is she?<br><br>KELLER: Very bad.  Her blood pressure's dangerously low; she's septic, going into shock.<br><br>KIRYK: What does that mean?<br><br>KELLER: It means the wound is necrotic.  I'm gonna have to surgically debride it ... (off Kiryk's questioning look) ... cut away the dead tissue.  I'm gonna start her on an I.V. antibiotic but she needs much stronger medication than I have with me.  She's a very, very sick girl.<br><br>KIRYK: She can't die.  You <I>cannot</I> let her die.<br><br>KELLER: I'll do what I can.<br><br>KIRYK: I'll be close by.<br><br>(He leaves the cave as Jennifer starts to prepare a drip.  Going outside, he covers the entrance to the cave with branches and heads out on patrol.)<br><br><br>LATER.  Jennifer has finished her surgery and is dressing Celise's leg just as she wakes up and looks up at her nervously.<br><br>KELLER: Oh, it's OK.  It's OK.  I'm here to help you.  I gave you some medicine to numb your leg.  Do you feel any pain?<br><br>(Clutching a small doll to herself, Celise shakes her head.)<br><br>KELLER: Good.  That's good.<br><br>CELISE: Where's Kiryk?<br><br>KELLER: Kiryk.  So that's his name.  He's just outside, keeping watch and making sure you're safe, OK?<br><br>(Celise nods.  Jennifer looks at her doll.)<br><br>KELLER: That's a beautiful doll.<br><br>CELISE: Kiryk made it for me.<br><br>KELLER: Wow, mean old Kiryk, huh?!  Go figure!<br><br>CELISE: He's not mean.  He just pretends to be.<br><br>(Jen nods.)<br><br>KELLER: I know someone just like him.<br><br><br>FOREST.  Rodney and Ronon continue onwards in the darkness.<br><br>McKAY: The signal's circling.  Wherever he's taken her, I think they've arrived.<br><br>DEX: How long before daybreak?<br><br>McKAY: Uh, not long now.  Maybe under an hour.  It's pretty short ...<br><br>(He stops as Ronon holds up a warning hand and snatches out his blaster, aiming it at a Wraith standing with its back to them nearby.  Rodney looks at him in surprise when he doesn't fire instantly.)<br><br>McKAY: What are you doing?  Shoot it!<br><br>DEX: Shh.<br><br>(Slowly he creeps towards the Wraith and presses the muzzle of his blaster against the back of its head.)<br><br>DEX: Don't move.<br><br>(When the Wraith neither moves nor speaks, he walks around to the front and sees that it got caught in another of Kiryk's traps which must have sprung up from the ground in front of it and impaled it on several sharp spikes.  He chuckles in admiration.)<br><br>DEX: One less trap to worry about.<br><br>McKAY: That's supposed to be comforting?!<br><br><br>CAVE.  Jennifer comes to the entrance to the cave and looks around.  There's no sign of Kiryk.  She turns in a circle, only to suddenly find him standing behind her.  She gasps, then sighs in relief.<br><br>KELLER: Oh!  You scared me.<br><br>KIRYK: How is she?<br><br>KELLER: I've debrided the wound, cleaned it as best I could, but she's not out of danger, not by a long shot.  She needs a much stronger antibiotic regimen, not to mention the probability of a skin graft.  I'd like to take her to Atlantis.  Our Infirmary can provide her with the proper care she needs.<br><br>KIRYK: I can't go to Atlantis.<br><br>KELLER: I know.  You're gonna have to trust me with her care.<br><br>(Kiryk thinks about it, then sighs.)<br><br>KIRYK: As long as you return her to me when she's healed.<br><br>KELLER: Kiryk, you have to understand something: there's no guarantee she's gonna survive this.  She's still very sick.  But if she survives, being constantly hunted by the Wraith is no life for a child.  You <I>know</I> that.  If you really want her to live, you need to let her go.<br><br>KIRYK: If I knew that she would ...<br><br>(He trails off as he hears rustling nearby.)<br><br>KELLER: What is it?<br><br>(He grabs her and bundles her into the bushes nearby.  Leaving her there, he hurries away.  Shortly afterwards, two Wraith come out of the trees and head towards the cave entrance.  Suddenly Kiryk materialises in front of them, slashing one down.  He swings at the other one but it ducks under his blow and grabs him, flipping him over onto his back on the ground.  As it turns to attack him, he presses his transporter and disappears, but he has left his knife behind.  The Wraith walks towards it, and Kiryk reappears crouched down, punches it in the thigh to throw it off balance, snatches up the knife and slashes it across the throat.  As it falls, he spins around looking for more danger.  A stunner blast comes out of the trees and hits him in the back.  Grimacing, he crumples to the ground unconscious as a third Wraith comes out of the trees.  Jennifer stares in terror as it walks over and looks down at Kiryk, but it is distracted by a voice coming from the cave.)<br><br>CELISE: Kiryk?<br><br>(The Wraith walks into the cave and looks at the little girl as she cowers in fear on her bed.  Snarling in anticipation, it walks slowly towards the bed and stops, looking down on her as it contemplates its tasty meal.  It steps forward again, then stops as something impacts it.  It looks down and sees Kiryk's knife sticking through its chest, held by Jennifer standing behind it.  It falls to the floor and Jennifer drops the knife, runs forward and cradles Celise comfortingly.)<br><br><br>DAY TIME.  Kiryk regains consciousness and groans as he looks up.  He is lying in a clearing.  Nearby, Celise is lying on the ground wrapped in a blanket as Jennifer administers another injection to her.  His knife is stabbed into the ground next to her.<br><br>KIRYK: What happened?<br><br>KELLER: A Wraith stunned you.  It almost killed Celise.  I couldn't revive you.  They must have hit you with a triple dose of whatever's in those stunners.<br><br>(Kiryk hauls himself painfully onto his hands and knees.)<br><br>KELLER: Anyway, I knew we had to get away from the cave so I carried Celise here and then I went back and literally dragged you the distance.  Not an easy task, let me tell you!<br><br>KIRYK (pulling himself to his feet): How is she?<br><br>KELLER: Stable for the time being but her fever is still very high.  The longer she stays on this planet, the greater the danger.<br><br>(Kiryk pulls his knife out of the ground and sheathes it.)<br><br>KIRYK: I'll carry her.  We'll head back for the Gate.<br><br>KELLER: With the Wraith closing in on us?  How far do you think we're gonna get?<br><br>KIRYK: A lot farther than you trying to carry her yourself.<br><br>KELLER: OK, look.  I've been thinking.  I may not be able to remove the tracking device, but there might be a way to disable it.<br><br>(She picks up a machine she has taken from one of the bags.)<br><br>KELLER: This machine is called a defibrillator.  It creates a powerful electric shock to restore someone's heart to the proper rhythm and I think if I can place the paddles on the skin directly above your tracking device, I might be able to overload the power source, fry the circuits.<br><br>KIRYK: All right, do it.<br><br>KELLER: OK, but you should know that there's no guarantees that this is gonna work, and it also carries a lot of risk.<br><br>KIRYK: Well, if it works, the device'll be disabled; if it kills me, same thing.  The Wraith won't be able to track me any more.  It's time we stopped running.<br><br><br>FOREST.  Rodney looks at the Wraith tracker as he and Ronon continue onwards.<br><br>McKAY: It's not too much further.<br><br>(Snatching out his blaster, Ronon breaks into a run.  Rodney chases after him.)<br><br>McKAY: Hey!<br><br><br>CLEARING.  Kiryk is on his knees beside Celise, gently stroking her head.<br><br>KIRYK: Promise me you'll make sure she's cared for.<br><br>KELLER: I promise.<br><br>(He stands up and starts to undo his jacket.  As he takes it off his back is to Jennifer, who stares appalled at the number of slashes and scars on his back where doctors -- and possibly Kiryk himself -- have tried to extract the tracking device.  He drops the jacket to the ground and walks over to her, kneeling down.)<br><br>KELLER: OK.  The charge moves from one paddle to the other and your tracking device is gonna be directly between them, OK?<br><br>(He nods, and she sticks one of the paddles onto his chest.)<br><br>KELLER: All right.<br><br>(He lies forward onto the ground and she sticks the other paddle onto his back.)<br><br>KELLER: Ready?<br><br>(He nods nervously.  She turns the energy level up to 360 joules.)<br><br>KELLER: OK, here we go.<br><br>(She activates the defibrillator and the charge hits Kiryk, who convulses in agony and then slumps down unconscious.)<br><br><br>In the forest, the Wraith tracker beeps.<br><br>McKAY: What the hell?!<br><br>DEX: What?<br><br>McKAY: I don't know.  It just suddenly stopped transmitting.  We've lost them.<br><br>(Ronon glowers at him for a moment, then heads off in the direction they were just going.)<br><br><br>CLEARING.  Jennifer has turned Kiryk onto his back and is applying manual compressions to his chest.<br><br>KELLER: Come on!<br><br>(She breaks off to administer an injection into his neck, then puts her fingers to it to check for a pulse.  A moment later he gasps and surges up.)<br><br>KELLER: OK?<br><br>KIRYK: What?  What happened?<br><br>KELLER: I lost you for a moment, but you're back in the land of the living.<br><br>(She picks up the scanner.)<br><br>KIRYK: Did it work?<br><br>(She runs the reader over his back and looks at the screen.)<br><br>KELLER: I think so.  The device isn't transmitting any signals.  I think we successfully fried the sucker!<br><br>(She grins at him triumphantly, then looks down and her smile fades.)<br><br>KELLER: Oh, no.<br><br>KIRYK: What?<br><br>(He looks down and sees the transporter device lying on the ground beside his arm.)<br><br>KELLER: I guess it fried that, too.<br><br>KIRYK (picking it up): Doesn't matter.  Don't need it any more.<br><br>(He goes to throw it away but she stops him.)<br><br>KELLER: Actually, I know someone who would <I>love</I> to inspect a gadget like that.<br><br>(He hands it to her and she puts it in the bag.)<br><br><br>FOREST.  Ronon is crouching down looking at the ground as Rodney comes over to him.<br><br>McKAY: Anything?<br><br>(Ronon looks around the area.)<br><br>McKAY: What?<br><br>DEX: A body was dragged through here.<br><br>(Rodney stares in horror as Ronon stands up and heads off again.  They carry on and reach the clearing, which is now empty.) <br><br>McKAY: You got something?<br><br>DEX: Yeah.  Two bodies laid here.  Ground cover's trampled in two spots.<br><br>McKAY: So the Wraith got to them before we did.<br><br>DEX: I don't think so.  I don't see any Wraith footprints anywhere.<br><br>McKAY: Well, so what happened?  What, they killed each other?<br><br>DEX: No-one's dead.  At least, they weren't when they were here.<br><br>(He turns and points into the foliage.)<br><br>DEX: Look, one body was dragged through here -- by Keller; her footprints.<br><br>McKAY: So <I>she</I> killed him, probably in the process of disabling his tracking device.<br><br>DEX: Naah, she didn't kill him.  (He smiles.)  He was unconscious.  His footprints, side by side with hers, leaving the clearing that way.<br><br>McKAY (disbelievingly): So, what, she brought him here unconscious, revived him and they left together?!<br><br>DEX (shrugging): Looks like it.<br><br>McKAY: Hey, wait a second.  You said there were <I>two</I> bodies.  So, what, she took a nap?<br><br>DEX: No.  Too small for Keller.  My guess is someone else is with em.  Probably a child.<br><br>McKAY: But no footprints.<br><br>DEX: No.  She was carried here.<br><br>McKAY: "She"?  How could you <I>possibly</I> know the kid was a girl ...?<br><br>(He trails off as Ronon squats down and picks up Celise's doll from the ground.)<br><br>McKAY: Oh.<br><br>(As Ronon stands up with the doll, the distinctive sound of Wraith Darts can be heard nearby.  The boys look upwards.)<br><br>DEX: Darts.<br><br>McKAY: Looks like we're not the only ones who noticed his signal died.<br><br>(They hurry off.)<br><br><br>ELSEWHERE.  Kiryk, carrying Celise draped over his shoulder, and Jennifer reach the top of a cliff.<br><br>KELLER: Could sure use that teleportation device now.<br><br>KIRYK: There's a path down not too far from here.<br><br>(He lowers Celise to the ground.)<br><br>KIRYK: Stay here.  I'll check to make sure it's still safe.<br><br>(Jennifer kneels down to cover Celise better with the blanket as Kiryk walks to the edge of a small rise.  Suddenly Ronon runs up behind him and hurls himself at his back, bundling him to the ground.  They both spring up and start to fight.  Jennifer stands up.)<br><br>KELLER: Ronon?  Ronon, wait!<br><br>(Rodney runs up to her.)<br><br>McKAY: Jennifer!<br><br>KELLER: Make him stop!<br><br>McKAY: What?  Why?<br><br>(The two men continue trading punches, kicks and headbutts.  Jennifer calls out anxiously as Rodney tries to hold her back.)<br><br>KELLER: Ronon, please stop!<br><br>(Her voice rises to a scream at the end, then she quickly bends down to Celise.)<br><br>KELLER (to Rodney): Help me.  Grab her.<br><br>(As Rodney bends down to pick the girl up, she runs towards the fighting men.  Simultaneously, Ronon snatches out his blaster as Kiryk unsheathes his big knife.  Still grappling with each other, Ronon pushes the muzzle of his blaster into Kiryk's face as the other man holds his knife across Ronon's throat.  Jennifer charges towards them.)<br><br>KELLER: Stop!<br><br>(The men freeze in position, growling as they realise they're in a stand-off.  Jennifer runs to them, putting a hand on each of their weapons arms.)<br><br>KELLER (to Ronon): Listen, he just wanted me to help the little girl.<br><br>(The men continue to glare into each other's eyes.)<br><br>KELLER: She's sick.  She's dying.  We need to get her back to Atlantis.  Ronon.  <I>Please.</I><br><br>(His eyes still locked on Kiryk's, Ronon thinks about it for a moment, then grimaces and pulls his blaster away.  Kiryk pulls his knife away from his neck.)<br><br>McKAY: Jennifer, the-the ...<br><br>(Jennifer turns and hurries over to where Rodney has lowered Celise to the ground again.  The bandage covering her leg is soaked in blood.  Nearby, the Darts soar across the sky again.)<br><br>KELLER: Her sutures have torn.  I need to re-stitch her before we can move her.<br><br>(As she bends down to undo the bandage, the men look across to the forest canopy as the Darts continue to fly around.  Ronon turns back to Kiryk.)<br><br>DEX: You've got Wraith looking for you.<br><br>KIRYK: I know.<br><br>McKAY: Listen, we stand a better chance fighting them together than fighting each other.  (Nervously) I mean, obviously the odds of actually winning are seriously low but ...<br><br>KELLER: Not helping.<br><br>McKAY: I got ...  I'll get ... <br><br>(He heads off to collect the bags.  Ronon turns back to Kiryk.)<br><br>DEX: He's right.  This place is gonna be swarming with Wraith.  It's better off we work together.<br><br>(He steps aside and allows Kiryk to pick up his Wraith stunner pistol which must have fallen from its holster during the fight.  Holstering it, Kiryk walks over to Celise as Rodney brings Jennifer's bags over to her.)<br><br><br>LATER.  Jennifer finishes re-bandaging Celise's leg.<br><br>KELLER: All right.  She's ready.<br><br>DEX: Let's go.<br><br>(Kiryk bends down to pick her up, just as a Wraith charges out of the bushes nearby.)<br><br>DEX: Wraith!<br><br>(He whirls as another Wraith runs out from the foliage behind him and engages it.  Rodney snatches out his pistol and fires repeatedly at the first one.  It recoils under the impacts but then Rodney runs out of bullets.)<br><br>McKAY: Oh, crap!<br><br>(The Wraith charges forward, grabs him and slams him back against a rock.  Kiryk is hurrying to carry Celise out of danger and put her down, so can't help.  Rodney screams out.)<br><br>McKAY: <I>Ronon</I>!<br><br>(Ronon looks around but is too busy grappling with his own Wraith to get away, and a third Wraith has arrived and is slashing at him from behind.  Help arrives for Rodney in the unexpected form of Jennifer who picks up a stout branch and whacks it across the Wraith's back.  It turns and slashes at her but she ducks underneath the blow.  Kiryk, finally free to fight, runs in and takes on one of the two attacking Ronon.  Rodney sits on the rock struggling to put a new clip into his pistol.  Jennifer fights on with her Wraith, doing a good job of trading blows with her branch each time it lashes out at her.  As it tries to strike again, she ducks to its side.)<br><br>KELLER: Shoot him!<br><br>McKAY: I will!<br><br>(With his pistol finally loaded, he fires six bullets into it and it crumples to its knees.  Nearby, Kiryk continues trading blows with his Wraith until he has the opportunity to snatch out his knife.  Ronon crouches down and sweeps his arm across the backs of his Wraith's knees, flipping it onto its back, then drops down onto his knees and slams a hand down on it.  Kiryk slashes his knife across his Wraith's neck.  Ronon holds up his other hand and without hesitation Kiryk throws his knife to him.  Ronon catches it, flips it into the air and catches it again with the blade pointing downwards, and slams it down into the Wraith's chest.  For good measure, he twists the blade to make sure it's dead.)<br><br>(Kiryk turns to look for Celise and sees her lying quietly nearby.  Rodney walks over to Jennifer, staring at her in amazement.)<br><br>McKAY: Where'd you learn to fight like that?<br><br>KELLER:  Oh.  (She gestures towards Ronon with her branch.)  I've been taking a few sparring lessons.<br><br>McKAY: Oh.<br><br>(He sags, hurt by the thought that she has been spending time with Ronon.  More Darts soar past nearby.)<br><br>DEX: We need to move.<br><br><br>LATER.  The group is making its way through the forest.<br><br>KELLER: I tried to stabilise her but she needs stronger medication.<br><br>McKAY (to Kiryk): You know, you could have just asked for her assistance as opposed to kidnapping her.<br><br>KELLER: He knows, Rodney.<br><br>(She takes the armband out of her bag and hands it to him.)<br><br>KELLER: Here, I got you something.  It's a kind of teleportation device.<br><br>McKAY: Teleportation?  Huh?<br><br>KELLER: Well, it <I>was</I>, anyway.  I kind of broke it.<br><br>(Rodney looks at it as the group continues onwards.  Ronon is walking ahead with Kiryk, who is cradling Celise in his arms.)<br><br>DEX: Is she family?<br><br>KIRYK: I brought the Wraith to her village.  She's the sole survivor.<br><br>DEX: It's not easy living with that.<br><br>(Kiryk looks at him, surprised that he understands.)<br><br>DEX: Don't worry.  We're gonna get you out of this -- both of you.<br><br>(They reach a rise and look down at the Stargate clearing below them.  Several Wraith guards are walking around near it.)<br><br>DEX: I count six Wraith on the ground.<br><br>KIRYK: Six that we can see.  Probably more in the surrounding woods.<br><br>DEX: Wanna make a run for it, shoot our way through?<br><br>KIRYK: The ships'll be alerted as soon as the shooting starts.  We'll be culled before we can even dial.<br><br>DEX: We're just gonna have to take our chances.<br><br>(Sitting beside Jennifer and Celise nearby, Rodney has been tinkering with the armband and now it trills briefly.)<br><br>McKAY: Hey!<br><br>KELLER: You fixed it!<br><br>McKAY: Dunno about fixed.  More of a patch, really.  It's incredibly complicated technology.  I'm not sure if it'll actually ...<br><br>(Kiryk walks over and takes it from him.)<br><br>McKAY (indignantly): Hey!  What are you doing?<br><br>KIRYK: I'm gonna improve our chances.<br><br>(He wraps the band around his arm.  Instantly tendrils start to wrap themselves around his arm.  They tighten and the crystal in the middle of the device lights up green.)<br><br>KELLER: Don't go down there by yourself.<br><br>KIRYK: I'll be fine.  (He looks at Ronon.)  Get ready to attack that clearing.<br><br>McKAY: Look, just-just-just wait a second, all right?  Look, I'm not sure if I've actually fixed it.  You'll need to test it before you ...<br><br>(Too late.  Kiryk presses the crystal and disappears.  Ronon looks round in surprise.)<br><br>McKAY: Huh!  I guess I <I>did</I> fix it.<br><br>(Down in the clearing, Kiryk rematerialises behind a Wraith guard and plunges his knife through it.  Even before it hits the floor he slams his hand down onto the crystal and disappears again.  He reappears behind another guard standing by the D.H.D. and slashes it down before firing his stunner at a third guard.  He punches the first symbol on the D.H.D. and then turns to aim his pistol towards another approaching guard.  Up on the rise, the others see him.)<br><br>KELLER: He's at the Gate.<br><br>DEX (to Rodney): Stay with them.<br><br>(He races off.  At the D.H.D., Kiryk presses his crystal but it has turned red and is in recharge mode.  He ducks behind the D.H.D. as a guard hiding behind a nearby tree leans out and fires its stunner rifle at him.  He surges up and returns fire before ducking down again.  Picking his moment, he jumps up again, leans over the top of the D.H.D. and punches a couple more symbols before having to take cover again.  As blasts come at him from at least two directions, he manages to jump up and hit a couple more symbols before the firing drives him back behind the device.)<br><br>KELLER: He's dialling the Gate!<br><br>(Jumping up again, Kiryk punches the central button and the Gate kawhooshes behind him as he ducks behind the D.H.D. again.  More Wraith charge towards the clearing.  One last time Kiryk jumps up, fires in all directions and then turns and races into the open Gate, still firing backwards as he goes.  The Wraith give chase, pelting into the Gate after him.  A moment later the Darts fly in and swoop into the event horizon.)<br><br>(As Ronon runs into the clearing, the Gate closes down.  Up on the ridge, Jennifer closes her eyes in grief as Rodney looks shocked at Kiryk's brave actions.  Jennifer looks across to him.)<br><br>KELLER: We've gotta get a move on.<br><br>McKAY: All right.  We'll take her to the Gate, then I'll go back -- tell people it's safe to return to the village.<br><br>(Down in the clearing, Ronon stares at the Gate, his eyes full of respect and loss.)<br><br><br>ATLANTIS.  In the Infirmary, Celise is sitting up in bed holding a hand-held computer which has started a game called Fowl Play.  An animation of a hunter holding a rifle is scrolling back and forth across the screen as ducks flying overhead. She is pressing buttons randomly.  Standing beside her, Rodney tries to explain the game to her.<br><br>McKAY: Uh, no, no.  As they fly up, you wanna use that button there to shoot them.<br><br>CELISE (upset): Shoot the ducks?<br><br>(Rodney smiles condescendingly.)<br><br>McKAY: They're not real ducks, obviously.  They're just, you know, pretend, so ...<br><br>(Jennifer turns around from a monitor on the other side of the bed.)<br><br>KELLER: Maybe you should show her a different game.<br><br>McKAY: Yeah, sure.  Here.<br><br>(He takes the device from her as John walks in, followed by Ronon.)<br><br>SHEPPARD: Well, how's our little patient?<br><br>KELLER: Oh, much better.  She's a heck of a fighter.<br><br>(John looks at Celise, gesturing at Rodney.)<br><br>SHEPPARD: Is he bothering you?  Cause I can him removed -- forcibly.<br><br>CELISE (hopefully): Really?<br><br>McKAY: Yeah, he's kidding.<br><br>KELLER: I talked to one of the families on 985 -- the woman whose home we visited?  She'd love to have Celise come live with them.<br><br>DEX: That's great.<br><br>CELISE: Will I see Kiryk again?<br><br>KELLER: I don't know, sweetheart.<br><br>SHEPPARD: We're still looking for him, keeping our eyes and ears open.<br><br>DEX: Hey, I brought you something.  I think you dropped this in the woods.<br><br>(He holds out the doll to her.)<br><br>CELISE (smiling happily): My doll!<br><br>(She takes it and cradles it to her.  Ronon smiles at Jennifer, who smiles back, surprised at his actions.  Rodney watches them, his face full of pain.)<br><br><br>GYM.  Ronon is twirling a fighting stick around him.  Rodney walks in, rubbing his hands together and sighing nervously.  Ronon stops twirling the stick and turns to face him.<br><br>DEX: What?<br><br>McKAY: OK, here's the thing: I've been thinking and, uh, I need to know your intentions.<br><br>DEX: Intentions?<br><br>McKAY: With Jennifer.<br><br>DEX: I don't have any intentions.<br><br>McKAY: Oh!  OK.  (He turns away, smiling.)  Good.<br><br>(He starts to leave.)<br><br>DEX: Wait.<br><br>(Rodney stops and turns back to him.)<br><br>DEX: What d'you mean by intentions?<br><br>McKAY: I mean, are you interested in her in a ... romantic fashion?<br><br>DEX: No.<br><br>McKAY: Good!<br><br>(Again he turns to leave, smiling.)<br><br>DEX: Wait.<br><br>(Rodney stops and turns back tetchily.)<br><br>McKAY: What?<br><br>(Biting back a smile, Ronon puts one end of the stick on the floor and leans on the top of it.)<br><br>DEX: Maybe I do ... have intentions.<br><br>McKAY (groaning): Oh.<br><br>DEX: Do <I>you</I> have intentions?<br><br>McKAY: Yes, well, of <I>course</I> I do -- that's why I was <I>asking</I> you.<br><br>DEX: So what are we gonna do about it?<br><br>(Rodney sighs.)<br><br>McKAY: I don't know.<br><br>(Ronon lifts the stick off the ground and swings it gently in Rodney's direction.  He flinches back a little.)<br><br>McKAY: I'm not gonna <I>fight</I> you for her, if that's what you're thinking.<br><br>DEX: Great!<br><br>McKAY: I'm not gonna step aside, either, so we're just gonna have to let <I>her</I> decide.<br><br>DEX (still trying to hide his smile): OK.<br><br>McKAY: OK.  So ... (he walks forward, his right hand outstretched) ... may the best man win.<br><br>(Smiling, Ronon takes his hand and shakes it.  Rodney meets his eyes nervously, already convinced that he's lost.)
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="508.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s5/509.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="510.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s5/index.shtml">
+<IMG SRC="/graphics/title_s5episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Five Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="501.shtml" CLASS="list">Search and Rescue</A><BR><A HREF="502.shtml" CLASS="list">The Seed</A><BR><A HREF="503.shtml" CLASS="list">Broken Ties</A><BR><A HREF="504.shtml" CLASS="list">The Daedalus Variations</A><BR><A HREF="505.shtml" CLASS="list">Ghost In the Machine</A><BR><A HREF="506.shtml" CLASS="list">The Shrine</A><BR><A HREF="507.shtml" CLASS="list">Whispers</A><BR><A HREF="508.shtml" CLASS="list">The Queen</A><BR><A HREF="509.shtml" CLASS="list">Tracker</A><BR><A HREF="510.shtml" CLASS="list">First Contact</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="511.shtml" CLASS="list">The Lost Tribe</A><BR><A HREF="512.shtml" CLASS="list">Outsiders</A><BR><A HREF="513.shtml" CLASS="list">Inquisition</A><BR><A HREF="514.shtml" CLASS="list">The Prodigal</A><BR><A HREF="515.shtml" CLASS="list">Remnants</A><BR><A HREF="516.shtml" CLASS="list">Brain Storm</A><BR><A HREF="517.shtml" CLASS="list">Infection</A><BR><A HREF="518.shtml" CLASS="list">Identity</A><BR><A HREF="519.shtml" CLASS="list">Vegas</A><BR><A HREF="520.shtml" CLASS="list">Enemy At the Gate</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Five</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B002ACP0MO/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B002612S6A/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls5.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="508.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s5/509.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="510.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

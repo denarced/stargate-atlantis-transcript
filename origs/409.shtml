@@ -1,0 +1,527 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Miller's Crossing" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s4/409.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s4/transcripts/409.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=585">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=320">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s4/409.shtml#production">Production</A>
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=49078">Fan Reviews</A>
+				 | <A HREF="http://forum.gateworld.net/forumdisplay.php?f=102">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s4/409.shtml"><IMG SRC="/atlantis/graphics/409_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="MILLER'S CROSSING" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://click.linksynergy.com/fs-bin/stat?id=2cvd55rHd*s&offerid=78941&type=3&subid=0&tmpid=1826&RD_PARM1=http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewTVShow?id=179127311&partnerId=30" TARGET="_blank"><img height="15" width="61" border="0" alt="iTunes" src="/store/graphics/itunes_button.gif"></img></a> &nbsp; <a href="http://www.amazon.com/exec/obidos/ASIN/B0010HET8G/bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 409<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 4, Disc 3<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 11.30.07<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 11.10.08<BR>
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm1236625/" TARGET="_blank">Martin Gero</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0586539/" TARGET="_blank">Andy Mikita</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">Rodney McKay goes in search of his sister on Earth after she is kidnapped by the head of a powerful corporation.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    ATLANTIS.  In a lab, Rodney McKay stands and frowns at a number of whiteboards in front of him.  Behind him, several scientists, including Radek Zelenka, are seated at various desks and are all frowning down at their laptops.  Rodney purses his lips thoughtfully.<br><br>McKAY: Hmm.  Maybe if we, umm ...<br><br>(Everyone looks up at him hopefully.)<br><br>McKAY: No.  No.<br><br>(The scientists sigh, one sinking his head into his hands.  A female scientist speaks.)<br><br>SCIENTIST: Why don't we bring the Wraith in on this?<br><br>McKAY (without turning round): No.<br><br>SCIENTIST: A lot of this new nanite coding is based on his calculations, so maybe ...<br><br>McKAY (interrupting): (A) he wouldn't help us, (B) we don't <I>need</I> his help and (C) ... someone get me some coffee.<br><br>SCIENTIST: You've been silently staring at that board for three hours.<br><br>McKAY: Yeah-yeah-yeah.  It'll come to me.<br><br>ZELENKA: Just e-mail her, already.<br><br>(The other scientists flinch, grimacing at Radek's nerve.  Rodney slowly turns around to face him.)<br><br>McKAY: <I>Excuse</I> me?!<br><br>ZELENKA: Rodney, we're stuck.  We've been stuck for ten hours.  Just ask her for help, <I>please</I>.<br><br>McKAY (pointing to himself): I'm not stuck.<br><br>ZELENKA: The last time we had a block like this, she helped us through it, right?<br><br>McKAY: That was something completely different.<br><br>ZELENKA: I cannot sit here waiting for you to have an epiphany!  I'm losing the will to live!<br><br>(Rodney looks round at the scientists, reluctantly realising that Radek may be right.)<br><br>McKAY: I suppose there could be more important things I should be working on.<br><br>ZELENKA: However you want to sell it to yourself, that's fine.<br><br>(He shuts down the lid of his laptop.  The female scientist follows his lead and shuts her laptop's lid.  Everyone else follows suit, closing their laptops, and they all stand up and leave the room, leaving Rodney alone.)<br><br>McKAY: Hmm!<br><br><br>EARTH.  VANCOUVER.  MILLER RESIDENCE.  In the kitchen, Jeanie and Kaleb Miller are watching their daughter Madison as she finishes patting out cake dough into the shape of a huge cookie.<br><br>MADISON: Done!  Done!<br><br>KALEB: Just one big cookie?<br><br>MADISON: Yeah.<br><br>JEANIE: Don't you wanna use your cutters?<br><br>MADISON: Nah.  I just want a big one.<br><br>(Jeanie and Kaleb giggle.  Just then Jeanie's laptop, which is on a nearby cabinet, beeps notification of a new e-mail.  As she goes over to it and washes cookie dough from her hands, Kaleb walks over to Madison.)<br><br>KALEB: You may wanna flatten the dough a <I>little</I> bit.<br><br>MADISON: No.<br><br>KALEB: No?  Just a giant cookie mountain?  That's what you're going for?<br><br>MADISON: Yeah!<br><br>KALEB: OK!<br><br>(Jeanie opens her e-mail and starts to read it.)<br><br>KALEB: Anything good?<br><br>JEANIE: It's from my brother.  (She reads on.)  He's stuck again!  Do you mind if I ...?<br><br>KALEB: Yeah, I got this.<br><br>(He looks at Madison who is sprinkling flour on top of her dough, and picks up another bowl of dough.)<br><br>KALEB: Here, do you wanna help with mine?<br><br>MADISON: OK.  <br><br>KALEB: OK.<br><br>MADISON: I want a <I>lot</I> of flour.<br><br>KALEB: How about some more chocolate chips?<br><br>MADISON: But not the full bowl.<br><br>KALEB: No, that would be too many.<br><br>(As they continue working, Jeanie opens a notebook on the work surface and, stopping to think occasionally, starts to write.)<br><br><br>NIGHT TIME.  Jeanie and Kaleb are in bed.  Jeanie turns over towards him and opens her eyes, seeing that he's awake.<br><br>JEANIE: You can't sleep?<br><br>KALEB: I thought I heard something.<br><br>JEANIE: Madison?<br><br>KALEB: I don't know.  I'll check it out.<br><br>(He gets out of bed.) <br><br>JEANIE: She probably just snuck downstairs for more cookies.<br><br>(Kaleb laughs.)<br><br>KALEB: That's actually not a bad idea.<br><br>(Before he can reach the door, it is kicked open and several men dressed in black riot gear and wearing helmets burst into the room, aiming pistols with laser sights on them.  One of them knocks Kaleb to the floor.  Jeanie cries out in terror as another man walks towards her aiming his gun at her.  She cringes against the bed head as the beam from the laser steadies against her head.)<br><br>MAN: You're coming with us.<br><br><br>STARGATE COMMAND (S.G.C.).  In the Gateroom, the Stargate is open.  Rodney walks through with John Sheppard and Ronon Dex.  They walk down the ramp as Agent Malcolm Barrett walks in.<br><br>BARRETT: Gentlemen.  I'm Agent Barrett.  I work for the N.I.D.  Mr Woolsey has asked me to help you any way that I can.  I'm sorry that we couldn't meet under better circumstances.<br><br>McKAY: Have the kidnappers tried to make contact with us yet?<br><br>BARRETT: No, I'm afraid not.<br><br>McKAY: OK.  Well, I need to get to Vancouver.<br><br>BARRETT: OK, the Daedalus is in orbit, so it will be a quick trip.<br><br>(He leads them out of the Gateroom.)<br><br>SHEPPARD: Have you learned any new information yet?<br><br>BARRETT: No, not yet.  The N.I.D. is liaising with C.S.I.S. <I>[pronounced "see-sis"]</I> on the ground.  They are expecting us.<br><br>SHEPPARD: C-<I>what</I>, now?<br><br>McKAY: Canadian Security Intelligence Services.  They're kind of like our C.I.A.<br><br>SHEPPARD (sarcastically): C.S.I.S.  That's the best you guys can do, huh?<br><br>(Barrett leads them into an elevator.)<br><br>BARRETT: We will be out in the open, so perhaps a change of clothes first.<br><br>(He looks pointedly at Ronon.)<br><br>DEX: Why?<br><br><br>VANCOUVER.  Several cars are parked outside the Miller house and police officers are wandering about.  Another car pulls up and Barrett and the Atlantis boys get out.  Ronon is now wearing blue jeans, a white shirt and a black jacket.<br><br>DEX: I look dumb!<br><br>SHEPPARD: Helps you blend in a little.<br><br>DEX: I'm gonna stand out no matter <I>what</I> you dress me in.<br><br>SHEPPARD (looking at his hair): That's a good point.<br><br>(Various onlookers are standing around watching all the activity.  Most of them are just gawking, but one of them looks particularly interested in the new arrivals.  He takes out his mobile phone and presses a speed-dial number.)<br><br>(Inside the house, Kaleb and Madison are sitting on the sofa.  Some of Madison's toys and games are on the table in front of them – Kaleb has obviously been trying to distract her while various C.S.I.S. officers are working in the room.  Kaleb points as Rodney leads the others in.)<br><br>KALEB: Hey, look, it's your Uncle Mer.<br><br>McKAY (to Madison): Hey, lady.<br><br>KALEB (to Madison): You gonna say hi?<br><br>MADISON (looking up at Rodney): Where's Mum?<br><br>McKAY: Uh, she ...<br><br>KALEB (to Madison): I told you, she's had to go away for a bit, but she's gonna come back soon, OK?<br><br>(He looks at Rodney and points in the direction of the kitchen.)<br><br>KALEB: Can I, uh ...?<br><br>McKAY: Yeah.<br><br>KALEB (to Madison): OK, sweetie?<br><br>(He stands up and leads Rodney to the kitchen.)<br><br>KALEB: Who did this?<br><br>McKAY: We're not sure, but we have the best people in the world working on this and all the resources ...<br><br>KALEB (interrupting): You know, when you came back here last year, she almost didn't go back with you to Atlantis.  I said, "Go.  You <I>have</I> to do it.  You'll regret not going."<br><br>McKAY: I know you did.<br><br>KALEB: She knew it was gonna be dangerous but you two are so competitive.<br><br>McKAY: Listen to me, we're gonna ...<br><br>KALEB (interrupting): This is your fault, Rodney.<br><br>McKAY: Hey, just a second.<br><br>KALEB: She got kidnapped because of you.<br><br>McKAY: OK, we do <I>not</I> know that for sure.<br><br>KALEB: We don't?  Really?(!)  You figure four masked men with guns broke in here to steal her secret apple dumpling recipe?  Jealous neighbour, maybe?<br><br>McKAY: OK, you're angry.  You have every right to be ...<br><br>KALEB (interrupting, anguished): If something happens to her ...<br><br>McKAY: Kaleb.  We're gonna find her.<br><br>KALEB: Just bring her back.  Bring her home.<br><br>McKAY: I will.<br><br><br>Shortly afterwards, Kaleb walks back into the living room where John is sitting next to Madison, playing with her.<br><br>KALEB: C'mon, Mad.<br><br>(He picks her up.)<br><br>MADISON: Where are we going?<br><br>KALEB: Just away for a bit.<br><br>(As he carries her out of the room, John stands up and walks over to Rodney.)<br><br>McKAY: I told ‘em to get a hotel.  There's no reason for them to stick around here.<br><br>BARRETT (to the C.S.I.S. officers): All right, thanks, guys.  Give us the room, please.<br><br>(The officers leave.)<br><br>BARRETT (to Rodney): So where d'you wanna start?<br><br>McKAY: Jeanie and I were corresponding via e-mail.  She was ... umm ... <br><br>(He hesitates, reluctant to admit that she was helping him with a problem.)<br><br>McKAY: I was bouncing some ideas off her.<br><br>BARRETT: What about?<br><br>McKAY: Well, before Sheppard's Wraith showed up, I was trying to perfect my nanite medical programme.<br><br>DEX: That thing you used to save Weir?<br><br>McKAY: Yeah – a better, more complex version of that, but yeah.  Of course, as soon as we found out that the Replicators were attacking human worlds throughout the galaxy, we obviously switched our focus to shutting <I>them</I> down once and for all.<br><br>BARRETT: And you sent Jeanie the programme that you were working on?<br><br>McKAY: Yeah.  I just – I needed a new set of eyes.<br><br>SHEPPARD: The question is, what does it have to do with her being taken?<br><br>McKAY: Yeah.  Maybe The Trust, or some other Earth-based organisation wanted info on me or about the programme.  Look, regardless, my e-mail and her capture happened too close together not to be connected.<br><br>BARRETT: Right.  It sounds like a great place to start.<br><br>McKAY: Has anyone touched her computer?<br><br>BARRETT: No.  No, I told them that you wanted to have a look at it first.  Nobody's touched it.<br><br>McKAY (going to the desk where the laptop is): I'm gonna need to take it apart.<br><br>(He sits down and looks up at the others.)<br><br>McKAY: This is gonna take some time.  Why don't you get back to the hotel?  I'll call you if I find anything.<br><br>SHEPPARD: That's OK.  We'll stay.<br><br>McKAY: Seriously, this could take ten or twelve hours.  Just ... there's nothing you can do here.  Just go back to the hotel.  I'll call you if I find anything.<br><br>(John looks at Ronon and jerks his head towards the door.  They leave and Rodney gets to work.)<br><br><br>A LAB SOMEWHERE.  A guard opens the door and a second guard hustles Jeanie into the room.  Her hands are bound in front of her with plastic tethers and she has a hood over her head.  The room has computers all around the walls, and there are several tables together in the middle of the room with more computers on them.  The guard pushes Jeanie down into a chair and takes the hood off her head, then he and the other guard leave, closing the door behind them.  Jeanie squints against the light, then stands up and looks around the room.  She runs towards the door but before she can reach it, a man's voice speaks.<br><br>WALLACE: Here.<br><br>(Jeanie turns and sees the man standing on the other side of the room.  He walks towards her, snapping open a flick-knife.  Jeanie backs away from him, terrified.)<br><br>JEANIE: No.  Wait.  Please.<br><br>WALLACE: Shh.  It's all right.<br><br>(He holds out his other hand towards her bound wrists.)<br><br>WALLACE: Let me?<br><br>(He cuts her tethers.  Jeanie backs away from him again.)<br><br>JEANIE: Who are you?<br><br>WALLACE: My name is Henry Wallace.  I'm sorry to have ...<br><br>(He gestures to her apologetically for a moment as she stands there in her night wear, then looks at her resolutely.)<br><br>WALLACE: I need you to do some work for me.<br><br><br>NIGHT TIME.  HOTEL.  John and Ronon are sitting in the room as John's phone rings.  He gets up and walks across to the table where the phone is lying, picks it up and answers.<br><br>SHEPPARD: Hello.<br><br>(Rodney is in a car being driven by Agent Barrett.)<br><br>McKAY (into phone): So someone <I>was</I> monitoring my sister's computer.  I think I've cracked their Trojan and I've got an address.  Barrett and I are on our way there now.<br><br>SHEPPARD: Thought you said it was gonna take ten hours?<br><br>McKAY: Hey, even <I>I</I> underestimate how smart I am sometimes.<br><br>SHEPPARD: All right, stay at the house and then we'll all go together.<br><br>McKAY: It's too late – we're almost there.  I'll give you an address.  You can meet us.<br><br>(John sighs and reaches for a pen.)<br><br>SHEPPARD: Go ahead.<br><br><br>LATER.  Rodney and Barrett walk towards a warehouse.<br><br>McKAY: This looks like the place.<br><br>BARRETT: Shouldn't we wait for Sheppard and Ronon?<br><br>(Rodney waves his hand negatively, then looks at the door they're approaching.)<br><br>McKAY: OK, stand back.<br><br>(He braces himself to kick the door down.  At the same moment, Barrett turns the door handle and the door opens.  Rodney's foot kicks thin air.  He hops on his other foot, trying to keep his balance.)<br><br>McKAY: Oh, well, that works too.<br><br>(Barrett takes out a pistol.  Rodney walks in the door holding a torch, then looks back at Barrett's gun.)<br><br>McKAY: Don't happen to have another one of those on you, do you?<br><br>BARRETT: Yeah, I've got a shotgun in the car.<br><br>(He steps backwards, intending to go to his car but a stormtrooper dressed in black appears out of nowhere and grabs him, punching him in the face.  A second man heads towards Rodney, the laser sight of his gun trained on him.  Rodney's eyes widen and he holds his hands up to protect his face as the man comes closer.)<br><br><br>LATER.  John and Ronon drive onto the forecourt of the warehouse and screech to a halt at the sight of Barrett lying on the ground.  Ronon has the passenger door open even before the car stops and is standing up leaning out of the car and aiming a pistol around.  He keeps an eye on the area as John jumps out and runs over to Barrett.<br><br>SHEPPARD: You OK?<br><br>(Barrett is conscious but has a nasty cut over his right eye.)<br><br>SHEPPARD (helping him to sit up): What the hell happened?<br><br>BARRETT: Two men.  They must have been following us.<br><br>DEX (calling out): McKay!<br><br>BARRETT: He's not here.  They took him.<br><br><br>WALLACE'S LAB.  Two guards hustle Rodney into the lab, his hands tethered behind him and a hood over his head.  Jeanie, who has now been given some clothes, is sitting inside the lab but stands as the guards take the hood off Rodney's head and cut his tethers.<br><br>JEANIE: Meredith?!<br><br>McKAY: Jeanie!  Thank God you're alive!<br><br>(He hurries over to her and they hug.  The guards leave the room.)<br><br>JEANIE: What are you doing here?<br><br>McKAY: I came back to Earth as soon as I heard you'd been kidnapped.<br><br>JEANIE: Have you seen Madison and Kaleb?<br><br>McKAY: Yes.  They're a little shaken but they're OK.  I've put a security detail on them, so you don't have to worry.<br><br>JEANIE: Then, how did you ...?<br><br>McKAY: I got ambushed trying to track down the guys who took you.<br><br>JEANIE: Oh, great(!)  That's just great!  First you get <I>me</I> captured, then you ...<br><br>McKAY: Whoa-whoa-whoa-whoa-whoa.  I got <I>you</I> captured?  How do you figure <I>that</I>?!<br><br>JEANIE: Oh, come <I>on</I>!  They were monitoring my computer, right?<br><br>McKAY: Yeah, so?<br><br>JEANIE: So would I be here if you hadn't sent me those e-mails?<br><br>McKAY: Well, possibly.<br><br>JEANIE: Meredith!<br><br>McKAY (looking around the room): What is this, a lab?<br><br>JEANIE: Wow, that's some great detective work there, Nancy Drew!<br><br>McKAY: Where the hell are we?<br><br>JEANIE: I have no idea.  They put me on a plane ...<br><br>McKAY: Yes, me too.  Any idea who's behind any of this?<br><br>(He activates one of the computer screens.  Just then the door opens and Wallace comes in with a couple of guards.)<br><br>WALLACE: Doctor McKay.  I've heard a lot about you.  It's a pleasure.<br><br>(He offers him his hand to shake but Rodney backs away from him.)<br><br>WALLACE (lowering his hand): I thought you might show up if your sister went missing.  We couldn't count on it, of course, but it's a pretty big bonus.<br><br>McKAY (indignantly): <I>Bonus</I>?!  Look, I have no idea who you are but you have made a terrible mistake bringing me here.  Now, I suggest you let us both go right now, otherwise about a hundred marines are gonna come kicking down your front door in the next two minutes.<br><br>WALLACE: I'm pretty sure they won't, actually.  Your subcutaneous transmitter has been deactivated.<br><br>(Rodney looks shocked.)<br><br>McKAY: Who <I>are</I> you?<br><br>WALLACE: I should have started with that.  (He sits down.)  My name is Henry Wallace.  I'm the President of ...<br><br>McKAY: ... D.M.T.  Great(!)<br><br>(He folds his arms angrily.)<br><br>WALLACE: You know who I am, then.<br><br>McKAY: I'm familiar with your work.<br><br>JEANIE: What's D.M.T.?<br><br>McKAY: Devlin Medical Technologies.  They're a predominantly government funded contractor and, unfortunately for us, they manufacture our subcutaneous transmitters.<br><br>JEANIE: Oh, great(!)<br><br>McKAY: Yeah.  (To Wallace) How do you even know I exist?  Your company's only privy to very basic information about newly-declassified experiments the military's working on.<br><br>WALLACE: No.  More accurately, my company is given limited access to alien advances discovered through the Stargate programme ...<br><br>(Rodney lowers his arms, staring at him in horror.)<br><br>WALLACE: ... and is asked to integrate them into Earth-based medical technologies.<br><br>McKAY: You're not cleared to know that.<br><br>WALLACE: No.  I'm not.  But after years of being stupefied by the military's endless and unbelievable advances, I started to do a little digging.  That's how I found out about the S.G.C., Atlantis, you ... <br><br>(He then looks at Jeanie.)<br><br>WALLACE: ... and that's why we've been monitoring your family's e-mails for quite some time now.<br><br>McKAY: What do you want from me?<br><br>(Wallace stands up.)<br><br>WALLACE: I've hit a wall and need some help.<br><br><br>SHORTLY AFTERWARDS.  Somewhere else in the facility, Wallace leads Rodney and Jeanie to some glass doors.  Behind them is a hospital room with one bed in it.  Lying unconscious or asleep in the bed is a girl in her late teens.<br><br>WALLACE: My daughter, Sharon.<br><br>McKAY: What's wrong with her?<br><br>WALLACE: She's suffering from acute lymphocytic leukaemia.<br><br>McKAY: Well, I'm very sorry but ...<br><br>WALLACE: She's been particularly unresponsive to induction chemotherapy, prednisolone, vincristine, cranial irradiation ...<br><br>McKAY: I don't even know what all that means.  How am I supposed to help?<br><br>WALLACE: The best doctors in the world have told her to start saying her goodbyes, begin making funeral plans.<br><br>(Jeanie looks at him sympathetically.)<br><br>McKAY: That's what I'm saying – neither of us are doctors.  Look, yes, I have a PhD ... two, actually ...<br><br>WALLACE: The latest project my company has been working on for the S.G.C. involves applying advances in nanotechnology to cure injury and disease.  We were close to a prototype.<br><br>McKAY: Wait a second, wait.<br><br>WALLACE: Sharon was injected with the first batch of nanites one week ago.<br><br>McKAY: You've barely got manufacturing perfected!  I'm working on the coding!  It's months away!  They're not ready!<br><br>WALLACE: My team thought they'd ironed out most of the coding.<br><br>McKAY: "Ironed out"?!  It's not that easy!<br><br>WALLACE: I <I>know</I> that ... now.  They're malfunctioning.<br><br>McKAY: Well, of <I>course</I> they are.<br><br>WALLACE: And it's not just that they're not working.  They're ... they're actually causing more problems than the cancer.  Her body's rejecting them.  When I intercepted your correspondence with Jeanie, I desperately needed someone familiar with the coding to come fix the programming.<br><br>McKAY: Right, so Jeanie was just the bait.<br><br>WALLACE: No.  From what I could tell, she had a firmer grasp of the coding than <I>you</I> did.<br><br>McKAY: I don't think it's fair to judge me on a couple of e-mails.  I mean, they don't reflect the entire ...<br><br>JEANIE: Meredith!  It doesn't matter.<br><br>WALLACE: If we don't do something quickly, Sharon's gonna die.  Get the nanites fully operational and I'll let you go.<br><br>McKAY (folding his arms): Really?<br><br>WALLACE: Absolutely.<br><br>McKAY: And if we don't?<br><br>(Wallace smiles unpleasantly at him.)<br><br><br>S.G.C.  John, Ronon and Barrett are in the Control Room with Walter Harriman.  Walter is looking at a screen.<br><br>HARRIMAN: That's right, sir.  They must have neutralised the transmitter.<br><br>DEX (to Barrett): What about the lead you were following?<br><br>BARRETT: Uh, dead end.  It's a small rented room with a router that ported data through a site in Singapore.  I mean, who knows where it was forwarded from there?  We've got our best I.T. guys on the job, though.  We're gonna start tracing the paper trail – hopefully it's gonna turn up a lead; and we're combing the security traffic and A.B.M. cameras from the area; we've got ambush; talking to witnesses.  We've got half the Vancouver P.D. on this one.  We're gonna get ‘em.<br><br><br>WALLACE'S LAB.  Rodney and Jeanie are working on different consoles.  Sharon's room can be seen on a video link on a screen on the wall.<br><br>JEANIE: They're not communicating.<br><br>McKAY: What?<br><br>JEANIE: The nanites.  That's what's causing all the problems – they're going after some cells redundantly; they're ignoring others.  They've caused at least three partially-clogged arteries.  Something in their coding is stopping them from understanding each other.<br><br>McKAY (distractedly): Great, great.<br><br>JEANIE (looking across at him): Are you even listening to me?<br><br>McKAY: Nah, you lost me at "nanites".<br><br>(Jeanie clicks her fingers at him.)<br><br>JEANIE: Hey, idiot.  We need to solve this coding problem.<br><br>McKAY: No, what we need to do is get the hell out of here.<br><br>JEANIE: I <I>know</I>  – by solving the coding problem.<br><br>McKAY (sighing): So young and so naïve.<br><br>JEANIE: You got a better idea?<br><br>McKAY: Yes!  Look, they gave these computers network access so we could monitor Sharon in real-time, right?  Which means <I>I</I> can also hack into the security mainframe.<br><br>JEANIE: What about Sharon?<br><br>McKAY: What about <I>us</I>?<br><br>JEANIE: We can <I>do</I> this, Mer.  We can <I>help</I> this girl.<br><br>McKAY: And then what?  He's just gonna let us go?  What, you think he's just gonna give up his life, lose his company, get carted off to prison – you think he'll be fine with that?<br><br>JEANIE: He's desperate.  I think any parent would understand.<br><br>McKAY: Oh, you think.  All right, let's just for a second imagine that we live in this magical land of unicorns and wizards and kind-hearted people who you can take at their word.  Let's assume that he lets us go if we save her.  But what if we fail, huh?  What if she dies?  How happy d'you think he'll be then?  You think he'll let us just waltz out the door with an "Aw shucks.  Well, better luck next time, tiger" attitude?<br><br>(Jeanie sits back.  She's not happy thinking that way but realises that Rodney may be right.)<br><br>McKAY: Exactly.  We need to get out of here.  I've been working on a code to unlock all the keypad doors.<br><br>(He stands up and look at Jeanie.)<br><br>McKAY: You ready?<br><br>JEANIE: What happens after you get the door open?<br><br>McKAY: Well, I memorised the building's layout from this computer here.<br><br>(Jeanie sighs nervously.)<br><br>JEANIE: OK.<br><br>(Rodney types on his computer.  Over the floor plan of the building, a message comes up saying, "DOOR CODES: RELEASED."  The door of the room buzzes, the lock deactivates and the door drifts open slightly.  Jeanie looks at it in surprise.)<br><br>JEANIE: Huh!<br><br>McKAY: C'mon.<br><br>(They go to the door and Rodney peers out cautiously.  When he's sure there's no-one around, he looks at Jeanie, then they leave the room, Jeanie closing the door behind them.  They make their way along the corridors, then Rodney looks around before turning left.  Not totally trusting him, Jeanie goes to the door on their right, looks through the small window in it and tries the door but it's locked.  Throwing up her hands in frustration, she turns to follow her brother.)<br><br>JEANIE (whispering): You <I>said</I> there was a stairway entrance here.<br><br>McKAY (whispering): There's supposed to be!  (He points to a blacked-out window on the wall.)  Um, OK, wait.  W-w-w-w-wait.  Uh, we've gotta go back.<br><br>JEANIE: Go back?  Why?!<br><br>McKAY: Because I got all mixed around.  We've gotta start again.  Maybe what I thought was north was south.  It's hard to tell.<br><br>(Jeanie sighs in irritation.)<br><br>JEANIE: I can't believe I am betting my life on your sense of direction!<br><br>McKAY: What are you talking about?!  I've got an excellent sense of direction!<br><br>JEANIE: Oh, really?  Remember when we went to West Edmonton Mall and Dad had to call the police to find you?<br><br>McKAY: That mall was huge!<br><br>JEANIE: There were maps every seven metres!<br><br>McKAY: Misleading ones!  Now, <I>come</I> on – we've gotta go back.<br><br>(He heads back the way they just came.  Furious, Jeanie follows him.)<br><br><br>WALLACE'S OFFICE.  Wallace walks into his office and looks at the security screens on the wall.  The one showing the lab reveals that nobody's in there.  He picks up the phone and dials.<br><br><br>CORRIDORS.  Alarms begin to sound.<br><br>McKAY: Ah, sh...<br><br>(He and Jeanie start to run, but two guards run around the corner in front of them, aiming pistols at them.)<br><br>McKAY: Run! <br><br>(He and Jeanie turn and run back the other way but one of the guards fires into Rodney's back.  His pistol is a Taser and Rodney collapses to the ground, convulsing as electricity arcs through him.  The shock ceases after a few seconds and he lapses into unconsciousness.)<br><br><br>LATER.  Rodney's eyes slowly flicker open and he raises his head.  He's back in the lab, tied at the wrists to a chair.  Jeanie sits opposite him, also tied to her chair.  Wallace stands nearby watching Rodney as he pulls himself together.  He walks closer to him and looks down at him, clearly upset.<br><br>WALLACE: Why would you do that?  Why would ...<br><br>(He shakes his head and walks across the room to the screen showing Sharon's room.)<br><br>WALLACE: My daughter is dying.<br><br>McKAY: You kidnapped us.  What did you expect?<br><br>WALLACE: I shouldn't have given you network access.<br><br>McKAY: Yeah, well, that's a rookie mistake.<br><br>JEANIE: Meredith.<br><br>WALLACE: You're never gonna help me, are you?<br><br>McKAY: You're gonna kill us either way.  What exactly is our incentive?<br><br>WALLACE: I gave you my word.<br><br>McKAY: Which means exactly <I>nothing</I> to me.<br><br>(Wallace looks down at him pleadingly.)<br><br>WALLACE: Please.  My wife died three years ago.  I can't go through that again.  Sharon's all I have.  You can save her.<br><br>McKAY: Look, this is a experimental medical programme.  It may never work.  All this might have been for nothing.<br><br>WALLACE: Worst case scenario.  I thought I would have weeks with Sharon.  Now, if things stay as they are, I'm lucky to have days.<br><br>McKAY: You never should have injected her.<br><br>(Wallace looks at him, then glances across to Jeanie, his face desperate.  He walks across to a case on a nearby table and opens it.)<br><br>WALLACE: No.  No.  It <I>will</I> work.<br><br>(He takes out a large syringe and holds it up as he walks up behind Jeanie.)<br><br>WALLACE: It <I>has</I> to work.<br><br>McKAY: What <I>is</I> that?<br><br>WALLACE: A dose of nanites.<br><br>(He brushes Jeanie's hair away from her neck.  She stares at Rodney tearfully in terror.)<br><br>JEANIE: Meredith!<br><br>McKAY: Wait-wait-wait, please.  No.<br><br>WALLACE: I'm sorry.  You need an incentive?<br><br>McKAY: Don't!<br><br>(But Wallace plunges the syringe into Jeanie's neck and injects her.  Rodney stares at him in horror as he pulls the syringe out again.)<br><br>WALLACE: Fix this, or they both die.<br><br><br>LATER.  The siblings have been untied and are working on their computers again.  Jeanie sighs as if in pain and rubs her neck where she was injected.  Rodney looks at her.<br><br>McKAY: You OK?<br><br>JEANIE: Yeah.  I'm fine.<br><br>McKAY: Good.  Well, you were right.  They're not communicating.  They're not doing a <I>lot</I> of things they should be doing, in fact.<br><br>JEANIE: Yeah, I know.<br><br>McKAY: See, the thing is, even though D.M.T. manufactured their own nanites, their coding, their programming – most of it's lifted directly from the Replicators.<br><br>JEANIE: Right.<br><br>McKAY: The thing is, much as I hate to admit it, we're only just beginning to understand that coding.  The Wraith we've been working with has helped us make leaps and bounds but ...<br><br>JEANIE: Wait a second.  You've been working with a <I>Wraith</I>?<br><br>McKAY: Yeah, it's a long story.<br><br>(He stands up and goes over to her console.)<br><br>McKAY: What I'm trying to say is: this programme that we're pushing on it is designed to restrain them very specifically to make sure they don't get out of control.  So much so ...<br><br>JEANIE: ... that they're completely ineffective.<br><br>McKAY: It's like we tied their hands behind their backs.<br><br>JEANIE: So we have to cut them loose.<br><br>McKAY: Exactly.  These nanites can't replicate.  Technically, by unleashing them we might make all our little problems go away.<br><br>JEANIE: OK.  That shouldn't be too complex, altering two, maybe three thousand lines of code(!)<br><br>McKAY (unconvincingly, as he returns to his console): Yeah, it's a cinch.<br><br>JEANIE: Yeah!<br><br>(She starts to type.  Rodney looks at her.)<br><br>McKAY: Look, I'm really sorry about all of this.<br><br>JEANIE (not looking at him): I really don't wanna talk about this right now, OK?  We need to write this programme and upload it to my nanites.  I will yell at you later, OK?<br><br>McKAY: OK.<br><br>(He sits down, then looks at his sister sadly for a moment before getting back to work.  Jeanie glances at him briefly, then carries on typing.)<br><br><br>S.G.C.  John, Ronon and Barrett are sitting in an office poring over a stack of papers.  There are several boxes of papers already in the room and now a soldier brings in another box and puts it on the desk.<br><br>SHEPPARD: We're goin' in circles here.<br><br> DEX: I don't even get what we're doing.<br><br>BARRETT: We're trying to match the corporations.  See, the company that rented the space for the internet router was owned by another company, which was owned by another, and owned by another.<br><br>SHEPPARD: Trying to connect the company that was monitoring Jeanie's computer to a company that would want to take her.<br><br>BARRETT: Probably a company owned by The Trust.  We just haven't found a connection.<br><br>SHEPPARD: They know enough to shut down the transmitter.<br><br>BARRETT: Exactly.  You know, the fact that they even <I>knew</I> that tells us that they're pretty intimate with the operations of the Stargate programme.  Again, The Trust.<br><br>SHEPPARD: We should widen the net.  Maybe it wasn't one of them.<br><br>BARRETT: Other known enemy groups?<br><br>DEX: Or an ally.<br><br>BARRETT: Chinese, Russians.<br><br>SHEPPARD: McKay said he was working on a programme to shut down the Replicators.  Was he working in tandem with anyone here on Earth?<br><br>BARRETT: No.  Not that I know of.  Wait – there was a medical company that was working on other nanite programmes, but they didn't have any direct dealings with him.<br><br>SHEPPARD: Which company was that?<br><br>BARRETT: I don't know.  Give me a sec – I'll find out.<br><br>(He leaves the room.  Ronon gets up and starts to leave too.)<br><br>SHEPPARD: Where're <I>you</I> going?<br><br>DEX: To get some food.<br><br>SHEPPARD: Well, in case you forgot, McKay and his sister are still missing.<br><br>DEX: What, you want my help dissecting corporate structures?  When you find someone to point a gun at, you let me know.<br><br>SHEPPARD: Fair enough!<br><br><br>WALLACE'S LAB.  Rodney is pacing around the lab.<br><br>McKAY: What's it been, a couple of hours?<br><br>JEANIE: Something like that.<br><br>McKAY: So, what, no updates?  I mean, I know we're hostages an' all, but come on!  It took me, like, ten seconds to upload the programme to you.  What's taking <I>them</I> so much time?<br><br>JEANIE: It's gonna take a while to figure out if our coding patch actually makes the nanites fight the cancer.<br><br>McKAY: When we activated them in Weir, she was healed almost instantly.<br><br>JEANIE: But that time the Replicator cells actually <I>replaced</I> her damaged cells.  Our guys have to <I>heal</I> them.<br><br>McKAY: But still!  By now they should have seen massive changes in her condition.  I mean, why aren't they telling us anything?<br><br>JEANIE: OK, sit down.  You're driving me crazy.<br><br>(Rodney sits down and folds his arms, glaring at her in a sulky way.  Jeanie looks awkward, then thinks of something to talk about.)<br><br>JEANIE: So, are you gonna marry that Katie girl?<br><br>McKAY: What?!<br><br>JEANIE: You heard me!<br><br>McKAY (unfolding his arms): Where did <I>that</I> come from?!<br><br>JEANIE: I'm trying to take my mind off the fact that I have tiny robots running through my veins because <I>you</I> needed help with your homework.  Would you rather talk about that?<br><br>McKAY: Not really.<br><br>JEANIE: So, are you gonna marry her?<br><br>McKAY: I don't know.<br><br>JEANIE: You've been dating for over a year now.<br><br>McKAY: I'm aware of that, thank you!<br><br>JEANIE: You think you're gonna find someone better?<br><br>McKAY: No, it's not that.<br><br>JEANIE (laughing): ‘Cause you're not!<br><br>McKAY: Hang on ...<br><br>JEANIE: The fact that you found a nice girl who's willing to put up with all your many little flaws is a miracle.<br><br>McKAY: Look ...<br><br>JEANIE: Plus, physically you're ... well, how do I put this?  You're no John Sheppard.<br><br>McKAY: OK.  (He stands up.)  Let's go back to talking about how this is my fault, because I think I liked that better ...<br><br>(He trails off as the door opens and a guard comes in.)<br><br>GUARD: Come with me.<br><br><br>SHARON'S ROOM.  Sharon is sitting up in bed, with her father sitting at her bedside.  He stands as the siblings approach the door and beckons to them.<br><br>WALLACE: Oh, come in, come in.  Sharon, I wanna introduce you to Rodney McKay, Jeanie Miller.  They're the ones that saved you.<br><br>(He sits down again as Sharon smiles at them.)<br><br>SHARON: It's very nice to meet you.  Thank you so much.<br><br>JEANIE: How are you feeling?<br><br>SHARON: Better than I felt in years.<br><br>McKAY: And the cancer?<br><br>WALLACE: We can't find any trace of it.<br><br>(Sharon smiles happily.)<br><br><br>S.G.C. COMMISSARY.  Ronon has been joined at his table by Walter.<br><br>HARRIMAN: I'm nervous, right, because, you know, it's an admiral I'm talking to.  So I say to him, "Sir, if you use an I-37 form instead of an N-1, you can save yourself from using like, like, like a hundred G-72s."  And there's this pause.<br><br>(Ronon reaches for something on his plate but before he can get it to his mouth, Walter grabs his wrist.)<br><br>HARRIMAN: No-one says anything for, like, I dunno, it felt like minutes.<br><br>(Ronon drops his food back onto his plate and sinks back in his seat, bored to death.)<br><br>HARRIMAN: And <I>finally</I>, the admiral looks over at Landry and he goes, "Hank, not only is your boy here right, but I think we found ourselves a new bingo caller for Sunday nights!"<br><br>(He laughs as Ronon glares at him.)<br><br>HARRIMAN: Bingo!  "I-37!  N-1!  G-72!  Bingo!"  (He giggles.)  Whoever said the admiral didn't have a sense of humour?!<br><br>(He stops giggling as he remembers something else.)<br><br>HARRIMAN: Oh!  Then there was this other time that General O'Neill and I, we were ...<br><br>(The doors to the Commissary open.  Ronon looks up and leaps to his feet with a look of desperate hope on his face.)<br><br>DEX: Tell me you have something!<br><br>(John comes over.)<br><br>SHEPPARD: Devlin Medical Technologies.<br><br>DEX: That means ...?<br><br>SHEPPARD: You've got somebody to point your gun at.<br><br>DEX (hurrying from the room): Sweet!<br><br>(John picks up a French fry from Walter's plate and follows Ronon out.  Walter watches them go, then laughs fondly at his memories.)<br><br><br>WALLACE'S OFFICE.  Wallace pours a glass of champagne.  Rodney looks at him anxiously.<br><br>McKAY: What are you gonna do with us?<br><br>WALLACE: Hey, we're celebrating here.<br><br>McKAY (indicating Jeanie): She's still got nanites inside her and we are both still hostages, so you'll excuse me if I skip the champagne.<br><br>WALLACE: I'm a man of my word.  I'm gonna let you go.<br><br>McKAY: What, just like that?<br><br>WALLACE: Just like that.<br><br>(He goes to a side desk to collect another glass.)<br><br>JEANIE: But you'll be arrested.<br><br>McKAY (through his teeth to her): Not helping!<br><br>WALLACE (coming back with the glass and filling it): I know.  I've known I was going to prison from the moment I decided to kidnap you.  I don't care.  My daughter's gonna live – that's all that matters.<br><br>(Jeanie smiles at him.)<br><br>WALLACE (to Rodney): I can't expect you to understand.<br><br>McKAY: Well, you're right.  I don't.<br><br>WALLACE (offering glasses to each of them): We've done a great thing here today, and not just for my daughter.  Hell, we might have just cured cancer altogether.  So, please, a toast.<br><br>(Rodney and Jeanie take their glasses.  Wallace picks up the third glass and raises it.)<br><br>WALLACE: To the future.<br><br>(Jeanie lifts her glass but before she can clink it against Wallace's, the door opens and the guard comes in.)<br><br>GUARD: Sir?  We have a problem.<br><br><br>SHARON'S ROOM.  Sharon is lying flat on her back on the bed and her heart monitor is emitting a single tone.  A nurse is pumping air into her as the doctor holds defibrillator paddles.<br><br>DOCTOR: Clear.<br><br>(He shocks her.  The tone remains unchanged.)<br><br>DOCTOR: Nothing.  Going again.<br><br>(Wallace walks in, followed by Rodney and Jeanie.  They stop at the doorway.)<br><br>DOCTOR: Charging.  Clear.<br><br>(He shocks Sharon again.  The single tone continues.  The doctor takes Sharon's wrist to check for a pulse.)<br><br>DOCTOR (to the nurse): Turn it off.<br><br>(The nurse turns off the monitor.  His face full of anguish, Wallace walks over to the bed.)<br><br>DOCTOR: I'm so sorry.<br><br>WALLACE: She was fine.  I don't understand.<br><br>DOCTOR: Her heart just stopped.  We couldn't get it pumping again.  I'm not sure what happened.<br><br>(Wallace pushes him aside gently and walks to his daughter's bedside.  He gazes down at her, his eyes filling with tears.  Jeanie watches, her face sympathetic.  Rodney walks closer to her, his eyes wide with the realisation of what could happen to her next.)<br><br>McKAY: We need to get out of here.<br><br>JEANIE: I know.<br><br>McKAY: Look, I need to get you back to the S.G.C.  Your nanites are running the same programme ...<br><br>JEANIE: I know.<br><br>McKAY: OK.  I'm gonna see if I can distract the guard.  I need you to go ...<br><br>(Jeanie starts to walk towards Sharon's bed.)<br><br>McKAY: Jeanie.  Jeanie!  What are you doing!<br><br>(Jeanie walks over to Wallace, who has sat down and is holding his daughter's hand against his cheek.)<br><br>JEANIE: I'm so sorry.  My brother and I need to leave.  We need to get to a bigger lab with more scientists.  <I>Please</I>.<br><br>(Wallace shakes his head, too full of loss to be really paying attention to her.)<br><br>WALLACE: I don't know what to do.<br><br>JEANIE: I can't <I>imagine</I> what you're going through right now, and I know you're angry – I would be too – but if I go untreated ...  Look, I have a family, a husband, a daughter.  <I>Please</I>.  I need to get help and I can't do it here.<br><br>WALLACE (tearfully): I'm sorry.<br><br>(Just then the heart monitor beeps and Sharon opens her eyes and gasps.  Startled, Jeanie steps back as the doctor hurries forward and takes Sharon's wrist in his hand to check her pulse.)<br><br>WALLACE: Sharon?!<br><br>(Sharon gazes around, her eyes half-closed and uncomprehending.  Wallace looks at the doctor.)<br><br>WALLACE: You said she was dead!<br><br>DOCTOR: She was!<br><br>(The heart monitor settles to a steady beep.  Wallace gently puts his hand on Sharon's head as she continues to gaze around blankly.)<br><br><br>LAB.  Rodney is working on the computer while Jeanie stands beside him.<br><br>McKAY: The nanites are still active.<br><br>JEANIE: No.  Once they've beaten the cancer, they're supposed to shut themselves down.<br><br>McKAY: It's never been tested in a live subject and it's only worked sporadically in simulations.  (He looks up at Wallace.)  Look, I <I>told</I> you – this programming is nowhere near ready to implement.<br><br>WALLACE: Wait.  You're saying the nanites brought her back to life?<br><br>McKAY: It's the only viable explanation.<br><br>WALLACE: Then why did she die in the first place?  Shouldn't they have kept her alive?<br><br>JEANIE: That's a good point.<br><br>McKAY: Whoa-whoa-whoa-wait.  The doctor said her heart just stopped, right, seemingly out of nowhere?<br><br>WALLACE: Right.<br><br>JEANIE: Does Sharon have any heart problems unrelated to the cancer?<br><br>WALLACE: Yes, she has a mitral regurgitation problem – heart murmur.<br><br>McKAY (to Jeanie): Whoa, you don't think ...<br><br>JEANIE: We broadened the parameters.  They weren't <I>just</I> programmed to cure the cancer.<br><br>McKAY: Once they were done with the leukaemia, they moved onto the heart murmur, and the easiest way to fix that ...<br><br>WALLACE: ... is shut it down while they repaired it.<br><br>JEANIE: That doesn't make any sense.  Shutting down the heart and starving the brain of oxygen would cause severe brain damage.<br><br>McKAY: Damage they could technically fix.<br><br>JEANIE: They could repair the tissue, yes, but the patient would lose their memories, their language skills, any sense of self.<br><br>McKAY: They don't care about that.  Look, they were designed to fix the body of all physical maladies.  I mean, preserving a sense of self isn't one of their directives.<br><br>WALLACE: So she's gonna be stuck in this vegetative state?<br><br>McKAY: Technically, her brain is perfectly healthy.  It's like she's been re-set to zero, so to speak.<br><br>JEANIE (nervously): Meredith, what about me?  I don't <I>have</I> any cancer.  They'll look around and go straight for ...<br><br>McKAY (horrified): ... your epilepsy.<br><br>JEANIE: I don't <I>wanna</I> be shut down for repairs.<br><br>McKAY: OK, OK.  The first thing we've gotta do is make sure ...<br><br>(Just then a gun blast blows the lock out of the door.  A soldier kicks in the door and rushes in, followed by John, Ronon – who has taken the time to change back into his normal attire – and several other soldiers.  One of the soldiers grabs Wallace and shoves him down to the ground.)<br><br>SHEPPARD: Are you guys OK?<br><br>JEANIE: How did you ...?<br><br>McKAY: We need to get Jeanie to the S.G.C. immediately.  Is the Daedalus still in orbit?<br><br>SHEPPARD: You're welcome!  It was a daring rescue.<br><br>McKAY: Yes-yes-yes, thank you, but we're nowhere near out of the woods yet.  We have to get to the S.G.C. <I>now</I>.<br><br>(John activates his headset radio.)<br><br>SHEPPARD: Daedalus, this is Sheppard.  We need a lift.<br><br>(As the soldier tethers Wallace's hands behind him, a transporter beam whisks the others away.)<br><br><br>S.G.C. LAB.<br><br>McKAY: OK, I've put Jeanie in a medically induced coma, and I've broken her legs.<br><br>DEX: You what?!<br><br>McKAY: Well, we need to slow down the nanites.  Look, this could buy us ten hours at least.<br><br>SHEPPARD: You broke her legs? Couldn't you just give her a disease or something?<br><br>McKAY: She needed an immediate and severe trauma.  Besides, if we shut them down before she's properly healed, all she has is a few broken bones.<br><br>SHEPPARD: Instead of a disease she'd have to fight alone.<br><br>McKAY: Exactly.  Now, I'm pretty sure we can't just keep doing this.  I mean, sooner or later the nanites are gonna abandon her broken bones and move to her brain, so we need to move fast.<br><br>BARRETT: Can't we just blast her with an electro-magnetic pulse?<br><br>McKAY: No.  These nanites were designed specifically to be immune to E.M. field fluctuations.<br><br>SHEPPARD: Wonderful(!)<br><br>BARRETT: So we have a little over ten hours to come up with a programme that shuts down the nanites.<br><br>McKAY: Right.<br><br>SHEPPARD: So, what's the plan?<br><br>McKAY: Well, as embarrassing as I find this to say, I need some help.<br><br><br>GATEROOM.  The Gate is open and Rodney and John are waiting at the foot of the ramp.<br><br>SHEPPARD: This is a bad idea.<br><br>McKAY: Yeah, well it's the only one I've got.<br><br>(Two Atlantis marines back slowly out of the Gate, aiming Wraith stunner pistols back into the event horizon.  The S.G.C. troops in the Gateroom ready their weapons.  A moment later, Atlantis' captive Wraith comes through the Gate.  It is wearing the thick leather belt around its waist which chains its wrists closely to the belt.  It is also wearing shackles around its ankles.  It stumbles down the ramp, breathing heavily, and looks down at John and Rodney.)<br><br>WRAITH: Why have you brought me here?<br><br><br>LAB.  Rodney and the Wraith, together with several guards, are inside.<br><br>McKAY: Look, you understand the Replicator coding better than anyone.  If we're gonna do this quickly, then we need your help.<br><br>(The Wraith looks around the room as if distracted.  Rodney sighs.)<br><br>McKAY: And why should you care?  I mean, we're gonna kill you either way, right?  That's what you're thinking?<br><br>(The Wraith still doesn't reply.)<br><br>McKAY: OK, OK, so, um ... incentives.  Uh, first off: we have no interest in killing you.  Of course, you've probably already figured that out by now; but we can't let you go either because you know too much about Atlantis – unless you could prove that you were trustworthy, and this would go a long way towards proving that.<br><br>(The Wraith grunts.  It looks tired and its face is even more oily than usual.)<br><br>McKAY: Right.  Yeah, I'm pretty sure <I>I</I> wouldn't buy that, either.<br><br>(He laughs nervously, then walks a little closer to it.)<br><br>McKAY: Do you have any relatives?  Do the Wraith have brothers or sisters?  I don't know how it works.  But with <I>us</I>, with <I>my</I> people, those bonds mean a lot.  My sister's in trouble and it's pretty much all my fault.  You could help us.  You could save her.<br><br>(The Wraith yawns.)<br><br>McKAY: Doesn't mean anything to you, does it?  I suppose it wouldn't mean much to me either if I was in your place.  OK.  OK.  You and I both know that if we can figure out how to shut down these Earth-made nanites, it would be a giant step towards shutting down the Replicators.  I know you lost your hive – I have no idea how horrible that must have been for you.  But knowing that they're still out there – that you alone could do something about it – that's gotta be driving you crazy.  So don't do this for me.  Don't ... don't do this for my sister.  Do this for yourself.  Do this because you know you can and because you know it'll help destroy the Replicators once and for all.<br><br>(Finally the Wraith meets his gaze.)<br><br>McKAY: What do you say?<br><br>(The Wraith nods, grunting.)<br><br>McKAY: Thank you.<br><br><br>Shortly afterwards, two guards unstrap the cuffs around the Wraith's wrists, then kneel down to release its ankle shackles.  A montage of images follows.  Wraith text streams across a large computer screen.  The Wraith points at part of the text and it and Rodney discuss what it has seen.  In the Infirmary, a nurse checks on an unconscious Jeanie.  In the lab, Rodney and the Wraith type onto two separate computers.  The Wraith looks at a screen behind it and then turns around again, blinking and shaking its head as if exhausted.  More time passes.  In the lab, a screen shows that a simulation is running.<br><br>McKAY: All right, just a few bugs to code out but I think we're close.<br><br>WRAITH: "We"?<br><br>(Its voice is deep and pained and it is shivering slightly.  Rodney doesn't notice.)<br><br>McKAY: Hey, I have been contributing.  Now, if I could suggest a few targets ...<br><br>(The Wraith groans, slumps out of its chair and falls to its knees.)<br><br>McKAY: You OK?<br><br>WRAITH (weakly): No.<br><br>(It collapses to the floor.)<br><br><br>OFFICE.  John is sitting on the edge of a desk as Rodney stands in front of him.<br><br>SHEPPARD: What if he's faking?  What if he's just milking it for a hot meal?<br><br>McKAY: No, I believe him.  He can't finish the coding without feeding.  I understand exactly what he's doing, but he's far more versed at implementing it than I am.  Maybe if I had a couple of weeks, but he's the only one that can do it in a day.<br><br>SHEPPARD: I don't know what to say, but the N.I.D. is not gonna provide us with a human for him to feed on.<br><br>McKAY: I know.  It needs to be me.<br><br>(John's eyes widen.)<br><br>SHEPPARD: What?<br><br>McKAY: I want him to feed on me.<br><br>SHEPPARD (standing up): You wanna what?!<br><br>McKAY: Let him feed off me – get his strength back, then he can finish the coding and save Jeanie.<br><br>SHEPPARD: Then what?  Force him to give you your life back?  He's not gonna do that.<br><br>McKAY: Sharon died half an hour ago.<br><br>SHEPPARD: I don't understand.  What happened?  I thought the nanites were ...<br><br>McKAY: This time it wasn't a problem with the programming.  It was a manufacturing defect.  In layman's terms, the nanites ran out of steam while they were repairing her arteries.  She bled out internally.  There was nothing we could do.  (He stares at John in anguish.)  I can't lose my sister, John.  How am I gonna explain it to her husband, to her kid?<br><br>SHEPPARD: That Wraith'll kill you.<br><br>McKAY: It's my choice to make.<br><br>SHEPPARD: No, it's not.  You're an invaluable member of my team and you report directly to me.<br><br>McKAY: Really?  You wanna talk about chain of command right now?<br><br>SHEPPARD: You are <I>not</I> doing this.<br><br>McKAY: She's here because of me.  I can't fix the problem, but I can help the guy who can.  Look, this was not an easy decision to make.<br><br>SHEPPARD (looking away): I can't.<br><br>McKAY (near tears): Please.<br><br>(John looks at him and the pleading desperation in his eyes.)<br><br>SHEPPARD (quietly): I'm sorry.<br><br><br>LATER.  John is sitting at a table in a holding cell.  Wallace is sitting on the other side of the table, his face full of grief at the loss of his daughter.<br><br>SHEPPARD: We're going over the data.  We don't understand what happened.  I'm sorry.<br><br>WALLACE: And Jeanie?<br><br>SHEPPARD: She's not gonna make it.  We brought in a, uh, specialist from the Pegasus galaxy – part of an enemy race called the Wraith.  Somehow McKay has convinced him to create a programme to shut down the nanites in Jeanie's body.<br><br>WALLACE: And?<br><br>SHEPPARD: He was close, real close, but he hasn't fed in a few weeks so he collapsed.  He's too weak to finish the coding modifications.<br><br>WALLACE: I don't understand.  If it means saving her life, why not just feed him?<br><br>SHEPPARD: Well, he feeds on ... humans – their life force.<br><br>WALLACE (nodding): I see.<br><br>SHEPPARD: A little hard to find volunteers.<br><br>WALLACE: So Jeanie will ...<br><br>SHEPPARD: She's gonna die, just like Sharon.<br><br>WALLACE (anguished): I'm <I>so</I> sorry.<br><br>SHEPPARD: I'm sure you are.<br><br>(He reaches into his pocket and takes out some photographs.  He puts the first one down on the table in front of Wallace.  It's a picture of Kaleb holding Madison in his arms, both of them smiling at the camera.)<br><br>SHEPPARD: This is Kaleb, her husband ...<br><br>(He drops another photo onto the desk.  This one is of Madison sitting on some steps with her head propped in her hands.  She's grinning at the camera.)<br><br>SHEPPARD: ... and Madison, her little daughter.<br><br>(Wallace picks the photos up and looks at them, starting to cry.)<br><br>WALLACE: I never meant for any of this to happen.<br><br>SHEPPARD: I know you didn't.  But it did.  Now McKay's blaming himself, but I know better.  (He looks at Wallace.)  <I>You</I> know better.<br><br>(Wallace looks back at him, his eyes full of tears, and sighs.)<br><br><br>LATER.  Rodney walks to the closed door of the lab.  He swipes his keycard through the reader but it beeps negatively at him.  He swipes it again but gets the same result.<br><br>McKAY: Oh, come on!<br><br>(A guard standing nearby walks over to him.)<br><br>FULLER: Can I help you, sir?<br><br>McKAY (nervously): Uh, no.  No problem.<br><br>FULLER (holding out his hand for the card): May I see that, sir?<br><br>McKAY: Uh, no, you may not.<br><br>FULLER: Sir, the card, please.<br><br>McKAY: Right.<br><br>(Reluctantly, he hands the card over.  Fuller looks at it.)<br><br>FULLER: You're not Doctor Lee, sir.<br><br>McKAY: Oh, is that Lee's card?  You know, we were just at the gym and, uh, must have swapped pants, so, uh, would you just open the door for me?<br><br>FULLER: Not without a card, sir.<br><br>McKAY: Look, I am Doctor Rodney McKay.  This is my lab.  Would you please open the door?<br><br>FULLER: I can't do that, sir.<br><br>McKAY (angrily): This is a matter of life and death.  Open the door!<br><br>(Fuller opens his mouth to reply but just then the door slides open.  Rodney looks inside.  John is standing inside next to the Wraith which is back on its feet.)<br><br>McKAY: Sheppard?<br><br>SHEPPARD (to Fuller): Let him in.<br><br>(As Fuller steps aside and Rodney walks into the lab, the sound of a zipper being pulled closed can be heard.  [Careful there, people ...]  Rodney looks around and sees that two medics have just zipped a bodybag closed.  As the Wraith types on its computer, Rodney stares in horror as the medics wheel the bodybag out of the room.)<br><br>McKAY: What?!<br><br>SHEPPARD: I was showing Wallace the labs.  The Wraith got the upper hand.  That's what the report's gonna say.<br><br>McKAY (staring at him in shock): You ...<br><br>SHEPPARD: Come on.  You've got work to do.<br><br>WRAITH: No, he does not.  I've completed the reprogramming.<br><br>SHEPPARD: That was quick.  Well, get it uploaded.<br><br>(Rodney pulls himself together and goes over to help the Wraith.)<br><br><br>INFIRMARY.  Some time later, Jeanie wakes up.  Rodney is sitting at her bedside.<br><br>McKAY: Jeanie?<br><br>JEANIE: Mer.<br><br>McKAY: It's OK, it's OK.<br><br>JEANIE: Man, medical comas are weird.<br><br>McKAY: Yeah.  You're not the first to mention it.<br><br>JEANIE: Did you ...?<br><br>McKAY: Yes.<br><br>JEANIE: So, I'm ...?<br><br>McKAY: You are absolutely fine.  I mean, aside from a few inert nanites in you.<br><br>JEANIE: Thanks, Mer.<br><br>(She pulls herself up into a sitting position.)<br><br>McKAY: I'm really sorry about all this.<br><br>JEANIE: Oh, I am gonna hold this over your head for ... (she pauses for a moment as she thinks about it) ... forever.<br><br>McKAY: Oh, that's totally fair.<br><br>(Jeanie starts to get out of bed.)<br><br>JEANIE: Like, you're gonna eat a <I>lot</I> of vegetarian food ... and not complain about it.<br><br>McKAY (picking up a pair of slippers and putting them on the floor near her feet): Sure, sure.<br><br>JEANIE: And you're gonna read Madison three stories instead of her usual two.<br><br>McKAY: Right.<br><br>(As Jeanie slowly gets to her feet, Rodney looks around and fetches her a robe.)<br><br>JEANIE: You're gonna buy me a car.<br><br>McKAY: Let's not get out of control here.<br><br>JEANIE: You almost got me killed.  That's at least a car – a nice one.  A hybrid.<br><br>McKAY: Yeah, well, we'll talk about it on the way home.<br><br>JEANIE: Oh, home!  That sounds great.<br><br>(She looks at him for a moment, then wraps her arms around him and hugs him.)<br><br>JEANIE: I love you.<br><br>McKAY (smiling): I know.<br><br>(They break the hug.  Jeanie looks at him as if to say, "Well?")<br><br>McKAY (a little embarrassed): I love you too.<br><br>(Jeanie sighs as he hands her the robe, but smiles fondly at him as she puts the robe on.)<br><br><br>ATLANTIS.  In his quarters, John is lying on top of his bed reading a magazine.  The door opens and Rodney comes in.<br><br>SHEPPARD: Hey!<br><br>McKAY: Hey.<br><br>SHEPPARD: Look who's back.  How was the family?<br><br>McKAY (sitting down on a nearby chair): Uh, great.  Bought ‘em a Prius.<br><br>SHEPPARD: Guilt.<br><br>McKAY: Yeah.  (He looks at John awkwardly.)  Listen, I can't believe what you did.<br><br>SHEPPARD: I don't really wanna talk about it.<br><br>McKAY: You talked Wallace into sacrificing himself.<br><br>SHEPPARD: No, I didn't.<br><br>McKAY: Well, then, how did he ...?<br><br>SHEPPARD: I ...  (He shuts the magazine and gazes into the distance for a moment.)  I presented a situation.  He volunteered.<br><br>McKAY: Still, you talked a man into killing himself.<br><br>(John looks at him, his face haunted.)<br><br>SHEPPARD: He wanted to make things right.  I merely, uh ...<br><br>(He trails off, still struggling with the guilt.  Rodney, realising this, helps him out.)<br><br>McKAY: ... presented the situation.<br><br>SHEPPARD (quietly): Yeah.<br><br>McKAY: Thanks.<br><br>(After a moment, he stands up and sighs, gesturing towards the door.)<br><br>McKAY: Wanna get something to eat?<br><br>SHEPPARD: Sure.<br><br>(He gets off the bed and he and Rodney leave the room.)<br><br>McKAY: Say, you and I are about even when it comes to looks, right?<br><br>SHEPPARD: Who's been lying to you?<br><br>McKAY: No, I'm serious.<br><br>SHEPPARD: I am too.  Who's been lying to you?
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="408.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s4/409.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="410.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s4/index.shtml">
+<IMG SRC="/graphics/title_s4episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Four Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="401.shtml" CLASS="list">Adrift</A><BR><A HREF="402.shtml" CLASS="list">Lifeline</A><BR><A HREF="403.shtml" CLASS="list">Reunion</A><BR><A HREF="404.shtml" CLASS="list">Doppelganger</A><BR><A HREF="405.shtml" CLASS="list">Travelers</A><BR><A HREF="406.shtml" CLASS="list">Tabula Rasa</A><BR><A HREF="407.shtml" CLASS="list">Missing</A><BR><A HREF="408.shtml" CLASS="list">The Seer</A><BR><A HREF="409.shtml" CLASS="list">Miller's Crossing</A><BR><A HREF="410.shtml" CLASS="list">This Mortal Coil</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="411.shtml" CLASS="list">Be All My Sins Remember'd</A><BR><A HREF="412.shtml" CLASS="list">Spoils of War</A><BR><A HREF="413.shtml" CLASS="list">Quarantine</A><BR><A HREF="414.shtml" CLASS="list">Harmony</A><BR><A HREF="415.shtml" CLASS="list">Outcast</A><BR><A HREF="416.shtml" CLASS="list">Trio</A><BR><A HREF="417.shtml" CLASS="list">Midway</A><BR><A HREF="418.shtml" CLASS="list">The Kindred, Part 1</A><BR><A HREF="419.shtml" CLASS="list">The Kindred, Part 2</A><BR><A HREF="420.shtml" CLASS="list">The Last Man</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Four</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B0019J2UHW/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B0017MO11O/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls4.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="408.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s4/409.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="410.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

@@ -1,0 +1,526 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Childhood's End" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s1/106.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s1/transcripts/106.shtml">Transcript</A>
+				 | <A HREF="/atlantis/s1/reviews/106.shtml">Review</A>
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=512">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=257">Screen Captures</A><BR>
+				<A HREF="/atlantis/s1/106.shtml#analysis">Analysis</A>
+				
+				
+				
+				 | <A HREF="/atlantis/s1/106.shtml#production">Production</A>
+				
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=3065">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s1/106.shtml"><IMG SRC="/atlantis/graphics/106_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="CHILDHOOD'S END" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://www.amazon.com/exec/obidos/ASIN/B000ICNWV4/bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 106<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 1, Disc 2<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 08.13.04<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 10.24.05<BR>
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm1236625/" TARGET="_blank">Martin Gero</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0003941/" TARGET="_blank">David Winning</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">Sheppard and the team visit a world where no one is over 24 years old -- because of a ritual suicide practice they believe keeps the Wraith at bay.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    M7G-677. The Puddle Jumper is flying over the planet's surface. Major John Sheppard is flying, with Lieutenant Aiden Ford in the co-pilot's seat. Doctor Rodney McKay and Teyla Emmagan sit behind them.<br><br>SHEPPARD: Anything look familiar to you, Teyla?<br><br>TEYLA: No. I do not believe this is a world I have visited before.<br><br>FORD: Without landmarks, how can you tell?<br><br>TEYLA: It is difficult by air, but every world is unique in its own way.<br><br>McKAY: Hmm. I've heard a lot of reports from SG teams on missions like this one: specifically the, uh, mission reports of Colonel Samantha Carter. She and I, uh, worked together to avert global catastrophe a few years back, and she and I ... (He sighs nostalgically.) ... Anyway, what was I saying?<br><br>FORD: Mission reports.<br><br>McKAY: Right. Well, apparently there's a remarkable similarity between worlds that support life. It makes sense really. For example the, uh, colour of the sky is just a product ... (The Jumper shakes violently for a moment, and the lights flicker.) What was that?<br><br>FORD: Turbulence?<br><br>SHEPPARD: Seems to be OK now. Wonder what that was?<br><br>(The heads-up display appears on the windshield. McKay looks at it.)<br><br>McKAY: Getting seriously conflicted readings. Looks like some sort of powerful energy field about two thousand yards over there. (He points vaguely in the direction he means, but Sheppard can't see sitting in front of him.)<br><br>SHEPPARD: Over where?<br><br>McKAY: Uh, eighteen degrees from our current heading.<br><br>SHEPPARD: D'you think it's worth checking out?<br><br>McKAY: Any significant energy emission generally indicates technological civilisation.<br><br>SHEPPARD (pointedly): So, you think it's worth checking out?<br><br>McKAY (sarcastically): I'm sorry. Yes. Energy field good. (The Jumper shakes again, for a longer period this time. The H.U.D. fritzes on the screen.) Maybe not.<br><br>TEYLA: It's getting worse.<br><br>SHEPPARD: That's enough. I'm getting out of here. (The Jumper continues to shake.) I'm not gaining any altitude. Controls are unresponsive. (The shaking gets worse and the H.U.D. disappears from the windshield.) Drive just went offline. (The shaking worsens and the lights go off. ) We're going in.<br><br>(The Jumper heads towards the ground and its engine pods retract.)<br><br><br>SHORTLY AFTERWARDS. The Puddle Jumper has ploughed into the ground in a sandy area on the edge of a forest. The team is sitting inside looking a little winded.<br><br>FORD: Nice landing, sir.<br><br>SHEPPARD: Thank you.<br><br>TEYLA: What happened?<br><br>McKAY: He took us too close to the energy field.<br><br>SHEPPARD: Whose idea was that?!<br><br>(McKay groans as he shifts in his seat.)<br><br>McKAY: You made mistakes, I made mistakes. Let's not get caught in the blame game.<br><br>SHEPPARD: OK, can you fix this ship or not?<br><br>(McKay turns to the console beside his seat and looks at it.)<br><br>McKAY: None of my diagnostic equipment's working.<br><br>(Teyla stands and walks forward, looking up into the sky through the windshield.)<br><br>TEYLA: The sun is still high in the sky.<br><br>McKAY: What does that mean?<br><br>FORD: We can make it back to the Stargate before dark.<br><br>TEYLA: If we intend to leave, we should start now.<br><br>SHEPPARD: Zelenka and I can return and fix it.<br><br>McKAY (looking at a small device he has picked up): No, no, no. Major, you don't understand. It's not just the Jumper. None of my equipment is working either.<br><br>SHEPPARD: Alright. Let's gear up.<br><br><br>SHORTLY AFTERWARDS. The team leaves the Jumper, Sheppard aiming his P-90 rifle cautiously. Behind him, Ford takes out a compass and looks at it.<br><br>FORD: Check it out, sir. I think my compass has gone wonky.<br><br>McKAY: You brought a magnetic compass to another planet in another galaxy?! (He laughs.) You have absolutely no way of knowing if this planet's magnetic field is ... Wait a second. Let me see that.<br><br>(He takes the compass off Ford and looks at it. The needle is spinning around in circles.)<br><br>McKAY: The disturbance is electromagnetic. That probably explains why all our equipment is out.<br><br>SHEPPARD: Which direction is the Gate?<br><br>McKAY: You're the one flying. Shouldn't you know?<br><br>SHEPPARD: Alright, we should be able to figure this out.<br><br>(Teyla steps forward, looking around.)<br><br>TEYLA: I believe it is this way. (She looks in the direction she thinks they should go.)<br><br>SHEPPARD: Let's move out.<br><br><br>LATER. The team is walking through the forest, McKay still consulting the compass.<br><br>McKAY: Hey, uh, can we go that way for a bit?<br><br>SHEPPARD: Why?<br><br>McKAY: Well, it's just, uh, Lieutenant Ford's compass is acting weird. I might be on to something.<br><br>FORD: I'm glad I brought it along.<br><br>McKAY (sarcastically): Yeah, how prescient of you.<br><br>(He leads the team in a new direction.)<br><br><br>LATER STILL. McKay is leading the team while he looks at the compass.<br><br>McKAY: Hello, hello. (He waves the compass around for a few moments, then points to his right.) Oh yeah. Definitely this way.<br><br><br>LATER AGAIN. The team has reached some old ruins.<br><br>McKAY: Didn't fly over this on the way in, did we?<br><br>SHEPPARD: I don't know. I was kinda busy with the whole trying not to get us killed thing.<br><br>TEYLA: These ruins are very old.<br><br>McKAY: Several hundred years at least, I'd say. Maybe more.<br><br>FORD: So the population here is extinct?<br><br>McKAY: Check this out. (He shows the compass to Sheppard. The needle is flicking back and forth between north and south.)<br><br>SHEPPARD: OK, I give up.<br><br>McKAY: Well, if the disturbance is man made as opposed to naturally occurring, it's probably emanating from within these ruins. Somewhere ... (he waves the compass around again, then looks to his left) ... over there.<br><br>SHEPPARD: So if we find it, can we shut it off?<br><br>McKAY: It's worth a shot. If we can shut down the field, we won't have to walk back to the Gate.<br><br>SHEPPARD: I was thinking more of saving a perfectly good Puddle Jumper.<br><br>McKAY: That too.<br><br>SHEPPARD: Alright, guys, stay here for a second. Let's see if, uh, McKay can ...<br><br>(Someone jumps out from behind the ruins, aiming a bow and arrow at the team. As Sheppard jerks back in surprise, another person runs out with a bow and arrow. As the team look around them, someone drops a rope from a tree and slides down it as others run out. The team is surrounded. After a moment, they realise that all of their captors are young, none of them more than about fifteen, and some of them appear to be no more than ten years old. They have markings on their faces, some sort of war paint, and all of them are aiming bows and arrows at the team.)<br><br>SHEPPARD: They're kids, Ford. (He lowers his rifle.)<br><br>FORD: Yeah, with weapons pointed at us.<br><br>SHEPPARD: Lower your weapon, Lieutenant. (He turns to the children.) Hey... kids.<br><br>TEYLA: We are not here to harm you in any way.<br><br>SHEPPARD: That's right, what she said. We're just ... we're friendly, OK?<br><br>TEYLA: We arrived through the Stargate. We were only trying to return home.<br><br>(The children stare at them silently.)<br><br>FORD: I don't think they understand.<br><br>TEYLA: I believe they do.<br><br>SHEPPARD: Why are they still pointing arrows at us?<br><br>(One of the boys, about fifteen years old, looks at Sheppard.)<br><br>BOY: You're a full grown.<br><br>SHEPPARD: Excuse me?<br><br>BOY: You need to see the Elders.<br><br>SHEPPARD: Elders... sound... good. Just lead the way.<br><br>(The boy starts to back away, still aiming his bow and arrow at the team. Teyla begins to follow him. As Ford follows her, he looks at Sheppard.)<br><br>FORD: Full growns?<br><br>(Sheppard shrugs. The team follows the boy. The other children follow along behind, still aiming their weapons.)<br><br><br>VILLAGE. The team and the children have reached a clearing where wooden huts have been built in the trees, high above the ground. The team walks into the clearing. More children are on the ground, going about their everyday business. As Sheppard walks forward, the boy holds out his hand to stop him. He looks up to one of the huts and someone drops a rope ladder with wooden rungs down from the hut. A boy runs forward to hold the ladder steady while another boy starts to climb up it. Teyla looks around the clearing and sees some large pieces of broken metal collected together on a mound of earth nearby. She walks towards it, attracting the team's attention as she goes.<br><br>TEYLA: Major.<br><br>(They approach the mound. The metal has clearly been laid out carefully, and at the bottom of the mound is the skeleton of a Wraith guard in armour.)<br><br>FORD: Now where'd they get that?<br><br>TEYLA: It looks like a shrine.<br><br>FORD: You don't think they worship the Wraith, do you?<br><br>SHEPPARD: That'd be a first.<br><br>McKAY: It'd be disturbing.<br><br>(The boy walks over to them.)<br><br>BOY: Wraith bones.<br><br>SHEPPARD: Yeah, we know.<br><br>BOY: Its death bird fell out of the sky years ago. We keep it here to remind us of how life used to be.<br><br>TEYLA: Used to be?<br><br>BOY (shrugging): Before.<br><br>McKAY (turning to Sheppard and speaking quietly): Fell out of the sky.<br><br>SHEPPARD: Yeah, I picked up on that.<br><br>FORD: Think whatever knocked us down knocked it down?<br><br>McKAY: It's possible. If that's the case, we need to find it.<br><br>FORD: Why?<br><br>McKAY: Because anything powerful enough to knock out a Wraith Dart -- it's a big deal.<br><br>SHEPPARD: Yeah, that would be nice to have.<br><br>(The boy who climbed the ladder comes back down it, goes over to the other boy and whispers in his ear. He turns to the team.)<br><br>BOY: The Elders are ready.<br><br>(He turns and leads them to the rope ladder. Sheppard walks over to the ladder, tugs on it to check its strength, then motions for Ford to climb it first.)<br><br><br>TREE HUT. Sheppard climbs up the ladder and joins the rest of the team inside the hut. Two young men in their early to mid twenties watch the team. One of them is wearing a crocheted headpiece. It looks a little like a wig, with long plaits hanging from it. McKay, breathless from the climb, waves to the men. Sheppard walks over to them.<br><br>SHEPPARD: Hi. Nice to meet you<br><br>(The man with the headpiece greets them.)<br><br>KERAS: I am Keras, one of the village Elders.<br><br>SHEPPARD: I'm Sheppard, (he gestures to the other team members) and this is Rodney and Teyla and ... you say you're one of the Elders?<br><br>KERAS: Yes.<br><br>SHEPPARD: How old are you?<br><br>KERAS: Twenty four.<br><br>SHEPPARD: And that makes you an Elder?<br><br>KERAS: How did you get here, Sheppard?<br><br>SHEPPARD: We used the Stargate to travel from our world to visit yours.<br><br>TEYLA (to Keras): You do know of the Stargate?<br><br>SHEPPARD: It's a big round ... (he gestures) ... thing.<br><br>KERAS: No-one has come through the Well for nearly five hundred years.<br><br>SHEPPARD: Yeah, well, here's the thing ... um ... we're a little lost.<br><br>KERAS: And you are all ... older ... than twenty four?<br><br>(Sheppard looks round at Ford.)<br><br>SHEPPARD: Ford? How old are you?<br><br>FORD: Twenty five, sir.<br><br>SHEPPARD: Ah. (To Keras) I guess so. (Keras says nothing.) Is that a problem?<br><br>(Keras takes off his headpiece.)<br><br>KERAS: Please, sit.<br><br>(The other man steps over to Keras.)<br><br>ARES: They are trespassers, Keras. We don't have to explain ourselves.<br><br>(Keras raises his hand to stop him.)<br><br>KERAS (to the team): I apologise.<br><br>(He gestures to a circle of cushions on the floor. He, Ares and the team sit, McKay wincing as he does so and pulling his feet uncomfortably into a cross-legged position. Keras watches him, waiting for him to get settled.)<br><br>KERAS: You are familiar with the Wraith?<br><br>TEYLA: Yes.<br><br>SHEPPARD: Well, we're not friends, or anything like that.<br><br>KERAS: The Wraith used to farm our planet, as we used to farm livestock and beasts of burden, only we were their herd.<br><br>FORD: Yeah, they seem to do that everywhere.<br><br>KERAS: Our ancestors fought them but our weapons were not strong enough. Our people tried to hide from them, but they were always found. None died peacefully. None could enter into the Eternal Rest.<br><br>McKAY: Eternal rest?<br><br>KERAS: To die at the hands of the Wraith -- to breathe your last breath amongst such hatred and evil -- there's no way to move peacefully into the next world when that is your fate. My ancestors decided that, to beat the Wraith, we must learn to think as they think. We ensured that we would never provide the Wraith with a crop worth picking.<br><br>SHEPPARD: By ...?<br><br>KERAS: None of us passes the age of twenty four.<br><br>McKAY: How do you manage that?<br><br>KERAS: On the eve of our twenty fifth year, we make the Sacrifice, both for our people and for our own safe passage into the Eternal Rest.<br><br>McKAY: What?!<br><br>SHEPPARD: You kill each other?!<br><br>KERAS: No. We take our own lives. And so the Wraith have not returned for nearby five hundred years.<br><br><br>A LITTLE LATER. As the Elders discuss the situation, the team stands nearby. Ford looks at the Elders, then walks over to his team mates.<br><br>FORD: Never in my life have I ever felt so ... old.<br><br>SHEPPARD: This is without a doubt the most screwed up way of life I can imagine.<br><br>McKAY (agreeing): Hmm.<br><br>TEYLA: They seem to accept it.<br><br>SHEPPARD: They're kids. What the hell do they know?<br><br>FORD: Kids that don't want to keep us around.<br><br>TEYLA: Because they believe our presence may bring back the Wraith.<br><br>FORD: They can't be right, can they? Would the Wraith just ignore them because they're young? I mean, I don't eat veal but it can't be the same thing, can it?<br><br>McKAY: Of course it's not the same -- veal is delicious. The Wraith don't come by any more because when their Darts fly close to the village, the electromagnetic field takes them out, much like what happened to our Puddle Jumper.<br><br>TEYLA: Why do they not just land outside the disturbance and take the village by foot?<br><br>McKAY: I'm sorry, perhaps I'm not being clear. Nothing works here, not their stunners, their Darts... even their shields wouldn't function correctly. I mean, why would they risk their advantage when there's a smorgasbord through some other Stargate?<br><br>FORD: Our guns still work, right?<br><br>McKAY: Because they're relatively primitive -- they don't generate an E.M. field.<br><br>TEYLA: We must tell them.<br><br>McKAY: Not before I've had a chance to look at those ruins, we don't.<br><br>TEYLA: They're sacrificing themselves for no reason.<br><br>McKAY: What are we going to tell them, Teyla? Listen, kiddies, everything you believe to be true is wrong, and trust us because we've been here for almost an hour.<br><br>(Keras and Ares walk over to them.)<br><br>KERAS: We've talked it over. You can stay until you've fixed your ship, but you must work quickly. Your being here makes our people uncomfortable.<br><br>SHEPPARD: That's fair enough. We'll work as quickly as we can.<br><br>McKAY: There may have been something in the ruins where you picked us up that, uh, caused us to lose control of our ship.<br><br>ARES (to Keras): They should be watched at all times.<br><br>KERAS: Ares!<br><br>SHEPPARD: No, no, that's fine. Totally understandable.<br><br>KERAS: I'll choose two of the villagers to keep an eye on you.<br><br><br>FOREST. Ford and McKay are heading for the ruins. Their escort is two children, a boy and a girl of about seven years old. They are walking alongside McKay while Ford walks ahead of them. The little girl looks up at McKay.<br><br>CLEYA: Casta says you're a hundred years old. Are you?<br><br>McKAY: Who's Casta?<br><br>CASTA: Me.<br><br>(McKay stops and turns to face the little boy.)<br><br>McKAY: Where are you getting your information, Casta?<br><br>(Ford stops and turns around to watch the conversation.)<br><br>CASTA: Why are we going to the old city?<br><br>McKAY: I gotta check something.<br><br>CASTA: What kind of thing?<br><br>McKAY: It's grown up stuff.<br><br>CLEYA: What's a grown up?<br><br>McKAY: Someone who's older than you are.<br><br>CASTA: I'm three days older than Cleya. You can tell me.<br><br>McKAY: Nice try, but you're not a grown up.<br><br>(Ford grins, enjoying watching McKay being annoyed.)<br><br>CLEYA: But you just said: someone that's older than me is a grown up.<br><br>McKAY: I don't need you to tell me what I just said, OK?<br><br>CLEYA (looking up at him a little nervously): OK.<br><br>(They start to walk again.)<br><br>CASTA: So, why are we going to the old city?<br><br>McKAY: Ford, a little help here.<br><br>(Ford giggles.)<br><br>FORD: What are you talking about? You're a natural!<br><br>McKAY (to the children): Let's see how long we can be quiet. Who can be quiet the longest, huh?<br><br>CLEYA: Well, I'm not a quiet person.<br><br>McKAY: That's not quiet, that's talking.<br><br>CLEYA: Well, I'm not a quiet person. I talk a lot.<br><br><br>VILLAGE. Down on the ground again, Sheppard tosses a large ball towards some kids. Keras smiles.<br><br>KERAS: Do you have young?<br><br>SHEPPARD: Me? No. Not yet, anyway. You?<br><br>KERAS: Oh yes. They're raised in one of our other villages.<br><br>SHEPPARD: Other villages?<br><br>KERAS: To keep family lines apart.<br><br>SHEPPARD: Ah, got it. How many villages are there like this?<br><br>KERAS: Twelve. There are a few larger than this one, but more small in number.<br><br>SHEPPARD: And they all make the Sacrifice?<br><br>KERAS: Yes. We all do, as have the many before.<br><br>SHEPPARD: No-one ever ...? (He trails off.)<br><br>KERAS: What?<br><br>SHEPPARD: Well, decides not to go through with it, takes off, runs away.<br><br>KERAS: There has been hesitation.<br><br>SHEPPARD: Oh, I bet.<br><br>KERAS: We can be ... persuasive when the time comes.<br><br>SHEPPARD: I know what that means. Look, I gotta tell you, I-I don't understand this at all. Where I come from we value life more than ... well, almost anything else. Lieutenant Ford -- he's just a year older than you. You know what he would have missed out on if his life was over a year ago?<br><br>KERAS: We're not all that different. It's just that ... I would rather have twenty four years of peace than a life of fear.<br><br>SHEPPARD: What if there's another way? Naturally when the time comes.<br><br>KERAS: The time comes.<br><br>SHEPPARD: Well of course it does. That's part of being alive.<br><br>KERAS: I mean for me. Tomorrow is the first day of my twenty fifth year.<br><br>SHEPPARD: Tomorrow?<br><br>KERAS: Yes. That's why I lead the Council of Elders. I am oldest among the twenty fours.<br><br>SHEPPARD: You mean, um, tomorrow you, um ...<br><br>KERAS: Tonight.<br><br>SHEPPARD: Tonight?!<br><br>KERAS: Our way was put in place long ago and it works. It's not for me to question it. Tonight I die.<br><br><br>ELSEWHERE IN THE VILLAGE. Ares walks to a tent with a woman in her late teens/early twenties. Various other villagers gather outside the open side of the tent as they talk.)<br><br>PELIUS: How many?<br><br>ARES: Four. They claim they're alone but we can't be sure. There may be more.<br><br>PELIUS: We've given them time to prepare the ship?<br><br>ARES: Against my strong objection, yes.<br><br>(Pelius sighs.)<br><br>PELIUS: So this is Keras.<br><br>ARES: Who should be readying himself for his Sacrifice, not troubling with the full growns. I will be the Eldest by tomorrow but that may be too late.<br><br>PELIUS: What do you want to do?<br><br>ARES: They came through the Wraith Well, Pelius. If they stay any longer, the Wraith will come back and all our Sacrifices will be for nothing. This calls for action. They must be forced to leave.<br><br>PELIUS: I need time to talk to the other villages.<br><br>ARES: We have little of it.<br><br>PELIUS: You know the laws, Ares. It's bad enough we're leaving Keras out of this. A forced Sacrifice must be agreed upon by all the villages.<br><br>(Ares turns to the villagers gathered outside the tent.)<br><br>ARES: Leave us! (As the villagers walks away, he turns to Pelius again.) You talk with who you need to talk. I will give them til the end of this day to leave. If they do not ...<br><br>(Pelius stares at him, her eyes wide. Ares turns and walks away.)<br><br><br>RUINS. On the outskirts, McKay is walking towards the ruins consulting his compass.<br><br>McKAY: Hey, hey, coming through. (He walks between Cleya and Casta, pushing Cleya away with a hand on her head.) Thank you.<br><br>CLEYA: What's that?<br><br>McKAY: It's a compass.<br><br>CLEYA: What's that?<br><br>McKAY: Used for determining direction on Earth. (He rolls his eyes.) I'm using it to ...<br><br>CASTA: Where's Earth?<br><br>McKAY: Listen, Cleo.<br><br>CASTA: Casta.<br><br>McKAY: Whatever. Aren't you supposed to be observing? Do you understand what that means, observing?<br><br>(Ford grins, loving this.)<br><br>CASTA: Observing?<br><br>McKAY: It means you're supposed to watch. You're supposed to stay out of my way and watch.<br><br>CASTA: Why?<br><br>McKAY: Because.<br><br>CLEYA: Because why?<br><br>McKAY: Because I say so.<br><br>CLEYA: Why?<br><br>McKAY (irritated): Because I can't get any work done with you two buzzing around asking stupid questions in your stupid little voices. Now sit down and shut up!<br><br>(Cleya's chin starts to quiver and she begins to cry.)<br><br>McKAY: Oh, don't ... don't ... don't.<br><br>CASTA: You're mean! (He goes over to McKay and starts pummelling at his stomach. McKay grunts.)<br><br>McKAY: Thank you for finally noticing. (Casta keeps pummelling him. McKay starts shoving his hands away.) You wanna go? You wanna go, huh?<br><br>(Ford intervenes.)<br><br>FORD: OK. (He lifts Casta up and puts him down a few feet away.) OK, OK. (To McKay) You got a real gift with kids. You do birthday parties?<br><br>McKAY: Look, I have a purpose here. You deal with them. (He walks off, shoving his way through the two kids.) Excuse me. Thank you.<br><br>(Ford goes over to the kids and squats down to them.)<br><br>FORD: S'OK, s'OK. He's just upset because you're smarter than him. You guys know what chocolate is? (They both shake their heads) No? (He grins.) This is gonna be huge! OK, come over here. (He starts to lead them away.) We're gonna go over here and we'll leave the mean old man alone.<br><br>(Nearby, McKay is consulting the compass. The needle is flicking rapidly between west and north. He walks forward and finds part of a ruined building covered in overgrown vegetation. He pushes the overgrowth aside and walks inside. In the centre of the area is a plinth, about chest high, also overgrown. Something is glowing underneath the vegetation. He clears the plants off and finds what looks like an Ancient device underneath.)<br><br>McKAY: Oh, yeah! (He walks around the device.) OK. (He tentatively reaches out and touches the top of the device. The top of it lights up and begins to lift up. Inside is a glowing Z.P.M. McKay stares at it in delight.) Hello, hello.<br><br>(He looks out of the building to check where the children are. They are sitting on the ground nearby with Ford, eating chocolate.)<br><br>FORD: It's really good, isn't it? (The kids nod.) Want some more?<br><br><br>VILLAGE. Sheppard and Keras are sitting at the foot of a tree talking when Sheppard's radio activates.)<br><br>McKAY (over radio): Major.<br><br>(Sheppard slaps his radio.)<br><br>SHEPPARD: McKay? (He stares down at the radio.) My radio's working.<br><br>(McKay and Ford are making their way through the forest. McKay sighs in exasperation.)<br><br>McKAY: Which is how I'm able to speak with you, yes. Do you have a second?<br><br>(Sheppard stands up and walks away from Keras.)<br><br>SHEPPARD: Tell me you found the field generator.<br><br>McKAY: I found the field generator.<br><br>SHEPPARD: And obviously the off switch.<br><br>McKAY: Better than that -- the device is powered by a Zero Point Module. It's definitely possible the E.M. field's been online for centuries. (In the village, Teyla walks over to Sheppard, listening to her own radio.) As far as I know, only a ZedP.M. is capable of powering it that long. I've shut it down. Everything's working now.<br><br>SHEPPARD: So you've disabled the shield?<br><br>McKAY: Just temporarily. I need to get the ZedP.M. back to Atlantis -- see if it's worth taking.<br><br>TEYLA: We cannot just take it. It is their only source of protection against the Wraith.<br><br>McKAY: There's no evidence that the Wraith have been here in years. Besides, if this is a fully functioning ZedP.M., we can bring them all back to Atlantis. How hard could that be?<br><br>SHEPPARD: Hard... but a ZeeP.M. could give us the power to make a lot of problems go away.<br><br>McKAY: Exactly. I need to get it back to a lab.<br><br>SHEPPARD: How do you plan on doing that?<br><br>McKAY: Well, I've had the gene inoculation and, uh, you've already given me a flying lesson.<br><br>SHEPPARD: It's gonna take more than a shot in the arm and a five minute lesson.<br><br>McKAY: Listen, I'm not going to be dog-fighting Wraith Darts. Ford and I can handle it.<br><br>SHEPPARD: Alright, fine. You can go. But get back to me before tonight. We sort of have a deadline.<br><br>McKAY: Right.<br><br>(He and Ford head off. Teyla walks closer to Sheppard.)<br><br>TEYLA: I think it is dangerous to leave the villagers unprotected.<br><br>SHEPPARD: McKay's got a point. The Wraith haven't been around in a very long time.<br><br>TEYLA: This is reckless, Major. You must see that.<br><br>SHEPPARD: Come on. What are the odds they're gonna show up in the few hours it takes McKay to run those tests?<br><br>(At the Wraith shrine, unseen by Sheppard or Teyla, a device attached to the skeletal wrist of the Wraith begins to blink.)<br><br><br>SHORTLY AFTERWARDS. Ares, wearing the headpiece of the Elder, walks over to Sheppard and Teyla, bringing Cleya and Casta with him.<br><br>ARES: Why were the guides sent back to the village?<br><br>SHEPPARD: Were they?<br><br>ARES: Yeah, they were.<br><br>SHEPPARD: Must have been nap time.<br><br>ARES (walking closer and getting into Sheppard's face): You think this is a joke, Sheppard?<br><br>SHEPPARD: I don't find much of what's going on around here to be that funny.<br><br>(Keras walks over.)<br><br>KERAS: What's wrong?<br><br>ARES: Two of the full growns are out unwatched.<br><br>KERAS: It's fine, Ares.<br><br>ARES: You should be getting ready for tonight, Keras. The cleansing ceremony is set to begin and you have to ...<br><br>KERAS: Fine. I'll go ready myself.<br><br>(He walks away. Ares turns and glares at Sheppard for a moment longer, then walks away.)<br><br>TEYLA: What were they talking about?<br><br>SHEPPARD: He's supposed to sacrifice himself tonight.<br><br>TEYLA: Keras?<br><br>SHEPPARD: I tried to talk him out of it.<br><br>TEYLA: If we tell them about the field that protects their villages ...<br><br>SHEPPARD: I'm working on that, but we can't do anything until we figure out what to do with the ZeeP.M.<br><br><br>ATLANTIS. LAB. As McKay examines the Z.P.M., Doctor Elizabeth Weir talks with him.<br><br>WEIR: This is a very bad call, Rodney.<br><br>McKAY: Why?<br><br>WEIR: You just told me this ZeeP.M., it powers their defences against the Wraith.<br><br>McKAY: Yup. (He looks round at Weir.)<br><br>WEIR: You don't see the problem in stealing it?<br><br>McKAY: It wouldn't be stealing so much as ... Look, if it's of any good to us, we can bring them here.<br><br>WEIR: Alright, for one: we don't even know how many of them there are.<br><br>McKAY: Well, I-I hardly doubt there will be more than a few hundred.<br><br>WEIR: What? Hey, we're barely getting by here ourselves.<br><br>McKAY: This is a big empty city and we have the mainland now.<br><br>WEIR: Rodney! We can't just visit planets, take away their defences, uproot their cultures and bring em all back here to Atlantis.<br><br>McKAY: If they have a ZedP.M., yes we can.<br><br>WEIR: Oh my God! How morally superior you must feel!<br><br>McKAY: Elizabeth, they live in trees. Atlantis will be a big step up for them, plus they could stop killing themselves for no good reason.<br><br>WEIR: Are they killing themselves for no good reason?<br><br>McKAY: Yes, they are. The E.M. shield is what's keeping the Wraith away, not the sacrificing.<br><br>WEIR: OK, you said that the Sacrifices began at about the same time you think the shield went online.<br><br>McKAY: More or less.<br><br>WEIR: So if the people who built the shield are the same people who implemented the suicide pacts, perhaps the two things aren't as disconnected as you think.<br><br>McKAY: Hmm ... (He thinks about it, trying to come up with a good argument against what she has said, but failing.) M-maybe.<br><br><br>M7G-677. VILLAGE. Sheppard is talking with Keras.<br><br>SHEPPARD: One more day. That's all I need. I'll have a much clearer picture.<br><br>KERAS: Clearer picture of what?<br><br>SHEPPARD: Long story. Stick around and I'll tell ya.<br><br>KERAS: I'll be honest with you, Sheppard, There's nothing I would like more than to spend more time talking with you. But it's not possible.<br><br>(He turns and starts to walk away.)<br><br>SHEPPARD: What if you're wrong? (Keras stops.) What if a day doesn't matter? What if a year doesn't matter?<br><br>KERAS (turning to face him): And what if it does? I'd never rest peacefully knowing that I was the reason the Wraith returned to this planet.<br><br>SHEPPARD: You could live a full life.<br><br>KERAS: You are a warrior among your people, one who is trained to defend and protect them.<br><br>SHEPPARD: I guess you could say that.<br><br>KERAS: Would you not willingly give your life if it were necessary?<br><br>SHEPPARD: It'd have to be really necessary.<br><br>KERAS: How is the Sacrifice so different?<br><br>SHEPPARD: So this is just gonna go on forever.<br><br>KERAS: As long as the Wraith don't return, yes. (He turns and walks away as Sheppard sighs. Then he stops and turns to face Sheppard again.) Would you stand witness?<br><br>SHEPPARD: Me? (Keras nods. Sheppard frowns.) Well, w-w-what do I have to do?<br><br>KERAS: Just be there, as I prepare. We gather the strength from those close to us for the Sacrifice to come.<br><br><br>ATLANTIS. Weir comes out of the Conference Room. McKay trots up the stairs towards her from the Gateroom.<br><br>McKAY: Doctor Weir. The bad news is it looks like the device harnesses M7G-677's unique electromagnetic field. Probably wouldn't work for us.<br><br>WEIR: Assuming we were considering stealing from them.<br><br>McKAY: Uh, not much point to that, either. The ZedP.M.'s almost depleted.<br><br>WEIR: So it's worthless?<br><br>McKAY: Oh, I wouldn't say that. It's, um, enough to give us, uh, oh, the shield at full power for a few hours, which would be handy if the Wraith ever attacked. Now, it could continue doing what it was doing for quite some time, but, uh ...<br><br>WEIR: So it is of more worth to them than it is to us.<br><br>McKAY: Probably.<br><br>WEIR: Definitely.<br><br>McKAY: Fine. There's another thing.<br><br>WEIR: Uh-huh?<br><br>McKAY: I think I have a theory about the suicide pact.<br><br>WEIR: Yeah, what is it?<br><br>McKAY: I'm not sure how much power this thing had to start with but whoever built the E.M. device knew it wouldn't be able to power a field large enough to cover the whole planet for very long.<br><br>WEIR: So it was built to protect a smaller area.<br><br>McKAY: More or less the areas around the villages, but if the population got much larger than they are now, there's a chance the kids would move out of the field and they become susceptible to a Wraith attack.<br><br>WEIR: So the suicide pact is ...<br><br>McKAY: ... population control.<br><br>WEIR: Wow, that's a little severe.<br><br>McKAY: A little?! The point is, they believe if they die in fear and turmoil, they don't get to go to their version of heaven. Now while this at the very least guarantees that they die in peace, it's, uh ... well, it's a religion, and a particularly ridiculous one at that.<br><br>WEIR: Well, that's not a judgment that we can make for them.<br><br>(McKay laughs.)<br><br>McKAY: No?<br><br>WEIR: No.<br><br>(McKay's smile fades.)<br><br>McKAY: No.<br><br>WEIR: Now, I'd like you and Lieutenant Ford to return the ZeeP.M. and get their device back online. (She turns and walks away.)<br><br>McKAY: OK.<br><br><br>M7G-677. VILLAGE. As the villagers and Sheppard watch, a girl ceremoniously walks across to Keras, carrying a small bowl in front of her and carrying a large white feather. The bowl contains something that steams or smokes. Keras turns to face her. A white line has been painted down the centre of his face all the way from his forehead to his chin. The girl walks around him and uses the feather to waft the smoke towards him. Someone else reaches out and paints a white line with his finger down Keras' cheek.<br><br>McKAY (over radio): Sheppard, it's McKay.<br><br>(Teyla steps away from the ceremony to answer McKay's call.)<br><br>TEYLA: This is Teyla. Major Sheppard is unavailable.<br><br>McKAY (over radio): What does that mean?<br><br>TEYLA: Keras has asked him to take part in the cleansing ceremony.<br><br>McKAY: That doesn't sound good.<br><br>TEYLA: Are you back?<br><br>McKAY: Ford and I are back at the old city. I'm just gonna put the ZedP.M. back.<br><br>TEYLA: Good. I'll let Major Sheppard know.<br><br>McKAY: I've parked the Jumper outside the E.M. field, so we should be able to leave as soon as I finish.<br><br>(Teyla nods. As Sheppard watches the ceremony, he looks over towards the shrine and notices the blinking wrist band.)<br><br>SHEPPARD: Teyla!<br><br>(He races over to the shrine, picks up the skeleton's wrist and looks at the device. The villagers stare at him in shock, wondering what he is doing. Teyla activates her radio.)<br><br>TEYLA: Major Sheppard has just found a Wraith bracelet that has already begun transmitting. We need that field returned as soon as possible.<br><br>(Out in the forest, McKay and Ford look at each other, then start to run.)<br><br>(At the village, Sheppard wrenches the skeletal arm off and hurls it to the ground.)<br><br>ARES: Stop him!<br><br>(Sheppard pulls out his pistol and fires three shots at the device. The light on it goes out. Sheppard looks up at Ares as several of the boys run towards him.)<br><br>SHEPPARD: Sorry, I-I-I -- I had to do that.<br><br>(The boys grab him and push him to his knees.)<br><br>TEYLA (into radio): McKay, we need it on now!<br><br><br>RUINS. Ford and McKay are racing towards the ruins, Ford in front.<br><br>FORD: Move!<br><br>McKAY (wrestling his backpack off as he runs): I'm coming!<br><br>(They race into the ruined building, McKay pulling the Z.P.M. out of his backpack as he goes. He slaps the top of the Ancient device and it starts to lift up. As soon as there is enough space, McKay shoves the Z.P.M. into the gap, then lifts it upright and puts it into its slot. The top of the device lights up. He pushes a few buttons on the side of the device but the Z.P.M. stays dark.)<br><br>FORD: Well? What are you waiting for?<br><br>McKAY: Well, that should be it.<br><br>FORD: Should be what?<br><br>McKAY: Far be it from me to cause a panic, but ... (He trails off.)<br><br>FORD: What did you do? (McKay stares at the device.) What did you do?<br><br>McKAY: There's the slightest possibility that in my haste, I may have broken it.<br><br><br>VILLAGE. Sheppard is still being held on his knees.<br><br>ARES: How dare you defile our remembrance?!<br><br>SHEPPARD: It was necessary.<br><br>ARES: Necessary?! You broke the laws! You must be punished!<br><br>(Keras grasps Ares' shoulder from behind.)<br><br>KERAS: That's not up to you, Ares.<br><br>(Ares seizes his hand and pushes him away.)<br><br>ARES: Neither is it up to you any more! (He turns back to Sheppard as Teyla stands nearby, watching nervously.) You've had enough time. You must fix your ship and go! (He turns to the villagers.) How long do they expect us to play chance with our lives? Every second a full grown is in our village is a second we are no longer safe from the Wraith. They must leave now!<br><br>(The villagers shout out in agreement. Keras walks over to Sheppard and bends down to him.)<br><br>KERAS: I'll take you to the Well. You're not safe here.<br><br>(Teyla bends down to them.)<br><br>TEYLA: McKay and Ford are in the ruins.<br><br>KERAS: We'll pick them up on the way.<br><br>SHEPPARD (to Teyla): They put the ZeeP.M. back?<br><br>TEYLA: There's been a setback.<br><br>SHEPPARD: What'd McKay do?<br><br>(Keras stands up to address the villagers. Some of them are aiming bows and arrows at Sheppard and Teyla. Keras raises his hands placatingly at them.)<br><br>KERAS: Friends! Please. The full growns have agreed to leave and never come back. I will take them to the Well myself. All this will be over soon, and we can get on with the ceremony.<br><br>(Ares glares at him untrustingly. Keras lowers his hands and gestures to the men holding Sheppard. They let him go and Keras leads Sheppard and Teyla away. Ares walks over to one of the men who had been holding Sheppard.)<br><br>ARES: Make sure they get there.<br><br>(The man nods and follows after them.)<br><br><br>RUINS. As McKay walks around the device, Sheppard and Teyla arrive.<br><br>SHEPPARD: Please tell me you have this working.<br><br>McKAY: I don't know what I did. These things are usually plug and play. This device must be using an older version of Windows.<br><br>SHEPPARD: Get to the point.<br><br>McKAY: What I'm saying is there is a sequence to re-installing the ZedP.M. which I haven't got yet.<br><br>(Keras walks in.)<br><br>KERAS: None of that matters now. Just grab what you can and come with me. Ares will be sending men behind us.<br><br>FORD (to Sheppard): What made the bracelet start broadcasting?<br><br>TEYLA: I do not think it was anything we did.<br><br>FORD: It's possible it was like an emergency beacon that activated when the Dart crashed. The E.M. field's been keeping it quiet ever since.<br><br>SHEPPARD: So it must have begun transmitting as soon as McKay turned off the field.<br><br>KERAS: Listen to me! We have to move on, now!<br><br>TEYLA: We cannot do that.<br><br>SHEPPARD: Keras, this is hard to explain but we can't go anywhere til we fix this device.<br><br>McKAY (raising a hand): We.<br><br>KERAS: You'll just have to abandon your ship. You're risking your lives if you stay.<br><br>SHEPPARD: This is not about our ship -- it's about the protection of your villages.<br><br>KERAS: What?<br><br>FORD: Keras, the reason our ship went down, the reason the Wraith Dart crashed so long ago -- it's because of this device.<br><br>McKAY: It render all electromagnetic-based devices inside the shield inert.<br><br>KERAS: I don't understand.<br><br>SHEPPARD: What they're saying is the Wraith didn't stay away because of your Sacrifices. They stayed away because of this shield.<br><br>KERAS: No, that can't be true.<br><br>McKAY: It's not entirely true, actually. The shield doesn't protect the whole planet. It doesn't have enough power. I believe the idea of the Sacrifices was brought on so your society never left the confines of the shield. Look, the Sacrifices play a part in your survival but not for the reasons you believe.<br><br>KERAS: I-it's impossible.<br><br>SHEPPARD: I can prove it to you, but you have to give us time to bring this device back online.<br><br><br>VILLAGE. Ares is wearing the headpiece of the Elder as he walks amongst the villagers gathered around him.<br><br>ARES: Keras is weak. I doubt his oath to the Sacrifice. The full growns have clouded his judgment. (The man who was escorting Keras and the others runs over and whispers into Ares' ear. Ares turns to the villagers.) They've stopped in the old city and are not moving on. Gather the bows and the spears. We will rid ourselves of them now, once and for all!<br><br>VILLAGERS: Yeah!<br><br>(They head off to prepare.)<br><br><br>RUINS. Sheppard, Teyla, Ford and Keras are standing outside the ruined building. McKay exits, pushing his way through between Sheppard and Keras.<br><br>McKAY: Coming through, coming through, excuse me. (He walks over to some kit on the ground nearby and picks it up.) Alright. (He turns to find that Keras has walked up behind him.) And again. Still in the way. (Keras steps aside.) Thank you. (He goes back into the building.)<br><br>KERAS (to Sheppard): This will never work.<br><br>SHEPPARD: We don't have much of a choice.<br><br>(Ares and his soldiers run into the ruins, aiming their bows and arrows.)<br><br>ARES: This is not the Well, Keras.<br><br>(Inside the building, McKay freezes.)<br><br>SHEPPARD: Um, it's my fault. We just received word from McKay that our ship's just been repaired. In fact, um, (he turns his head slightly so that McKay can hear him) he's back there right now waiting for us. (McKay backs away from the device and squats down quietly.) We were just saying goodbye to Keras.<br><br>ARES: You think I am a fool?<br><br>SHEPPARD: No. I just think you're a little cranky. Look, if you wanna escort us back to the ship, you can watch us leave.<br><br>(Ares looks at Sheppard and Keras for a moment, then steps aside.)<br><br>ARES: Lead the way.<br><br>(The team walks off. Keras follows them, and Ares and his men follow. After a while, McKay cautiously sticks his head out through the vegetation overhanging the building. Once he is certain the area is clear, he turns and goes back to the device.)<br><br>McKAY: Alright.<br><br>(He pushes a few buttons around the Z.P.M., then hears rustling amongst the vegetation. He takes out his pistol and walks around the device nervously. Cleya and Casta burst through the doorway. He aims his pistol at them before he realises who they are. They jump back, afraid.)<br><br>McKAY: Oh! (He sighs in relief and pockets his gun.) Oh, you scared me!<br><br>CLEYA (putting her hand on her heart): You scareded us!<br><br>McKAY: Sorry.<br><br>CASTA: It's OK. We came to see if you'd left any chocolate.<br><br>McKAY: Oh, yes, yes of course. (He starts to turn away from them, then realises they haven't moved.) What? (Cleya tilts her hands as if to say, Well?) Oh, you want some. (He gets a bar of chocolate out of his vest pocket and holds it out towards them.) OK, you can have this ... (as the children walk towards him, he pulls the bar back) ... but you've got to promise to let me work, OK?<br><br>CASTA: OK.<br><br>McKAY: Alright. (He hands the bar over.) Quietly.<br><br>CLEYA (to Casta): Come on. (They run off to eat the bar outside.)<br><br>McKAY: Right. (He goes back to the device and starts pressing buttons.)<br><br><br>FOREST. The team and its escort is approaching the Puddle Jumper.<br><br>TEYLA (quietly to Sheppard): Do you intend to leave McKay behind?<br><br>SHEPPARD: No. We'll circle around til he gets the device back on. He'll show up.<br><br>(A round device zooms through the air towards the Jumper, spinning and twisting. It stops near the Jumper. Ares turns and stares at it.)<br><br>ARES: It's the Wraith. We're too late!<br><br>(The device zips over to the top of the Jumper, scanning it. Sheppard and Ford run forward and fire up at it. The device whizzes off and disappears.)<br><br>FORD: What the hell was that?<br><br>TEYLA: It was too small to be a Dart.<br><br>SHEPPARD: It was a probe of some kind.<br><br>FORD: Probably came to check out the signal from the Wraith bracelet.<br><br>SHEPPARD: We've gotta take it down before it gets back to the Gate.<br><br>(They turn towards the Jumper but some of the boys run to block their way, aiming their bows. The other boys surround the team.)<br><br>SHEPPARD: Hey, boys. Let us take that probe down or we're all in deep trouble.<br><br>ARES: Even if you were able to destroy it, more will come.<br><br>TEYLA: That is not true.<br><br>ARES: Why do you think they're here, Sheppard? You. The Wraith have sensed a crop worth harvesting and they have come to claim it. (He looks round to one of the boys, who turns and goes into the Jumper.)<br><br>SHEPPARD: Keras, tell them that we gotta take this thing down before it gets back to the Stargate.<br><br>(The boy comes out of the Jumper, shaking his head. Ares turns to Sheppard.)<br><br>ARES: Where is the other full grown?<br><br>KERAS: Ares, there is a device that shields us from the machines of the Wraith. The Sacrifices may have been ....<br><br>ARES (to his soldiers): He'll be in the old city. Go.<br><br>(A couple of the boys run off.)<br><br>KERAS: Ares, listen to me!<br><br>ARES: You've let your fear of the Sacrifice put our entire people in danger, Keras.<br><br>TEYLA: You have been protected from the Wraith by a shield.<br><br>FORD: We turned it off by accident.<br><br>SHEPPARD: But the good news is, if we get it back up, the Wraith will never come again.<br><br>ARES: There is only one thing I have to do to make sure the Wraith never come again. Kill you.<br><br><br>RUINS. McKay continues pushing buttons on the side of the device as Cleya and Casta watch him, eating the last of the chocolate bar with chocolate smeared all around their mouths.<br><br>McKAY: Come on.<br><br>(Cleya hears something outside and runs out to have a look. She comes back in.)<br><br>CLEYA: Somebody's coming.<br><br>(She and Casta run outside to meet the two older boys who run inside the building, aiming their bows at McKay. McKay raises his pistol and aims it at them. One of the boys looks at the device.)<br><br>NELEUS: What is this? (McKay doesn't answer.) You must come with us, now!<br><br>McKAY: Can't do that. Listen, I need to finish my work here. I've seen how the Wraith deal with other planets, and they don't care how old you are. I need to get this device turned on and I am so close to figuring it out, so just give me one more shot. (Neleus pulls his bow back a little further. McKay shifts his grip on his pistol, grimacing and horrified at the thought that he might have to shoot such a young man.) Look, both of you, go to your rooms! (Neleus and his colleague don't move.) You're not buying this, are you?<br><br>(A whirring sound comes from outside. The boys look up, then turn and run outside to see what it is. McKay lowers his pistol and runs to the doorway. He sees Cleya and Casta standing just outside.)<br><br>McKAY: Hey! Psst! (They look over to him. He beckons to them.) Come on! (They run inside the building. McKay looks up into the sky and stares in disbelief.) No!<br><br><br>PUDDLE JUMPER. Ford and Teyla are standing back to back, their rifles ready as the boys stand all around them with their bows drawn.<br><br>FORD: Sir. I don't like where this is headed.<br><br>SHEPPARD: Easy, Ford. (He turns around slowly, scanning the circle carefully as Keras walks slowly towards his people, holding his hands out placatingly.) Nobody's shooting just yet.<br><br>FORD: Yet.<br><br>SHEPPARD: And nobody's going to, either. Ares, you have no idea what you're up against here.<br><br>TEYLA: The weapons we carry are more powerful than any you have ever seen.<br><br>SHEPPARD: She's telling the truth. They do more than make a lot of noise. They will kill you.<br><br><br>RUINS. McKay turns back to the device and starts pressing buttons. Neleus fires an arrow at the probe flying above his head. The probe slips sideways, avoiding the arrow. Neleus reaches for another arrow. McKay presses another button and the Z.P.M. lights up. The whirring noise from the probe slows down, then the probe drops to the ground. Neleus turns and runs back into the room. McKay raises his hand to him.<br><br>McKAY: Whoa-whoa-whoa-whoa. (He presses one more button and the Z.P.M. sinks back down into the device.)<br><br>NELEUS: It works.<br><br>McKAY: Of course it works!<br><br>NELEUS: I must tell Ares. Come with us!<br><br>(He turns and races off with his colleague. McKay heads to the doorway, then turns to Cleya and Casta.)<br><br>McKAY: Hey, you guys OK? (They nod.) Alright, head back to the village. You're gonna be fine.<br><br>(The kids run off. McKay looks back at the Ancient device for a moment, sighs in relief, then runs off after Neleus.)<br><br><br>PUDDLE JUMPER.<br><br>ARES: Your presence has brought the Wraith. All our ancestors' Sacrifices, you've undone. All because you refused to leave when you were told to.<br><br>SHEPPARD: It's not that simple.<br><br>ARES: It is that simple. (He nods to one of the boys, who swings his crossbow to aim it at Sheppard.)<br><br>KERAS: Ares, no. (He steps in front of Sheppard just as the boy fires.)<br><br>SHEPPARD: Keras!<br><br>(The crossbow hits Keras in the shoulder. Sheppard catches him as he starts to fall. Teyla runs over to help lower Keras to the ground.)<br><br>FORD: Sir! (He aims his P-90 at Ares.)<br><br>SHEPPARD: Hold your fire! (Kneeling over Keras as he grunts in pain, he looks up at Ares.) Look what you've done.<br><br>ARES: He's as guilty as you are.<br><br>SHEPPARD: Ford?<br><br>FORD (raising his P-90 higher): Ready, sir.<br><br>SHEPPARD: We will defend ourselves! And believe me, you don't want that.<br><br>ARES: Archers, ready!<br><br>(The boys pull their bows back tighter.)<br><br>NELEUS (offscreen): It works! Ares! (Ares raises his hand to stop his archers and looks up as Neleus and his colleague race out of the forest.) It works! The device works! (He runs over to Ares.) The device they speak of is real. I've seen it.<br><br>ARES: What?<br><br>NELEUS: McKay fixed it and the Wraith bird fell right out of the sky.<br><br>ARES: That doesn't matter. They ...<br><br>NELEUS (interrupting): Ares! It works.<br><br>(McKay comes running out of the forest, panting heavily. He stops a few yards away.)<br><br>SHEPPARD: You alright, McKay?<br><br>McKAY (panting): Tryin' to catch my breath.<br><br>(Ares stumbles back, shocked, as the truth dawns on him.)<br><br>SHEPPARD (to Teyla): Get the medical kit from the Jumper. (Teyla runs off to fetch it. Sheppard looks down at Keras.) You'll be OK.<br><br>(Keras, in a lot of pain, nods. Sheppard glares up at Ares.)<br><br><br>SOME TIME LATER, POSSIBLY THE NEXT DAY. A group of villagers is gathered near the Puddle Jumper. Ford and McKay, trailed by Cleya and Casta, return from the ruins. McKay holds out his hands to a small fire which has been built in the sand. Keras is standing nearby, with his arm in a sling.<br><br>McKAY: I've been able to boost the, uh, coverage by over fifty percent without too much of a power increase so, uh, should be enough for a (Cleya tugs his sleeve but he shakes her off) sizeable population growth.<br><br>(Cleya tugs his sleeve again. Again he shakes her off.)<br><br>KERAS: Thank you. But you have no idea how long the shield will last?<br><br>McKAY: There's no way of knowing, no, but, uh, there's a good chance you'll be a grandparent before it, uh, (Cleya tugs his sleeve again) before it goes.<br><br>SHEPPARD: We'll be happy to come back and check in on you every now and then. In fact, Ford would be happy to come back and explain how to be a twenty five year old.<br><br>KERAS: I look forward to it.<br><br>SHEPPARD: You'll have to get used to a few things now that everything's changing around here, but we can talk about that next time we visit. Just promise me you'll stick around.<br><br>KERAS (smiling): I will.<br><br>TEYLA: Have all the villagers agreed to suspend the Sacrifice?<br><br>KERAS: They will require us to change some laws, but for now, yes.<br><br>(Cleya stamps on McKay's toe. He makes an exasperated sound. Ford comes out of the Jumper and goes over to Sheppard.)<br><br>FORD: Sir. (He hands a brown paper bag to him.)<br><br>SHEPPARD: Oh, right. Here. (He tosses the bag to Keras who catches it one-handed.)<br><br>KERAS: What's this?<br><br>FORD: Well, where we're from, you get presents when you turn a year older.<br><br>(Keras opens the bag and pulls out a bar of chocolate. Cleya and Casta stare, open mouthed. McKay points to Keras.)<br><br>McKAY: See him there.<br><br>SHEPPARD (to Keras): Happy birthday.<br><br>(Keras smiles at him. Sheppard, Ford and Teyla turn and walk into the Jumper.)<br><br>McKAY: Away you go. (He waves Cleya and Casta towards Keras. They run over to him. McKay waves them off, glad to see the back of them, then heads for the Jumper. Keras starts handing out the chocolate bars as the smaller children gather round him.)<br><br>KERAS: There you go. One for you ...<br><br>(The rear hatch of the Jumper closes and the engines start to power up.)
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="105.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s1/106.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="107.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s1/index.shtml">
+<IMG SRC="/graphics/title_s1episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season One Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="101.shtml" CLASS="list">Rising, Part 1</A><BR><A HREF="102.shtml" CLASS="list">Rising, Part 2</A><BR><A HREF="103.shtml" CLASS="list">Hide and Seek</A><BR><A HREF="104.shtml" CLASS="list">Thirty Eight Minutes</A><BR><A HREF="105.shtml" CLASS="list">Suspicion</A><BR><A HREF="106.shtml" CLASS="list">Childhood's End</A><BR><A HREF="107.shtml" CLASS="list">Poisoning the Well</A><BR><A HREF="108.shtml" CLASS="list">Underground</A><BR><A HREF="109.shtml" CLASS="list">Home</A><BR><A HREF="110.shtml" CLASS="list">The Storm</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="111.shtml" CLASS="list">The Eye</A><BR><A HREF="112.shtml" CLASS="list">The Defiant One</A><BR><A HREF="113.shtml" CLASS="list">Hot Zone</A><BR><A HREF="114.shtml" CLASS="list">Sanctuary</A><BR><A HREF="115.shtml" CLASS="list">Before I Sleep</A><BR><A HREF="116.shtml" CLASS="list">The Brotherhood</A><BR><A HREF="117.shtml" CLASS="list">Letters From Pegasus</A><BR><A HREF="118.shtml" CLASS="list">The Gift</A><BR><A HREF="119.shtml" CLASS="list">The Siege, Part 1</A><BR><A HREF="120.shtml" CLASS="list">The Siege, Part 2</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season One</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B000BVXPGY/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B000CEVUIK/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls1.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="105.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s1/106.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="107.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

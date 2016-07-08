@@ -1,0 +1,526 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "The Defiant One" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				
+				<A HREF="/atlantis/s1/transcripts/112.shtml">Transcript</A>
+				 | <A HREF="/atlantis/s1/reviews/112.shtml">Review</A>
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=518">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=263">Screen Captures</A><BR>
+				<A HREF="/atlantis/s1/112.shtml#analysis">Analysis</A>
+				 | <A HREF="/atlantis/s1/112.shtml#characters">Characters</A>
+				 | <A HREF="/atlantis/s1/112.shtml#notes">Notes</A>
+				 | <A HREF="/atlantis/s1/112.shtml#questions">Questions</A>
+				
+				
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=5688">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s1/112.shtml"><IMG SRC="/atlantis/graphics/112_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="THE DEFIANT ONE" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://www.amazon.com/exec/obidos/ASIN/B000ICNWWI/bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 112<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 1, Disc 3<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 01.28.05<BR>
+				    
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0217938/" TARGET="_blank">Peter DeLuise</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0217938/" TARGET="_blank">Peter DeLuise</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">Sheppard's team investigates a downed Wraith ship, and find themselves stuck on a planet with a lone Wraith survivor.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    SPACE. On board a Puddle Jumper are Sheppard and McKay. Rodney is in the pilot's chair and is flying the ship, while sits John alongside watching what he does. Behind them are two scientists, Doctor Brendan Gaul and Doctor Abrams.<br><br>SHEPPARD (to Rodney): Ease up on the controls a little.<br><br>McKAY: I'm fine.<br><br>SHEPPARD: You're gonna snap the damn things off. Ease up!<br><br>McKAY: I'm just seeing what this baby can do.<br><br>ABRAMS: Did you just say "this baby"?!<br><br>McKAY: That's perfectly appropriate space pilot parlance.<br><br>SHEPPARD: Try to fly the "baby" in a straight line.<br><br>McKAY: I am flying in a straight line.<br><br>(A screen appears superimposed over the windshield. It shows a straight line in comparison to the route that Rodney is flying, which is all over the place.)<br><br>SHEPPARD: Not so much.<br><br>(Behind John, Brendan Gaul is fanning himself with a piece of paper.)<br><br>McKAY: Well -- in space all motion is relative.<br><br>(Brendan groans. John looks round and notices that he is looking distinctly queasy.) <br><br>SHEPPARD: Are you OK, Doctor Gaul?<br><br>GAUL: I-I get, uh, motion sickness.<br><br>SHEPPARD: These things have inertial dampeners. You shouldn't feel a thing.<br><br>GAUL: Well, I-I-I know we're moving. That's enough for me.<br><br>(John turns round again and leans close to Rodney.)<br><br>SHEPPARD: Why'd you choose this guy for the mission?<br><br>McKAY (also leaning close): Brendan's the one who discovered the Lagrange Point satellite was out here. Elizabeth felt he should, uh, see it for himself.<br><br>SHEPPARD (realising that Rodney has taken his hands off the controls): Don't let go of the controls!<br><br>McKAY (putting his hands back on the controls): Snapping doesn't help.<br><br>SHEPPARD: This is why parents get someone else to teach their kids how to drive.<br><br>McKAY: I am both insulted and touched by that.<br><br>(Brendan leans forward and stares out of the windshield in amazement.)<br><br>GAUL: Oh my God!<br><br>(A huge and very ornate-looking satellite is coming into view. The Puddle Jumper is tiny in comparison.)<br><br>SHEPPARD: McKay ... <br><br>McKAY: Yes, yes, of course, please. (He relinquishes the controls and he and John swap places. John flies the Jumper closer to the satellite.)<br><br>SHEPPARD: Holding station at one thousand metres.<br><br>McKAY: Almost half a mile away and it's filling the windshield. This thing is enormous.<br><br>GAUL: It's as large as a Goa'uld mothership. This might be the single largest weapons platform ever constructed.<br><br>McKAY: Probably the Ancients' last line of defence before Atlantis.<br><br>SHEPPARD: Any chance it's still operational? Because that would be a very good thing.<br><br>(Brendan and Abrams go over to a couple of displays and check their readings.)<br><br>ABRAMS (to Brendan): You getting any energy readings?<br><br>GAUL: Negative.<br><br>SHEPPARD: So it's dead.<br><br>GAUL: Well, it warrants closer scrutiny but ... yeah.<br><br>SHEPPARD: Knocked out during the Ancients' last stand?<br><br>McKAY: Or its power source is depleted. Ten thousand years is a long time. We could still take a closer look.<br><br>ABRAMS: Wait, wait. I'm getting something in the ultra-low frequency range. (He puts the sound on speakers and everyone can hear a repeating pulse.)<br><br>SHEPPARD: Where's it coming from?<br><br>(A screen comes up on the windshield showing where the sound is coming from.)<br><br>ABRAMS: The planet.<br><br>McKAY: A distress call. A Wraith distress call.<br><br><br>LATER. The Puddle Jumper crew are reporting back by radio to Atlantis.<br><br>WEIR: Are you sure it's Wraith? In this solar system?<br><br>McKAY: I know. Celestially speaking it's right in our back yard. <br><br>SHEPPARD: We figure the Ancient satellite shot the Wraith ship down in the final battle for Atlantis.<br><br>WEIR: And it's still putting out a signal after thousands of years?<br><br>McKAY: It's a very weak signal. Look, if any part of that ship is intact, the wealth of scientific and military knowledge we could acquire is invaluable.<br><br>WEIR: So what are you saying?<br><br>McKAY: We have to go down and take a look.<br><br>WEIR (cynically): You have to. It took you almost fifteen hours to get there.<br><br>SHEPPARD: All the more reason we should have a look. We're already here.<br><br>GAUL: I should mention that the planet's atmosphere is extremely ionised. Radio communication could be difficult.<br><br>(Frantically, Rodney draws his hand across his throat to try to shut Brendan up.)<br><br>WEIR: And it would take at least fifteen hours to send out any sort of rescue.<br><br>McKAY: We'll be fine.<br><br>WEIR: Major?<br><br>SHEPPARD: I agree with McKay.<br><br>WEIR: Of course you do! How could either of you resist exploring a crashed alien spaceship?!<br><br>SHEPPARD: Exactly.<br><br>McKAY: I assure you our interest is purely professional, Elizabeth.<br><br>SHEPPARD: Seriously, the amount of intel we could gather from their weapons system -- codes, shields ...<br><br>WEIR: Alright. Proceed with extreme caution, please, and check in with me in three hours.<br><br>McKAY: Three hours is hardly enough time ...<br><br>SHEPPARD (interrupting him): Will do! Jumper One out.<br><br><br>PLANET. The Jumper has landed in a sunny, desert-like, area. Rodney is outside the Jumper putting sunscreen on his lips. The others are just coming out of the Jumper.<br><br>McKAY (mimicking Brendan): "Radio communication could be difficult."<br><br>GAUL: Hey, she said yes, didn't she?<br><br>McKAY: And no thanks to you.<br><br>SHEPPARD: Alright, knock it off, guys. I've spent the last fifteen hours listening to you two. (He starts to walk away from the Jumper, then realises nobody is following him. He stops and turns around.) Are we ready?! (They all start walking.) Alright, let's remember where we parked.<br><br>(Behind them, the Jumper cloaks.)<br><br><br>LATER. The team is walking along. There is some scrub-like grass but it's mostly sand and rock.<br><br>GAUL: Why didn't we just land next to the ship?<br><br>SHEPPARD: Just a precaution.<br><br>ABRAMS: Precaution for what? The Wraith ship crashed thousands of years ago.<br><br>SHEPPARD: Automated defences.<br><br>GAUL: I never thought of that.<br><br>McKAY: Don't worry, Brendan. We weren't all built for fieldwork. (To Sheppard) Seriously, we're almost there, right?<br><br>(A small glowing light appears out of a mound and flies around the men, emitting a high buzzing sound. [It looks and sounds like the bugs from the SG-1 episode "Prodigy".])<br><br>McKAY (nervously): Oh, what's that?<br><br>GAUL: Is it a bug?<br><br>SHEPPARD: A space bug.<br><br>ABRAMS (checking a lifesigns detector): It's giving off a pretty strong lifesigns reading.<br><br>McKAY: Uh, OK, did I mention how allergic I was to bee stings?<br><br>SHEPPARD: Maybe he smells the food.<br><br>GAUL (grinning at the sight of Rodney flinching away from the bug): Maybe he's just smelling the girlish fear. (He chuckles.)<br><br>SHEPPARD: Well let's leave it be and it'll leave us be.<br><br>McKAY (eyeing the bug nervously): Right. (He ducks around the bug and the team moves on.)<br><br><br>LATER. The team reaches the top of a hill and sees the crashed Wraith ship at the bottom.<br><br>ABRAMS: Have you seen one like this before?<br><br>SHEPPARD (looking at it through binoculars): It's too small to be a hive ship.<br><br>McKAY: Well, it's been here for a very long time. Maybe they've discontinued that model.<br><br>SHEPPARD: Maybe. Whatever it is, it took a hell of a hit.<br><br>GAUL: Score one for the Ancient satellite.<br><br>(John swings the binoculars around and sees several skeletons lying near the ship.)<br><br>SHEPPARD: There's still some skeletons down there. I guess everyone didn't die in the crash. You getting any lifesigns?<br><br>McKAY (folding his arms): I think we can rule that out.<br><br>SHEPPARD: It's just a precaution.<br><br>McKAY: Fine. (He opens a pocket in his vest, takes out a lifesigns detector and looks at it.) No, it's just us and the glowy bugs. Nothing coming from the ship.<br><br>SHEPPARD: Good. Let's go take a look.<br><br><br>LATER. The team have reached the ship and have found an entrance.<br><br>McKAY: I'm picking up faint power readings.<br><br>SHEPPARD: Something had to be powering the distress beacon.<br><br>(The team starts to move into the ship, but Abrams hesitates nervously at the entrance.)<br><br>GAUL: Come on, Abrams!<br><br>ABRAMS: Maybe one of us should stay outside.<br><br>GAUL: Look, I know how you feel, but how many opportunities like this are we gonna get?<br><br>(They follow John and Rodney. As they work their way deeper into the ship, Brendan heads off in a different direction, unnoticed by the others. Shortly afterwards, John, Rodney and Abrams come across the mummified corpse of a Wraith sitting up against a wall, covered in cobwebs.)<br><br>SHEPPARD: This guy looks like he just lay there and died.<br><br>McKAY: It's remarkably preserved.<br><br>SHEPPARD: Or it wasn't that long ago. Alright, Beckett will want samples.<br><br>(John and Rodney crouch down by the Wraith. Rodney looks nervously at John, suddenly unsure that it's dead.)<br><br>McKAY: It is, uh ...? (John shoots him a look.) Yeah. OK ... (As he brushes away some of the cobwebs over the corpse's face, it becomes clear that the Wraith didn't die naturally -- it has the appearance of something which has been drained of its life energy.) What the ...?<br><br>SHEPPARD: OK, this is different.<br><br>McKAY: Wraith cannibalism?<br><br>SHEPPARD: Looks like it.<br><br>McKAY: They feed off each other?<br><br>SHEPPARD: Probably as a last resort.<br><br>ABRAMS: I guess some of them tried to survive as long as possible.<br><br>McKAY: OK, that is incredibly disturbing.<br><br>SHEPPARD: No kidding. You know, I wonder if there's ...<br><br>(At that point, Brendan calls out to them from some distance away.)<br><br>GAUL: Guys!<br><br>(The others follow the sound of his voice and find him in a large chamber. There are capsules all around, similar to the ones seen on the Wraith mothership in "Underground".)<br><br>GAUL: They're bodies. Human bodies.<br><br>SHEPPARD: They have chambers like this on hive ships. I've never seen one so large before.<br><br>GAUL: I don't understand.<br><br>McKAY: The Wraith cocoon humans. They keep their bodies in a sort of suspended animation, so later they can ... (He trails off, unwilling to say what happens next.) Yeah.<br><br>SHEPPARD: I think we just figured out what this ship is for.<br><br>McKAY: It's a supply ship, probably on its way to feed the Wraith when they were laying siege to Atlantis.<br><br>GAUL: Well, that's terrifying.<br><br>SHEPPARD: Gaul, Abrams, check it out, but be careful. (He turns towards the exit of the chamber.)<br><br>GAUL: What? No, wait!<br><br>ABRAMS: Where are you going?<br><br>SHEPPARD: Well, the ship's gotta have a bridge. Maybe we can get some useful intel.<br><br>GAUL: So you're just leaving us here?!<br><br>McKAY: What's the problem? They're all dead.<br><br>GAUL: That's the problem!<br><br>SHEPPARD: Just get some [?D.V.?] and a rough head count. We'll stay in radio contact.<br><br>GAUL: That could be difficult. This part of the ship seems really shielded.<br><br>SHEPPARD: Weir only gave us a few hours. We'll check in every few minutes.<br><br>McKAY: You wanted fieldwork. This -- (he gestures into the chamber) this is fieldwork. (He and John walk away.)<br><br><br>ATLANTIS. WEIR'S OFFICE. Aiden walks in, apparently summoned by Elizabeth.<br><br>WEIR: Lieutenant, I'd like you to put a team on standby for a rescue mission.<br><br>FORD: Is the major alright?<br><br>WEIR: I'm sure he's just fine. I'd just like to have a team ready.<br><br>FORD: So, just in case?<br><br>WEIR: Yeah. Just in case.<br><br>FORD: Yes, ma'am.<br><br><br>PLANET. WRAITH SHIP. John and Rodney are making their way through the ship.<br><br>McKAY: I'm not picking up anything in the EM spectrum. I may need to rig up a secondary power source so we can interface with their computer systems.<br><br>SHEPPARD: I'm just thinking out loud here ...<br><br>McKAY: What?<br><br>SHEPPARD: How long do you think the Wraith could feed on all those humans back there?<br><br>McKAY: Well, they're capable of hibernating for hundreds of years at a time. But if you think about it, ten thousand years ago? Roughly the dawn of human civilisation.<br><br>SHEPPARD: So there's no chance that, uh ...<br><br>McKAY: No, no, no, no, no. Are you kidding? Well ... maybe.<br><br>SHEPPARD: McKay.<br><br>McKAY: No. No. No living thing could survive that long under those conditions. It's ridiculous.<br><br>SHEPPARD: OK.<br><br>McKAY: It would require an incredible power source capable of sustaining those poor humans in suspended animation almost the entire time.<br><br>SHEPPARD: So it's possible.<br><br>McKAY: Oh my God, it is possible! (He shines his torch around nervously.) We've gotta get out of here.<br><br><br>STORAGE CHAMBER. Sheppard contacts the scientists over the radio, making Brendan jump.<br><br>SHEPPARD (over radio): Gaul, Abrams, this is Sheppard.<br><br>GAUL (into radio): Major, are you trying to scare me to death?<br><br>SHEPPARD (over radio): I'm sorry if we're being a little over-cautious but, uh ... <br><br>(His signal starts to break up and whatever he says next is almost completely obscured in a storm of static.)<br><br>ABRAMS (listening nearby): We need to what?<br><br>GAUL (into radio): Major, say again. Your radio's breaking up.<br><br>(We switch briefly to John so that we can hear what he's saying.)<br><br>SHEPPARD: Let's fall back to our point of ingress. We're headed back to the Jumper.<br><br>(In the Storage Chamber.)<br><br>GAUL (to Abrams): I think we're getting out of here.<br><br>(Something flits across the space behind Abrams.)<br><br>GAUL (pointing panic-stricken): I just saw something in the corridor behind you. We can't go that way. (Into radio) Major, I just saw something.<br><br>SHEPPARD: Alright, stay put. We're coming back to you.<br><br>ABRAMS (into radio): Understood. (He checks his lifesigns detector, then turns to Brendan.) There's nothing out here. Brendan, you're just freaking out on me.<br><br>GAUL: I'm telling you, I saw something. (He has got his pistol out and is pointing it in Abrams' direction.)<br><br>ABRAMS: Put that thing away. You're gonna kill someone.<br><br>GAUL: I know what I saw!<br><br>(Something drops from the ceiling behind Brendan.)<br><br>ABRAMS (staring in horror over Brendan's shoulder): Oh my God!<br><br>(Brendan turns to find a Wraith standing up behind him. It backhands him hard, knocking him to the ground, then steps forward and slams its open palm onto Abrams' chest. He screams. Nearby, John and Rodney hear the sound. Abrams' scream fades as the Wraith snarls in pleasure.)<br><br>SHEPPARD: This way.<br><br>(They run into the Storage Chamber and find Abrams on the ground. He is ancient and withered and clearly dead. There's no sign of Brendan.)<br><br><br>Elsewhere, the Wraith is dragging Brendan along behind it.<br><br><br>In the Storage Chamber, Rodney has checked Abrams' pulse, just in case.<br><br>McKAY: He is dead. <br><br>SHEPPARD: Where's Gaul?<br><br>McKAY: I don't know.<br><br>SHEPPARD (into radio): Gaul, this is Sheppard. Come in. <br><br>(There's no reply.)<br><br>McKAY: It must have taken him.<br><br>(John looks at his lifesigns detector and sees two moving blips.)<br><br>SHEPPARD: You're right. They're on the move. (He bends down to Abrams and starts removing equipment from him.)<br><br>McKAY: What are you doing?<br><br>SHEPPARD: Taking his weapons and his ammo. Here. (He hands Abrams' pistol to Rodney.)<br><br>McKAY: I already have a gun.<br><br>SHEPPARD: Now you have two.<br><br>McKAY: You're not planning on going after the Wraith?<br><br>SHEPPARD: I'm planning on going after Gaul, then I plan on getting the hell out of here.<br><br>McKAY: I swear there was nothing alive when I scanned for lifesigns.<br><br>SHEPPARD: They don't show up as lifesigns when they're hibernating. OK, let's go.<br><br><br>LATER. Elsewhere on the ship, the Wraith is rummaging through Brendan's pack. Nearby, Brendan is sitting on the floor, covered in Wraith cocooning. He regains consciousness, stares up in terror at the Wraith and starts to hyperventilate.<br><br>GAUL (quietly, terrified): Please!<br><br>(The Wraith hears him, looks round, and starts to walk towards him.)<br><br><br>ATLANTIS. Aiden and Teyla have geared up ready for departure. A marine, also in gear, comes to join them as they talk with Elizabeth.<br><br>FORD: They're not even overdue yet.<br><br>WEIR: It doesn't matter. Call it intuition, paranoia, or we can just call it a drill. Either way I want you to go now.<br><br>TEYLA: We can always be called back, but if they are in trouble ...<br><br>WEIR: ... every moment counts, exactly. Ford, who's your pilot?<br><br>FORD: Marco.<br><br>WEIR: Good. He could use some piloting practice.<br><br>FORD: And I've packed enough ordnance to fight a small war.<br><br>WEIR: Let's hope you don't have to.<br><br>FORD: Yes, ma'am. (To his team) Let's move out.<br><br><br>PLANET. WRAITH SHIP. John goes over to the dead Wraith they found earlier and rummages through its clothing. He finds a small oval-shaped object.<br><br>McKAY: What's that?<br><br>SHEPPARD (pocketing the device): I don't know, but I don't have the ordnance I should have. It takes a lot to kill these guys -- I'll take any edge I can get. (He finds a second similar device on the Wraith and pockets that too.)<br><br><br>CHAMBER. The Wraith bends down over Brendan.<br><br>WRAITH: What world are you from?<br><br>GAUL (terrified, whimpering): You're gonna kill me anyway.<br><br>WRAITH: You have come here by ship. Where is it?<br><br>GAUL: You're gonna kill me anyway.<br><br>WRAITH (smiling unpleasantly): But not all at once. (It slams its open palm onto Brendan's chest. Brendan screams. Elsewhere on the ship, John and Rodney hear the sound.)<br><br>SHEPPARD: OK. Stay behind me. Shoot only when I tell you to shoot.<br><br>(They head towards the sound. In the chamber, the Wraith has released Brendan and stands up again, smiling and looking invigorated. On the floor behind it, Brendan whimpers quietly. The Wraith hears John and Rodney coming and leaps up into the ceiling. John and Rodney run into the chamber and stop at the sight of Brendan, whimpering tearfully and with a large gash in the cocoon over his chest. John runs over and squats down in front of him.)<br><br>GAUL: I'm sorry. I didn't ...<br><br>(John checks his lifesigns detector and sees a single signal moving away from the three dots that signify John and his team.)<br><br>SHEPPARD: He's left the ship. (He starts to pull the cocoon webbing off Brendan.)<br><br>GAUL (gasping in pain and terror): It killed Abrams.<br><br>SHEPPARD: We know.<br><br>GAUL: It was so fast. It fed off me.<br><br>McKAY: You're gonna be alright.<br><br>GAUL: It was taking my life. I could feel it. I could feel it!<br><br>SHEPPARD: Alright, alright, alright. Listen to me. Listen to me. You're still here. Can you move?<br><br>GAUL (gasping, sobbing): Nothing below my shoulders.<br><br>McKAY: I'm sure the paralysis is just temporary. You'll be alright in a few hours.<br><br>GAUL: I told -- I told him where we left the Jumper. He took my remote.<br><br>McKAY: He won't be able to fly it.<br><br>SHEPPARD: Do we know that for a fact?<br><br>McKAY: I'm sure the Wraith were the main reason the Ancient technology only works if the operator has the specific gene.<br><br>SHEPPARD: Either way, he's still gonna have all of our weapons, food and water.<br><br>McKAY: Who cares?<br><br>SHEPPARD: What if he can use our subspace radio to signal his friends?<br><br>McKAY: He might be able to do that.<br><br>SHEPPARD: Not if I can get there first.<br><br>McKAY: He's got a head start.<br><br>SHEPPARD: I can be pretty fast.<br><br>McKAY: Elizabeth will send another Jumper. We just need to wait longer.<br><br>SHEPPARD (indicating Brendan): Stay with him.<br><br>GAUL: No -- please don't leave us.<br><br>McKAY: He's right -- we should stick together.<br><br>SHEPPARD: He killed Abrams.<br><br>McKAY (starting to get angry): And I'm as sorry about that as you are, but just because we both made an error in judgement ...<br><br>SHEPPARD (shouting): I don't have time to argue about this! (More quietly) Now set your radio to Channel Two but don't use it til you hear from me. (He runs off.)<br><br>McKAY: Major! Major! (Unable to get John to come back, he turns to Brendan.) It's fine. Just ... (He trails off.)<br><br><br>PLANET SURFACE. John is running towards the Jumper.<br><br><br>WRAITH SHIP. CHAMBER. Rodney is pulling the webbing off Brendan. He pauses and looks down at his hands, moving his fingers with a little difficulty. The webbing is apparently making his fingers go numb. We get our first good look at Brendan since the Wraith's attack. He looks much older than he did previously. Before the attack he was in his early thirties but now he looks closer to sixty. His hair is grey and his face is wrinkled. Rodney stares at him for a moment, then tries to hide his shock by picking up his lifesigns detector and checking it.<br><br>GAUL: Anything?<br><br>McKAY: No. Hopefully there was just the one.<br><br>GAUL: You're not gonna let me die out here, are you?<br><br>McKAY: No. Don't be ridiculous. (He starts to tend to Brendan's chest wound.)<br><br>GAUL: You know, cos people would talk.<br><br>McKAY: Why would they do that?<br><br>GAUL (joking): It's obvious. You're afraid I'll outshine you -- my mind, my youth ... (More seriously) How much of my life did he take?<br><br>McKAY: You look fine.<br><br>GAUL: Cos that's what they do, isn't it? They take years off your life. I look old, don't I?<br><br>McKAY: You look older, yes.<br><br>GAUL: Show me.<br><br>McKAY: There's no point in doing this -- you ...<br><br>GAUL: Rodney. Show me.<br><br>(Reluctantly, Rodney opens his pack and gets out a mirror. He holds it up so that Brendan can see himself.)<br><br>GAUL (staring at himself aghast): Oh my God!<br><br>McKAY (lowering the mirror): I don't know how it works, Brendan. I don't think anybody does. Maybe you haven't really aged. Maybe it doesn't work that way. Look, it's possible that, in time, you could get better. I mean, the important thing is that you're still alive. Can you move yet?<br><br>GAUL: I think I'm starting to get some feeling back in my extremities.<br><br>McKAY: Well, there's something. (Off Brendan's look.) What? I'm just trying to help here. You're the one that had to find the stupid satellite.<br><br>(Brendan starts to chuckle but then groans in pain.)<br><br>GAUL: Ah! Don't make me laugh.<br><br>McKAY: Yeah. You shouldn't laugh, because that's ... not so good.<br><br><br>SURFACE. The Wraith is following the team's footprints through the sand. It arrives at a place where the footprints stop and presses the remote to bring the Jumper out of its cloak. The back is open and it walks inside. It touches a few controls on the console between the two front seats, then sits down in the pilot's seat and tries some more controls but none of them work. It stands up, furious, and roars in anger. Nearby, John hears the sound and takes cover behind an outcrop several metres away.<br><br><br>PUDDLEJUMPER TWO. The Jumper is flying through space. Aiden and Elizabeth are talking over the radio.<br><br>WEIR: It's been six hours -- they still haven't checked in.<br><br>FORD: Good thing we left when we did.<br><br>WEIR: Be careful, Lieutenant.<br><br>FORD: Yes, ma'am.<br><br>WEIR: Gaul said something about radio being a problem on the surface, so hopefully the Jumper's subspace communications are just down.<br><br>FORD: We're prepared to do whatever we need to do.<br><br>WEIR: You're on the other side of the solar system, Lieutenant. It's gonna be your call.<br><br>FORD: Yes, ma'am, it is.<br><br><br>PLANET. WRAITH SHIP. CHAMBER. Rodney has finished bandaging Brendan's chest wound. John radios in.<br><br>SHEPPARD (over radio): McKay.<br><br>McKAY (into radio): Still here.<br><br>(John is still sheltering behind the outcrop.)<br><br>SHEPPARD: The son of a bitch beat me to it. He's fast.<br><br>McKAY: I think you should get back here.<br><br>SHEPPARD: Negative.<br><br>McKAY: There's no point in you being out there.<br><br>SHEPPARD: He's aboard my ship.<br><br>McKAY: What are you, Captain Kirk?! What good's it gonna do him?<br><br>SHEPPARD: I don't know. Maybe he can hotwire the damn thing -- I don't wanna take a chance. (He looks down into a small sheltered crevice and sees something white in there. Reaching down, he picks some of it up and realises that it's ice.) D'you have any idea how long the days are on this planet?<br><br>McKAY: No, why?<br><br>SHEPPARD: Cos I got a feeling the nights are pretty damn cold. Sub-zero cold.<br><br>McKAY: We're six hours overdue. Assuming they waited an hour before sending a rescue mission ...<br><br>SHEPPARD: There's a very good chance it's gonna be dark before another Jumper can get here. If we play the waiting game, the guy who's been around for ten thousand years is gonna win.<br><br>McKAY: Major, anyone or anything capable of surviving that long is gonna be a serious adversary.<br><br>SHEPPARD: Well, not if I get him out in the open. He won't know about our weapons. If all goes well, I'll fly the Jumper back and pick you up.<br><br>McKAY: And if all doesn't go well ...<br><br>SHEPPARD: It will.<br><br>McKAY: Well, things haven't gone all that well thus far.<br><br>SHEPPARD: You know, Rodney, these guys do die if you have enough fire power.<br><br>McKAY: Eventually, yes, but ...<br><br>SHEPPARD: Try and stay positive. How's Gaul feeling?<br><br>McKAY: He can move his toes.<br><br>SHEPPARD: See? Things are looking up.<br><br><br>PUDDLEJUMPER ONE. The Wraith is ransacking the ship, looking for something it can use. John speaks over his radio to it.<br><br>SHEPPARD: This is Major John Sheppard. That's my ship you're messing with. I'd like it back.<br><br>WRAITH: This ship is Atlantean.<br><br>SHEPPARD: Yes, it is.<br><br>WRAITH: The Atlanteans are on the verge of defeat.<br><br>SHEPPARD: Oh, you weren't around for the end of the war. Your side lost.<br><br>WRAITH: Impossible.<br><br>SHEPPARD: It's true. You're the last of your kind.<br><br>WRAITH: Their city was under siege. Atlantis was all that remained. Victory was inevitable.<br><br>SHEPPARD: You can see for yourself: my ship is Atlantean. I'm living proof we're still around, but the Wraith are all gone. No-one's left but you.<br><br>WRAITH: What you say cannot be true.<br><br>SHEPPARD: Why don't you come down to your own ship and see for yourself? I'll be waiting for you. (He raises his P90 and takes aim.)<br><br>(As soon as the Wraith reaches the rear of the ship, it is met by a hail of bullets from John's P90. The Wraith falls onto the ramp. John comes out of cover and walks cautiously towards the Wraith, unable to see that its wounds are already healing themselves and that the Wraith has opened its eyes again but it's deliberately not moving yet. John walks closer and fires two more bullets into the Wraith. It jerks from the impact but otherwise doesn't move. The Wraith turns its head a little and sees a pistol within easy reach. It grabs it, sits up and fires at John who returns fire but is hit in the arm and falls to the ground. He gets up and runs for cover, diving behind a large rock, where he then realises that his P90 is damaged and won't fire. The Wraith continues to fire the pistol until it's empty, then gets up and heads back into the Jumper as John gets up and runs for better cover. The Wraith grabs another pistol and turns to aim it at where John last was, but there's no sign of him. John has made it to the nearest hilltop and throws himself over the top of it, rolling down the dune on the other side. He gets up and runs to better cover, then checks his P90 again but it's useless.)<br><br>SHEPPARD: Damn!<br><br>(He throws the gun down and takes a bandage out of one of the pockets in his vest. He starts to wrap it around his injured arm.)<br><br>(Back at the Jumper, the Wraith calls out.)<br><br>WRAITH: You cannot hope to defeat me!<br><br>(John throws a dirty look in the direction of the sound. At the Jumper, the Wraith has been weakened by the bullets that John pumped into it. It leans against the bulkhead of the ship for a moment, gathering its strength, then moves back inside the ship.)<br><br><br>WRAITH SHIP. CHAMBER. Rodney is massaging the fingers of one of Brendan's hands. After a moment, Brendan straightens his fingers, then flexes them a little.<br><br>McKAY: Yeah, what did I tell you, huh? (He starts to massage the fingers again.)<br><br>GAUL: Rodney. It's OK.<br><br>McKAY: Water. You probably need some water. (He unscrews the top of his canteen and has just tilted it to Brendan's mouth when John radios in, making Rodney jump.)<br><br>SHEPPARD (over radio): McKay.<br><br>McKAY (into radio): Major! What's happening?<br><br>SHEPPARD: I thought you should know -- round one was a draw.<br><br>McKAY: I don't like the sound of that.<br><br>(Out in the dunes, John is just finishing bandaging his arm.)<br><br>SHEPPARD: Me neither. I took some fire.<br><br>McKAY: Are you injured?<br><br>SHEPPARD: Yeah, that's what I mean by "I took some fire". But I don't think it's too bad. (He checks and loads his pistol.) My P90's out of commission. He found a 9 mil in the Jumper -- figured out how to use it pretty fast.<br><br>McKAY: Well, the Wraith will heal itself.<br><br>SHEPPARD: Yeah, no kidding. I put at least twenty shots into him and a couple more for good measure. I've seen Wraith go down and stay down with far less. This guy's different somehow.<br><br>McKAY: Doctor Beckett has theorised that the Wraith's ability to heal itself is directly proportional to how recently the Wraith has fed. (He glances at Brendan.) And he's ... fed pretty recently.<br><br>SHEPPARD: I think there's gotta be more to it than that. Can Gaul move his fingers yet?<br><br>McKAY: Barely.<br><br>SHEPPARD: Alright, then stick a gun in his hand.<br><br>McKAY: Major?<br><br>SHEPPARD: Just in case I don't make it back. Sheppard out.<br><br>McKAY (to Brendan): That's comforting, huh? Right -- water. (He resumes putting his canteen to Brendan's lips.)<br><br><br>SURFACE. John gets out one of the oval devices that he took off the dead Wraith and experiments with it. He pulls part of it open, twists it, then shuts it down again. The device trills, then starts to beep faster and faster as red lights flash on its surface. John realises what it is.<br><br>SHEPPARD: Crap! (He hurls the device as far away from himself as he can and throws himself to the ground. When the device lands, there is a massive explosion.)<br><br>McKAY (over radio): Major, what the hell was that?<br><br>SHEPPARD (into radio): I almost blew myself up.<br><br>McKAY: What?!<br><br>SHEPPARD: Stay off the radio. I'm busy.<br><br>McKAY: Right. (To Brendan) He's busy.<br><br>GAUL: You wanna get out there and help him, don't you?<br><br>McKAY: What? Me go up against a Wraith? Are you kidding?<br><br>GAUL: You do. I can tell. You've changed. You really wanna get out there.<br><br>McKAY: Shut up!<br><br>GAUL: Don't get me wrong. I'm impressed. You want in the fight. The Rodney McKay I knew would never ...<br><br>McKAY (interrupting): You heard the man. We're staying right here. (Brendan just gazes at him.) Alright. (He walks over to Brendan.) Alright. (He hands him a pistol.) Take this, but don't shoot at anything until I tell you to, OK?<br><br>GAUL: OK.<br><br><br>SURFACE. John has moved to a large rock nearer to the Jumper. He takes out his binoculars to try to see what the Wraith is doing inside but can't see much. After a while he sits down behind the rock and takes out an energy bar. As he pulls open the wrapper and takes a bite, a glowing bug flies over and buzzes around him. He tries to shoo it away but it easily evades him and hovers around his energy bar.<br><br>SHEPPARD: You want some of this?<br><br>(He puts a small piece on his knee. The bug eats it and flies away. A few seconds later it returns with several of its friends. They buzz around John's head. He tries to flap them away but they continue to hover around him.)<br><br>SHEPPARD: OK, OK, that's enough!<br><br>(He breaks off a large piece of the bar and tosses it as far as he can. The bugs chase off after it. John puts the rest of the bar in his mouth, then gets up and looks cautiously over the top of the rock before pulling out his pistol and heading off.)<br><br><br>Inside the Jumper, the Wraith has pulled several cables from a panel on the wall and is generally tampering with the insides of the panel. Meanwhile John runs almost to the top of one of the sand dunes in front of the Jumper, plants a flare and lights its fuse before making his way back the rock near the rear of the ship. He aims his pistol towards the Jumper and checks his watch. Inside the Jumper, the Wraith hears two small explosions (possibly shots from John's pistol?). It goes to the front of the ship, looks out of the windshield and sees smoke rising from behind the dune. Delighted at the potential death of his enemy, the Wraith comes out of the rear of the Jumper. John ducks down out of sight. Unseen by John, the Wraith presses something on a band on its wrist, producing some beeping noises and a whooshing sound, before going off to investigate the smoke. Behind it, John runs towards the Jumper but slams into an energy shield that the Wraith has somehow cobbled together and is knocked to the ground. After catching his breath, he gets up, realises that he can't get into the Jumper and runs off again.<br><br><br>Over the dune, the Wraith has reached the flare, realises that it has been tricked, and heads back towards the Jumper.<br><br><br>WRAITH SHIP. CHAMBER. Rodney is pacing in an agitated way, unsure of what to do.<br><br>McKAY: You're right -- I should go out there.<br><br>GAUL: I didn't say you should -- I said you wanted to.<br><br>McKAY: Because I should.<br><br>GAUL: No you shouldn't. But don't let me stop you. If you really think that you can help the major by going out ...<br><br>McKAY: I can't leave you here.<br><br>GAUL: Yes you can. What difference does it make? You and I both know I'm not gonna make it.<br><br>McKAY: Stop being so dramatic. You're getting stronger by the minute.<br><br>GAUL: I've never felt so weak.<br><br>McKAY: Then stop talking.<br><br>GAUL: I'm dying, Rodney. I can feel it.<br><br>McKAY: Stop it!<br><br>GAUL: I'm not getting better, I'm getting worse. He left me with just enough life so that you'd have to watch me die.<br><br>McKAY: Listen to me. All you need is a good meal, a pot of tea, and to stop talking and ... (Brendan's eyes close and his head sinks onto his chest. Rodney rushes over to him, afraid.) Brendan! (Brendan's eyes snap open again and he jerks his head up.) I'm sorry.<br><br>GAUL: You said to stop talking.<br><br>McKAY: I'm sorry. I thought you ... Apologies. Nice work.<br><br><br>SURFACE. John is now behind a much smaller rock which doesn't give him much cover but is nearer to the Jumper than before. The Wraith returns to the Jumper and slaps its arm against the shield to make sure it's still active. John gets out his knife and carefully holds it up to use as a mirror so that he can see the Wraith without raising his head out of cover. The Wraith is walking away from the Jumper again. Just then, some of the glowing bugs come back to pester John.<br><br>SHEPPARD (irritated): Come on, guys!<br><br>(He opens another energy bar, breaks off a piece and throws it in the direction of the Jumper for them to chase after. The Wraith, who happens to be walking in the same direction as the energy bar went, walks through the cloud of bugs and irritably snatches one of them out of the air. As soon as the Wraith is far enough away, John gets up and runs off.)<br><br><br>SPACE. PUDDLEJUMPER TWO.<br><br>MARCO: We may be able to make radio contact now, sir.<br><br>FORD (into comms): Major, this is Lieutenant Ford, come in. (Static.) Major, we should be there inside an hour. Please respond. (Static.)<br><br>TEYLA: Perhaps we are still too far away.<br><br>MARCO: Or maybe they can't get a signal on the planet.<br><br>FORD: See if you can make this thing go a little faster.<br><br><br>PLANET SURFACE. PUDDLEJUMPER ONE. The Wraith is standing a few yards away from the Jumper, shouting out to wherever John is.<br><br>WRAITH: Do you think I'm a fool, Major Sheppard? There's nowhere for you to go on this world. Let me upon you. I will savour the taste of your defiance.<br><br>(John is hiding behind another rock nearby.)<br><br>SHEPPARD (speaking into his radio): Hey, you. Over here. On the ground -- the radio.<br><br>(The Wraith looks towards the sound and sees a radio lying on the ground nearby.)<br><br>WRAITH: The days on this planet are long, but the nights are cold. Sooner or later, I will have you.<br><br>SHEPPARD (into radio): I can't hear you threatening to suck the life out of me til you hit the button on the radio.<br><br>(The Wraith picks up the radio. Underneath, John has hidden another of the Wraith explosive devices. When the radio is lifted off it, the device activates and there's a massive explosion. The Wraith is thrown through the air by the blast and crashes down to the ground, its face burnt. John pops up from behind his rock and looks at the Wraith through his binoculars. It doesn't move.)<br><br><br>WRAITH SHIP. CHAMBER. Rodney hears something -- possibly the distant explosion. He turns towards the entrance, raising his gun.<br><br>McKAY: You hear that?<br><br>GAUL: No.<br><br>McKAY: I thought I heard something. Maybe there's another one hibernating.<br><br>GAUL: No.<br><br>McKAY (checking his lifesigns detector): It's been too long. I think the major could be in trouble -- and if he's in trouble, we're in trouble.<br><br>GAUL: Then go.<br><br>McKAY (turning to face him): You figure you can move?<br><br>GAUL: Not a chance. I'm not going anywhere.<br><br>McKAY: OK. That's OK. (Clearly torn and unable to decide what to do for the best, he turns away and faces the entrance again.)<br><br>GAUL: Go. Rodney, just go. Save the day.<br><br>McKAY: What I really wanna do is call him on the radio, but I'm afraid if he's hiding from the Wraith, I might inadvertently give away his position, and let's face it, what chance do we have against the Wraith if Sheppard can't take him out? (Behind Rodney's back, Brendan slowly and painfully raises the pistol that Rodney gave him, turning it towards himself.) I was hoping to be strong enough, then I ...<br><br>(Behind his back, there's the sound of a gunshot, then the pistol drops to the ground. Rodney spins round and stares in horror and anguish.)<br><br>McKAY: Oh, no!<br><br><br>SURFACE. As John watches cautiously from behind his rock, the Wraith opens its eyes and stands up.<br><br>SHEPPARD (to himself): You've gotta be kidding me.<br><br>WRAITH: I've fed upon countless thousands of humans, Atlanteans, even a part of my own crew. And I will feed upon you before this day is done.<br><br>(It raises another pistol it has taken from the Jumper and it and John start to exchange shots. Suddenly Aiden's voice comes over John's radio.)<br><br>FORD (over radio): Major, this is Lieutenant Ford. Please respond.<br><br>SHEPPARD: Lieutenant, I like your timing. Get your ass down here.<br><br>FORD: Sir, we're still two-zero minutes away at top speed.<br><br>SHEPPARD: Well, in that case, your timing sucks. Get here as soon as you can. (He calls out to the Wraith.) You need me to get off this planet. I'm the only one that can fly that ship.<br><br>WRAITH (stopping firing for a moment): I will use your dead hands to operate its controls.<br><br>(It starts firing again. John tries to return fire but his pistol is empty. After a couple more shots, the Wraith's pistol is also empty. It throws it away. John takes out his knife, stands up and walks determinedly towards the Wraith, who half-smiles/half-snarls in anticipation. As John gets within reach, the Wraith lifts its right hand to swipe at him, but John swings his knife up and plunges it straight into the Wraith's hand. Somewhat foolishly, John not only lets go of the knife but also doesn't duck, and the Wraith -- unaffected by the knife -- uses the same hand to knock him flying. As John lies on the ground winded, the Wraith pulls the knife out of its hand and starts to walk towards him. Just then, Rodney appears behind the Wraith and fires a couple of shots at it. The Wraith stops and turns towards him.)<br><br>McKAY: Major!<br><br>SHEPPARD: McKay!<br><br>McKAY: What do I do now?<br><br>SHEPPARD: Keep firing everything you've got!<br><br>(Rodney fires repeatedly at the Wraith as it starts to walk slowly towards him. The bullets slow it down a little, making it jolt with every impact, but it keeps going. Eventually Rodney empties his gun.)<br><br>McKAY: OK, what now?!<br><br>SHEPPARD: Reload!<br><br>(As Rodney hurries to comply, the Wraith turns back towards John, then back towards Rodney again, uncertain of who is the greatest danger.)<br><br><br>PUDDLEJUMPER TWO.<br><br>TEYLA: We are picking up their lifesigns on the planet.<br><br>FORD (to Marco): Head straight for em. (Into comms) Sir, we're picking you up on the hub.<br><br><br>On the surface, knowing that he has to distract the Wraith for a little longer, John grabs another energy bar out of his pocket and unwraps it. The Wraith is now limping towards Rodney, who has managed to reload and fires at it again until his gun is empty.<br><br>McKAY: No more bullets!<br><br>(John gets up and runs to the Wraith, hitting it hard in the back. The Wraith turns and swipes at him but John ducks. However, he can't duck the Wraith's second blow, which throws him through the air. John crashes to the ground. Just then, the glowing bugs come buzzing around the Wraith and we see that John jammed his opened energy bar into the Wraith's clothing. Distracted, it snatches a few of the bugs out of the air. John speaks into his radio.)<br><br>SHEPPARD: Ford, lock onto the biggest lifesign signals you can see and fire.<br><br>FORD: Negative, sir, you're too close.<br><br>SHEPPARD: That's an order, Lieutenant! Do it! <br><br>FORD (pointing to the display on the screen): Fire on that target.<br><br>(The Jumper fires towards the planet.)<br><br>SHEPPARD: McKay, run!<br><br>(John and Rodney run in opposite directions away from the Wraith and dive behind rocks. Still swatting at the bugs, the Wraith looks up too late to do anything. A massive blast hits the ground where the Wraith is standing, blowing it to bits.)<br><br>(As the smoke clears, John gets up and calls out.)<br><br>SHEPPARD: McKay?<br><br>(Rodney waves from behind his rock.)<br><br>McKAY: Still here!<br><br>FORD (over comms): Sir, this is Ford. The target is gone.<br><br>SHEPPARD: Well, it's about damn time!<br><br>TEYLA: We got here as soon as we could, Major.<br><br>SHEPPARD: That's not what I meant. Thanks.<br><br>FORD: You're welcome, sir. We'll be there in just a few minutes.<br><br>SHEPPARD: We can wait. (He walks over to join Rodney at the blast site.) Thanks.<br><br>McKAY: Yeah, you too. You OK?<br><br>SHEPPARD (gesturing to his injured arm): Other than this and a few cracked ribs. What about Gaul?<br><br>McKAY (sadly): No.<br><br>(They start to walk towards the Puddle Jumper.)<br><br>SHEPPARD: We'll have to put the ship back together, provided you can disarm the shield.<br><br>McKAY: Fine. As long as we get to go home.<br><br>SHEPPARD: You can drive.<br><br>McKAY: Oh, thank you!
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="111.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s1/112.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="113.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s1/index.shtml">
+<IMG SRC="/graphics/title_s1episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season One Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="101.shtml" CLASS="list">Rising, Part 1</A><BR><A HREF="102.shtml" CLASS="list">Rising, Part 2</A><BR><A HREF="103.shtml" CLASS="list">Hide and Seek</A><BR><A HREF="104.shtml" CLASS="list">Thirty Eight Minutes</A><BR><A HREF="105.shtml" CLASS="list">Suspicion</A><BR><A HREF="106.shtml" CLASS="list">Childhood's End</A><BR><A HREF="107.shtml" CLASS="list">Poisoning the Well</A><BR><A HREF="108.shtml" CLASS="list">Underground</A><BR><A HREF="109.shtml" CLASS="list">Home</A><BR><A HREF="110.shtml" CLASS="list">The Storm</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="111.shtml" CLASS="list">The Eye</A><BR><A HREF="112.shtml" CLASS="list">The Defiant One</A><BR><A HREF="113.shtml" CLASS="list">Hot Zone</A><BR><A HREF="114.shtml" CLASS="list">Sanctuary</A><BR><A HREF="115.shtml" CLASS="list">Before I Sleep</A><BR><A HREF="116.shtml" CLASS="list">The Brotherhood</A><BR><A HREF="117.shtml" CLASS="list">Letters From Pegasus</A><BR><A HREF="118.shtml" CLASS="list">The Gift</A><BR><A HREF="119.shtml" CLASS="list">The Siege, Part 1</A><BR><A HREF="120.shtml" CLASS="list">The Siege, Part 2</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season One</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B000BVXPGY/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B000CEVUIK/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls1.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="111.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s1/112.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="113.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

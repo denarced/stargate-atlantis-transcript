@@ -1,0 +1,515 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Instinct" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s2/207.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s2/transcripts/207.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=534">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=278">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s2/207.shtml#production">Production</A>
+				
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=14678">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s2/207.shtml"><IMG SRC="/atlantis/graphics/207_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="INSTINCT" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 207<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 2, Disc 2<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 08.26.05<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 10.30.06<BR>
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0359438/" TARGET="_blank">Treena Hancock</A> & <A HREF="http://www.imdb.com/name/nm0125777/" TARGET="_blank">Melissa R. Byer</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0586539/" TARGET="_blank">Andy Mikita</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">The team discovers a young Wraith girl who has been raised by a human, and is in hiding from the people of her human village in fear of her life.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by justalurkr</strong><BR><BR>
+			    <B>Edited by Callie Sullivan.</B><br><br>[Long, swooping shot over a Stargate orbiting a blue and white planet with a quick cut to a foggy night in a village lit by what might be torches, if they were flickering. Sheppard's team walks single file down a village lane, looking alert. Sheppard's on point, followed by Teyla, McKay and Dex. Shep and Teyla have their firearms at the ready.]<br><br>SHEPPARD: Another great vacation getaway in the Pegasus Galaxy.<br><br>TEYLA: Where is everyone?<br><br>DEX: There's smoke from the chimneys. They're inside.<br><br>McKAY: Hmph. Can't say I blame them. Nothing I hate more than a damp cold.<br><br>[The team arrives at a village square. They spread out in a semi-circle, still looking about alertly. Sheppard heads for one of the larger, better built structures that has an iron-bound door.]<br><br>SHEPPARD: Let's check this out.<br><br>[Door opens to a candle and firelit village tavern. It looks more like dinnertime than happy hour, though. Folks do not look happy to be disturbed, especially by strangers. Not a smiling face in the bunch as everyone in the tavern turns to stare and all conversation comes to a stop.]<br><br>SHEPPARD: Howdy, folks.<br><br>[More silence, more stares. A younger guy we saw serving dinner as Sheppard and the others entered steps into view.]<br><br>CALLUP: Who are you?<br><br>SHEPPARD: Sheppard. [Gestures to the others as they come through the door behind him.] This is Teyla, Ronon, McKay ...<br><br>[Dex gives a brief, abortive wave to the crowd. No one responds. While not hostile, it's clear they'd be just as happy if the strangers turned around and left the way they came.]<br><br>CALLUP: [tossing a towel over his shoulder] You from Ratira?<br><br>[Sheppard exchanges a look over his shoulder with McKay, who has stayed behind the armed members of the team since they all arrived in the village square.]<br><br>SHEPPARD: No.<br><br>CALLUP: Over the mountains, then?<br><br>SHEPPARD: A little further.<br><br>CALLUP: Huh. Then you've come a long way. You'll be in need of food and drink.<br><br>[McKay looks interested. The camera switches to a view of the tavern over his shoulder and Callup gestures offscreen.]<br><br>CALLUP: Sit.<br><br>[The team moves in the direction indicated, everyone in the tavern still staring at them in silence. As he closes the tavern door and follows the team to their table, Dex is obviously surveying the room for threats. Cut to Callup brushing off a table and pulling an extra chair over as Sheppard and Teyla take their seats.]<br><br>McKAY: [gesturing to the staring guests] I take it you don't get many strangers around here?<br><br>CALLUP: No. [He nearly collides with Dex, who is a <I>lot</I> bigger, and pulls out a bench for Dex to sit on.] Especially those who travel near dark.<br><br>SHEPPARD: Why's that?<br><br>CALLUP: [looks up in real surprise from wiping down their table] You really don't know?<br><br>OFFSCREEN MALE VOICE: Callup! [swing around shot to an older, bearded man standing near the bar, arms crossed in more obvious hostility.] What's your business here?<br><br>SHEPPARD: [turning up the charm a little] No business really, we're just travelers.<br><br>GORAN: [clearly not charmed] Then you'd best keep traveling.<br><br>[Pan across the team. Teyla looks surprised at this lapse in hospitality; McKay, whose charming smile was turned up even higher than Sheppard's, fades to his usual cynical look.]<br><br>McKAY: Yeah.<br><br>[Pan back to Goran, who wasn't kidding. The team all exchange looks and make as if to rise.]<br><br>SHEPPARD: All right, then.<br><br>CALLUP: Wait! [turns to Goran] Goran, you can't send them out there.<br><br>[Goran looks over his shoulder at Dex, who never actually stood up from the table and who is now looking dangerously bland.]<br><br>GORAN: They look like they can take care of themselves. [Cut to Sheppard, looking a little crushed and confused, then back to Goran and Callup.] It may not even start tonight.<br><br>CALLUP: It's been three months. How much longer do you think it'll wait?<br><br>[We can see McKay over his shoulder, looking first toward Sheppard then back at Callup, curiosity getting the better of him about things starting. He gives a little wave.]<br><br>McKAY: Hi! What are you talkin' about?<br><br>[Callup looks back at them, again not really crediting their ignorance, and Goran approaches their table.]<br><br>GORAN: The Daimos.<br><br>[Quick camera cut between Teyla and Sheppard, both of whom look puzzled.]<br><br>SHEPPARD: Never heard of it.<br><br>GORAN: It lives in the forest. It'll be feeding soon.<br><br>McKAY: And it is ... some kind of an animal, or…?<br><br>GORAN: It's a creature, that has the appearance of a man, but it can suck the very life from your bones. It leaves only a dead, withered husk behind.<br><br>SHEPPARD: Sounds familiar.<br><br>[Sheppard and Dex exchange resigned looks, cut to titles.]<br><br><br>[We return to the village tavern. The team is re-seated at the table with Goran joining them, Callup serving drinks in the form of a clear red beverage in tumblers and nobody staring anymore.]<br><br>SHEPPARD: Look, uh ... we know you're not used to dealing with strangers, but we may be able to help you with this little problem you're having. We're used to dealing with this kind of thing.<br><br>[Quick cut to McKay, sniffing the reddish beverage suspiciously before discreetly putting it back down, then to Dex, downing the same drink in one gulp.]<br><br>TEYLA: We call them the Wraith.<br><br>GORAN: These are the creatures from the old stories, from the time of the cullings.<br><br>McKAY: So you have heard of them?<br><br>GORAN: Yes, but the histories of them are incomplete. They tell of the great ships that descended from the sky, but there's no description of the Wraith themselves, although there were a few among us who guessed the Daimos might be one of them.<br><br>TEYLA: Why?<br><br>GORAN: Because it, too, came from the sky.<br><br>[Hissy flashback music, and we're looking at the village in misty daylight. People are going about their business.]<br><br>GORAN: It was about ten years ago.<br><br>[The sound of a ship falling rapidly through atmosphere starts attracting attention among the villagers.]<br><br>GORAN: A bright light appeared above the village. [Pan to falling ship, which shows as a meteor-like bright object with a dark smoke trail.] It crashed into the hills. We didn't know what it was. My people were terrified.<br><br>[Pan ends back in the village square as we hear the loud crash. Villagers are startled, running around, issuing each other instructions and asking questions no one can answer. Quick cut to some of the men walking quickly through the woods, armed with long wooden sticks.]<br><br>GORAN: I went with some of the other men to investigate. We found the wreckage, [pan down to a Wraith pinned under the debris and struggling] a few wounded survivors. We didn't know what they were. We decided to take no chances.<br><br>[Short, slo-mo montage of villagers putting pitchforks, axes, hoes and pointy sticks to good use on the downed Wraith, then cut to a large bonfire surrounded by watchful villagers, not all of whom look entirely happy with the proceedings.]<br><br>GORAN: We slaughtered them, burned the bodies.<br><br>[Quick cut back to the present evening.]<br><br>DEX: Wise decision.<br><br>GORAN: Unfortunately, we didn't get them all.<br><br>[Pan to McKay, looking horrified.]<br><br>GORAN: And although none of us saw it, evidently one of them survived.<br><br>[More hissy flashback music, and it's a different foggy night in the village. A group carrying lanterns and farm tools jogs quickly toward the sound of a woman screaming. Pan down to a shriveled body on the ground at her feet.]<br><br>GORAN: It took its first victim that very night. We tried to hunt it down, but we couldn't find it. It's been out there ever since.<br><br>[Quick cut back to the present evening.]<br><br>GORAN: It feeds three, four times a year, takes two or three people each time. [Cut to McKay having a very hard time hearing this.] Two years after the crash, it took my own son.<br><br>[Pan around the entire team. None of them are having an easy time with this at all, though Dex looks the most impassive. Goran stares down at the table, then takes a drink.]<br><br>DEX: That's it? One Wraith in the forest? [reaches for his gun on the table and flicks the arming mechanism]<br><br>GORAN: Yes.<br><br>DEX: [rising to his feet] I'm done by morning!<br><br>SHEPPARD: Whoa, whoa, whoa, whoa! [Lightning crashes outside.] We'll all go together ... in the daylight!<br><br>[Dex looks as if he has something he'd <I>really</I> like to say about that, but restrains himself. Callup pauses as he walks past with a pitcher.]<br><br>CALLUP: You're really going to help us?<br><br>SHEPPARD: Well, like the man said [gestures at Dex, who is still standing] it's just one Wraith. It'd be downright unneigborly if we didn't. [Picks up his own glass of red beverage and drinks as, next to him, McKay stares uneasily at the table.]<br><br>CALLUP: In that case? Drinks are on me.<br><br>[Dex slowly sits back down as Callup darts off and McKay looks after him.]<br><br>McKAY: Uh, well ... let's not forget the food!<br><br><br>[Dissolve to an exterior shot the next day. Rodney is sitting on a rock in the village square, which looks more like a forest clearing in the daylight. He looks worried and generally unhappy with the present turn of events. There is a young boy half-hidden behind him, staring. McKay spots him while looking around, then seems to relax into his normal state of aggravation.]<br><br>McKAY: What?!?<br><br>[The boy approaches eagerly.]<br><br>BOY: Is it true? You're going to hunt the Daimos?<br><br>[He's at that age where we aren't really sure who he's rooting for, but just hopes to see some blood and guts on the ground before it's all over. McKay looks scathing.]<br><br>McKAY: It looks that way.<br><br>BOY: [open-mouthed with wonder] I heard it has two heads, and can turn you to stone just by looking at you!<br><br>McKAY: [getting to his feet impatiently] Well, you heard wrong.<br><br>BOY: My uncle says it'll come and take me if I don't do my chores.<br><br>[McKay raises his arms as if to say, ‘Get this kid away from me!' then turns back to the boy.]<br><br>McKAY: He said that, huh? [The boy nods.] Well then, if we get rid of it, you've got nothing to worry about. You'll never have to do chores ever again.<br><br>BOY: <I>Really?!</I><br><br>McKAY: Yes. Look, [tchah sound] ... go away!<br><br>[Looking disappointed, the boy does so. There's a pan that makes it first look as if McKay is staring after him, then the other three team members come into the shot, all staring at McKay.]<br><br>McKAY: What?!?<br><br>GORAN: [approaching from behind the rest of the team, who turn to look at him] As far as we know, no one was taken last night, but it will strike ... and soon.<br><br>DEX: [making impressive noises with his firearm again] We'll kill it before that happens.<br><br>SHEPPARD: [as they head out] You must be <I>great</I> at parties.<br><br><br>[Dissolve to team spread out and stalking through the woods, Dex on point, then Sheppard and McKay, with Teyla bringing up the rear. Dissolve to an impatient-looking Teyla crossing in front of McKay and Sheppard, who both look a lot less alert than in the other shot.]<br><br>McKAY: We're talking about a hundred square miles of forest, here.<br><br>SHEPPARD: [in a lower voice] Be patient. Ronon's been going up against the Wraith, one-on-one, for the last seven years. If anyone can track this thing, it's him.<br><br>McKAY: And exactly how is he going to do that, huh?<br><br>DEX: [from a distance, where he was examining a log] It helps to have good hearing.<br><br>McKAY: [looking a little shocked] Right!<br><br>[Sheppard smacks the back of McKay's head and walks toward Dex, Teyla and their log.]<br><br>McKAY: Carry on! [turns to follow Sheppard.]<br><br><br>[Dissolve to another forest scene. Team moving with a lot less enthusiasm. Cut to Teyla, who sighs and looks up at the forest canopy.]<br><br>SHEPPARD: What about you? Are you sensing anything?<br><br>TEYLA: I am not sure.<br><br>SHEPPARD: What do you mean?<br><br>TEYLA: There is a presence here, but it is ... different.<br><br>[The way she's moving her head makes it hard to tell if she's tired, confused or trying to look like she did in “The Gift” a few seconds before the Wraith possessed her.]<br><br>TEYLA: I cannot quite explain it.<br><br>[McKay and Sheppard were watching Teyla as she spoke, while Dex wandered around in the background, still looking for signs of their quarry. We see him stop, which catches everyone else's eye, but he raises his hand to forestall anyone talking. Sheppard moves to join him as Dex pulls a firearm from under his long, tan duster.]<br><br>DEX: It's in there.<br><br>[Quick cut to a thicket ahead of them, where we see a flash of white race by as leaves rustle. Dex takes off after it like a <I>shot</I>.]<br><br>SHEPPARD: Ronon! Dammit.<br><br>[Sheppard runs after him when Dex doesn't stop. Pan to Teyla and McKay, who stare for a beat, then take off after Sheppard, looking worried.]<br><br>[Much running through the woods to dramatic music ensues. Dex is way out in front (they didn't call his episode “Runner” for nothing, apparently) with the others keeping up as best they can. There is log leaping and branch snapping and panting and downward angles on running boots and all kinds of activity suggestive of a merry chase. The cinematographers clearly earned their keep this day.]<br><br>[Dex at last comes to a halt, gun aimed steadily into the mouth of a cave. He glances over his shoulder, looking a little surprised no one kept up with him. He crouches, gun pointed down, while he waits for the others to get there. They all charge up, panting, and Dex gets back to his feet.]<br><br>DEX: It's in there.<br><br>SHEPPARD: It was the Wraith?<br><br>DEX: Yeah.<br><br>McKAY: Did you see it?!?<br><br>DEX: No.<br><br>McKAY: So, how do you know?!<br><br>[Dex turns his head toward McKay, clearly ready with a withering take-down of his own, when Teyla interrupts.]<br><br>TEYLA: Ronon is correct. I can definitely sense it now.<br><br>[Sheppard, Teyla and Dex all attach their flashlights to their weapons and the team enters the cave, guns first, McKay taking up the rear. They make their way through dark stone corridors, panning their lights around, until they come to an intersection and pause at the sight of a white flash around a corner, then make out a face staring at them, which quickly disappears.]<br><br>TEYLA: A female!<br><br>[They all take off after the Wraith.]<br><br>[We see a smallish form, at least in comparison to other Wraith, running down the corridor, bursting through a door into a lab that would do any medieval dungeon proud and into the arms of an older man in panic.]<br><br>OLD MAN: Ellia?<br><br>[Ellia cowers as the team bursts in, guns aimed at them both.]<br><br>SHEPPARD: Get out of the way!<br><br>[It's his ‘no kidding around, someone's about to be very dead' voice. The rest of the team are all wearing their ‘he is <I>so</I> not joking about this' faces as they take aim.]<br><br>OLD MAN: Please! Don't shoot! She's not what you think!<br><br>[As he speaks, the camera follows Dex coming up behind the bottles and vials on the work table, looking for the best shot. Pan back to the old man, whose name is Zaddik, holding the girl-Wraith protectively.]<br><br>ZADDIK: She's my daughter.<br><br>[Pan to team expressions from horrified (Rodney) to disbelieving (Dex and Teyla) to ‘oh crap what now?' (Sheppard)]<br><br><br>[Dissolve back to same tableau from a wider angle, showing all guns aimed unwaveringly at father and daughter.]<br><br>ZADDIK: She means you no harm!<br><br>DEX: She's a Wraith!<br><br>ZADDIK: Maybe so, but she's different! I swear to you!<br><br>[Cut from man and daughter to the team, all of whom still look skeptical, to put it mildly.]<br><br>SHEPPARD: Let me guess? Wraith with a heart of gold?<br><br>ZADDIK: She doesn't feed. She's never taken a human life.<br><br>TEYLA: [seen over the barrel of her gun] How is that possible?<br><br>ZADDIK: Please! Lower your weapons, and I'll explain it to you.<br><br>[There is a <I>very</I> long pause. Sheppard lowers his weapon first, followed by McKay (who had pulled out and aimed a pistol) then Teyla. We can't see if Dex has followed suit.]<br><br>ZADDIK: [to Ellia] It's all right.<br><br>ELLIA: [shakily] Father!<br><br>ZADDIK: I won't let them hurt you. [Pulls her back into a comforting hug as he turns to address the team.] I raised her as my own.<br><br>[Quick cut to Teyla, arching a skeptical eyebrow and standing with her gun down, but clearly ready to pull it back into position.]<br><br>TEYLA: You live here? Together?<br><br>[She seems to find that prospect somewhat sickening]<br><br>ZADDIK: This was part of a mine, before the last culling. It's not much to look at, I know, but we don't have much choice. The people of the village would not understand.<br><br>[Ellia hides her face at that.]<br><br>SHEPPARD: Gee. I wonder why?<br><br>[Camera follows McKay as he walks over to the workbench to stare at the apparatus there.]<br><br>TEYLA: The villagers told us that there was a Wraith in the forest. It came here in a crashed ship ten years ago.<br><br>ZADDIK: Ten years ago? [McKay looks toward father and daughter with that doom and gloom look he does so well.] Ellia was just a child! Do you really think she could be responsible for the deaths that happened immediately after that crash?<br><br>McKAY: So you know about that, then?<br><br>ZADDIK: I was there. [Dramatic music swells, and he puts Ellia away from him. She looks distressed as all get out.] I helped kill the survivors.<br><br>[More hissy flashback music as we dissolve to an exterior forest scene in misty daylight. Pan across the forest floor to an unconscious girl collapsed in a dark cloak.]<br><br>ZADDIK: But, when I found a young female lying unconscious some distance from the crash, I couldn't bring myself to hurt her. [In the flashback, he turns over the girl, then the scene dissolves back to the present day cave.] I brought her here to this cave to hide her from the others. To this day, the people of the village don't know ... and, and you must promise not to tell them!<br><br>[Cut to Sheppard and McKay, who look <I>really</I> unwilling to make any such promise.]<br><br>ZADDIK: She's <I>not</I> responsible for what's been happening!<br><br>[Cut to Dex, who appears to be pondering recipes for Wraith stew, Wraith kebob, Wraith flambé ... you get the picture. He looks ready to kill him a Wraith girl.]<br><br>DEX: Well then, who is?<br><br>ZADDIK: I believe another Wraith survived the crash.<br><br>[Cut to Sheppard, looking skeptical again.]<br><br>ZADDIK: An adult. That's who you should be looking for!<br><br>TEYLA: [who might have some Wraith recipes to share with Dex] If she does not feed, how does she live?<br><br>[Cut to classic “ewwww” reaction shots from Sheppard and McKay.]<br><br>ZADDIK: First, I fed her as you would any child, and that seemed to suffice. But then, something began to change.<br><br>[Cut to McKay, who's staring at the lab apparatus again, looking less horrified and more scientifically curious.]<br><br>ZADDIK: The food no longer gave her any sustenance. There was a hunger growing in her that would not be satisfied. I ... heard the stories of the other creature, what it did to survive. And I was afraid that was what Ellia would become. And so I started to experiment.<br><br>[McKay's futzing around with the equipment has attracted Dex's attention.]<br><br>ZADDIK: I have extensive knowledge of the chemical properties of various medicinal plants that grow in this forest.<br><br>[Cut to close up of McKay picking up a rack of test tubes with twigs and leaves in them.]<br><br>ZADDIK: Are you ... interested in science?<br><br>[There is a <I>very</I> predictable expression from McKay at that question.]<br><br>McKAY: I'm not sure that's what I'd call this, but <I>yes</I>.<br><br>ZADDIK: Ellia's hunger was growing stronger every day and I wasn't sure that I could do anything for her. But, eventually [steps slightly away from Ellia to pick a bottle of dark red fluid off the work bench] I came up with this.<br><br>[McKay looks caught between realism and wanting to believe there is something that can deter Wraith feeding; Sheppard looks reluctant to believe what is too good to be true.]<br><br><br>[Quick cut back to exterior of Atlantis, then to the infirmary as seen over Beckett's shoulder, where Sheppard is seated very casually across an exam bed as Weir questions him.]<br><br>WEIR: A drug that allows the Wraith to survive without feeding?<br><br>SHEPPARD: That's what he said.<br><br>WEIR: Is such a thing even possible?<br><br>[Cut to Beckett, looking neutral.]<br><br>BECKETT: We don't know enough about Wraith physiology to say for certain, although I must admit it's intriguing that this Doctor Zaddik claims the Wraith survived on normal food for a time.<br><br>SHEPPARD: Why?<br><br>BECKETT: Well, if he's telling the truth, it might be the answer to a very puzzling question. Right now, our best guess is that the Wraith evolved from the iratus bug.<br><br>SHEPPARD: Like the one that attached itself to my <I>neck</I> a year ago?<br><br>BECKETT: That's right.<br><br>SHEPPARD: I <I>hate</I> those bugs.<br><br>BECKETT: Trust me, I know. We speculated that they evolved into the Wraith when they began to take on the characteristics of the humans they were feeding on.<br><br>[Sheppard looks as if this is <I>way</I> too much information.]<br><br>BECKETT: Now, there are many aspects of human physiology that are quite useful: bipedal motion, opposable thumbs, large brain capacity ... but the human digestive system serves no purpose in the adult Wraith. So why have one at all?<br><br>WEIR: Because they eat normal food when they're young?<br><br>BECKETT: Exactly! Then at some point, they lose the ability to sustain themselves with that food.<br><br>SHEPPARD: So it's a teenage thing? Pimples, rebellion, life-sucking?<br><br>[Weir is wearing her ‘must you <I>always</I> joke?' face, then smiles slightly at Sheppard before turning back to Beckett.]<br><br>BECKETT: Something like that! The question is, what causes it? If it's due to some chemical deficiency, like a diabetic's inability to process sugar, then it's possible it may be addressed with some kind of drug.<br><br>[Beckett is looking hopeful at this point.]<br><br>WEIR: Zaddik could be telling the truth.<br><br>BECKETT: I'd like to go to the planet and check into it.<br><br>WEIR: Is that really necessary? I'm sure we could get a sample, bring it back here for you to analyze?<br><br>BECKETT: It's not just the drug I'm interested in! This young Wraith could be very important for our research.<br><br>[This gets Sheppard's attention.]<br><br>SHEPPARD: What research?<br><br>BECKETT: We're working on a retrovirus that would alter Wraith D.N.A., essentially stripping out the iratus bug elements of the genetic code and leaving only the human aspects behind.<br><br>SHEPPARD: A drug that turns Wraith into humans?<br><br>BECKETT: Effectively, yes! But so far we haven't had much success, partly because we lacked the living tissue and blood samples we need to test it.<br><br>WEIR: You think this ... girl would be willing to provide them?<br><br>BECKETT: Look, I realize we can't bring her back to Atlantis, but I could take the retrovirus and equipment necessary for the analysis with me to the planet. A few days with a cooperative test subject could be worth months of theoretical research. [Weir is looking reluctantly interested.] Elizabeth, I don't have to tell you how important this could be for us.<br><br>[Weir turns back to Sheppard.]<br><br>WEIR: Is she dangerous?<br><br>SHEPPARD: She's a Wraith!<br><br>[Weir looks sharply at Beckett, who looks disappointed.]<br><br>SHEPPARD: Although ... I have to admit ... she does seem a little different.<br><br><br>[Quick cut to an extreme close-up of girl-Wraith hands working a mortar and pestle. Pull back to Ellia concentrating hard on her task as Zaddik looks on.]<br><br>ZADDIK: Now, remember ... the leaves must be dried, and finely ground.<br><br>ELLIA: Like ... this?<br><br>ZADDIK: A little more.<br><br>[He walks around to the other side of the work bench as Ellia continues her efforts.]<br><br>ZADDIK: Now, why is distillation an important step?<br><br>ELLIA: [hesitantly] To ... remove the toxins from the ferassin root?<br><br>ZADDIK: [with a proud daddy smile] Precisely!<br><br>[Ellia returns it with a creepy Wraith smile only a father could love, and he clearly does. It's a tender father teaching his little girl moment.]<br><br>ZADDIK: We wouldn't want the serum to send you into paralytic shock, now would we?<br><br>ELLIA: Nooo, Father.<br><br>[Cut to McKay and Teyla, looking on from the other side of the room. McKay, looking creeped out, lets out a huff of breath.]<br><br>McKAY: [quietly to Teyla] Seriously. Have you ever seen anything like this before?<br><br>TEYLA: [looking away, then back] No, I have not. She's unlike any Wraith I've ever encountered.<br><br>McKAY: What if it's all an act?<br><br>TEYLA: If she were a killer, why would he protect her?<br><br>McKAY: Maybe the act's for his benefit, too?<br><br>TEYLA: [shaking her head] They live here together, Rodney. If she were like other Wraith, he would be her first victim.<br><br>[Chirp of static from the radio]<br><br>SHEPPARD: [over radio] Teyla, this is Sheppard.<br><br>TEYLA: [turning slightly so she can speak quietly into her radio] Go ahead.<br><br>[Cut to exterior shot of Sheppard, Beckett and Dex filing through the woods. All are carrying largish black cases.]<br><br>SHEPPARD: Just got back with Beckett. Ronon's gonna take him up to the cave, I'm gonna check in with the villagers.<br><br>TEYLA: [softly, over the radio] What are you going to tell them?<br><br>SHEPPARD: I'm still workin' on that.<br><br>[Sheppard stops and hands his black case to Dex, who already had one in each hand, so he props it on the larger, and heads off. Dex sets down the big case, hands the smaller one abruptly to Beckett, who had a hand free, and picks up the others.]<br><br><br>[Cut to interior shot of the cave, close-up on one of the black cases being opened. It was Bring Your Laboratory to Work Day in Atlantis, and Beckett responded with enthusiasm. He sets out equipment, beginning with the all-important laptop computer. Ellia, McKay, Zaddik and Teyla are all at least partially visible in this shot.]<br><br>ZADDIK: This equipment ... is remarkable! Where did you get it?<br><br>[Beckett has that ‘what <I>does</I> one say?' look on.]<br><br>BECKETT: Oh, here and there. Let's start by analyzin' that drug of yours, shall we?<br><br>ZADDIK: Oh, yes. Of course.<br><br>[Ellia approaches with a tray.]<br><br>ELLIA: Would you like some tea?<br><br>[Beckett and McKay stare.]<br><br>ZADDIK: [softly, taking some tea] Oh, thank you.<br><br>[Ellia actually lifts a cup from her tray and offers it to McKay, who waves it away.]<br><br>McKAY: No, no.<br><br>[She will not be denied, and McKay finds himself with a clay cup of tea in his hand, giving it the same careful regard he would a hissing cockroach. Ellia tries the same handing-the-cup thing with Beckett, but he turns her down more graciously, and successfully.]<br><br>BECKETT: Oh, no thank you.<br><br>[McKay is wearing his ‘how'd you do that?' face as Ellia crosses the cave lab area to Dex, who has apparently been keeping his distance on purpose. He's leaning against a cave wall, not looking at Ellia as she approaches.]<br><br>ELLIA: Would you like some ...<br><br>DEX: No.<br><br>ELLIA: Are, are you sure? It's very good!<br><br>[Dex comes away from the wall with the sort of body language possible only by the very fit and well-coordinated.]<br><br>DEX: I said no.<br><br>[Frankly, he looms, arms crossed while glaring at her. Ellia turns and leaves quickly. It is to be hoped Teyla wanted no tea. We see Ellia go down to another room and set her tea tray on a table, then pick up a plate of something pale and pitter-pat back into the lab area, approaching Dex first.]<br><br>ELLIA: Then maybe some biscuits? I baked them myself.<br><br>[Quick as a snake, Dex strikes the plate out of her hands, scaring her (and me) to death.]<br><br>DEX: STAY AWAY FROM ME!<br><br>[Ellia lets out an ear-splitting Wraith shriek, scaring everyone in the room but Dex to death. It's extremely shrill and creepy. Dex has his sidearm out and pressed to her chest in one very smooth motion.]<br><br>TEYLA: Ronon!<br><br>[Ellia stops shrieking. We see a close-up of Dex wearing his ‘dead Wraith walking' face over the steadily-aimed barrel of his sidearm, then cut to Ellia backing away to stand next to Teyla, who is holding out a restraining hand with her ‘we can't take you <I>any</I>where' face. Ellia, looking ashamed of her own actions and humiliated by Dex's, leaves the room without a word. We hear a door close behind her.]<br><br>[Short tableau of the folks from Atlantis. Beckett is staring after Ellia in scientific frustration, McKay is staring after her the way he would a departing vanquished citrus, while Teyla glares at Dex, who looks unrepentant as all hell.]<br><br>[Quick cut to Zaddik making his way down dark stone corridors, clearly looking for Ellia. Though the ceiling is plenty high enough, he's moving stiffly and a little stooped over. It's the most elderly we've seen him act. He turns a corner and finds her huddled against a wall, head down in sorrow. He sits down beside her and puts a comforting arm around her shoulder.]<br><br>ZADDIK: It's all right, it's OK.<br><br>ELLIA: They hate me, don't they, Father?<br><br>ZADDIK: No! No, no, no! They just don't know you.<br><br>[He comforts her and there's a quick cut back to Teyla about to rip Dex a new one, in her own Athosian way.]<br><br>TEYLA: [low voice, very intent] Was that really necessary?<br><br>DEX: You can dress her up and teach her table manners, but that's not going to change who she is.<br><br>[Dex looms over Teyla as he edges very closely past her. He then stalks between Beckett and McKay, sort of forcing McKay to one side, and leaves the room.]<br><br>[Radio chirps static]<br><br>SHEPPARD: [over the radio] Teyla, this is Sheppard. Come in?<br><br>[Her body language suggests she was going to go after Dex, but she stops, resigned.]<br><br>TEYLA: Go ahead, Colonel.<br><br>[The next bit is partly over the radio, partly cutting between Teyla in the cave and Sheppard in the village square.]<br><br>SHEPPARD: Is Ellia still in the cave?<br><br>TEYLA: Yes.<br><br>SHEPPARD: She been there the whole time?<br><br>TEYLA: Yes, why?<br><br>SHEPPARD: I just found another victim.<br><br>[Quick cut to Beckett and McKay exchanging horrified glances.]<br><br>SHEPPARD: Apparently he's only been missing a couple of hours, which means she couldn't have done it.<br><br>[Cut to exterior village shot, Sheppard is watching over his shoulder as villagers haul a body away in a cart.]<br><br>SHEPPARD: Looks like Zaddik might have been telling the truth after all.<br><br><br>[Dissolve to exterior daylight shot of the village square, with villagers milling around and talking restlessly about self-defense. Goran breaks away from a conversation and walks to Sheppard.]<br><br>GORAN: Colonel Sheppard, is there any progress with this hunt?<br><br>SHEPPARD: We're workin' on it.<br><br>GORAN: Maybe we can help you.<br><br>SHEPPARD: That won't be necessary.<br><br>CALLUP: We're sick of doing nothing! We're sick of being afraid all the time. That thing is hunting in daylight now! We'll never be safe.<br><br>SHEPPARD: Just be patient. We'll take care of it!<br><br>[He turns and walks away.]<br><br><br>[Dissolve to interior cave shot, camera following Dex as he walks past Zaddik and Sheppard, where the camera pauses. Dex moves, stalks out of the shot.]<br><br>ZADDIK: See? I told you she wasn't responsible for the killings. The serum makes it unnecessary for her to feed.<br><br>SHEPPARD: [to Beckett] Can you confirm that?<br><br>BECKETT: Not yet. It will be a while before I can complete my analysis.<br><br>SHEPPARD: [softly] All right. [aloud, to Zaddik] Well in the meantime, there's another Wraith out there.<br><br>[Turns to look at Teyla and Dex, who are standing nearly in the shadows by a tunnel out of Zaddik's laboratory. Teyla approaches them.]<br><br>TEYLA: I believe Ellia may be able to help us find it.<br><br>ZADDIK: How?<br><br>TEYLA: May I speak with her?<br><br>ZADDIK: All right.<br><br><br>[Quick cut to Ellia's room, where she is seated on her cot, staring down at her hands in her lap, a picture of adolescent dejection. Teyla peeks around the draped brown cloth that separates the space from the rest of the caves.]<br><br>TEYLA: May I join you?<br><br>[Ellia looks over her shoulder and shrugs wordlessly. Teyla takes that as a yes and comes in.]<br><br>TEYLA: Ellia, we need your help.<br><br>[Long, wordless stare between the two.]<br><br>TEYLA: You can sense the other Wraith.<br><br>[It was more a statement than a question, and Ellia looks away from Teyla, still not speaking.]<br><br>TEYLA: It is all right. [moves to sit beside Ellia on the cot] There's nothing to be ashamed of ... in fact, I have the same ability.<br><br>ELLIA: [looks up hopefully] Really?<br><br>TEYLA: I sensed you in the forest, when you were watching us, and I knew even then that you were ... different.<br><br>[Cut to Ellia lowering her eyes at that.]<br><br>TEYLA: Your father has raised you well, he has taught you right from wrong.<br><br>[Faint smile from Ellia, nearly a human one.]<br><br>TEYLA: You are <I>not</I> like the other one.<br><br>ELLIA: [looking near tears, slightly shaking her head] I don't let him in. [looks away] I don't like what he shows me.<br><br>TEYLA: I know. [inhales deeply] But you have to try now. We need to find him.<br><br>ELLIA: [looking back, shaking her head] You don't understand.<br><br>TEYLA: I have tried myself, but I can get nothing. [long pause, faint lip-twitch of a smile from Teyla.] Please.<br><br>ELLIA: All right.<br><br>TEYLA: Good. [takes another deep breath] Now concentrate.<br><br>[Mystic music plays as Ellia stares into the middle distance, then slowly lets her eyes close. Music morphs into the terrifying shriek of a Wraith, and there are a few abrupt cuts to what must be the adult Wraith's point of view as it travels through the forest. Cut back to Ellia showing her in clear emotional distress and nearly hyperventilating.]<br><br>TEYLA: Try again.<br><br>[Ellia has her ‘<I>you</I> try again' face on for a second, but takes a settling breath and closes her eyes again. Music again morphs into a Wraith shriek, and we again cut back and forth between Ellia's face and the woodland scene in front of the other Wraith. Eventually, the other-Wraith point of view settles on a distinctive-looking river in a rocky bed.]<br><br>[Ellia snaps out of it, breathing a little more evenly than last time, and looks a little sweaty but triumphant.]<br><br>ELLIA: I saw a river.<br><br><br>[Quick cut to Zaddik's lab. Zaddik is in the foreground, across a workbench from a stone-faced Dex, standing next to Sheppard and watching Beckett peer through a microscope at the end of the workbench. Over Beckett's shoulder, McKay can be seen examining the contents of some shelves along the back wall. All but Beckett are standing. We hear Teyla from off-screen, but the camera quickly pans to her entering the room at a brisk walk.]<br><br>TEYLA: Zaddik? Is there a river nearby?<br><br>ZADDIK: Yes, just to the east.<br><br>[The guys have all turned to look at Teyla, who reaches past Zaddik to recover her weapon and ready it. Sheppard and Dex follow suit.]<br><br>SHEPPARD: All right, let's go. McKay, stay here and help Beckett.<br><br>McKAY: Ah, medical research? Not really my thing.<br><br>SHEPPARD: And hunting Wraith?<br><br>[McKay looks extremely chagrined.]<br><br>McKAY: Uh, I could stay ... and ... help ... Beckett.<br><br>[‘We thought as much' looks from Sheppard and Teyla, who then follow the long-gone Dex out the door. McKay heaves a sigh and heads back to the workbench.]<br><br>McKAY: Never could get into biology. It's just too much information about the human body. One time I took it as an undergrad, I diagnosed myself with half a dozen separate medical conditions before I had to drop the class.<br><br>BECKETT: [still looking through the microscope] Really?<br><br>McKAY: Yeah. Believe it or not, back then, I was a bit of a hypochondriac.<br><br>BECKETT: Y'know, this does require a certain amount of concentration.<br><br>McKAY: [getting snarky] What? Am I <I>bothering</I> you?<br><br>[Beckett finally looks up from the microscope, patience clearly taxed. McKay heads for the door.]<br><br>McKAY: I'm gonna go get some air.<br><br>[Zaddik exchanges a sympathetic glance with Beckett as McKay leaves.] <br><br><br>[Dissolve to exterior shot by the river Ellia saw in her vision. We see Sheppard and Teyla make their way over the rocky riverbed.]<br><br>TEYLA: This must be the river she saw in her vision.<br><br>SHEPPARD: Assuming she's telling the truth.<br><br>[Teyla give him a look. Sheppard becomes a voiceover as the camera finds Dex examining tracks in the dirt.]<br><br>SHEPPARD: Just because there's another Wraith doesn't mean you can trust her.<br><br>[Dex gently pokes the edges of the imprint in the dirt and looks up and around.]<br><br>SHEPPARD: What've you got?<br><br>DEX: Fresh tracks. It's him.<br><br>TEYLA: [to Sheppard] Now do you believe?<br><br>SHEPPARD: I still think there's something more to this than she and Zaddik are telling us.<br><br>DEX: [rising to his feet and gesturing] He's headin' upstream, into the hills.<br><br>[All move briskly in that direction.] <br><br><br>[Dissolve back to Zaddik's lab. Beckett looks very busy with his equipment.]<br><br>ZADDIK: Let me ... ask you something?<br><br>[Beckett looks a little reluctant, but nods.]<br><br>ZADDIK: If you can prove to everyone that I'm telling the truth, that Ellia no longer needs to feed, do you think the villagers would accept her?<br><br>[Beckett's expression says it all.]<br><br>ZADDIK: That's what I'm afraid of.<br><br>[The camera shot widens and pulls back until we see Ellia hiding around the corner from Zaddik and Beckett, listening to everything they say. She isn't liking what she's hearing.]<br><br>ZADDIK: No matter how hard we try to convince them, they will always see her as a monster.<br><br>[We see Ellia look down in dejection. Camera zooms back into the lab for close shots of Beckett and Zaddik.]<br><br>ZADDIK: I'm getting old, Doctor.<br><br>BECKETT: Oh, you've got lots of time.<br><br>ZADDIK: [scoffs politely] Never have as much as we think we have!<br><br>[They share a rueful laugh.]<br><br>ZADDIK: And when I'm gone, she'll be alone. I, uh ... tried to teach her about love and human companionship, but that's exactly what she'll never have.<br><br>[Cut back to the view that includes Ellia, who is looking very bleak, then back in tight on the two men.]<br><br>BECKETT: Zaddik, there's something I want to show you. [Walks around the workbench to one of the black cases.] I didn't say anything at first, because I didn't want to get your hopes up. [Opens the case and pulls out a syringe.] It's a retrovirus. Something I've been working on.<br><br>ZADDIK: I, I don't understand.<br><br>BECKETT: [softly to himself] Ah, God! How'm I goin' to explain this? [aloud] Part of Ellia is human.<br><br>[Zaddik nods in understanding.]<br><br>BECKETT: And part of her comes from a creature we call the iratus bug.<br><br>[Zaddik looks less understanding.]<br><br>BECKETT: It's the part that makes her look the way she does, and where her desire to feed comes from.<br><br>[Quick shot including Ellia, who looks faintly hopeful.]<br><br>BECKETT: Now, it's possible by means of this retrovirus, we can strip away those parts, and leave only the human parts behind.<br><br>[Ellia looks thrilled.]<br><br>ZADDIK: You mean ... she'd be like you and me?<br><br>BECKETT: Yes! Now, I must warn you the retrovirus is still experimental. In fact, it's only been tested on cell cultures in a laboratory, so far without much success. [He puts the syringe back in the case and snaps it closed.] I'm hoping that what we can learn from your daughter will help me perfect it.<br><br>[Zaddik is grinning broadly and in delight. Beckett gives him a comradely pat on the arm, then both of them startle as McKay charges into the room at a full run, breathing heavily.]<br><br>McKAY: [pointing back the way he came] We, we got a problem!<br><br>BECKETT: [following him out at a run] Why didn't you just radio me?!?<br><br>McKAY: [indistinct] Yeah, I could have, but ... [fades]<br><br>[Zaddik runs out after them and dramatic music comes up as the camera pans over to Ellia coming out of hiding. Checking around to make sure everyone's gone, she tiptoes over to the case and carefully opens it to reveal four or five syringes in foam padding. Camera zooms in on her hand reaching for one, then up to her frightened but very determined expression.]<br><br><br>[Dissolve to an exterior forest scene outside the cave. McKay, Beckett and Zaddik are running bent over to seek cover toward the growing sound of approaching villagers. They drop down to watch from over a rise in the forest floor. Villagers go by carrying their farm implements and speaking loudly.]<br><br>McKAY: Looks like they decided to join the hunt.<br><br>ZADDIK: If they find Ellia, they'll kill her!<br><br>[Quick cut to another part of the forest as a radio chirps static.]<br><br>McKAY: [voiceover] Sheppard, this is McKay.<br><br>SHEPPARD: What is it, Rodney?<br><br>[Cut back to McKay, watching villagers.]<br><br>McKAY: The villagers are on the move, and it doesn't look like they're goin' to a picnic.<br><br>[Cut back to Sheppard, hiking through a denser part of the forest with Teyla and Dex.]<br><br>SHEPPARD: They headin' for the caves?<br><br>[Cut back to McKay, watching villagers head off down a trail.]<br><br>McKAY: Not at the moment, no.<br><br>[Cut back to Sheppard, watching Dex look more alert.]<br><br>SHEPPARD: All right, get back there and sit tight. [Closes radio connection and looks over at Teyla and Dex.] We're losin' time, guys.<br><br><br>[Dissolve back to Zaddik's lab. We can see the open case in the foreground.]<br><br>ZADDIK: Ellia?<br><br>[He begins to search the other caves for her.]<br><br>ZADDIK: Ellia?!? [comes back to lab] She's not here!<br><br>[McKay stops just inside the lab and stands with his arms crossed defensively. Carson comes around the workbench and discovers the open case, then the spent syringe.]<br><br>BECKETT: Good lord! [picks up syringe] <br><br>McKAY: What?<br><br>BECKETT: She took the retrovirus!<br><br>ZADDIK: You said it wasn't ready?<br><br>BECKETT: It's not! Not by a long shot!<br><br>[All exchange very worried glances.]<br><br>ZADDIK: What'll it do to her?<br><br>BECKETT: To be honest? I have no idea!<br><br><br>[Dissolve back to exterior forest, with Dex making his way alertly through the trees with Sheppard, then Teyla, at intervals behind him.]<br><br>[Radio chirps static]<br><br>BECKETT: [over radio] Colonel Sheppard, come in!<br><br>SHEPPARD: Go ahead.<br><br>BECKETT: [over radio] We've got another problem.<br><br>[Cut to Beckett in the caves.]<br><br>BECKETT: Ellia's gone, and she's injected herself with the retrovirus.<br><br>[Cut back to Sheppard in the forest, still staring around sharply.]<br><br>SHEPPARD: Why would she do <I>that</I>?<br><br>BECKETT: [over radio] She must've overheard us talking about it.<br><br>[Cut to Beckett in the lab.]<br><br>BECKETT: I told Zaddik it might be the key to makin' her human.<br><br>ZADDIK: Please! You've got to find her before the villagers do.<br><br>[McKay looks up from the end of the table. He and Beckett both look horrified at the thought of what will happen to her.]<br><br>SHEPPARD: [over radio] Look! Ronon says we're close ... [cut to Sheppard outside] If we lose the trail now, we may never catch the Wraith!<br><br>BECKETT: [over radio] Rodney and I will find her!<br><br>[Cut back to the cave. McKay looks disbelieving.]<br><br>SHEPPARD: [over radio] All right, but be careful!<br><br>BECKETT: Understood.<br><br>ZADDIK: I'll come with you!<br><br>BECKETT: No, I think it's best if you stay here.<br><br>McKAY: Look, is there anywhere she liked to go? Any favorite, uh ... hiding spots? Or favorite places?<br><br>ZADDIK: Yes! She often goes off for hours at a time, up into the hills. I don't like it, but she doesn't listen to me.<br><br>BECKETT: It's a start!<br><br>[He and McKay run out of the cave.]<br><br><br>[Dissolve back outdoors, Beckett and McKay hiking through the woods, puffing over a hill.]<br><br>McKAY: Y'know, I thought it was pretty nuts when Ronon was trying to track a Wraith through this forest.<br><br>BECKETT: Now that it's just us, do you feel any better?<br><br>McKAY: Oh, yeah. Supremely confident.<br><br>[We see that McKay has his pistol out and is hiking while holding it in both hands.]<br><br><br>[Dissolve back to Zaddik looking worried in his lab.]<br><br>ELLIA: [from offscreen] Father?<br><br>[Camera pans over to her in the doorway. She doesn't look any different. Zaddik rushes over to gather her into a hug.]<br><br>ZADDIK: Ellia. Where did you go?<br><br>ELLIA: I was hiding. I didn't want the others to know.<br><br>ZADDIK: To know? What?<br><br>[They come farther into the room together, Zaddik still holding her arm supportively.]<br><br>ZADDIK: Ellia, why did you take the retrovirus?<br><br>ELLIA: Because I don't want to be this way any more! I hate what I am!<br><br>[Zaddik follows her toward the workbench.]<br><br>ZADDIK: You heard what Doctor Beckett said. You know the retrovirus isn't ready!<br><br>[Ellia turns to face him, looking very somber.]<br><br>ELLIA: I had no choice.<br><br>[Zaddik looks lost.]<br><br>ELLIA: When they kill the other Wraith, I won't be able to pretend any more.<br><br>[She hangs her head in shame.]<br><br>ZADDIK: Pretend? What?<br><br>ELLIA: [looking up] I wanted to tell you for a long time. [Long look] Your serum doesn't work, Father. It never has.<br><br>ZADDIK: That's impossible. It's been two years since you ...<br><br>[Ellia looks away abruptly, then back as he hesitates.]<br><br>ZADDIK: … since the last time. That wasn't your fault, it was my idea! I needed time to perfect the formula.<br><br>[Ellia's been shaking her head through most of this.]<br><br>ELLIA: But it wasn't working! The hunger just ... got worse. [looks down]<br><br>[Zaddik straightens up in growing horror.]<br><br>ZADDIK: What did you do?<br><br>ELLIA: I'm sorry, Father.<br><br>ZADDIK: No! No, that was the other one.<br><br>ELLIA: It was both of us. I sensed him out there. I knew when he was feeding and I would go out at the same time.<br><br>[Zaddik is shaking his head vehemently.]<br><br>ZADDIK: No, no! No, it can't be.<br><br>[Ellia gasps and doubles up in pain. Zaddik catches her before she can fall to the ground.]<br><br>ZADDIK: Ellia?!?<br><br>[She pushes him away and braces herself against the workbench.]<br><br>ELLIA: Stay away!<br><br>ZADDIK: What is it? What's happening?<br><br>[Ellia is gasping in pain and we hear a crackling, tearing sound as the camera zooms in on her hand changing against the edge of the workbench. It's going from fish-belly Wraith white to a necrotic bluish black as we watch. Her fingernails grow longer, pointed and black.]<br><br>ELLIA: [Emits a Wraith shriek as the bluish black creeps up her arm to her neck and face.]<br><br>ZADDIK: [approaching her again] Let me help you ...<br><br>[Ellia pushes him violently away, shrieking again, then runs for the cave entrance, moving as if in pain from the transformation. Zaddik stares after her in panic.]<br><br><br>[Exterior shot in the forest. Dex is examining detritus inside a makeshift shelter.]<br><br>DEX: Sheppard?<br><br>[Sheppard and Teyla hurry over from where they've been keeping watch.]<br><br>DEX: This is where he's been making camp. [stands up] He was here less than an hour ago.<br><br>[All stare around, looking for signs of where the Wraith went.]<br><br><br>[Dissolve to Beckett and McKay making their way through the hilly part of the forest. McKay still has his pistol out. He pauses, staring around intently. From a slight distance, Beckett looks back to see what's become of him.]<br><br>McKAY: You hear anything?<br><br>BECKETT: No.<br><br>McKAY: Huh.<br><br>[We see an adult Wraith in full costume drop out of a tree behind Beckett, who gets swatted aside and goes flying about a dozen feet into the underbrush. McKay has run up and is firing more or less at point blank range with the pistol, but the Wraith knocks that out of his hand and swats McKay to the ground at his feet.]<br><br>[Quick cut to Teyla, Sheppard and Dex, who've heard the single shot McKay squeezed off. They head in that direction at a dead run.]<br><br>[Cut back to the Wraith looming over McKay in a creepily anticipatory manner. Lunch!]<br><br>[McKay is scrambling backward desperately, and the Wraith is cat and mousing him a little. Too bad for the Wraith, as a shrieking white figure appears out of nowhere and knocks the adult Wraith to the ground. It's Ellia, still out of her head, but apparently helping our team. Beckett and McKay look on in shock as Ellia proceeds to beat the <I>tar</I> out of the adult Wraith, eventually snapping his neck and killing him.]<br><br>[McKay is back on his feet, and we can see Beckett getting up over Ellia's shoulder as she approaches McKay, snarling and growling.]<br><br>McKAY: Easy, now! You went to all that trouble to save my life, be a shame to kill me!<br><br>[A shot rings out, hitting Ellia in the shoulder.]<br><br>[She snaps around, and we get a clear look at her face, which is gaunt, and half of it is the color of a bruise. We see Beckett in a crouch with his pistol out, surprised either that he hit what he was aiming for or that it did not drop her where she stood. Ellia shrieks defiantly, then runs into the brush, McKay staring after her in shock.]<br><br>BECKETT: [running up] You all right, Rodney?<br><br>[McKay is nearly hyperventilating. He puts his hand over his heart where Wraith feed, and looks as if he's having a hard time not fainting ... er, passing out.]<br><br>McKAY: [nearly incoherent at the near miss] He, she ... reaching out ... what the hell was that?<br><br>BECKETT: [chagrined] The retrovirus is having the opposite effect from what we intended.<br><br>McKAY: I guess <I>so</I>!<br><br>BECKETT: [to himself] Ah, God!<br><br>McKAY: [some inaudible, adlib dialog that indicates his continued distress at nearly being lunch for a couple of Wraith.]<br><br>[Beckett pats him on the arm.]<br><br>BECKETT: You're all right.<br><br>[McKay lifts the hem of his uniform shirt and jacket and ... well, basically feels himself up in panic. Beckett makes an exasperated noise and turns away to leave him to calming down on his own.]<br><br><br>[Dissolve to a shot of Zaddik making his way slowly through the forest, checking around for Ellia. She appears between two trees at a slight distance, looking worse for wear.]<br><br>ZADDIK: [low, pleading] Ellia?<br><br>[She approaches, growling.]<br><br>ZADDIK: You poor girl! You never deserved this.<br><br>[He's clearly unnerved by her appearance, but hesitantly stands his ground as she grows closer, still growling.]<br><br>ZADDIK: I know part of you is still there.<br><br>[She's right in front of him now, and he looks hopeful, until she strikes and wraps a completely transformed, claw-like hand around his neck, lifting him off his feet.]<br><br>ZADDIK: [panicking] Ellia!! Ellia, please! This isn't you!<br><br>[She flings him several yards into the brush and lets out a long triumphant shriek.]<br><br>[Shots of Atlantis team members in various parts of the forest, pausing as they hear the eerie, chilling sound. Everyone is worrying about those who are not in sight. All head in the direction of the shriek.]<br><br>[Cut to Zaddik on the ground, bleeding from his mouth.]<br><br>McKAY: Zaddik!<br><br>[They race over, Beckett pulling off his backpack.]<br><br>BECKETT: Y'all right?<br><br>ZADDIK: [moans, shifts a bit]<br><br>BECKETT: Don't try to move.<br><br>ZADDIK: [weakly] It was Ellia, but it wasn't her fault.<br><br>[McKay and Beckett exchange a glance over Zaddik, unsure of what to say. The sound of approaching villagers attracts their attention.]<br><br>McKAY: No-no-<I>no</I>! You people need to go <I>back</I> to the village! It is <I>not</I> safe here!<br><br>GORAN: [looking at Zaddik as he approaches] Who is that?<br><br>[McKay and Beckett stare as Goran comes up to stand over Zaddik.]<br><br>ZADDIK: [to Goran] Don't you remember me?<br><br>GORAN: No. No, it can't be!<br><br>[McKay and Beckett look at both men, then at each other, confused.]<br><br>GORAN: You were taken by the Daimos!<br><br>ZADDIK: No, Father.<br><br>McKAY: Father?! I don't understand. You're his son?!<br><br>[Shots of villagers craning to look at the man on the ground, who is clearly older than Goran.]<br><br>GORAN: If my son were alive, he'd be thirty four years old!<br><br>ZADDIK: [whispering] Precisely.<br><br>[McKay and Beckett look appalled, Goran still looks confused.]<br><br><br>[Dissolve to same scene, but Sheppard, Teyla and Dex have arrived. Callup moves briskly from a group of villagers to the Atlantis team and Goran, still near Zaddik. The latter is looking worse.]<br><br>CALLUP: There's another one of those things out there. Look what it did to Zaddik! I say we go after it <I>now</I>!<br><br>SHEPPARD: No one's goin' <I>any</I>where. We'll handle this! Stay calm. [to Beckett] How is he?<br><br>[Shots of the Atlantis team looking uneasy as Beckett approaches Sheppard.]<br><br>BECKETT: I've given him something for the pain, but his injuries are too severe. [deep breath] He's not goin' t'make it.<br><br>GORAN: [still standing over Zaddik] This can't be happening. It's not possible.<br><br>ZADDIK: I'm ... sorry. Don't ... blame Ellia. It was my idea.<br><br>[Goran is still not catching on. The following speech is over shots of Goran and the Atlantis team reacting in ways from confusion to disgust to horror.]<br><br>ZADDIK: You ... have to understand that when I found her, I'd just lost my own wife and son to a fever.<br><br>[Hissy flashback music, and dissolve to a camera slinking around a tree in the forest to zoom in on the young, unconscious Ellia.]<br><br>ZADDIK: She was just lying there, helpless.<br><br>[Cut to a flashback shot of a much younger-looking Zaddik who, frankly, was pretty hot, especially with compassion for the helpless welling up in him. He kneels, and turns the crumpled form over, revealing the very alien features of a young Wraith.]<br><br>ZADDIK: [present, weakening voice] When I saw her, I knew what I had to do. As I told you, in the beginning ... she survived on food and water like <I>any</I> young girl.<br><br>[Still in flashback, but cut to a scene of Ellia in her room, not much younger than she is now, falling off the bed to the floor, gasping in agony.]<br><br>ZADDIK: Then the hunger came.<br><br>[In flashback, the young Zaddik approaches Ellia and grasps her hands.]<br><br>ELLIA: No, no!<br><br>ZADDIK: It's all right. Take what you need.<br><br>ELLIA: I can't!<br><br>ZADDIK: Yes, you can.<br><br>[He places Ellia's hand in the middle of his chest and groans in pain as she feeds.]<br><br>[Cut back to present day in the forest, close-up of older Zaddik on the ground. He can barely move, even to look at whomever he's speaking to.]<br><br>ZADDIK: She took ... what she needed from me ... to survive ... until ... I perfected the serum.<br><br>[Flashback to younger Zaddik being fed upon. Ellia doesn't seem to be enjoying it much, and he nearly passes out. He does fall to the floor, breaking the connection between her hand and his chest, snapping Ellia out of her feeding frenzy.]<br><br>ELLIA: Father? Father!<br><br>[Flashback camera pans down to young Zaddik, now with silver in his hair. He's conscious, but seems unable to speak. Ellia cradles him, crying.]<br><br>ELLIA: I'm so sorry!<br><br>[Cut from flashback Ellia sobbing over her father to present day, Sheppard and Beckett looking <I>very</I> uncomfortable.]<br><br>SHEPPARD: She never fed on anyone after that?<br><br>[There is a very long pause.]<br><br>ZADDIK: [firmly] No.<br><br>[He flinches a little, as if in pain, and the camera pans back to Sheppard, Beckett and McKay, who are exchanging ‘what now?' looks.]<br><br>SHEPPARD: All right. Teyla? Ronon? You're with me. The rest of you stay here.<br><br>BECKETT: Colonel, the retrovirus is acting quickly. The human part of her is almost gone.<br><br>SHEPPARD: You said she killed the other Wraith and saved McKay's life.<br><br>BECKETT: Yes, but I'm not sure she knew what she was doing. She's operatin' on a purely animal level right now.<br><br>TEYLA: Is there nothing you can do for her?<br><br>BECKETT: I might be able to reverse the effects, if you bring her back alive, but I doubt she'll cooperate. She's also stronger and faster than any Wraith I've ever seen.<br><br>SHEPPARD: [squeaks] Great!<br><br>[The Wraith hunting team heads out.]<br><br>GORAN: [to Zaddik] All this time, we thought you were dead!<br><br>ZADDIK: There was no other way. They [cuts eyes toward villagers] never would have accepted us ... and I couldn't abandon her.<br><br>GORAN: Why?<br><br>ZADDIK: She ... needed me.<br><br><br>[Cut to Sheppard, Dex and Teyla in the misty woods.]<br><br>BECKETT: [over radio] Colonel? This is Beckett.<br><br>SHEPPARD: Go ahead.<br><br>BECKETT: Zaddik's dead.<br><br>[Sheppard and Teyla exchange a look.]<br><br>SHEPPARD: Understood.<br><br>[They walk on, then Sheppard pauses when he sees Dex stopped off the trail, staring away.]<br><br>DEX: She knows we're here. [approaches Sheppard] She's watchin' us.<br><br>[Pan to Teyla, who has her Wraith sensing face on, which is to say, her eyes are eerily unfocused and she looks a little stoned.]<br><br>TEYLA: Ellia? We want to help you! Doctor Beckett can make you better, but you have to come with us! We will not hurt you!<br><br>[Pause, while she looks around for any reaction. A twig breaks and Teyla turns around in time to face Ellia as the Wraith leaps from the underbrush and knocks her to the ground with a shriek, which attracts the men's attention and they rush toward the scuffle. Meantime, Ellia is crouched over Teyla and it looks and sounds as if they're having a slap fight.]<br><br>[As the men come over a rise in the forest floor, Teyla tosses Ellia off of her and Ronon seamlessly fires his energy weapon at her. Ellia pauses, then scrambles away out of sight. Teyla is unconscious on the ground, and both men crouch by her.]<br><br>SHEPPARD: Aww ...<br><br>[He looks up to catch where Ellia is headed as Dex checks Teyla for injuries. Dex's fingers come away from her head wet with blood. Sheppard strips out of his jacket and puts his vest back on.]<br><br>DEX: She took a blow to the head when it hit her.<br><br>SHEPPARD: [indicating Teyla] Stay with her!<br><br>DEX: Sheppard!<br><br>SHEPPARD: That's an order.<br><br>[Sheppard runs off after Ellia as Dex places the rolled up jacket under Teyla's head, then stares grimly after him.]<br><br>[Long shots from a few different angles of Sheppard making his way through the woods, very grim and purposeful.]<br><br>[Back to Dex and Teyla, as she regains consciousness.]<br><br>DEX: Teyla!<br><br>TEYLA: [sitting up] What happened? Where's Colonel Sheppard?<br><br>DEX: He went after the creature!<br><br>TEYLA: You let him go alone?!?<br><br>DEX: He wanted me to stay with you.<br><br>TEYLA: [with an exasperated breath] I am <I>fine</I>. Go!<br><br>DEX: Aren't we supposed to follow his orders?<br><br>TEYLA: Sometimes, we are allowed to make exceptions.<br><br>DEX: And who decides when it's one of those times?<br><br>TEYLA: <I>We</I> do.<br><br>DEX: [springs to his feet] That's good enough.<br><br>[Dex runs off after Sheppard who, after a quick cut to his part of the forest, we see sneaking around large fallen logs. A roar and a growl bring him around to aim at Ellia, who is pacing down a fallen log over his head, looking hungrily intent.]<br><br>SHEPPARD: Ellia?! [pause as she continues to stalk toward him] Don't make me do this.<br><br>[She stops, shrieks and postures as if about to jump. Sheppard fires, but she's in the air before the bullets start to hit and brings him to the ground. They grapple, Ellia looking for a way inside that vest and Sheppard pulling out a wicked looking combat knife.]<br><br>[Ellia grabs his knife arm and Sheppard is pushing her away with his free hand. Quick close-up on Sheppard's knife arm shows that Ellia's transformed claw-hand is drawing blood. Looks like a stalemate until a blast from Dex's energy weapon blows her off of Sheppard. Dex fires again, hitting her. She gets up again. It takes four shots from Dex's energy weapon and one from Sheppard's pistol to kill her.]<br><br>[They stare at her body for a few moments to make sure she's really dead, then Ronon catches sight of John's bleeding arm.]<br><br>DEX: You OK?<br><br>SHEPPARD: Yeah. She tried feedin' on me.<br><br>[They look at Ellia's crumpled form again.]<br><br>DEX: She wasn't gonna let us take her back.<br><br>SHEPPARD: [who wants to believe, but may be having trouble] Yeah, I know.<br><br>[Dex claps him on the shoulder and walks away. John stares for a moment more at Ellia, then lifts his injured arm, which is now covered with blood. Her claw hand made quite a wound. Cue foreboding music, and ... ]
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="206.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s2/207.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="208.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s2/index.shtml">
+<IMG SRC="/graphics/title_s2episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Two Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="201.shtml" CLASS="list">The Siege, Part 3</A><BR><A HREF="202.shtml" CLASS="list">The Intruder</A><BR><A HREF="203.shtml" CLASS="list">Runner</A><BR><A HREF="204.shtml" CLASS="list">Duet</A><BR><A HREF="205.shtml" CLASS="list">Condemned</A><BR><A HREF="206.shtml" CLASS="list">Trinity</A><BR><A HREF="207.shtml" CLASS="list">Instinct</A><BR><A HREF="208.shtml" CLASS="list">Conversion</A><BR><A HREF="209.shtml" CLASS="list">Aurora</A><BR><A HREF="210.shtml" CLASS="list">The Lost Boys</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="211.shtml" CLASS="list">The Hive</A><BR><A HREF="212.shtml" CLASS="list">Epiphany</A><BR><A HREF="213.shtml" CLASS="list">Critical Mass</A><BR><A HREF="214.shtml" CLASS="list">Grace Under Pressure</A><BR><A HREF="215.shtml" CLASS="list">The Tower</A><BR><A HREF="216.shtml" CLASS="list">The Long Goodbye</A><BR><A HREF="217.shtml" CLASS="list">Coup D'etat</A><BR><A HREF="218.shtml" CLASS="list">Michael</A><BR><A HREF="219.shtml" CLASS="list">Inferno</A><BR><A HREF="220.shtml" CLASS="list">Allies</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B000LC4ZI0/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B000LC4ZI0/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Two</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B000LC4ZI0/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B000KGGP1W/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B000LPQ67A/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B000LC4ZI0/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls2.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="206.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s2/207.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="208.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

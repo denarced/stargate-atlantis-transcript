@@ -1,0 +1,526 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Letters From Pegasus" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				
+				<A HREF="/atlantis/s1/transcripts/117.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=523">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=268">Screen Captures</A><BR>
+				<A HREF="/atlantis/s1/117.shtml#analysis">Analysis</A>
+				
+				 | <A HREF="/atlantis/s1/117.shtml#notes">Notes</A>
+				 | <A HREF="/atlantis/s1/117.shtml#questions">Questions</A>
+				
+				
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=5693">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s1/117.shtml"><IMG SRC="/atlantis/graphics/117_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="LETTERS FROM PEGASUS" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://www.amazon.com/exec/obidos/ASIN/B000ICRKUS/bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 117<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 1, Disc 5<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 03.04.05<BR>
+				    
+				    
+				    
+				    <STRONG>EXCERPTS WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0089369/" TARGET="_blank">Jill Blotevogel</A>, <A HREF="http://www.imdb.com/name/nm0178338/" TARGET="_blank">Robert C. Cooper</A>, <A HREF="http://www.imdb.com/name/nm0217938/" TARGET="_blank">Peter DeLuise</A>, <A HREF="http://www.imdb.com/name/nm1236625/" TARGET="_blank">Martin Gero</A>, <A HREF="http://www.imdb.com/name/nm1112420/" TARGET="_blank">Kerry Glover</A>, <A HREF="http://www.imdb.com/name/nm1738008/" TARGET="_blank">Mary Kaiser</A>, <A HREF="http://www.imdb.com/name/nm0454307/" TARGET="_blank">Damian Kindler</A>, <A HREF="http://www.imdb.com/name/nm0540695/" TARGET="_blank">Joseph Mallozzi</A>, <A HREF="http://www.imdb.com/name/nm0612283/" TARGET="_blank">Paul Mullie</A>, <A HREF="http://www.imdb.com/name/nm0942249/" TARGET="_blank">Brad Wright</A><BR>
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0082772/" TARGET="_blank">Carl Binder</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0044524/" TARGET="_blank">Mario Azzopardi</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">With a brief opportunity to send a data transmission to Earth, members of the Atlantis expedition compose video messages home to their loved ones.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    <B>Czech sentences and translation by Mi.Ko and Reaver.man.</B><br><br>FLASHBACK to the end of "The Brotherhood" when Elizabeth said that the Wraith hive ships will be over the planet within two weeks. <br><br>ATLANTIS. CONFERENCE ROOM. <br><br>WEIR: Well, we knew they were coming; at least now we know when. <br><br>SHEPPARD: That's something. <br><br>McKAY: That's something?! <br><br>SHEPPARD: It means there's still time, Rodney -- there's no reason to panic ... yet. <br><br>TEYLA: Where there is time, there is hope. <br><br>WEIR: Agreed. So, recommendations? <br><br>BECKETT: Other than panic?! <br><br>WEIR: Other than panic, yes. <br><br>FORD: I realise this might not be cool, but we should consider M7G-677. <br><br>WEIR: As a possible evacuation site? <br><br>FORD: No, ma'am. I'm suggesting we take their Z.P.M. <br><br>WEIR: Their only means of protection from the Wraith? A planet populated mostly by children? <br><br>McKAY: He raises a valid point. We've already established that the ZedPM is nearly depleted, but it could be of some limited use to us. <br><br>FORD: You asked for suggestions. It's a matter of survival. <br><br>WEIR: I see. Well, we're not quite there yet, and as long as I'm in charge, we will never be there. <br><br>TEYLA: I agree, Doctor Weir. If this is to be our end, it is best we face it with both dignity and honour. <br><br>McKAY: To that end, I actually have an idea -- in addition to panic. <br><br>SHEPPARD: Let's hear it. <br><br>McKAY: It's really a long shot, but I think it's, uh, most likely worth the effort. Of course, it will mostly be my effort, so ... <br><br>SHEPPARD: What is it? <br><br>McKAY: I think we can send a message back to Earth through the Stargate. <br><br>BECKETT: Excuse me?! <br><br>WEIR: I thought we didn't have enough power. <br><br>McKAY: Not to send a person, no. We'd never be able to maintain the wormhole long enough. But I think if we were able to tie together all of our power-generating capabilities, we might -- and I emphasise might -- be able to establish a wormhole long enough to send a message. <br><br>SHEPPARD: How much time are we talking about? <br><br>McKAY: Well, approximately, uh, one point three seconds, give or take. <br><br>BECKETT: That's not much time. <br><br>FORD: Time enough to say, "S.O.S."! <br><br>McKAY: Don't be so analogue! One point three seconds is more than enough time to send a message if it's in the form of a high compression data burst. Now, I helped refine the encoding for the US Air Force a few years back. Colonel Carter should be able to, uh, decipher it on the other side. <br><br>SHEPPARD: You're suggesting this now? <br><br>McKAY: Because it probably won't work, and there's a very good chance it could overload our naqahdah generators in the process. <br><br>SHEPPARD: Well, then, we can't take the risk! No power, we won't have a chance in hell! <br><br>McKAY: There are three Wraith hive ships on the way, Major! Desperate times call for desperate measures. Besides, I spent the last few days working out ways of minimising the risk. <br><br>WEIR: Assuming it's possible, how much information could we send? <br><br>McKAY: Everything. I mean, uh, mission reports from all the senior staff, uh, a ton of stuff on Atlantis, things we've learned in Pegasus ... <br><br>FORD: All that, one second? <br><br>SHEPPARD: One point three(!) <br><br>McKAY: See, you jest, but if I can finesse the compression ratios, you'll be looking for things to add. <br><br>WEIR: Do it. <br><br>McKAY: Doing it. (He gets up and leaves the room. The others follow. John follows Elizabeth into the Control Room.) <br><br>SHEPPARD: Elizabeth. You realise that if Stargate Command was able to send help ... <br><br>WEIR: I know. They would have -- but still, we have a responsibility to report what we've learned here, about Atlantis, about the Ancients ... <br><br>SHEPPARD: ... the Wraith. <br><br>WEIR: Exactly. We have to warn Earth. <br><br>SHEPPARD: Even if it's the last thing we do. <br><br>WEIR: Especially if it's the last thing we do. <br><br><br>LATER. Elizabeth, John, Teyla and Zelenka are looking at the long distance scanner screen showing the approach of the Wraith hive ships. <br><br>WEIR: They don't seem threatening as dots on the screen, do they? <br><br>SHEPPARD: Which is why we need to do recon and see what we're up against first hand. <br><br>WEIR: How? <br><br>ZELENKA: I've been tracking their progress. The Wraith ships apparently go in and out of hyperspace periodically -- either because their hyperspace technology is limited ... <br><br>SHEPPARD: ... or they're stopping to feed along the way. <br><br>ZELENKA: The point is, the pattern is predictable. I can guess with some certainty that they'll be making stops (he points to three places on the screen) here, here and here. <br><br>WEIR: Even so, those ships are light years away. How do you expect to reach them in a Puddlejumper? <br><br>SHEPPARD: We fly to a Stargate en route that Zelenka thinks they're gonna drop out of hyperspace and we watch em pass by. <br><br>WEIR: That's good. <br><br>SHEPPARD: Well, I have my moments. Teyla and I were just deciding which planet to go to. <br><br>TEYLA: I am familiar with the people of this world. (She points to a place on the screen.) Their Stargate is in the open and so accessible by ship. <br><br>WEIR: And you think you can remain undetected by the Wraith as they go by your position? <br><br>SHEPPARD: Stealth mode. They won't even know we're there. <br><br>WEIR: OK. Go. Get what intel you can and get back -- before Rodney sends his message. I need the both of you here. <br><br>SHEPPARD: Won't even stop at the duty free. (He and Teyla head off.) <br><br><br>LATER. In the Gateroom, the Stargate kawhooshes. The ceiling above the Gate irises open and the Puddlejumper lowers into position. Elizabeth is in the Control Room and speaks into the radio. <br><br>WEIR: On the off-chance you decide to take the Wraith ships on yourself, Major, I am hereby ordering you not to. <br><br>SHEPPARD (on board the Jumper): Believe me, you don't have to. <br><br>WEIR: Still ... <br><br>SHEPPARD: ... don't take on an alien armada single-handed. Understood! <br><br>(The Jumper flies through the Stargate.) <br><br><br>ALIEN PLANET. People are working in the fields. A boy runs to his father. <br><br>BOY: Father! Teyla's here! <br><br>(The man looks up to see John and Teyla walking towards him with some of the locals. Teyla waves happily to him as she approaches. He waves back.) <br><br>ORIN: Teyla! <br><br>TEYLA: Orin! It has been many days. <br><br>ORIN: Too many! (He and Teyla touch their foreheads together.) Look at you! You're so different! <br><br>TEYLA: Much has changed since my last visit. (Orin looks at John. Teyla introduces them to each other.) This is Major John Sheppard -- and Orin. <br><br>SHEPPARD: Pleased to meet you. (He holds out his hand to Orin, but Orin has placed his own hand on his heart. John awkwardly brings his hand back and puts it on his own chest. Orin turns to Teyla.) <br><br>ORIN: The harvest is still several months away. <br><br>TEYLA: Yes, I know. We have not come to trade, but to deliver a warning. We have reason to believe the Wraith may be on their way. <br><br>(The villagers look at each other, shocked.) <br><br>SHEPPARD: We don't know that for a fact but we're about to go and find out. <br><br>ORIN: Yes. It seems they are awakening everywhere. <br><br>TEYLA: You should tell your people to take precautions in case they do come. <br><br>ORIN: I will -- but you know as well as I do, Teyla, that the Wraith will track us down wherever we go. There will be no escape. <br><br>SHEPPARD: What about through the Stargate? <br><br>ORIN: The cullings are taking place on many worlds. None are safe. Even we have taken in refugees. (He reaches to a young, sad-looking, boy standing at his side and hugs him.) <br><br>TEYLA: If they do come, stay far from the Stargate. Take your family to the far tree line, there, (she points) and wait for us. <br><br>SHEPPARD: Teyla ... <br><br>TEYLA: One family, Major, that is all I ask. <br><br>(John looks round at the villagers, then turns to Orin.) <br><br>SHEPPARD: I'm sorry, Orin, I can't make that promise. <br><br>TEYLA (to John): It will be the very least we can do. <br><br>(Orin looks hopefully at John.) <br><br>SHEPPARD: If there's time. <br><br>TEYLA: Then we must hurry. (She touches foreheads with Orin again, then she and John walk away. Orin looks round at his family.) <br><br>ORIN: Children -- we must prepare. <br><br><br>ATLANTIS. CONFERENCE ROOM. <br><br>WEIR: Alright, we have our city specs, mission reports and tactical assessments all ready to go. What else? <br><br>McKAY: Well, I've included a ton of data that we've been able to decipher from the Ancient database. <br><br>WEIR: Really? That is incredible! <br><br>McKAY (looking smug): Well, the algorithm I've devised is extraordinarily efficient, yes. <br><br>BECKETT: Oh, please! <br><br>(Aiden laughs silently.) <br><br>WEIR: It must be, in order to fit all that data into one point three seconds. <br><br>McKAY: Point three seconds, actually. <br><br>WEIR: We have a whole extra second to fill?! <br><br>McKAY: Mmm. A whole extra one, yes. <br><br>WEIR: Is it enough to include personal messages? <br><br>McKAY: Uh, sure -- I mean, several hours of video. Much more if it was strictly audio. <br><br>WEIR: I think it'd do wonders for morale, especially now. <br><br>FORD: I could tell my grandma what I've been up to all this time. <br><br>WEIR: Well, if your grandmother had security clearance, yes, you could! (Aiden smiles and points at her understandingly.) But for now you can tell her that you're well -- and that you miss her. <br><br>McKAY: This is all very charming, but, um, I have work to do -- shouldn't I, uh ...? <br><br>WEIR (to Aiden): Lieutenant, maybe you'd like to handle this? Give everybody a few minutes on camera to send a personal message to their loved ones. <br><br>FORD: I'd love to, ma'am. <br><br>WEIR: Off you go! <br><br>(The meeting breaks up. Rodney speaks to Elizabeth as she walks past him.) <br><br>McKAY: As soon as Zelenka and I can get, uh, Jumper Four's engines tied into the grid, we should be able to do a low-powered dry run. <br><br>WEIR: Good. (Rodney start to walk away.) Rodney? <br><br>(Rodney turns back to her.) <br><br>McKAY: Mmm? <br><br>WEIR: You don't wanna send a message to anyone? <br><br>McKAY: You know what? Maybe with all my, uh, spare time I'll just, um, record a message myself, hmm?(!) You? <br><br>WEIR: Yes. <br><br>McKAY: Good, good. (Looking embarrassed, he walks away.) <br><br><br>SPACE. The Puddlejumper is in orbit around Orin's planet. It goes into stealth mode, becoming invisible from the outside. <br><br>SHEPPARD: This wasn't supposed to be a rescue mission. <br><br>TEYLA: Orin was a good friend of my father. <br><br>SHEPPARD: I agreed to warn him. <br><br>TEYLA: If someone close to your family -- a dear friend -- was in danger of being taken by the Wraith, would you have not done the same? <br><br>SHEPPARD: Not if it jeopardised the mission. <br><br>TEYLA: So in fighting the Wraith, we are to give up that which makes us different from them? <br><br>SHEPPARD: I agreed to stop and pick him up if there was time -- but only if there was time. I could be saving everyone in the damned galaxy if we could. <br><br>TEYLA: One man and his children are not every person. <br><br>SHEPPARD: I agreed to help if there was time. You can only fight the battles you can win. (He stares out of the viewscreen as he spots something.) Woah! <br><br>(Two enormous hive ships come out of hyperspace and fly over the top of the Jumper. John and Teyla gaze in amazement. Shortly afterwards, a third hive ship comes out of hyperspace and joins the others. They are accompanied by various smaller craft.) <br><br>SHEPPARD: I'll get this thing turned around. <br><br>(Wraith Darts deploy from the hive ships and start to descend.) <br><br>TEYLA (with dread in her voice): They are heading for the planet. <br><br><br>ATLANTIS. We see a black screen with the message "STBY" on it. Aiden's voice can be heard. <br><br>FORD (voiceover): OK, recording. Plenty of battery. So why am I not seeing anything? Oh, stupid! (We see Aiden take the lens cap off the camera and then his face comes into view. He switches the camera on and "STBY" changes to "REC". He sits down facing the camera.) OK. (He waves and smiles into the camera.) Hi, Grandma, Grandpa! It's me, Aiden ... obviously! (He grins.) Um, talking to you from a place ... far, far from home. I'm good, though. You don't have to worry. Life here's pretty routine. <br><br><br>FLASHBACK TO "RISING PART 2". Aiden guns down one of the Wraith guards. The female Caretaker roars. <br><br>FLASHBACK TO "THE BROTHERHOOD". Aiden is fighting with one of Kolya's men. <br><br>FLASHBACK TO "38 MINUTES". Aiden clings on for his life as the Puddlejumper vents its atmosphere. <br><br>FLASHBACK TO "RISING PART 2". As they run through the forest towards the Puddlejumper, Teyla pushes Aiden out of the way of a Wraith transporter beam. <br><br><br>FORD: I'm hoping that I'll be able to get home some time soon but, y'know, if I'm stuck here a while, I want you to know that I'm good. I'm doing things, seeing things I never thought I'd see. <br><br><br>FLASHBACK TO "RISING PART 1". On Athos, Aiden takes his night vision goggles off and stares in amazement as a Wraith Dart flies out of the Stargate. <br><br>FLASHBACK TO "RISING PART 2". Aiden and John stare up into the ceiling of the Wraith hall as the Wraith sleeper cells become visible. <br><br>FLASHBACK TO "RISING PART 2". In the Puddlejumper, Aiden and John watch in amazement as an Ancient drone deploys from the Jumper and destroys a Wraith Dart. <br><br>FLASHBACK TO "38 MINUTES". Aiden, John and others stand at the edge of the crater where the Wraith hive ship used to be. <br><br><br>FORD: I wish I could tell you all about it. Who knows -- one day maybe I'll be able to. But I want you both to know that you're right here (he puts his hand on his heart) always -- all the time. <br><br><br>ORIN'S PLANET. The Puddlejumper is flying down through the atmosphere to reach the planet's Stargate. <br><br>SHEPPARD: Sorry, Teyla. Even flying full out we're just ahead of the armada. I can't risk putting down for Orin or his family. <br><br>TEYLA (disappointed and angry): I see. <br><br>SHEPPARD: I'm gonna take us out of stealth mode for the pass through. Dial the Gate. <br><br>(Reluctantly, Teyla starts to dial the Stargate. Just then, alarms sound.) <br><br>SHEPPARD: Hang on! Incoming wormhole! <br><br>(The Stargate can be seen kawhooshing in the distance. John throws the Jumper into a tight curve to fly past the Gate and just miss slamming into the wormhole.) <br><br>TEYLA: I have heard stories of the Wraith dialling in to prevent their victims from using the Stargate as a means of escape. <br><br>SHEPPARD: So we're stuck here. <br><br>TEYLA: Once the ship is rendered invisible again, we will be perfectly safe. <br><br>SHEPPARD: I'm worried about getting the intel about the Wraith fleet back to Atlantis. <br><br>TEYLA: They will keep dialling in through the night at the very least -- but if we wait in the location I told Orin and his family to meet us ... <br><br>SHEPPARD: That's where I'm headed. <br><br><br>ATLANTIS. INFIRMARY. Aiden is setting up the camera ready to record Carson's message. Carson can be seen in the viewscreen, looking very uncomfortable as he settles onto a stool. Aiden starts recording. <br><br>BECKETT: I must warn you -- I'm not very good at this sort of thing. <br><br>FORD: Well, don't worry. The only people who'll see it is gonna be your family. <br><br>BECKETT: Aye -- and you and the US military! <br><br>FORD: Well, give it a shot? <br><br>BECKETT: What shall I say? <br><br>FORD: Uh, uh, "I miss you"? "I wish you were here"? <br><br>BECKETT: I wish who was here? <br><br>FORD: I don't know. Who do you wish was here? <br><br>BECKETT: Nobody! I wish I wasn't bloody here! <br><br>(Aiden rolls his eyes.) <br><br>FORD: Doc, I got a lot of people I've gotta get through. <br><br>(Carson sighs.) <br><br>BECKETT: Alright, uh, I suppose I could say hullo to my mother. <br><br>FORD: Good. There y'go. Alright -- you ready? <br><br>(Carson gulps and steels himself, staring into the camera nervously.) <br><br>FORD: OK, go. <br><br>BECKETT (into camera): Hullo, Mum! I hope this message finds you well. I trust your petunias are in full bloom by now. Oh, and I do hope you're keeping up with the ointment I gave you. (Aiden stares in disbelief.) If you've adhered to the regime, the fungus should have cleared up by now. <br><br>(Aiden grimaces. Carson notices his _expression.) <br><br>BECKETT: What's wrong? <br><br>FORD: Dude, fungus?! <br><br>BECKETT: On her toenails! I thought you said no-one would watch this except my family? <br><br>FORD: Yeah, but, but, fungus?! <br><br>BECKETT: What then shall I talk about?! <br><br>FORD: I don't know. It's your mother -- tell her you love her! <br><br>BECKETT: No, no, I can't do that. I'd go all emotional. <br><br>FORD: So? <br><br>BECKETT: She's very delicate, my mother -- as sweet a soul as you'll ever meet; as pure as the driven snow. If I get upset, then she'll get upset and I can't have that. <br><br>FORD: It's not like we're live, Doc. I mean, you don't like what we put on tape the first time, we can always do it again. <br><br>BECKETT: We can? <br><br>FORD: Sure. <br><br>BECKETT: Oh. Well, I suppose I could do that, then. <br><br>FORD: Alright. (He checks the camera.) Here we go. (He gestures to Carson to continue.) <br><br>BECKETT (into camera): Um, Mum? (He starts to get tearful.) I miss you terribly. (He starts to cry and looks at Aiden.) I can't do this! <br><br><br>ORIN'S PLANET. NIGHT TIME. The Puddlejumper, in stealth mode, comes in to land near the trees. John picks up a pair of binoculars and looks through the windscreen with them towards the village. He sighs heavily. <br><br>SHEPPARD: C'mon, Orin, show up! (He lowers the binoculars and turns to Teyla, who is looking at him.) What? <br><br>TEYLA: Not long ago you would have blithely left him behind. <br><br>SHEPPARD: Well, the situation has changed. <br><br>TEYLA: Earlier today Lieutenant Ford suggested we steal from a community of children. <br><br>SHEPPARD: It's because they have a Z.P.M. and we can bring them back. <br><br>TEYLA: Only to face death in Atlantis? <br><br>SHEPPARD: Look, Ford and I are military. We've spent a lot of our lives learning how to survive. <br><br>TEYLA: I have spent my life surviving the Wraith. <br><br>SHEPPARD: Part of that training is knowing who you can save and who you can't. <br><br>TEYLA: And that decision is yours alone? <br><br>SHEPPARD: I said that I'd wait for your friend if there was time. Now there's time. What else do you want from me? <br><br>TEYLA: Too much, I fear. <br><br>SHEPPARD: It's gonna be a long night. <br><br>(The sound of Wraith Darts can be heard. John picks up the binoculars again. As he looks through them, a Dart flies over the village, its transporter beam sweeping across the ground. Another Dart flies over.) <br><br><br>ATLANTIS. LAB. Zelenka is recording his message. <br><br>ZELENKA: Na dne more mame "failsafe" mechanismus. Obrovskou silou vytrhl kotvu mesta ze dna oceanu. (FLASHBACK TO "RISING PART 2". We see the city on the ocean floor.) My jsme ... Zhrozili jsme ... jsme ... Zhrozili jsme se. Neuveritelny. Co se to deje, a ten hluk. Cele mesto se traslo jako pri zemetreseni. To bylo neco neuveritelnyho. A najednou se hneme. (The city begins to rise up through the water.) Cele mesto stoupalo, stoupalo nahoru, nahoru k hladine. To, to bylo neco neuveritelnyho. (The city breaks the surface of the ocean.) A veze prorazily hladinu a vyjeli jsme nahoru, nahoru. Vody, vlny vodopady. Vsechno tece z tech vejsek a vystrelili jsme nahoru uplne navrsek a najednou Slunce. (The city clears the ocean and settles on the surface. In the recording, Zelenka's face mirrors the amazement that everyone felt at the time.) Slunicko proste proudilo do vsech voken. (In the flashback, a small tidal wave moves away from the city.) Dosmrti, dosmrti na to nezapomenu. <br><br>[Translation: There is a "failsafe" mechanism on the ocean floor. With big power it ripped off the anchor of town from the bottom of ocean. We were ... we were afraid ... were ... were ... we were afraid. Unbelievable. What is happening, and that noise. The whole city was trembling as if it was an earthquake. That was something unbelievable. And suddenly we were moving. All the city was ascending, ascending up, up to the surface. That, that was something unbelievable. And the towers punched through the surface of water and we were going up, up. Waters, waves, waterfalls. All that water was falling down from that heights and we were shot up, absolutely on the top, and suddenly sun. Sun was simply shining to all windows. I will remember it to my death.] <br><br>FORD (offscreen): You didn't say anything that would require security clearance, did you? <br><br>ZELENKA (frowning): Security clearance? <br><br><br>ORIN'S PLANET. Many Wraith Darts are flying over the village, their transporter beams sweeping across the ground. Some parts of the village are on fire. In the Puddlejumper, John and Teyla gaze out of the window, appalled. <br><br>SHEPPARD: This is hard to sit and watch. <br><br>TEYLA: There's nothing we can do. <br><br>SHEPPARD: We could do a lot. It'd just be the last thing we'd ever do. <br><br>TEYLA: We are far outnumbered and the Gate is still inaccessible. (She turns to face John.) But if we save Orin and his family, we will have done something. <br><br><br>SHEPPARD: Something. <br><br>ATLANTIS. In a lab, Sergeant Bates is recording his message home. <br><br>BATES (smiling into the camera): I'm gonna miss you, kiddo. I can't wait to get back home and take you to a basketball game and watch Kobe and Shaq take another title home for the Lakers. (Behind the camera, Aiden smiles. Bates pauses for a moment, then speaks to Aiden.) That's it. <br><br>FORD: That's it? <br><br>BATES: What else am I gonna say to the kid? <br><br>FORD: It's your little brother, Sergeant. <br><br>BATES: I'm probably never gonna see him again. Why make it worse than it has to be? <br><br>FORD: That's not what this is about, man. <br><br>BATES: That's exactly what this is about. (He sighs.) Don't sweat it, Lieutenant. I'm happy I got the chance to say goodbye. <br><br>FORD: Yeah, but you didn't say it. <br><br>BATES: Not in so many words. (He stands up and walks away.) <br><br><br>CORRIDORS. Aiden is walking along with the camera when Rodney comes up to join him. <br><br>McKAY: Lieutenant Ford. <br><br>FORD: Ah, are you ready to record your message? <br><br>McKAY: Already done. Actually, I took the liberty of doing mine in private. (He holds up a cassette.) Now, it may require some, uh, editing. <br><br>FORD: Editing. <br><br>McKAY: Yeah, I, uh, I went on a bit. Actually, I used the entire tape. <br><br>FORD: You talked for an hour? <br><br>McKAY: You see, I found it rather therapeutic, actually. Now, I'm fairly confident I've come up with several valuable insights -- in fact, I'm sure of it -- but, uh, I've only slept six hours in the last few days, so, um ... <br><br>FORD: Who's it for? <br><br>McKAY: Humanity in general; my sister ... Look, I don't expect you to cut it down to just a few minutes. I mean, there is gold in here -- so just make sure mine's last and that way, if it gets cut off, fine, but if the Gate holds the connection a few extra milliseconds, then we won't have wasted the time. <br><br>FORD (taking the cassette): Well, I'll look forward to it. <br><br>McKAY: Well, enjoy. (He pats Aiden on the shoulder, then walks away.) <br><br>FORD (whispering to himself sarcastically): Gold! <br><br><br>RODNEY'S VIDEO RECORDING. In Rodney's lab, we see from the camera's point of view as Rodney starts the recording. He combs his fingers through his hair. <br><br>McKAY: Right. And in (he holds up his left hand with his fingers extended) five, four, three, (he stops speaking and holds up two fingers to signify the "two" count, then folds his arms and looks serious.) This is Doctor Rodney McKay speaking to you from my base of operations in the lost city of Atlantis, located deep (he gestures dramatically) within the Pegasus galaxy. I record this message on the eve of our darkest hour. As I speak, an alien armada of biblical proportions is on its way, bent ... dare I say hellbent -- in keeping with the metaphor -- on our destruction. We will do our best to stave off their attack but I am afraid that defeat is all but inevitable. I, and the other members of my team, face the most horrific deaths imaginable, as our very lives are sucked from our chests in a, in a, horrific ... OK, uh, starting again, (he makes a "cut" motion with his hands) starting again. Uh, Ford, just, just, cut that, alright? (He looks around the lab.) What about, uh ... <br><br><br>ORIN'S PLANET. The Wraith Dart attack continues. Suddenly a solid white beam shoots up into the sky from the surface of the planet somewhere inside the village. In the Puddlejumper, John and Teyla stare. <br><br>SHEPPARD: What is that? <br><br>TEYLA: I have never seen such a thing. <br><br>SHEPPARD: I'll go and check it out. (He gets up and starts to walk towards the rear of the ship. Teyla grabs his arm.) <br><br>TEYLA: You may be discovered. <br><br>SHEPPARD: I'll make a point not to. <br><br>TEYLA: Major ... <br><br>SHEPPARD: I just wanna see what ... (Teyla shakes her head at him pleadingly) whatever that is. Just stay here until Orin and his family show up. (He picks up his P90, opens the rear of the Jumper and leaves the ship. Outside, we see him become visible as he leaves the confines of the stealth field. In the distance, we hear not only the sound of the Wraith Darts but screams from the villagers. John cautiously heads off towards the village.) <br><br><br>ATLANTIS. RODNEY'S VIDEO RECORDING. <br><br>McKAY: And in five, four, three (he gestures at the camera as if to say, "You know the rest", then clears his throat and smiles at the camera). My friends. I'm Doctor Rodney McKay of the Atlantis expedition, and as the facts of our heroic struggle against the Wraith and our untimely demise are already known to you, in that light, I'd like to pass along some final thoughts. Now, my extensive education, training and first-hand experience in the field of astrophysics has given me a unique perspective that few on Earth or, uh, well, on any other planet for that matter, can match. I'd like to take a few moments now to, uh, pass along that perspective to you. I'll begin with, um, (he picks up some cards that he's written on) a few observations on a subject that is both near and dear to my heart: leadership. (He takes the top card and looks at it.) <br><br><br>ELIZABETH'S OFFICE. Elizabeth is recording her message. <br><br>WEIR: Mr and Mrs Markham -- my name is Doctor Elizabeth Weir, and your son was a member of my expedition team. <br><br><br>FLASHBACK TO "38 MINUTES". Markham is flying the Puddlejumper away from the Wraith planet as John lies in the rear with the Wraith beastie wrapped around his throat. <br><br><br>WEIR: It is with deep regret that I have to inform you that he was killed in the line of duty just a few days ago. <br><br><br>FLASHBACK TO "THE BROTHERHOOD". The Puddlejumpers are flying towards the Wraith Dart. The Dart fires, and Markham's Jumper is destroyed. <br><br><br>WEIR: He died in the defence of others, and his sacrifice may have saved many ... <br><br><br>(The recording segues into another part of Elizabeth's recording.) <br><br>WEIR: ... her keen curiosity are just some of the qualities that your daughter displayed during her duties as a scientist on my team. She and several of her colleagues died suddenly just a few weeks ago. I am not at liberty to reveal the cause of her death, but I can tell you that, during her time here, Doctor Dumais was a part of something very profound. <br><br><br>FLASHBACK TO "RISING PART 1" showing various scenes as the Atlantis team come through the Gate for the first time. <br><br><br>WEIR: She saw and did things she never would have dreamed of before ... <br><br><br>(The recording segues into another part of Elizabeth's recording. The rest of her messages to various families segue smoothly into each other.) <br><br>WEIR: ... very proud of your son, knowing that he died bravely while defending others. I confess I didn't know him as well as I could have, but I do know he was well liked and very well respected among his peers ... <br><br><br>FLASHBACK TO "RISING PART 2" as the villagers and marines on Athos come under fire from the Wraith Darts. <br><br><br>WEIR: ... and I was told of how often he spoke of his family ... <br><br><br>FLASHBACK TO "THE DEFIANT ONE" as Doctor Abrams is attacked by the Wraith. <br><br>FLASHBACK TO "SUSPICION" as the marines run to attack the Wraith after they have lured them to a planet. <br><br>FLASHBACK TO "THE STORM" as two guards run down the steps of the Gateroom to greet what they think are refugees but are, in fact, the Genii. Kolya pushes his way through the other Genii and shoots the guards. <br><br><br>WEIR: ... I do wish I could tell you more. I'm sure you understand as a military family ... (Elizabeth trails off and lowers her head, on the verge of tears. Aiden switches the camera off.) <br><br>FORD (sympathetically): Are you done, ma'am? <br><br>WEIR: Just give me a moment, please, Lieutenant. <br><br><br>LAB. A female Asian scientist is making her recording. <br><br>SCIENTIST: I am keeping busy with my job. I work hard, like everyone else, to ensure the success of this expedition ... (she smiles) ... and also to please the leader of our science team. <br><br><br>FLASHBACK to Rodney, in the lab, berating a blonde female scientist. <br><br>McKAY: No, no, no, no, no. No. This sequence first, then the secondary code -- unless you're intentionally trying to blow us up, in which case, excellent work(!) <br><br><br>SCIENTIST (into the camera): He does not always remember my name, but I have enjoyed working for him very much. <br><br><br>FLASHBACK to Rodney sitting at a bench biting into a sandwich as the scientist works nearby. As he tastes the sandwich, he looks appalled and spits it out. <br><br>McKAY: What is this? What is this? Who made this?! (He turns to the scientist.) You made this? (The scientist raises her hands in denial.) <br><br><br>SCIENTIST (into camera): He's a very honourable and brave man. <br><br><br>FLASHBACK to Rodney sitting at another bench, then suddenly crying out in pain and jumping off his stool. <br><br>McKAY: Oh! Ah! Ah! OK, cramp, cramp, cramp, cramp, cramp! (He whimpers in pain as he hops around the lab. The scientist runs towards him to try to help.) Ow! Ow! Ow! <br><br><br>SCIENTIST (into camera): Until then, I will continue to serve at his pleasure. <br><br><br>RODNEY'S VIDEO RECORDING. Rodney has now sat down on a stool and is gazing off into space thoughtfully. <br><br>McKAY: I almost caught mono kissing a girl in Algebra Club. Missed an entire month of school. (He chuckles.) Still, the kiss was, uh, somethin', so it was, uh, probably worth it. April Bingham -- cute blonde! God -- you see, I love blondes, especially with the, uh, the short hair. (He smiles reflectively.) Mmm. (He takes a breath and looks into the camera.) Samantha Carter -- if you're watching, (he puts a hand over his heart) the torch is still burning -- sadly, soon to be extinguished, but, uh ... You know, you should know -- I think you are just ... so ... well, you're great -- you're really, really great, and, uh, I would go so far as saying you're the hottest scientist I've ever worked with. In fact, there's probably not a night that goes by that I don't, uh, find myself, uh ... OK, Ford, let's, let's lose that. (He gets off the chair.) And let's get back to, uh ... (he clears his throat and folds his arms) leadership. <br><br><br>ORIN'S PLANET. In the Puddlejumper, Teyla is moving kit around, probably to take her mind off the sound of the Wraith Darts sweeping over the village and the distant screams and cries for help coming from the villagers. She suddenly stops dead, sensing something, then slowly turns towards the open rear of the Jumper. A Wraith guard walks into view outside the rear of the Jumper, then stops and turns towards the Jumper as if it can sense something there, even though it can't see anything. Teyla looks across to the other side of the Jumper and sees a P90 lying on the seat, but daren't move towards it in case the guard hears her. The guard turns towards the Jumper, looking around for whatever it can sense, but it can't see anything out of the ordinary. Eventually it turns and walks away. Teyla sighs in relief. <br><br><br>ATLANTIS. CONFERENCE ROOM. Kavanagh walks in holding a laptop as Aiden sets up the camera for his recording. Kavanagh puts the laptop down on a table and sits down. <br><br>KAVANAGH: Who will be watching this? <br><br>FORD: Uh, anyone you're sending it to. Family, friends, loved ones. <br><br>KAVANAGH: Will anyone from Atlantis be viewing this? <br><br>FORD: No. Messages are private. (He grins.) You can get as mushy as you want. <br><br>KAVANAGH: Right. (He looks down at the laptop, then into the camera.) Uh, this is a message for General Jack O'Neill of Stargate Command. I feel it is my duty to inform you of what I consider to be serious errors in judgement among the leaders of this expedition. (Unseen by Kavanagh, who is looking at his laptop again, Aiden rolls his eyes and shakes his head.) Most notably, Doctor Elizabeth Weir. Her actions have repeatedly and recklessly exposed the people of this expedition to extreme danger, leading us directly to the grave situation we currently find ourselves in. <br><br>FORD: You know what? How bout I leave the room and let you record your whining in private? <br><br>KAVANAGH: Fine. <br><br>(Aiden glares at him, then leaves the room. Kavanagh addresses the camera again.) <br><br>KAVANAGH: I've been keeping a record of Doctor Weir's questionable activities, which I would like to detail for you now. <br><br><br>ORIN'S PLANET. John is cautiously making his way through the woods. The sound of Wraith Darts and the screaming of villagers can still be heard in the distance. He reaches the edge of the woods, crouches down and looks through his binoculars towards the village at the beam shooting up into the sky. A Dart flies over John's head. He watches it go, then turns back into the woods again. <br><br><br>RODNEY'S VIDEO RECORDING. Rodney is now sprawled on a seat in the lab. <br><br>McKAY: Never cared for dogs: too much work, too needy, too unpredictable. I mean, you leave one door open, the tiniest little cracks, and they're gone. You look for them, you put up fliers -- it's no use -- and since your father refused to pay for a licence, the Animal Shelter has no way of tracking them. Y'know, God knows what happened to that little guy. (He sighs.) Now cats -- now that's a whole different story. Cats are self-sufficient, they're dependable; you shake the box, they come running -- cynics would say it's because of the food but my cat ... see, I truly believe he enjoys my company. (He smiles.) There's something very comforting about coming home from work at the end of the day and having a familiar face waiting for you, you know? Still -- I digress. (He looks around for his card.) Where was I? Uh, right. (He picks up the card.) Leadership. <br><br><br>ORIN'S PLANET. Teyla is sitting in the co-pilot's seat of the Puddlejumper as the cull continues in the village. She looks as if she won't be able to stand the sound of screaming much longer. As she gazes blankly out of the window, she suddenly notices shapes coming out of the woods. She stands, and sees four people -- two men, a woman and a child -- running towards the Jumper. She grabs her rifle and runs towards the rear of the Jumper, stopping to turn off the stealth shield. As the people get near to the Jumper, it decloaks. They stop and jerk back in shock. <br><br>TEYLA: Over here! (The people turn to run away but Teyla hurries out of the Jumper so that they can see her.) It is alright -- I am a friend! Please! Hurry! This way! Hurry! This way. (She ushers them inside the Jumper. Once they are inside, the Jumper cloaks again.) <br><br>(Inside the Jumper, Teyla checks out of the front window to see if anyone else -- human or Wraith -- is around, then comes back to the refugees. The woman, child and one of the men are sitting down. The other man remains standing. All of them are exhausted and in shock. <br><br>Teyla speaks to the second man.) TEYLA: How many of you remain? <br><br>MAN: I don't know. The Wraith are everywhere. <br><br>(Teyla picks up a water bottle and offers it to the woman.) <br><br>TEYLA: Here -- drink this. It is water. (She turns to the man standing up.) Orin? Have you seen him? <br><br>MAN: Not since before the Wraith arrived. (Teyla offers him another water bottle, which he takes.) Thank you. (He drinks.) We must go now -- the Wraith will find us. (He turns to run out of the Jumper. The others stand up, ready to go with him.) <br><br>TEYLA: No they will not. Our ship has a shield which makes it invisible to them. You are safe here. Just rest. We will leave soon. <br><br>(The man she has been speaking with nods. The others sit down again, the man and woman hugging the child.) <br><br><br>ATLANTIS. ELIZABETH'S OFFICE. Elizabeth is speaking into the camera again. <br><br>WEIR: Finally, I would like to say something to the families of every member of this expedition. I wish I could tell you more about what your loved ones are doing -- and some day I hope you find out, because you will be amazed. But I will tell you that I could not be more proud of each and every one of them. Their heroism has amazed me. <br><br><br>FLASHBACK TO "HIDE AND SEEK". Rodney, protected by the Ancient force shield, stands inside the black cloud and hurls the naqahdah generator through the Gate. The cloud follows it. <br><br>FLASHBACK TO "SUSPICION". Teyla battles with Steve' with her fighting sticks. <br><br>FLASHBACK TO "THE DEFIANT ONE". Rodney fires his pistol over and over again at the approaching Wraith. John runs up behind it and jams his energy bar into the Wraith's clothing, only for the Wraith to turn around and send him flying. <br><br>FLASHBACK TO "THE EYE". John shoots at Kolya as he stands in front of the Stargate holding Elizabeth as hostage. The bullet hits Kolya and knocks him back into the Gate. <br><br>FLASHBACK TO "HOT ZONE". The naqahdah generator explodes above the planet. In the Puddlejumper, John is buffeted around by the blast. Above the city, a huge explosion fills the night sky. <br><br><br>WEIR: Their resourcefulness has staggered me. <br><br><br>FLASHBACK TO "POISONING THE WELL". Carson is working in the Hoffan lab. He and Perna check their latest results in a microscope. <br><br>FLASHBACK TO "THE BROTHERHOOD". In the hidden cavern, John puts his hand onto the handprint on the console and a ZPM slides out of the wall. <br><br>FLASHBACK TO "THE EYE". As the tidal wave approaches the city, Elizabeth cries out, "Rodney, go!" Rodney replies, "Going! ... Now!" and slams his hand down onto the controls. As the wavefront reaches the city, the shield deploys and the wave sweeps over the city without touching it. <br><br><br>WEIR: We face a terrible enemy and an uncertain future, but if we are never heard from again, know that your loved ones did not face that uncertainty alone. We are facing our future together. <br><br><br>ORIN'S PLANET. The refugees are still sitting in the Puddlejumper. Teyla is at the front, looking through binoculars out of the front window. She smiles as she sees John running towards the ship. She puts the binoculars down and runs towards the rear of the ship to meet John and guide him in. <br><br>TEYLA: Major! <br><br>SHEPPARD: It's pretty ugly out there. (He sees the refugees.) Is this Orin's family? <br><br>TEYLA: No. They have not seen Orin since the culling began. <br><br>SHEPPARD: The village is pretty much wiped out. (He walks inside the Jumper, goes to the front, picks up the binoculars and looks out of the front window. The beam is still shooting up into the sky. Near the village, there's a white whoosh.) The Gate just shut off. We should be able to dial up and get out of here before the Wraith can do anything about it. <br><br>(Teyla comes forward.) <br><br>TEYLA: Please, Major -- give Orin more time. <br><br>SHEPPARD: If he was able to get here, he'd be here by now. We've gotta get back. <br><br>(Teyla looks resolute.) <br><br>TEYLA: Then go. (She picks up her rifle.) I will stay and search in the daylight. You can return for me later. <br><br>SHEPPARD: Can't do that. <br><br>TEYLA: I consider Orin as family, Major. I am sorry if you do not understand what that means. <br><br>SHEPPARD: I understand it, Teyla, but that's not the point. <br><br>TEYLA: With or without you, I am staying. <br><br>(They look at each other for a moment.) <br><br>SHEPPARD: You won't make it. <br><br>TEYLA: Then I ask that you stay as well -- just a little longer. Allow something good to come of this. <br><br>(John realises that he can't force her to leave.) <br><br>SHEPPARD: Alright. We'll give him a little more time. <br><br><br>ATLANTIS. INFIRMARY. Carson has now pulled himself together and is smiling as he speaks into the camera. <br><br>BECKETT: I know you worry about me, Mum, but somehow we've found a way to rise to each challenge, so I wouldn't fret about my safety. It's the people here -- from dozens of countries, all connected by a single bond. We represent the people of Earth -- and if there's one thing I've discovered about we Earthlings, we're a scrappy bunch. I wouldn't be surprised if I bring back ... <br><br>FORD (interrupting): Doc, you can't say "Earthlings"! Your mother doesn't have security clearance. <br><br>BECKETT: She knows I'm from Earth, son -- it's not a bloody secret! <br><br>FORD: Oh, right. <br><br>BECKETT (into camera): Sorry, Mum. Anyhow ... <br><br><br>CONFERENCE ROOM. Kavanagh is continuing his report to General O'Neill. <br><br>KAVANAGH: ... authorised using a prisoner to test an experimental drug, in clear violation of the Geneva Convention; authorised lowering the Stargate shield when the authenticity of incoming travellers was clearly in question ... <br><br><br>RODNEY'S VIDEO REPORT. Rodney is slumped over the desk, only just visible in the viewscreen. <br><br>McKAY: That's another sight I'll die without having seen. See -- to be fair, when you've travelled as much as I've travelled, you'd think that missing Niagara Falls would be no big deal, but you know what? It gnaws at you. A lot of movies I wish I'd seen and won't see now. Never saw "Grease", even though I had a thing for Olivia Newton John when I was a kid. Always wanted to see "Ghandi"; only saw the first half of "The Sixth Sense" -- always wondered how that ended. (He suddenly has a thought.) My sister. (He straightens up and looks into the camera.) Ford, if you cut everything else, just, um, keep this part, OK? Jeannie? This is your brother, Rodney ... obviously! I wanna s-say, um ... I wanna say something. Uh ... family is important. I-I've come to realise that because the people here have become a sort of a ... kind of a surrogate family to me. (He smiles.) Now, I know what you're thinking: I've never really been the poster child for that kind of sentiment but, uh, when ... when one's contemplating ones own demise, one tends to see things more clearly. I really do wish you the best, you know, and I'm sorry we weren't closer. Perhaps, um ... if by chance I make it out of this, perhaps one day we can be, and I would like that. (He gazes at the camera for a moment, then pulls himself together.) Now -- if there's time I'd like to go back to, uh, (he picks up his card again) the subject of leadership. <br><br>(At that point, the tape runs out.) <br><br><br>ORIN'S PLANET. In the Puddlejumper, John is looking through the binoculars again. He sees a group of people running towards the Jumper. <br><br>SHEPPARD: Someone's coming. (He hands the binoculars to Teyla. She looks through them and smiles in delight as she realises that it's Orin, carrying a small child, and half a dozen others. She jumps up, grabs her P90 and runs out of the Jumper, followed by John.) <br><br>TEYLA: Orin! Orin! <br><br>SHEPPARD: How big is his family?! <br><br>TEYLA: He must have met up with others along the way. <br><br>SHEPPARD: That's gonna be a problem. <br><br>(Orin and his group reach John and Teyla.) <br><br>ORIN: I didn't think you'd still be here. <br><br>TEYLA: We would not have gone without you. <br><br>ORIN: We found others on the way -- and even more further behind. <br><br>SHEPPARD: How many more?! <br><br>ORIN: Uh, twelve -- perhaps more. <br><br>(He turns and looks back the way they came. A large group of people are running towards them. One of the earlier refugees comes out of the Jumper and shouts.) <br><br>MAN: In here! This way! Quickly! <br><br>(Orin's group starts to run towards the Jumper.) <br><br>SHEPPARD: W-w-w-w-w-w-wait! <br><br>(As he runs to stop the group, the sound of approaching Wraith Darts can be heard. Everyone looks up as two Darts fly overhead. John stares upwards in horror.) <br><br>SHEPPARD: Alright, we'll fit as many people as we can! <br><br>TEYLA: Hurry! Come on! <br><br>(Orin's group runs for the Jumper, the women and children screaming in terror. The refugee man shows them the way into the shielded Jumper.) <br><br>MAN: Straight ahead! Straight ahead! <br><br>(The villagers who are further away run towards the Jumper. There's a lot of shouting and screaming. One of the Darts activates its transporter beam and sweeps some of them away. John has picked up a little girl and is running for the Jumper. A transporter beam sweeps within inches of him but he throws himself into the Jumper just in time, crashing to the floor with the little girl. Outside, the rest of the villagers scream as the transporter beams sweep them up. Orin and his people stare in horror and grief at the sound. As silence falls, Orin begins to weep. John stares out of the door for a moment, then runs to the front of the Jumper. He sits down and dials the Gate as Teyla comforts the refugees. As the Jumper lifts off, Teyla comes and sits next to him, her face reflecting her sadness.) <br><br><br>ATLANTIS. Elizabeth walks into the Conference Room to join John, Teyla and Rodney. <br><br>WEIR: Are our guests comfortably settled in? <br><br>TEYLA: Yes. <br><br>WEIR: Good. So tell me: how bad is it? <br><br>SHEPPARD: Bad. Each hive ship acts like a carrier group with cruisers and hundreds of Darts escorting it. Grodin's downloading the sensor readings right now. <br><br>TEYLA: I have never witnessed a culling that took so many. <br><br>SHEPPARD: We saved a few -- that's worth something. <br><br>(He and Teyla are still looking shocked from what they experienced. Elizabeth turns to Rodney.) <br><br>WEIR: Rodney, are we ready to send our message? <br><br>McKAY (quietly): When you are. <br><br>WEIR: OK. <br><br>(Rodney and Teyla leave the room. John stands up to leave but Elizabeth speaks to him.) <br><br>WEIR: Lieutenant Ford is just finishing recording the personal messages from all the team members. If you'd like ... <br><br>SHEPPARD: I'm good. <br><br>WEIR: OK. Well, then, along with a short note of my own, I took the liberty of recording messages to the families of the people we've lost. <br><br>SHEPPARD: It's a good idea. <br><br>WEIR: But there's one in particular I thought maybe you'd like to do yourself. <br><br><br>(Shortly afterwards, John looks into the video camera.) <br><br>FORD (offscreen): OK, whenever you're ready, sir, go ahead. <br><br>SHEPPARD (into the camera): I'm not sure if Colonel Sumner's parents are still alive. Um, I'm not sure he even has a family back there -- not all of us do. But if he does have a family, they should know that he died with honour and courage in the performance of his duty. He carried the burden of a leader, and he carried it well. I didn't get the chance to know him well, but I know this: considering the type of man he was, and what we're up against, well, I wish he was still here. <br><br><br>(Elizabeth is talking into the video camera.) <br><br>WEIR: Not a day goes by that I don't think of you, Simon. There's so much I wanna tell you, and share with you, but I can't. (Her voice becomes tearful.) I know this is unfair -- so much you don't know -- and putting your life on hold for me. So don't. All I ask is you take care of yourself, and know that wherever you are, my heart is looking after you. <br><br><br>BECKETT (into the video camera): So take care of yourself. Lots of sleep; remember your daily walks; and keep up with your prescription. Well, that's about it. I'll say goodbye now. (He smiles.) And, Mum? I do love you. <br><br><br>FORD (waving to the camera and smiling): Bye, Grandma, Grandpa! I miss you! <br><br><br>BATES (into the video camera): Goodbye, bro. <br><br><br>ZELENKA (into the video camera): Drz se, milacku. [Take care of yourself, darling.] <br><br><br>FEMALE SCIENTIST (waving and smiling into the camera): Goodbye. <br><br><br>WEIR (into the video camera): Goodbye, Simon. <br><br><br>SHEPPARD (into the video camera): Goodbye. <br><br><br>WORMHOLE TRAVEL. <br><br>EARTH. STARGATE COMMAND. CONTROL ROOM. The Stargate can be heard kawhooshing. Sergeant Walter Harriman is at the control desk. <br><br>HARRIMAN: We have unscheduled offworld activation. <br><br>(Colonel Samantha Carter runs into the room and sits down at the control desk beside Walter.) <br><br>HARRIMAN: Receiving transmission. <br><br>(At that moment, the Stargate closes down again. Walter looks surprised that it closed down so quickly. On Sam's computer monitor, data is streaming across the screen.) <br><br>HARRIMAN: Who's it from? <br><br>(Sam looks at the screen, then turns round to Walter with a surprised expression on her face.) <br><br>CARTER: Atlantis! 
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="115.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s1/117.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="118.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s1/index.shtml">
+<IMG SRC="/graphics/title_s1episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season One Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="101.shtml" CLASS="list">Rising, Part 1</A><BR><A HREF="102.shtml" CLASS="list">Rising, Part 2</A><BR><A HREF="103.shtml" CLASS="list">Hide and Seek</A><BR><A HREF="104.shtml" CLASS="list">Thirty Eight Minutes</A><BR><A HREF="105.shtml" CLASS="list">Suspicion</A><BR><A HREF="106.shtml" CLASS="list">Childhood's End</A><BR><A HREF="107.shtml" CLASS="list">Poisoning the Well</A><BR><A HREF="108.shtml" CLASS="list">Underground</A><BR><A HREF="109.shtml" CLASS="list">Home</A><BR><A HREF="110.shtml" CLASS="list">The Storm</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="111.shtml" CLASS="list">The Eye</A><BR><A HREF="112.shtml" CLASS="list">The Defiant One</A><BR><A HREF="113.shtml" CLASS="list">Hot Zone</A><BR><A HREF="114.shtml" CLASS="list">Sanctuary</A><BR><A HREF="115.shtml" CLASS="list">Before I Sleep</A><BR><A HREF="116.shtml" CLASS="list">The Brotherhood</A><BR><A HREF="117.shtml" CLASS="list">Letters From Pegasus</A><BR><A HREF="118.shtml" CLASS="list">The Gift</A><BR><A HREF="119.shtml" CLASS="list">The Siege, Part 1</A><BR><A HREF="120.shtml" CLASS="list">The Siege, Part 2</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season One</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B000BVXPGY/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B000CEVUIK/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls1.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="115.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s1/117.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="118.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

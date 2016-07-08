@@ -1,0 +1,526 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Thirty Eight Minutes" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s1/104.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s1/transcripts/104.shtml">Transcript</A>
+				 | <A HREF="/atlantis/s1/reviews/104.shtml">Review</A>
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=510">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=255">Screen Captures</A><BR>
+				<A HREF="/atlantis/s1/104.shtml#analysis">Analysis</A>
+				
+				 | <A HREF="/atlantis/s1/104.shtml#notes">Notes</A>
+				
+				
+				
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=2817">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s1/104.shtml"><IMG SRC="/atlantis/graphics/104_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="THIRTY EIGHT MINUTES" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://www.amazon.com/exec/obidos/ASIN/B000ICPJOW/bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 104<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 1, Disc 1<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 07.30.04<BR>
+				    
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0942249/" TARGET="_blank">Brad Wright</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0044524/" TARGET="_blank">Mario Azzopardi</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">The team finds themselves in mortal danger when their Puddle Jumper ship becomes lodged in the Stargate.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    <B>and Celsitude. Czech translation by Veneticuss.</B><br><br>WRAITH PLANET. In space above the planet, a Puddle Jumper is flying away from the planet with smoke trailing from one of its engine pods. Inside, Lieutenant Aiden Ford runs to the cockpit. Sergeant Markham is flying the Jumper. Sergeant Stackhouse is sitting in the co-pilot's seat. All three of them seem very anxious, acting as if they are in a dreadful hurry.<br><br>FORD: How we doing?<br><br>MARKHAM: OK, Lieutenant. Uh, I think I've got it lined up pretty close.<br><br>FORD: No such thing as close. You thread the needle or we're dead.<br><br>MARKHAM: Right.<br><br>FORD: OK, you can do it. Nice and easy. (He turns to Doctor Rodney McKay who is in the rear of the ship.) OK. I think we're close enough to dial the Gate.<br><br>McKAY (irritably): Yes, yes! Hurry up and get us back.<br><br>(Stackhouse dials the D.H.D. and the Jumper flies towards the Stargate floating in space in the distance, smoke still trailing from its engine pod. Back inside the ship, we see Major John Sheppard lying on the floor at the rear of the Jumper. He has a large winged insect, the size of a puppy, attached to his neck and he is in a great deal of distress and pain. Teyla Emmagan and Doctor McKay are kneeling down either side of him, holding him down.)<br><br>SHEPPARD: Get this damned thing off me!<br><br>TEYLA: We can't.<br><br>(Sheppard looks at McKay.)<br><br>SHEPPARD: Cut it off.<br><br>(McKay turns and calls to the front of the ship.)<br><br>McKAY: As soon as we establish a connection, radio back that we've got a medical emergency.<br><br>TEYLA (to McKay): There must be something we can do for him.<br><br>McKAY: There's an emergency first aid kit behind the pilot's seat. Get it.<br><br>(Teyla runs to get the kit.)<br><br>McKAY: Major, everything we've been trying to remove it just makes the pain worse. Now try to be still.<br><br>(Sheppard nods. Teyla, having retrieved the kit, walks to the front of the ship.)<br><br>TEYLA: Is there no way to go faster?<br><br>STACKHOUSE: He's just trying to get us back in one piece.<br><br>(Teyla exchanges a glance with Ford, then hurries back to Sheppard and McKay. From an outside perspective, the Jumper lines up with the open Stargate and heads towards it. Its engine pods retract ready for entry into the Gate but, unknown to the people inside, they do not retract all the way. Inside, Ford activates his radio.)<br><br>FORD: Atlantis base, this is Ford. Jumper One is inbound with a medical emergency. Please respond.<br><br><br>ATLANTIS. In the Gateroom, the Stargate is open and alarms are sounding. Doctor Elizabeth Weir walks into the Control Room and goes over to a male technician sitting at one of the consoles.<br><br>WEIR: What's going on?<br><br>TECHNICIAN: The reconnaissance team is reporting a medical emergency. I've alerted Doctor Beckett -- he's on his way.<br><br>WEIR: Put on Major Sheppard.<br><br>TECHNICIAN: He's the one who's injured.<br><br><br>PUDDLE JUMPER. As Sheppard writhes with pain on the floor, McKay goes through the first aid kit.<br><br>McKAY: What am I expecting to find in here that's gonna get rid of that thing?<br><br>TEYLA: Something for the pain.<br><br>McKAY: I don't think Tylenol's going to do it. He needs a doctor! (He calls to the cockpit.) How much longer?<br><br>FORD: Almost there. (He activates his headset radio.) Flight: Jumper One on final approach.<br><br>(In the Control Room)<br><br>WEIR: This is Weir. What's the nature of Major Sheppard's injury?<br><br>FORD: Some sort of funky alien bug attached itself to his neck. He's completely immobile.<br><br>WEIR: What's it doing to him?<br><br>FORD: We don't know, but we can't get it off him and we tried everything.<br><br>WEIR: You understand the risk of bringing something like that back to Atlantis?<br><br>FORD: Yes, ma'am, I do, but we really don't have a choice in the matter.<br><br>WEIR: Understood, Lieutenant. Good luck. (She deactivates the radio and turns to a marine standing nearby.) Quarantine the Jumper Bay.<br><br>(The marine nods and heads off.)<br><br><br>PUDDLE JUMPER. As Teyla does what she can for Sheppard and McKay does something to an overhead panel, Ford watches out of the front windshield as the Jumper travels the last few yards towards the Stargate. Ford pats Markham's shoulder.<br><br>FORD: It's all automatic from here. (He turns and calls back to the others.) Here we go!<br><br>(The Jumper begins to move slowly into the Gate. The cockpit enters the event horizon but when the engine pods reach the Gate, they jam against the side of the Gate. The Jumper sticks, unable to move any further. The sudden stop throws everyone inside violently to the floor. The lights flicker, then go out. From an outside perspective, we see that the Puddle Jumper is immobile, stuck halfway through the Gate.)<br><br><br>ATLANTIS GATEROOM. As the alarm continues to blare, Weir walks to the edge of the balcony and looks down at the Stargate. She turns to the technician.<br><br>WEIR: Where are they?<br><br>TECHNICIAN: I don't know. The Gate's still active. All indications read they should be through by now.<br><br>(Weir turns back to the Gate, a concerned look on her face as she waits.)<br><br><br>OFFWORLD STARGATE. From a side perspective we see that the rear half of the Puddle Jumper is sticking out of the Gate. The front half is missing, already inside the event horizon. McKay and Teyla, who were knocked unconscious by the impact, begin to rouse. As they look to the front of the ship, they see the event horizon rippling just in front of the bulkhead in the middle of the ship.<br><br>McKAY: Oh no.<br><br>TEYLA: What happened?<br><br>McKAY: The drive pod. The wing things that stick out while we're flying must've failed to retract. That's the only thing it could be. Well, it's that, or-or the Stargate shrank, which I highly doubt. This is, this is a -- a big problem.<br><br>TEYLA: What can we do?<br><br>McKAY: I don't know that there's anything we can do. I mean, this is a, this is a ... a very, very big problem.<br><br>(As he continues to look at the shimmering puddle, he sees someone's arm sticking out from the event horizon on the floor.)<br><br>McKAY: Give me a hand.<br><br>(He and Teyla get up and run forward. They grab the arm and haul it backwards, dragging Lieutenant Ford out of the event horizon.)<br><br>FORD: What the hell was that?! (He scrambles to his feet and stares at the event horizon.) That's strange.<br><br>McKAY: Yes, it is.<br><br>FORD (pointing at the event horizon): That is the <br><br>McKAY: Yes, it is.<br><br>(Ford realises that the metal of the Jumper's hull is making a creaking sound.)<br><br>FORD: That scraping sound we're stuck.<br><br>McKAY: Yes, we are. Apparently the engine pods failed to retract in time. It's a square peg, round hole.<br><br>FORD: Can we pull Markham and Stackhouse out?<br><br>McKAY: Our hands and arms would dematerialise as soon as we crossed the event horizon. There's no way to reach for them.<br><br>(Teyla remembers Sheppard and turns and goes back to him. Ford follows her. Sheppard is not moving.)<br><br>FORD: The major?<br><br>TEYLA: He must have been knocked unconscious by the impact.<br><br>WEIR (over radio): Jumper One, this is Weir. What's your status?<br><br>FORD (into radio): This is Ford. Good to hear your voice. The four of us are still here but Markham and Stackhouse are inside the event horizon.<br><br>WEIR: Say again?<br><br>FORD: Ma'am, Jumper One is lodged in the Stargate. Teyla, Doctor McKay and myself are in the rear compartment with the major. He's in bad shape. (Behind him, McKay looks irritated and twirls his hand as if to say, Get to the important part.) Markham and Stackhouse are in the forward section.<br><br>WEIR: How did that happen?<br><br>McKAY (prompting Ford): Engine pods<br><br>FORD (throwing him a black look): We think it was one of the engine pods, but there's no way to be sure.<br><br>McKAY: It is the only viable possibility.<br><br>WEIR: If I understand you correctly, you won't be able to access the flight controls.<br><br>McKAY: Yes. Elizabeth, it's an extremely intriguing conundrum and one that I would love to discuss with you in detail until the Stargate shuts down and this ship is cut in two ...<br><br>WEIR (interrupting): Rodney, calm down.<br><br>McKAY: ... at which point of course ...<br><br>WEIR (interrupting): RODNEY! If I'm going to be any help to you at all, I need to catch up. Lieutenant Ford, back it up for me.<br><br>(McKay turns away, frustrated and irritated.)<br><br>FORD: We couldn't I.D. the Wraith base of operations from space like we did the last time we were there, so we went to the same landing coordinates as before to get a closer look.<br><br><br>FLASHBACK.<br><br>The Puddle Jumper flies over the planet, cloaking as it goes. Some time later, having landed, the team makes its way through woodland. When they reach the edge of the woodland, they stop and Sheppard looks through a pair of binoculars to the location of the Wraith base. He lowers the binoculars for a moment, not believing what he is seeing, then looks through them again. Where the base was, there is now a massive hole in the ground.<br><br>SHEPPARD: It's gone!<br><br>McKAY: What? I thought you said it was in a mountainside.<br><br>TEYLA: It was. We were inside it.<br><br>(Sheppard looks at the hole again.)<br><br>SHEPPARD: Let's move.<br><br>(They head towards the hole until they reach its edge, then stare down into it. It looks like a meteor crater and must be at least a quarter of a mile wide.)<br><br>SHEPPARD: This was the spot.<br><br>McKAY: It's more of a hole than a mountain, really.<br><br>TEYLA: Could it have been destroyed?<br><br>FORD: This is definitely not a blast crater.<br><br>SHEPPARD: No. Looks like they just picked up and left. So, ship?<br><br>FORD: I don't know, sir. That mountainside was covered in trees.<br><br>SHEPPARD: Yeah, but the Wraith hibernate for centuries, right? (Teyla nods.) So a lot of trees could have overgrown it in that time.<br><br>TEYLA: Then we were held prisoner inside one of the great ships I showed you in the drawings. They've left to begin culling worlds.<br><br>(Behind them, twigs snap. McKay turns and sees movement in the trees.)<br><br>McKAY: There's movement down there!<br><br>(They all turn and see some Wraith guards, who begin firing at them. They duck down.)<br><br>SHEPPARD: Go!<br><br>(They run as the guards continue firing at them.)<br><br>END FLASHBACK.<br><br><br>PUDDLE JUMPER.<br><br>McKAY (irritated): She hardly meant begin at the beginning.<br><br>FORD: This is intel she needs to know.<br><br>McKAY (looking at his watch): And we have less than thirty eight minutes.<br><br>WEIR: Hold on. Why thirty eight minutes?<br><br>McKAY: Because that's the maximum amount of time a Stargate can remain open in non-relativistic conditions. It's one of the more immutable laws of wormhole physics and, oh my, look at the time. It's now more like thirty five minutes. Are we all caught up?!<br><br>WEIR: I get it. What do you need?<br><br>McKAY: Help.<br><br>WEIR: Alright. Let me put Kavanagh, Grodin and Simpson in a room; see what they come up with.<br><br>McKAY: That's good. And the Czech, the Czech, um, the Czech whose name I can never remember.<br><br>WEIR: Doctor Zelenka?<br><br>McKAY: That's him. We'll work it at our end.<br><br>WEIR: What else?<br><br>McKAY: We'll call you. Thank you. (He deactivates his radio.)<br><br><br>ATLANTIS CONTROL ROOM. Beckett walks in.<br><br>BECKETT: Where's my patient?<br><br>WEIR: There's been a problem. Conference Room.<br><br>BECKETT: Oh no! (He heads off again.)<br><br>WEIR (to the technician): Keep a channel open with them at all times. And turn that damned alarm off.<br><br><br>PUDDLE JUMPER. Sheppard is still lying on the floor at the rear of the ship, with his back against the raised rear door so that he is in a half-sitting position. We get our first close-up view of the bug attached to Sheppard's neck. It has a soft brown body which is pulsing in and out, suggesting that it may be feeding off Sheppard. The body is covered by hard black armour and possibly wings. Long legs are wrapped around Sheppard's throat and its mouth is fastened to his neck. Sheppard regains consciousness and lifts his head, seeing Teyla sorting through the first aid kit.<br><br>SHEPPARD: Hi, Teyla.<br><br>(Teyla stands up and walks over to squat down beside him.)<br><br>SHEPPARD: Are you alright?<br><br>TEYLA: I'm fine.<br><br>SHEPPARD: Something tells me we haven't made it to Atlantis yet.<br><br>TEYLA: No.<br><br>(Sheppard looks up and stares in amazement at the sight of the event horizon. Ford and McKay are standing either side of the bulkhead. McKay looks back at Sheppard.)<br><br>SHEPPARD: Ford? (Ford comes back and sits down beside him, putting his hand on his shoulder.) What is that?<br><br>FORD: We're stuck, sir.<br><br>SHEPPARD: What?<br><br>FORD: In the Gate.<br><br>SHEPPARD: You mean my day just got worse?<br><br>McKAY: We're going with the assumption it was one or both of the drive pods. I don't know whether it was mechanical failure or <br><br>FORD: ... it was damaged as we tried to take off.<br><br><br>FLASHBACK.<br><br>On the planet, the Wraith guards stop and fire up at the Jumper as it takes off. The ship jolts as some of the blasts impact it, and everyone is thrown around. Sheppard is lying in the rear of the ship with the bug attached to his neck.<br><br>SHEPPARD: We're taking fire. Let's get some altitude!<br><br>MARKHAM: I'm trying, sir!<br><br>END FLASHBACK.<br><br><br>McKAY: There's no way of knowing, really, but, uh, if you know of some way of manually retracting the mechanism <br><br>SHEPPARD: Cockpit, on the left.<br><br>McKAY: The cockpit is, uh, regrettably demolecularised at the moment. But, uh how about somewhere back here?<br><br>SHEPPARD: No.<br><br>McKAY: No. I didn't think so. Well, if you'll excuse me, I'll be a foot and a half over there taking some readings. (He points to the other side of the ship.) Feel free to talk amongst yourselves.<br><br><br>ATLANTIS. In one of the Conference Rooms, scientists are milling around and looking at computers. Weir comes in.<br><br>WEIR: Alright, you've all been briefed. We have less than half an hour. Where's Doctor Zelenka?<br><br>KAVANAGH: He's working up a simulation in Puddle Jumper Two. He went straight there.<br><br>WEIR: That's good.<br><br>KAVANAGH: If there was time, it would be.<br><br>WEIR: Let's not admit defeat just yet, Doctor. There are six people on that ship.<br><br>(Kavanagh looks as if he is about to protest but Beckett interrupts.)<br><br>BECKETT: I'm just a medical doctor here, so forgive me if this is a stupid question. If they just stepped through the event horizon, wouldn't they come through the front part of the ship when the Gate shuts down?<br><br>KAVANAGH: The front half won't rematerialise on this side.<br><br>GRODIN: The Stargate transmits matter in discrete units. The front half of the ship cannot rematerialise until the whole ship has crossed into the event horizon. The Stargate is essentially waiting for the contiguous components -- meaning the Jumper and everyone inside -- to enter completely before it can transport them.<br><br>(Beckett stares at him blankly, then looks at Weir.)<br><br>WEIR: He said the Gate only sends things through in one piece.<br><br>BECKETT: Right. Sorry.<br><br>GRODIN: Unfortunately, the outgoing Stargate won't transmit the matter stream until the demolecularisation is complete. When it shuts down, the entire forward section, along with the men inside, will cease to exist.<br><br>WEIR: And what about the others?<br><br>GRODIN: The ship will be severed instantaneously along the event horizon. They'll be exposed to hard vacuum, in twenty nine minutes.<br><br>SIMPSON: What if they closed the bulkhead door?<br><br>WEIR: The rear portion of the ship would remain pressurised, become a sort of lifeboat.<br><br>GRODIN: It would leak atmosphere like a sieve.<br><br>SIMPSON: It could buy enough time to send a second Jumper.<br><br>KAVANAGH: And do what?!<br><br>WEIR: Figure it out. Contact Jumper One and make the recommendation.<br><br>(She walks away. Grodin gets up to go and contact the Jumper. The other scientists get back to work, although Kavanagh rolls his eyes as if it's a waste of his time.)<br><br><br>PUDDLE JUMPER. McKay is sitting by the event horizon and working on a small computer pad. Ford sits opposite, watching him. Suddenly McKay looks up, walks over to the other side of the ship and presses a button. The bulkhead doors close, shutting off the event horizon. The rear compartment is plunged into darkness.<br><br>FORD: What are you doing?<br><br>McKAY: Sorry. (He switches a torch on.) Here.<br><br>GRODIN (over radio): Jumper One, this is Atlantis.<br><br>McKAY (activating his headset): Still here.<br><br>GRODIN (over radio): We recommend closing the bulkhead door.<br><br>McKAY: Oh, good thinking(!) What else?<br><br>(Ford and Teyla are getting more torches out and switching them on.)<br><br>GRODIN (over radio): We're still working on the problem. We'll get back to you. Atlantis base out.<br><br>McKAY (sarcastically): Thanks for calling! (To the others in the Jumper) Anyone else claustrophobic or is it, uh, just me?<br><br>FORD: Why'd you close the door?<br><br>McKAY: So that when the Stargate shuts down and the forward section is severed, we're not directly exposed to space.<br><br>FORD: Will it hold?<br><br>McKAY: Like a screen door on a submarine. I just prefer hypoxia to explosive decompression. It's a, it's a personal thing.<br><br>FORD: If the air's gonna get thin in here, you really do have to calm down.<br><br>McKAY: Oh yeah? Wait til you see how thin it gets in twenty seven minutes <br><br>SHEPPARD (quietly): McKay ...<br><br>McKAY: Vacuum! That's thin.<br><br>SHEPPARD (quietly): Knock it off.<br><br>McKAY (starting to get angry and a little hysterical): Oh, I apologise for being the only person who truly comprehends how screwed we are!<br><br>SHEPPARD (angrily): Don't talk to me about screwed.<br><br>(He glares at McKay, who calms down.)<br><br>SHEPPARD: And let's not give up on Markham and Stackhouse either. There's plenty of time to solve this thing, but you've got to stop using your mouth and start using your brain.<br><br>McKAY: I'm sorry. It's just, um, I react to certain doom a certain way. It's a bad habit and and Maybe there's a way to manually retract the mechanism.<br><br>SHEPPARD: Yeah, maybe there is.<br><br>(McKay reaches up to the ceiling and opens a panel. Teyla goes over to Sheppard and puts her folded jacket behind his head.)<br><br>TEYLA: Here. You seem stronger.<br><br>SHEPPARD: No, it's just the pain's not so bad now.<br><br>FORD: That's good.<br><br>SHEPPARD: No, it isn't. I can't feel my legs. My hands and arms are numb. I can barely move them, and it's creeping up. Lookit, Lieutenant. What I'm trying to say is that if you don't get this damn thing off me, I have even less time than you do.<br><br><br>ATLANTIS. JUMPER BAY. Inside Jumper Two, Doctor Zelenka is standing on a box and working on a wall console. He turns to another scientist standing nearby.<br><br>ZELENKA (in Czech): Can you give me the most recent data, please?<br><br>(Weir walks into the Jumper.)<br><br>WEIR: Doctor Zelenka.<br><br>ZELENKA: Apologies for not attending your briefing, Doctor Weir. There was no time.<br><br>WEIR: I don't want to slow you down but I need to know what you're working on so I can communicate it to the team on Jumper One.<br><br>ZELENKA: We are attempting to retract the, um, uh, (he says something in Czech, then translates it for himself) the drive pod back into the fuselage from inside the rear compartment. (He continues to work on the panel.)<br><br>WEIR: Anything yet?<br><br>ZELENKA: Well, there is much redundancy in Ancient technology, making it dangerous for them to experiment in this way.<br><br>WEIR: So they might accidentally open the rear hatch or shut life support off entirely.<br><br>ZELENKA: Yes, yes, yes, yes, which is why we are attempting to isolate the correct control pathway.<br><br>WEIR: Understood. What could I do to help?<br><br>ZELENKA: Stop talking, please. <br><br>(He turns and smiles apologetically at her, then gets back to the console. Weir nods and walks away. Zelenka touches a crystal inside the panel, which beeps.)<br><br>ZELENKA (in Czech): So, give me at least, at least three!<br><br><br>JUMPER ONE. McKay is also working on a wall console.<br><br>SHEPPARD: Lieutenant, get your knife out and cut this damned thing off. It can't hurt as much as it did last time.<br><br>TEYLA: The last time we almost lost you.<br><br>SHEPPARD: Well, you're going to lose me anyway.<br><br>(Ford squats down to him.)<br><br>FORD: Sir, we tried to get it off you when we were back on the planet. We tried everything.<br><br><br>FLASHBACK. On the Wraith planet, Sheppard is lying on the ground with the bug attached to his neck. Ford squats beside him.<br><br>FORD: You ready, sir? (Sheppard nods, breathing heavily.) Here we go. <br><br>(He raises his pistol, hesitates a moment, then puts the end of the barrel against the bug. Once he is sure it is in a position where the bullet won't hit Sheppard, he fires. The bullet shoots through the bug. Sheppard screams in agony.)<br><br>END FLASHBACK.<br><br><br>FORD: Everything we did just hurt you more. The thing just heals itself.<br><br>TEYLA: It feeds on your strength, like a Wraith.<br><br>SHEPPARD: You had to say that.<br><br>TEYLA: My father often told stories of creatures such as this. I always thought he was just trying to keep the children from straying far from our camp.<br><br>SHEPPARD: Great. He tell you how to kill it?<br><br>(Teyla shakes her head.)<br><br>FORD: I don't know, sir. I'm not sure we can.<br><br>SHEPPARD: Well, I could use a second opinion. Get Beckett on the radio.<br><br><br>ATLANTIS CONTROL ROOM.<br><br>TECHNICIAN (into radio): Affirmative. (He raises his hand to attract Beckett's attention as he walks by.) Over here, sir. This mic is open.<br><br>(Beckett turns and comes back to the technician's desk and leans down to the microphone.)<br><br>BECKETT: This is Doctor Beckett. How's our patient?<br><br>FORD: This is Ford. Major Sheppard's conscious but the creature is still latched on to him.<br><br>SHEPPARD: How do you feel about house calls, Doc?<br><br>BECKETT: Would if I could, Major Sheppard, but you'll have to settle for long distance. I'm told you have something of a cling-on. (He closes his eyes and grimaces as he realises what he just said.)<br><br>SHEPPARD: That's funny. (He chuckles briefly.) It's like the ugliest damn tick you've ever seen.<br><br>BECKETT: How did it attach itself?<br><br>SHEPPARD: Well, we were on our way back to the Jumper ...<br><br><br>FLASHBACK. The team are running for their lives.<br><br>SHEPPARD (voiceover): ... with the Wraith shooting at us ...<br><br>(The team scrambles up a slope and takes cover behind a fallen tree.)<br><br>SHEPPARD: Go tell Markham to get ready for take off. I'll cover you.<br><br>McKAY: What about you?<br><br>SHEPPARD: I'll be there in a minute! Go! <br><br>(The others race off. Sheppard waits until the Wraith guards come into view, then stands and fires a hail of bullets at them. He takes one of them down, then turns and runs off. As the guards fire at him, he takes cover behind a tree, then turns and fires another volley back at the guards before taking cover again.)<br><br>FORD (over radio): Major, we're cut off from the Jumper.<br><br>SHEPPARD (into radio): Negative. There's one at your three o'clock; I drew the other two this way.<br><br>FORD: (over radio) They're all around us. Where'd they come from?<br><br>SHEPPARD: Lieutenant, you know how they can make you see things that aren't there. The path in front of you is clear. Now move!<br><br>(He puts his radio away and runs off. As the guards fire at him, he turns and runs backwards, firing back towards the Wraith. He doesn't realise that behind him is a large cobweb strung between the trees with the bug hanging in the middle of it. He backs towards the web.)<br><br>END FLASHBACK.<br><br><br>BECKETT: Can you describe it to me?<br><br>FORD: Yes sir. It's about two feet in length, including the tail. That's wrapped down under his armpit. It's got two sharp, spiny things in his neck near the major's carotid artery.<br><br>BECKETT: I'll need more than that, son.<br><br>FORD: Its forelegs, I guess you'd call them that, they're wrapped around the major's throat. I can't see any eyes. It's got a real hard shell, but there's a soft leechy part underneath.<br><br>BECKETT: Major, what are your physical symptoms?<br><br>SHEPPARD: Well, first it felt like a knife in the eye. Since then I've lost all the feelings in my extremities. I can't move.<br><br>BECKETT: So it incapacitates first with pain, then paralysis.<br><br>SHEPPARD: I need to be able to move around to help McKay with the mechanical problem. Markham and Stackhouse are dead if I don't.<br><br>BECKETT: What have you tried?<br><br>FORD: I tried to cut it off. I tried to burn it off. I even tried to shoot it off -- nine mil, point blank. Not much worse I can do without killing the major along with it.<br><br>TEYLA: I believe the creature is related in some way to the Wraith.<br><br>(McKay looks away from his work on the panel for a moment.)<br><br>McKAY: Really?<br><br>BECKETT: How so?<br><br>TEYLA: It healed itself after each attempt to remove it by sapping life from Major Sheppard, just as a Wraith would.<br><br>(Beckett sighs, looking frustrated.)<br><br>McKAY: I suppose the Wraith must have evolved from something. It's probably some sort of, uh, prehistoric cousin.<br><br>(Ford looks down at Sheppard, whose face is wracked with pain.)<br><br>FORD: Listen, Doc. The Major's getting worse. We've got to do something right now.<br><br>BECKETT: You said the creature had an underside of exposed soft tissue, like a leech?<br><br>FORD: Yeah. I tried to cut into it, but the thing practically strangled him to death.<br><br>BECKETT: Son, you don't cut leeches off. You pour salt on them.<br><br><br>CONFERENCE ROOM. Kavanagh and Simpson are leaning on opposite sides of the table, arguing fiercely.<br><br>SIMPSON: If you activate the shield, they'll die.<br><br>KAVANAGH: Hey, we can always open it again if they fix the problem.<br><br>SIMPSON: They may not have time.<br><br>KAVANAGH: If they don't, we could destroy this facility!<br><br>SIMPSON: Well, I ...<br><br>(Weir comes in and interrupts the argument.)<br><br>WEIR: You're supposed to be working on solutions.<br><br>(Kavanagh looks irritated.)<br><br>KAVANAGH: We think the Jumper must be damaged for this to have happened in the first place. Ancient systems are too advanced for this to have been pilot error.<br><br>WEIR: So?<br><br>KAVANAGH: So depending on the extent of the damage, we can't rule out a catastrophic power feedback in the drive manifold.<br><br>WEIR: Without the technobabble, please.<br><br>SIMPSON: Doctor Kavanagh was pointing out that there is a very slim chance that with the cockpit controls interrupted and the pod damaged, the main drive could overload.<br><br>KAVANAGH: She means to say explode -- especially if McKay starts nosing around inside the control conduits to retract the drive pod manually. And he will. I know I would.<br><br>WEIR: Zelenka is working on simulations. I just came from there.<br><br>KAVANAGH: If there is a catastrophic overload, the full force of the explosion will break up the Jumper, follow the burning fragments through the Stargate like a bomb.<br><br>(Weir nods her understanding, then turns to Simpson.)<br><br>WEIR: You think the risk of this happening is minimal?<br><br>SIMPSON: In my opinion, yes. <br><br>(She stands up straight and glares at Kavanagh. Weir looks at the other scientists.)<br><br>WEIR: You all agree? (They all nod except for Kavanagh.) Then we take the chance.<br><br>(Kavanagh stands up, sighs and crosses his arms.)<br><br>KAVANAGH: I thought it was important to point out the risk.<br><br>WEIR: Fine. You did. Now please, worry a little bit more about their lives and less about your own ass. (Kavanagh looks away. Weir checks her watch.) Twenty three minutes. <br><br>(She leaves the room. The scientists get back to work.)<br><br><br>GATEROOM. As Weir walks across the upper level towards the Control Room, Halling and a group of Athosians come up the stairs from the Gateroom. Halling is carrying a small tray with three small pots on it.<br><br>HALLING: Doctor Weir?<br><br>WEIR: I'm sorry, I don't have time right now.<br><br>HALLING: Neither do those people who are trapped aboard the ship of the Ancestors.<br><br>WEIR: News travels fast.<br><br>HALLING: I was speaking with one of your expedition members when she was called in to help.<br><br>WEIR: Well, then you are aware that we are very short on time.<br><br>(She starts to walk away but Halling stops her.)<br><br>HALLING: I am. Still, this is important.<br><br>(Weir looks around, frustrated, but steps closer to Halling.)<br><br>WEIR: OK.<br><br>HALLING: You do not know this, but among our people there is a ritual prayer that is said when one knows that death is upon them.<br><br>WEIR: We don't know that it is.<br><br>HALLING: I am told it is all but inevitable.<br><br>WEIR: By whom?<br><br>HALLING: That is not important. What is important is that Teyla be allowed to prepare for death. Knowing the time and place of one's end is a ... is a very rare thing among our people. It is a simple rite that would not take more than a few moments.<br><br>WEIR: Halling. We need to concentrate all of our efforts on saving them.<br><br>HALLING: At the risk of forsaking Teyla's own beliefs?<br><br>WEIR: It is important that we use what little time we have to try everything ...<br><br>HALLING (interrupting): I would ask you not to tell me what is important and what is not in this case.<br><br>WEIR: I'm sorry. I can't have this conversation right now. (She turns to walk away.)<br><br>HALLING: Why not?<br><br>WEIR (turning back to him.): Because we are wasting time.<br><br>HALLING: This is time that Teyla could use to prepare.<br><br>WEIR: Alright. You perceive death a certain way. I accept that. In fact, I respect that. But we do not prepare for death. We do everything we can to stave it off. That is who we are.<br><br>HALLING: I am not asking you to suspend your efforts.<br><br>WEIR: No. You want me to tell everyone on that ship that they should expect to die? I will not send them that message; and if you feel that that violates Teyla's personal rights, I apologise, I truly do. But there's nothing I can do about that right now. I have to go.<br><br>(She walks away. Halling turns around, looking bewildered.)<br><br><br>JUMPER ONE.<br><br>BECKETT (over radio): Alright, I've got everything from the Jumper manifest already laid out here. What's your personal inventory?<br><br>FORD: OK, from the vests, we've got a Swiss Army knife, some chocolate, some water, matches, emergency kit. (In the Atlantis Infirmary, Beckett's team is laying out the same items.) We have alcohol, iodine, painkillers ...<br><br>(Teyla points to something she has found.)<br><br>TEYLA: What is this?<br><br>FORD: Teyla found a portable defibrillator in the ship stores.<br><br>BECKETT: Already thought of that. Major Sheppard would receive the same electric shock. It would likely kill him.<br><br>FORD: Right.<br><br>BECKETT: Try everything one item at a time.<br><br><br>ATLANTIS. Weir is walking through the Control Room towards her office. Kavanagh hurries to catch up to her.<br><br>KAVANAGH: Doctor Weir.<br><br>WEIR: Kavanagh. I hope you've got something to tell me. (She turns to face him.)<br><br>KAVANAGH: Yes I do. What the hell was that?<br><br>WEIR: Excuse me?!<br><br>KAVANAGH: I happily left the S.G.C. because I had had it up to here with the military running things; and you just busted me like a private.<br><br>WEIR: Don't be so dramatic. Besides, the Air Force doesn't have privates. (She begins to turn and walk away.)<br><br>KAVANAGH: Neither do I. You just cut them off. (Weir turns back to him.) Right in front of my research team.<br><br>WEIR: That's what this is about? You're embarrassed?!<br><br>KAVANAGH: Well, humiliated would be a little more accurate.<br><br>(As their voices get louder, people turn and stare at them.)<br><br>WEIR: I haven't worked up to humiliation yet.<br><br>KAVANAGH: I just assumed that with a civilian in charge of the expedition, there would be a little bit more ...<br><br>WEIR (interrupting): A civilian is in charge. And we are cut off from Earth, which makes Atlantis almost like a colony, doesn't it?<br><br>KAVANAGH: I suppose.<br><br>WEIR: Well, I'm governor of that colony.<br><br>KAVANAGH: You know, that's all very well and good ...<br><br>WEIR (interrupting): Do you have a problem with that?<br><br>KAVANAGH: You're missing my point.<br><br>WEIR: No, you're missing mine. If you waste one more minute which could be used to help the people trapped on that ship because of your ego, I promise you I will dial the coordinates of a very lonely planet where you can be as self-important as you wanna be.<br><br>(Kavanagh smiles and scoffs. Weir looks at him.)<br><br>WEIR: You think I'm kidding?<br><br>(Kavanagh's smile begins to falter.)<br><br>KAVANAGH: You wouldn't do that.<br><br>WEIR: Kavanagh, get back in there!<br><br>(Kavanagh smiles and nods to her.)<br><br>KAVANAGH: We'll talk about this later.<br><br>WEIR (sternly): Never again. Go. (Kavanagh doesn't move, still smiling.) Go!<br><br>(Kavanagh's smile fades, and he turns and walks away.)<br><br><br>JUMPER TWO. Doctor Zelenka is still working on the control conduit.<br><br>ZELENKA: Ow. (He licks his finger, having either received a small shock or stabbed it into one of the crystals. He connects another crystal, then looks down to his computer pad and types on it. The pad beeps and he starts speaking excitedly in Czech, jumps down off the box and grabs a radio.) Doctor Zelenka to Control Room. I think I have something!<br><br><br>CONTROL ROOM. Grodin runs over to a console to pick up what Zelenka is transmitting.<br><br>GRODIN: We're receiving.<br><br>WEIR (into radio): Jumper One, this is Weir. Doctor Zelenka's come up with something.<br><br><br>JUMPER ONE.<br><br>McKAY: Zelenka. Why can I never remember that name?<br><br>GRODIN (over radio): He's positively identified the control systems on the port side of the Jumper that retract the drive pod. I'm relaying the schematics to your data pad.<br><br>McKAY: Thank you. Now we're getting somewhere.<br><br>FORD: What?<br><br>McKAY: Zelenka's identified the control pathways to the engine pod, which means that's increasing my chances of fixing this from one in a million to one in a thousand, but, uh ... it's something. Elizabeth?<br><br>WEIR: Yes?<br><br>McKAY: I'll only have seven to nine seconds to warn you if I accidentally trigger a catastrophic overload, so ... if I tell you to raise the shield, don't hesitate.<br><br>WEIR: We're aware of the risk, Rodney. Do your best.<br><br>(McKay starts working on the control conduit again. Ford and Teyla turn their attention back to Sheppard. Ford activates his radio.)<br><br>FORD: We're starting with iodine.<br><br>(He unscrews the cap of the iodine and uses the dropper to put a few drops onto the soft part of the bug. It trills for several seconds as everyone in the Jumper and back in the Infirmary waits anxiously, but then the bug settles again.)<br><br>FORD: Scratch iodine.<br><br>BECKETT: What else have you got there?<br><br>McKAY: Yes, what have you got there? Any food?<br><br>FORD: You're kidding.<br><br>McKAY: I have less than twenty minutes to save our lives, and I am teetering on the brink of a hypoglycaemic reaction, so ...<br><br>(Ford reaches down and picks up an energy bar, tossing it to McKay.)<br><br>McKAY: Thank you.<br><br>(He opens the bar, takes a big mouthful and gets back to work. Teyla looks at him for a moment, then hands a bottle to Ford.)<br><br>TEYLA: Here.<br><br>FORD: We're going to try alcohol now.<br><br>BECKETT: Place a few drops on the soft tissue to see how it reacts.<br><br>SHEPPARD: Save some for me.<br><br>FORD: Wrong type of alcohol, sir. (He pours some onto the bug.)<br><br>SHEPPARD: What's the good of that?<br><br>(The bug trills again, its soft body pulsing for a moment, then it settles down.)<br><br>FORD Not much, sir. (Into radio) No reaction to alcohol.<br><br>BECKETT: Right. What next?<br><br>(Teyla picks the next item out of the pack.)<br><br>TEYLA: Did the doctor not say to pour salt on the creature?<br><br>McKAY (with his mouth full): I think that was a metaphor. (Teyla looks at him.) But it doesn't matter, just try everything. <br><br>(Ford opens the capsule of salt and sprinkles some onto the bug. It trills quietly for a moment and its body pulses again. Beckett in the Infirmary and Weir in the Control Room wait anxiously for news. Sheppard's face has a look of despair on it.)<br><br>FORD: Water. Give me water.<br><br>(Teyla hands him a flask. He pours some onto the creature. It begins to bloat and its grip tightens around Sheppard's neck. He convulses in agony.)<br><br>FORD: Sir? Sir. Sir, are you alright? Sir? Major?<br><br>(Sheppard begins to scream. Beckett, Weir and everyone around them look anguished as they hear him screaming over the radio.)<br><br>FORD: Sir, are you all right? Sir? Major? Major? What's happening?<br><br>(Teyla and Ford desperately try to hold Sheppard down as he writhes in agony. He lashes out at Ford, sending him crashing against the side of the ship. The impact jolts the ship and the cable that McKay is using on the control conduit jerks across the crystals. The ship's engine fires up briefly as Ford crashes to the floor.)<br><br>WEIR: What's happening?<br><br>(Everyone in Atlantis waits for news as McKay stares up at the conduit. Ford gets up off the floor and looks at Sheppard who is grimacing in pain.)<br><br>FORD: It could have reacted to either the salt or the water.<br><br>BECKETT: Or the combination of both. Did it loosen its hold on Major Sheppard?<br><br>FORD: Negative.<br><br>TEYLA: If anything, it dug in more.<br><br>SHEPPARD: Please, don't do that again.<br><br>FORD: I won't, sir. I'm sorry.<br><br>BECKETT: Most likely a primitive defensive reflex to salt water.<br><br>McKAY: We moved. When you fell, I must've crossed one of the circuits. I think the engine fired for a microsecond, but it stopped. (He looks down and sees that the event horizon is now showing at the bottom of the bulkhead doors.) Oh, no.<br><br>FORD: What? (He stands up and walks over to McKay.) What?<br><br>McKAY: So much for Plan A.<br><br>FORD: What?<br><br>McKAY: When the Stargate closes now, (he sinks down onto the bench) every molecule of air in this compartment is going to rush out through there. (He points at the event horizon.)<br><br>TEYLA: We've slid in further.<br><br>McKAY (looking at his computer pad): Fifteen minutes.<br><br>WEIR: Ford, what can you tell me?<br><br>FORD: The Puddle Jumper has shifted slightly. The rear compartment has now breached the event horizon. Doctor McKay ... (he looks down at McKay and emphasises his name) ... Doctor McKay ... (McKay looks up at him hopelessly) ... is still hopeful he can retract the drive pod in time.<br><br>(McKay looks at him for a moment, then stands up and gets back to work.)<br><br>WEIR: Understood. We haven't come up with anything yet, but there's still time.<br><br>FORD: Yes, ma'am.<br><br>WEIR: How is Major Sheppard?<br><br>SHEPPARD (grimacing in pain): I'm still here.<br><br>WEIR: Hang in there, Major. We're working on the problem.<br><br>SHEPPARD: I know you are. Listen, uh, I'd like to say something while I still can.<br><br>WEIR: Don't! You're gonna get through this.<br><br>(Sheppard smiles slightly.)<br><br>SHEPPARD: If I was ... he wouldn't have let me go.<br><br>WEIR: Who wouldn't have let you go?<br><br>SHEPPARD: The Wraith.<br><br><br>FLASHBACK. On the Wraith planet, a Wraith guard approaches Sheppard and looks down at him. Sheppard is on his knees, unable to move, with the bug attached around his neck. The Wraith looks down at him for a moment, realises what has happened to him, turns and walks away.<br><br>END FLASHBACK.<br><br><br>SHEPPARD: I guess he saw me as good as dead, cause he just walked away, so ... (he clears his throat) what I wanted to say was ...<br><br>WEIR: Save your strength, John, and tell me in person.<br><br>SHEPPARD: This is important.<br><br>(Weir sighs and closes her eyes.)<br><br>WEIR: I'm listening.<br><br>(As Sheppard opens his mouth, Ford has an idea.)<br><br>FORD: We should send him through the event horizon. If Doctor McKay figures it out in time, we can fix the major up on the other side. If he doesn't, we're all dead anyway.<br><br>McKAY: No pressure(!)<br><br>GRODIN: Major Sheppard would effectively be in suspended animation for the entire time.<br><br>BECKETT: We can't risk that.<br><br>FORD: Why not?<br><br>BECKETT: If the creature reacted that violently to a few drops of water, who knows how it would react to Stargate travel?<br><br>WEIR: You're telling me Major Sheppard can't come through the Gate while that thing is on him?<br><br>TEYLA: Then we must do something now.<br><br>SHEPPARD: Hit me with the defibrillator.<br><br>(Beckett exhales and starts to smile.)<br><br>BECKETT: You may be onto something, Major.<br><br>FORD: No-no. You said that might kill him.<br><br>SHEPPARD: That's the idea.<br><br>TEYLA: I-I don't understand.<br><br>BECKETT: Teyla. You said this creature is like a Wraith.<br><br>TEYLA: Yes.<br><br>BECKETT: Then how do you think it would respond if, God forbid, Major Sheppard were to die right now, then?<br><br>(Teyla stares down at Sheppard for a moment, then begins to understand.)<br><br>TEYLA: It would stop feeding!<br><br>BECKETT: Exactly, just as a Wraith would.<br><br>WEIR: How is that an idea?<br><br>BECKETT: We're suggesting that we fool the creature into thinking its prey is dead by stopping the major's heart. If I'm right, it should let him go.<br><br>FORD: When the thing lets go, we give him another jolt.<br><br>BECKETT: You can give it a try. If it doesn't work, send him through the event horizon. He'll keep there as good as a deep freeze.<br><br>WEIR: John, are you sure you want to do this?<br><br>SHEPPARD: I want this damn thing off me.<br><br>BECKETT (to his medical team): Be prepared for a Code Blue in the Jumper Bay. (Into radio) Lieutenant Ford, do you know how to do this?<br><br>FORD: Yes, sir. (He gets up and picks up the defibrillator while talking to Teyla.) Cut his shirt open.<br><br>TEYLA: What?<br><br>FORD: Cut his shirt open!<br><br>(Teyla grabs the scissors from the emergency bag and cuts her way down part of Sheppard's shirt before ripping the rest of it open.)<br><br>FORD: Charging to two hundred. Move his tags.<br><br>TEYLA: What?<br><br>FORD: Move his chains to the side. (Teyla does so.)<br><br>BECKETT: Place the lubrication right on the paddles.<br><br>(Ford squeezes some of the jelly onto the paddles and rubs them together. The machine is beeping.)<br><br>FORD: Ready to go. (To Teyla) Once the bug falls off, I'm going to have to kill it. I'll wait for it to charge up again and I'll give him another jolt. McKay, if we can't restart his heart on the first time, I'm going to need that bulkhead door open again.<br><br>McKAY: Done. (He stops his work on the control conduit and walks over and opens the bulkhead doors.)<br><br>FORD: One of us is going to have to get him through.<br><br>TEYLA: I will.<br><br>(Ford starts to apply the paddles, but hesitates, looking at Sheppard in dread.)<br><br>SHEPPARD: Do it!<br><br>(Ford shocks him. Sheppard convulses and collapses. Ford puts the paddles down and feels for a pulse.)<br><br>FORD: No pulse.<br><br>(Teyla grabs the creature and starts tugging at it. It trills and resists her.)<br><br>TEYLA: It won't come off.<br><br>BECKETT: Settle. It may take a moment.<br><br>(In the Control Room, Weir waits a couple of seconds, looking anxious.)<br><br>WEIR: Lieutenant?<br><br>(Ford begins rubbing the paddles together ready to shock Sheppard again. Teyla is still pulling at the creature. After many seconds, it retracts its legs from around Sheppard's neck. Teyla tugs it loose, revealing a huge bloody wound on his neck. She throws the bug onto the bench on the other side of the Jumper. McKay quickly moves out of its way. Ford jumps up and fires a round of bullets into it from his pistol. As Teyla runs over and wraps it in a jacket, Ford grabs the paddles and shocks Sheppard again. Sheppard convulses. Ford feels for a pulse.)<br><br>TEYLA: Nothing?<br><br>FORD: Nothing. Let's get him through.<br><br>(McKay moves the defibrillator and other equipment out of the way as Teyla and Ford lift Sheppard to his feet and drag him towards the event horizon, turning him so that he is facing backwards. Ford and McKay support him as Teyla moves behind him and wraps her arms around his chest.)<br><br>FORD: Got him?<br><br>TEYLA: Yes.<br><br>(The men let Sheppard go as Teyla drags him backwards into the event horizon. Ford activates his radio.)<br><br>FORD: This is Lieutenant Ford. The creature's successfully been removed from Major Sheppard, but we were unable to revive him. (McKay closes the bulkhead doors again.) Both he and Teyla are now on the other side of the event horizon.<br><br>WEIR: Thank you, Lieutenant. Rodney, you have seven minutes.<br><br><br>ATLANTIS. Four medics walk into the Jumper Bay, dressed in biohazard gear. Two of them are wheeling a gurney. They await the arrival of the Jumper.<br><br><br>JUMPER ONE. McKay continues to work on the control conduit.<br><br>McKAY: I'm only halfway through all the possible circuit pathways and time's almost up. We're never going to make it.<br><br>FORD: Just keep at it. There's still time.<br><br>McKAY: You should consider stepping into the event horizon. I'm serious. I'll keep trying to the end, but given your choices, that's a far better way to go.<br><br>FORD: And leave you here alone with that thing wrapped up in my jacket?<br><br>McKAY: You did check to make sure it was dead, right?<br><br>FORD: It's dead.<br><br>McKAY: Good, because explosive decompression and death by suffocation with that thing on my face ...<br><br>FORD (interrupting): Work. Work!<br><br>McKAY: Sorry. (He continues working.)<br><br><br>ATLANTIS. In the Conference Room, Kavanagh, Simpson and the others continue searching for a solution. In the Control Room, Weir turns to Grodin.<br><br>WEIR: Time?<br><br>GRODIN: Two minutes, twenty seconds.<br><br>WEIR: Rodney, we're down to two minutes.<br><br>(In Jumper One)<br><br>McKAY: I know the time. I've still got over two dozen circuits I haven't tried.<br><br>WEIR: Don't be so methodical. Just pick one at random!<br><br>McKAY: If I do that, I run the risk of attempting to activate the same circuit twice.<br><br>WEIR: Just try!<br><br>McKAY: I'm telling you, there's no way I can ...<br><br>(Suddenly there's a noise outside the Jumper and the engines fire up.)<br><br>McKAY: Wait!<br><br>(Outside the ship, the drive pods retract.)<br><br>McKAY: I think I did it! Elizabeth, I think the engine pods retracted.<br><br>(In the Infirmary, Beckett sighs in relief. Weir and everyone else in the Control Room run to the balconies and look down into the Gateroom. Halling and the Athosians, sitting on the steps, look anxiously towards the Gate.)<br><br>(Back at the Wraith Stargate, the Jumper isn't moving.)<br><br>WEIR: Then why haven't you shown up?<br><br>(In the Jumper, McKay and Ford stare upwards.)<br><br>FORD: She's right. Why aren't we moving?<br><br>McKAY: It's inertia. The drive shut down before we went through the Stargate. We've shed all our forward momentum.<br><br>(Ford runs to the bulkhead doors and throws himself against them a couple of times to try to move the ship forward.)<br><br>McKAY: You're wasting your time. For every action, there is an equal and opposite reaction.<br><br>FORD: Then what are we going to do?!<br><br>(Back in the Control Room, Weir leans on the balcony in despair. Grodin checks the time.)<br><br>GRODIN: One minute.<br><br>(In the Conference Room, Kavanagh has a brainwave.)<br><br>KAVANAGH: Wait. The rear hatch. Blow the rear hatch. It should give you enough thrust to make it through.<br><br>McKAY: That could do it. But the only mechanism to blow the hatch is back here.<br><br>(He points to a panel at the rear end of the Jumper. Ford slaps the button to opens the bulkhead doors, then runs to the rear of the Jumper.)<br><br>FORD: You go through, I'll do it.<br><br>McKAY: No, no. You'll get blown out into space.<br><br>FORD: No, no, there's no time to argue, just go, just go! (He shoves McKay towards the event horizon.)<br><br>McKAY: Make sure you hold on to something!<br><br>FORD: Go! (He shoves McKay through.)<br><br>GRODIN: Thirty seconds.<br><br>(Underneath the jacket on the bench, the bug begins to move. Ford, not noticing this, checks out the strength of some bars running along the ceiling of the Jumper. Having selected the one he wants, he reaches out with one hand and pulls down the cover of the release mechanism. As he blows out a few breaths, the bug's legs appear from under the jacket. The release mechanism begins to beep as Ford closes his eyes and pulls the handle down. The rear hatch begins to open. Ford grabs the bar with his other hand and holds on for his life. As air rushes out of the Jumper and Ford is swept off his feet, held inside the ship only by his grip on the bar, the bug and the jacket are blown out into space. The Jumper begins to move slowly forward.)<br><br><br>WORMHOLE TRAVEL.<br><br><br>GATEROOM. The Jumper comes through the Gate. As the Gate closes, everyone in the Control Room cheers and applauds. The Athosians rise to their feet. Halling looks across to Weir. She looks back at him, smiling, and nods to him. Halling smiles faintly back at her, although he clearly hasn't forgiven her for denying his request.<br><br>WEIR: I'll be in the Jumper Bay. (She pats Grodin on the shoulder and runs off.)<br><br><br>JUMPER BAY. Inside the Jumper, Beckett is using a defibrillator on Sheppard, who is lying on the floor in the cockpit. As another medic lifts the airbag from Sheppard's face, Beckett shocks him. He checks the monitor. It is flatlining.<br><br>BECKETT: Again!<br><br>(He shocks him again. The medic lowers the airbag back down to his face and starts pumping air into him.)<br><br>(Further back, Ford is being placed on a gurney and someone puts an oxygen mask onto his face. Weir runs in to find McKay standing near the gurney.)<br><br>McKAY: He's going to be fine.<br><br>(He walks towards the cockpit. Weir follows him, stopping to take Ford's hand for a moment before he is wheeled out of the Jumper. In the cockpit, Beckett puts on a stethoscope and checks Sheppard's heart. The monitor shows three small heartbeats, then flatlines again. Weir looks down to Teyla, who is kneeling on the floor near Sheppard. They nod to each other. Weir turns to McKay.)<br><br>WEIR: Well done, Rodney.<br><br>McKAY: We'll see. <br><br>(He looks back down to Sheppard. The medic continues pumping air into him. The monitor begins to beep regularly.)<br><br>BECKETT: We've got a pulse.<br><br>(Markham and Stackhouse, still sitting in their seats in the cockpit, look at each other worriedly. The monitor continues to beep regularly.)<br><br>BECKETT: Getting stronger! (He takes off the stethoscope and puts his head down onto Sheppard's chest.) He's going to be OK.<br><br>(McKay sighs in relief. Weir sinks down onto the bench. McKay wanders aimlessly out of the back of the Jumper, then turns and wanders back in again and leans against the wall. The medics continue their work as Sheppard lies unconscious on the floor.)<br><br><br>NIGHT TIME. INFIRMARY. Sheppard is awake and sitting up in bed as a nurse tends to him, fixing a large dressing to his neck. He smiles at her as she walks away. Ford is sitting on the side of the bed next to Sheppard's, chatting with Teyla. McKay stands beside them. Weir comes in and walks to the end of Sheppard's bed.<br><br>WEIR: How are you feeling?<br><br>SHEPPARD: Starving.<br><br>McKAY: He's got quite the hickey, but Doctor Beckett says he'll be fine in a few days.<br><br>TEYLA: We should let you rest.<br><br>SHEPPARD: No, you should get me food.<br><br>WEIR: I think we can arrange that.<br><br>FORD (getting down off the bed): Welcome back, sir.<br><br>SHEPPARD: I have to admit, it is a pleasant surprise.<br><br>(Ford, McKay and Teyla start to leave.)<br><br>WEIR: By the way, what were you going to say?<br><br>(The other three turn round to face him again.)<br><br>SHEPPARD: When?<br><br>WEIR: Before, when you thought, you know ...<br><br>(Sheppard thinks about it for a moment, then remembers.)<br><br>SHEPPARD: Oh, that.<br><br>WEIR: I didn't want you to say it at the time, but now I'm curious.<br><br>SHEPPARD: I was going to say, um ... (he pauses for a long time) take care of each other.<br><br>(McKay smirks.)<br><br>WEIR: That's nice.<br><br>SHEPPARD: Yep.<br><br>McKAY: And, uh, indeed, we did.<br><br>SHEPPARD: Yes, you did. Thank you. Again.<br><br>McKAY: You're welcome.<br><br>TEYLA: Goodnight.<br><br>(McKay, Ford and Teyla leave. Weir begins to follow them, then stops and turns back.)<br><br>WEIR: You weren't really going to say that, were you?<br><br>SHEPPARD: I have no idea what you're talking about.<br><br>WEIR: I didn't think so.<br><br>(She leaves the room. Sheppard settles down in his bed.)
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="103.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s1/104.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="105.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s1/index.shtml">
+<IMG SRC="/graphics/title_s1episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season One Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="101.shtml" CLASS="list">Rising, Part 1</A><BR><A HREF="102.shtml" CLASS="list">Rising, Part 2</A><BR><A HREF="103.shtml" CLASS="list">Hide and Seek</A><BR><A HREF="104.shtml" CLASS="list">Thirty Eight Minutes</A><BR><A HREF="105.shtml" CLASS="list">Suspicion</A><BR><A HREF="106.shtml" CLASS="list">Childhood's End</A><BR><A HREF="107.shtml" CLASS="list">Poisoning the Well</A><BR><A HREF="108.shtml" CLASS="list">Underground</A><BR><A HREF="109.shtml" CLASS="list">Home</A><BR><A HREF="110.shtml" CLASS="list">The Storm</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="111.shtml" CLASS="list">The Eye</A><BR><A HREF="112.shtml" CLASS="list">The Defiant One</A><BR><A HREF="113.shtml" CLASS="list">Hot Zone</A><BR><A HREF="114.shtml" CLASS="list">Sanctuary</A><BR><A HREF="115.shtml" CLASS="list">Before I Sleep</A><BR><A HREF="116.shtml" CLASS="list">The Brotherhood</A><BR><A HREF="117.shtml" CLASS="list">Letters From Pegasus</A><BR><A HREF="118.shtml" CLASS="list">The Gift</A><BR><A HREF="119.shtml" CLASS="list">The Siege, Part 1</A><BR><A HREF="120.shtml" CLASS="list">The Siege, Part 2</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season One</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B000BVXPGY/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B000CEVUIK/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls1.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="103.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s1/104.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="105.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

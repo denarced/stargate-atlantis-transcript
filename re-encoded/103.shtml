@@ -1,0 +1,526 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Hide And Seek" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s1/103.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s1/transcripts/103.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=509">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=254">Screen Captures</A><BR>
+				<A HREF="/atlantis/s1/103.shtml#analysis">Analysis</A>
+				
+				
+				
+				
+				
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=2492">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s1/103.shtml"><IMG SRC="/atlantis/graphics/103_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="HIDE AND SEEK" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://www.amazon.com/exec/obidos/ASIN/B000ICPJP6/bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 103<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 1, Disc 1<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 07.23.04<BR>
+				    
+				    <STRONG>STORY BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0942249/" TARGET="_blank">Brad Wright</A> & <A HREF="http://www.imdb.com/name/nm0178338/" TARGET="_blank">Robert C. Cooper</A><BR>
+				    <STRONG>TELEPLAY BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0178338/" TARGET="_blank">Robert C. Cooper</A><BR>
+				    
+				    
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0913143/" TARGET="_blank">David Warry-Smith</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">The Atlantis base is threatened when the team discovers that an alien entity is in the city.  McKay grows worried when he is unable to remove an Ancient shield device.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    ATLANTIS. INFIRMARY. A glass cage of mice is on a table. Doctor Rodney McKay is leaning on the table watching them. He smiles at one of the mice.<br><br>McKAY: You got your eye on anyone?<br><br>BECKETT (offscreen): Umm, not really.<br><br>McKAY: Actually, I was talking to the mouse, (he turns around to face Doctor Carson Beckett, who is preparing a syringe) but, uh, now you mention it, some of those Athosian women are pretty hot; and we did just save them from the Wraith so we've gotta trade on that while we can, you know, before they discover that we're not actually that cool?<br><br>(Beckett pats the bed he is standing beside.)<br><br>BECKETT: Sit down. I'm ready.<br><br>(McKay runs across the room and jumps up to sit on the side of the bed. He rolls up his left sleeve. Beckett pointedly takes his right arm and starts to roll that sleeve up.)<br><br>BECKETT: I'm surprised you're so eager to volunteer for this, Rodney.<br><br>McKAY: Well you know me -- always eager to help. (He winces as Beckett forces the sleeve up as high as he can.)<br><br>BECKETT: Right. (He picks up a rubber strap and starts to wrap it around McKay's arm just above the elbow.) So do you have any questions about the process? I mean, you are a scientist.<br><br>McKAY (sarcastically): Uh, yeah. I'm sorry. Medicine is about as much a science as, uh, I don't know, voodoo? (Beckett smacks his arm several times, a little harder than necessary, to raise a vein. McKay grunts.) All I need to know is that that will enable me to use Ancient technology like Major Sheppard -- or yourself.<br><br>BECKETT: Yes, hopefully. (He wipes McKay's arm with an antiseptic swab.) You are the first human trial.<br><br>(McKay looks less confident.)<br><br>McKAY: Well, why now? I mean, if it's possible, we need as many people with the gene as we could get.<br><br>BECKETT: Well actually, without proper F.D.A. approval, it was virtually impossible on Earth to ... (He notices McKay's look of dread.) Let's just say it's, uh, legal here in the Pegasus galaxy<br><br>McKAY: Wh ... and completely safe?<br><br>BECKETT: As far as experimental gene therapy goes. I am manipulating your D.N.A. Here we go!<br><br>(He moves the syringe towards McKay's arm. McKay pulls his arm away.)<br><br>McKAY: Wait. Maybe you should tell me more.<br><br>(Beckett sighs.)<br><br>BECKETT: We believe A.T.A. -- or Ancient Technology Activation -- is caused by a single gene that's always on, instructing various cells in the body to produce a series of proteins and enzymes that interact with the skin, the nervous system and the brain. (He gestures dramatically with the syringe. McKay watches it nervously.) In this case we're using a mouse retrovirus to deliver the missing gene to your cells.<br><br>McKAY: A mouse retrovirus?<br><br>BECKETT: It's been deactivated.<br><br>(He takes McKay's arm and starts to inject him.)<br><br>McKAY: Well, are there any side effects? (He winces as the needle goes into his arm.)<br><br>BECKETT: Dry mouth, headache ... the irresistible urge to run in a small wheel.<br><br>McKAY (grunting in pain): That's very amusing. So how long til it starts working?<br><br>(Beckett puts a swap over McKay's arm where the needle and his skin meet, then pulls the needle out.)<br><br>BECKETT: Uh, it could take some time. What is that?<br><br>(He has noticed that McKay is holding a small device in his other hand.)<br><br>McKAY: Hmm? Oh, something I found in one of the, uh, research labs. Something the, uh, Ancients were experimenting with. (He winces as Beckett unties the strap around his arm.)<br><br>BECKETT: Do you know what it is?<br><br>McKAY: Uh, pretty sure. (He smiles happily.)<br><br><br>CORRIDOR. Doctor Elizabeth Weir and Doctor Peter Grodin are walking along as various other people move equipment around as the Atlantis expedition team settles into its new home.<br><br>GRODIN: .. .desalinising the sea water and storing it into tanks big enough to supply the whole city.<br><br>WEIR: Good. So fresh water won't be a problem.<br><br>GRODIN: It seems some Ancient technology requires the user to have the gene. Other things merely require initialisation. Once activated, I can control it. Anyone can push the buttons to make it work.<br><br>(They head up some stairs as three Athosian children run down, pushing their way through the two of them.)<br><br>JINTO: Good morning, Doctor Weir.<br><br>WEIR: Good morning. (As they run off) Careful! (To Grodin) I think we need to designate some recreational areas.<br><br>GRODIN: Yes.<br><br>WEIR: We certainly need to clear the hallway, get everything put away as soon as possible. And can we lose the ten thousand year old dead plants?!<br><br>GRODIN: Of course. We're still in the process of making sure everyone's been assigned living quarters. Major Sheppard seems to be taking his time okaying enough space.<br><br>WEIR: Well, the safety and security of this expedition are his.<br><br>McKAY (offscreen): OK, I'm ready.<br><br>(As Weir and Grodin look in the direction of his voice, they see him standing with his back to the balcony of the Control Room. Major John Sheppard stands in front of him and deliberately pushes him backwards over the balcony. McKay plunges to the floor of the Gateroom about thirty feet below. Various people cry out in horror.)<br><br>WEIR: Oh my God.<br><br>(She and Grodin hurry towards Sheppard, who laughs delightedly.)<br><br>SHEPPARD: Did you see that?!<br><br>WEIR: Yes! What the ...?<br><br>(As they all look over the balcony, McKay jumps up from the floor, raising his hands and smiling.)<br><br>McKAY: I'm fine!<br><br>(He has a small device on his chest. It is glowing green. Sheppard grins down at him and heads for the stairs. Weir and Grodin do likewise and they all run down to join McKay.)<br><br>McKAY: Look, Beckett's gene therapy worked. I was able to activate this. It's a, uh, personal shield: acts like a protective skin; and it must have inertial dampening properties too, because I didn't feel a thing. Watch this. (He turns to Grodin.) Hit me.<br><br>(Without hesitation, Grodin throws a punch at McKay's face. A green force shield appears in front of McKay's face and Grodin's fist impacts it.)<br><br>GRODIN: Ow, God!<br><br>(He cradles his injured hand as Athosian children standing nearby laugh.)<br><br>McKAY: You didn't have to swing so hard, (Sheppard grins) and notice he didn't even hesitate.<br><br>WEIR: I'm still trying to understand how you thought it was a good idea to test this device by having someone throw you off a balcony.<br><br>McKAY (smiling): Oh, believe me, that's not the first thing we tried.<br><br>(Sheppard grins and turns to Weir.)<br><br>SHEPPARD (proudly): I shot him. (Weir stares at him incredulously. Sheppard's smile fades a little.) In the leg!<br><br>(McKay grins and holds his arms out to the sides.)<br><br>McKAY: I'm invulnerable!<br><br>WEIR: Aren't you the one who's always spouting off about how proper and careful scientific procedure must be adhered to?<br><br>McKAY (in a sing-song voice): Invulnerable.<br><br>WEIR: Alright, take it off. Let's go have this meeting.<br><br>(She turns to walk back up the stairs.)<br><br>McKAY (sulkily): You're just jealous.<br><br>WEIR: Oh yes, green with envy!<br><br>(As she turns back to him, McKay reaches for the device but a green force shield appears between him and the device. He tries again.)<br><br>McKAY: This could be a problem. (He tries again.) I can't get at it.<br><br>(Sheppard reaches for the device but the force shield stops him too.)<br><br>SHEPPARD: Just checkin'.<br><br><br>INFIRMARY. Grodin is sitting on the side of a bed as Beckett bandages his injured hand.<br><br>GRODIN: I'm thinking Mr. Invincible.<br><br>BECKETT: Captain Untouchable.<br><br>GRODIN: Ooh, that's good!<br><br>(They both laugh. McKay is standing nearby.)<br><br>McKAY (tetchily): You guys done?<br><br>BECKETT: I've been working on this gene therapy for months. Forgive me for wanting to celebrate the fact that it worked on the first human trial.<br><br>McKAY (sarcastically): Ooh, let's all have a toast!<br><br>(Beckett and Grodin giggle for a moment, then the same thought occurs to them simultaneously and they turn and look at McKay.)<br><br>GRODIN: Um, just a thought here, but have you tried eating or drinking anything since you put that on?<br><br>(McKay stares at them for a moment, then turns to a pot of coffee nearby and pours himself a cup. He lifts the cup and tries to drink a mouthful but the shield glows and the liquid pours down his front, not touching him as the shield glows all the way down his body. Beckett and Grodin look at him in shock. McKay stares for a moment, then rolls his eyes and pours the rest of the coffee down his front as the shield glows and keeps it away from him.)<br><br>McKAY: That's great(!)<br><br>BECKETT: This may be more serious than I suspected.<br><br>McKAY: Why, thank you! I'm hungry already. What am I going to do? If I don't get this stupid thing off, I'll be dead by the end of the day.<br><br>BECKETT: Relax. You can live three or four days without water.<br><br>McKAY: Yeah, I'm talking about food!<br><br>BECKETT: Well, you found some Ancient text with the device. What did it say about taking it off?<br><br>McKAY: Oh yeah, there were some explicit instructions which I chose to completely ignore(!)<br><br>GRODIN: Well, some Ancient technology uses a mental component for operation.<br><br>McKAY: Just shut up. I'm thinking.<br><br>(He closes his eyes and concentrates. After a few seconds, Grodin turns to Beckett.)<br><br>GRODIN: Is there any chance that the gene therapy isn't permanent?<br><br>BECKETT (unconvincingly): It's possible.<br><br>McKAY (plaintively, with his eyes still shut): I'm a dead man.<br><br><br>CONFERENCE ROOM. Sheppard is standing at a screen showing a map of the city. The central part of the city is highlighted.<br><br>SHEPPARD: We can probably maintain security in this area with the limited number of personnel we have.<br><br>TEYLA: My people can help.<br><br>WEIR: Thank you, Teyla. For the time being we'll find other ways that the Athosians can contribute.<br><br>TEYLA: You do not trust us?<br><br>(Weir opens her mouth but Sheppard interrupts.)<br><br>SHEPPARD: It's not that. It's just that we, uh, we need to train your people in our weapons and tactics.<br><br>TEYLA: You invited me to be a member of your team.<br><br>SHEPPARD: And we value your knowledge and expertise.<br><br>WEIR: As we value all the Athosians. (McKay comes into the room.) For now there should be more than enough living space for everyone within the designated area.<br><br>TEYLA: We have always lived in the shadow of the Wraith, but my people have never been in a place such as this. They are afraid. Some believe the ghosts of the Ancestors remain.<br><br>WEIR: I don't think that's the case, but-but still we're going to need a bit more time in order to explore the entire city.<br><br>SHEPPARD: We're very cautious intergalactic explorers.<br><br>WEIR: And we don't want anyone else getting hurt the way Halling did. I mean, everyone needs to understand they are not to touch anything unfamiliar unless it's been cleared first.<br><br>McKAY: That's very important. I mean, you never know, even a tiny little innocuous thing can, can kill you. (Sheppard looks at him. McKay raises a hand.) Dead man talking.<br><br><br>INFIRMARY. Weir comes in and walks over to Beckett.<br><br>WEIR: Carson.<br><br>BECKETT: Doctor Weir.<br><br>WEIR: So Grodin's got a team going through the Ancient research material that accompanied the shield device, but McKay's been through it and he didn't find anything helpful -- and he is the smartest guy here.<br><br>BECKETT: So he likes to tell us. Listen, I feel terrible. It's possible this was a result of artificially imposing the gene.<br><br>WEIR: Well, I have another theory. We know that there is a mental component to using Ancient technology.<br><br>BECKETT: You don't have to remind me. I experienced it first hand with that drone weapon back on Earth.<br><br>WEIR: Exactly. So don't you think it stands to reason that McKay should be able to shut this thing off with his mind?<br><br>BECKETT: Are you suggesting he doesn't want to shut it off?<br><br>WEIR: We may be settling in here but this place is still pretty intimidating. I mean, a giant abandoned city full of things way beyond our level of understanding; impending threat of attack from the Wraith ...<br><br>BECKETT: No question, it gets bloody creepy here at night.<br><br>WEIR: So I'm not saying it's conscious but perhaps subconsciously.<br><br>BECKETT: I don't think he wants to die of dehydration.<br><br>WEIR: No, neither do I, but he's not there yet.<br><br>BECKETT: You think when it comes down to it, the shield will just shut itself down?<br><br>WEIR: The Ancients were smart enough to build failsafes into their other technology. I mean, this entire city -- it rose from the deep of the ocean when danger was imminent. Why would they design a personal shield that could kill you?<br><br>BECKETT: I certainly hope you're right, for Rodney's sake.<br><br><br>CONTROL ROOM. Grodin is sitting at a laptop watched by Weir, Sheppard, McKay, Lieutenant Ford and some others. The screen reads SELF-DESTRUCT ACTIVATION SEQUENCE. The first line below reads ENTER CODE 001. A code has already been entered beside it. He types onto the second line which reads ENTER CODE 002. As he continues to type, he explains the system.<br><br>GRODIN: The self destruct system requires two separate codes. Now each code is unique, and everyone here will be required to memorise their code.<br><br>McKAY: Well, don't bother giving me one. (Grodin looks at him.) Sorry.<br><br>WEIR: As far as we know, this is the only Stargate in the Pegasus galaxy which is capable of dialling Earth, which would make it the last line of defence against the Wraith. If they're going to attack -- which we must consider a very real threat -- we simply cannot let them gain control of this complex.<br><br>GRODIN: If both codes are properly entered, the naqahdah generator will overload. It will take thirty seconds.<br><br>FORD: You sure it'll do enough damage?<br><br>McKAY: Ever seen a twenty kiloton nuclear explosion?<br><br>SHEPPARD: I have. (Everyone looks at him) Not up close. Look, I think we should tell Teyla what's going on here.<br><br>WEIR: At this moment we still don't know if it was one of the Athosians who tipped off your arrival to their planet.<br><br>SHEPPARD: I trust Teyla.<br><br>WEIR: So do I. But Teyla trusts her people. If we tell her, she'll want to tell them, and I need more time to get to know them.<br><br><br>NIGHT TIME. In someone's living quarters, Sheppard is sitting on the end of a bed. A group of Athosian children is sitting on the floor in front of him. Teyla sits nearby. Halling stands nearby, supporting himself on crutches. Sheppard is telling the children a bedtime story.<br><br>SHEPPARD: Well, they thought he was finally dead, but when they turned their backs to go ... (he turns on a torch and shines the light up into his face and speaks dramatically) his cold dead eyes opened beneath his hockey mask and he rose up with his giant bloody knife ... (He stands, wielding the torch like a knife.)<br><br>JINTO (interrupting): What's a hockey mask?<br><br>(Sheppard stares at the children for a moment.)<br><br>SHEPPARD: Hockey is a game. The guys skate around and try to put a puck into the net. (Teyla smiles as the children stare at him blankly.) The goalies wear masks. It's really ... (the kids still look blank) ... scary.<br><br>JINTO: Tell us more of this game.<br><br>WEX: Can we play it?<br><br>SHEPPARD: Actually, (he sits back down on the bed) I don't really see the attraction. Now football ... (he laughs) football is a real man's sport, but, uh, we'll save that for another time.<br><br>HALLING: Yes, it's time for bed.<br><br>CHILDREN (protesting): Ohhhhh.<br><br>SHEPPARD: And remember, tomorrow night, kids, another tale called Nightmare on Elm Street.<br><br>TEYLA: Alright, children, let's go.<br><br>(Sheppard stands as Teyla escorts the children out of the room. Halling hobbles over to him.)<br><br>HALLING: Thank you, Major.<br><br>SHEPPARD (watching the children leave): I hope I didn't scare em too much.<br><br>(Halling looks at him, trying to think of a diplomatic way of putting it.)<br><br>HALLING: I don't think so.<br><br>SHEPPARD: Good.<br><br>(He walks away as Halling tries to hide a smile.)<br><br><br>CORRIDOR. Teyla is taking the last of the children, a girl, to her mother's quarters.<br><br>TEYLA: Good night. (She smiles to the girl as her mother takes her inside. Sheppard walks up to her.)<br><br>SHEPPARD: Listen, Teyla. Uh, don't tell McKay what I said about hockey not being a real man's sport cause, uh, it's a Canadian thing; a little touchy about it.<br><br>TEYLA: I'm interested in hearing more about this, um, football you say you love so much?<br><br>SHEPPARD: I can do one better. C'me ere. (He beckons for her to follow as he walks away.)<br><br><br>HALLING'S QUARTERS. Halling and Jinto have settled down to sleep.<br><br>JINTO: Father, do you think we are safe here from the Wraith?<br><br>HALLING: I think there is nothing certain in life ... except my love for you.<br><br>(Jinto smiles. He is silent for a few seconds, then speaks again.)<br><br>JINTO: Do you miss the wind?<br><br>HALLING: Yes. But if you're very quiet you can hear the ocean.<br><br>JINTO: Do you think the ghosts of the Ancestors still live here?<br><br>HALLING: Jinto. Go to sleep.<br><br><br>ROOM OFF THE CONTROL ROOM. Teyla, Sheppard, McKay and Ford are sitting side by side on a sofa. McKay is looking very glum. Sheppard has a large bowl of popcorn on his lap. Ford also has a bowl of popcorn. An American football match commentary can be heard. Sheppard offers the popcorn to McKay, who grimaces.<br><br>McKAY: Funny.<br><br>SHEPPARD: Oh, here it comes. Watch this.<br><br>(He turns his attention to an Ancient screen which has been set up in the corner of the room. It has been interfaced with Earth equipment and is showing a video recording of a football match.)<br><br>COMMENTATOR: Four seconds, three seconds, two seconds, one, Flutie throws, this game is over. Hail Mary, it is caught!<br><br>SHEPPARD: Oh! That is beautiful! Can you believe that?!<br><br>TEYLA: Should I not?<br><br>SHEPPARD: Well, the defence didn't cover the receiver because he didn't think the quarterback could throw that far.<br><br>(Teyla looks at the celebrations taking place on the screen.)<br><br>TEYLA: They seem very happy.<br><br>(Sheppard puts some popcorn in his mouth.)<br><br>SHEPPARD: Well, they just won one of the best games of all time against all odds.<br><br>FORD: Flutie won the Heisman that year.<br><br>McKAY: And then went to play in Canada.<br><br>TEYLA: He played hockey too?<br><br>(Ford hides a smile. Weir walks in.)<br><br>WEIR: Hey, what are you guys doing?<br><br>SHEPPARD: I'm teaching Teyla how football is the cornerstone of Western civilization.<br><br>WEIR: And you didn't invite me?<br><br>SHEPPARD: You like football?<br><br>WEIR: No not really.<br><br>SHEPPARD: Oh, come on. It's real, it's unpredictable, it's full of passion and ... beer ... (Ford offers his bowl of popcorn to Weir and she takes some) ... hotdogs.<br><br>McKAY (glumly): Cheerleaders.<br><br>WEIR: I just can't understand: you're allowed one personal Item and you chose this. (She gestures to the screen.)<br><br>SHEPPARD: It's a metaphor. Don't you see? This entire expedition is the biggest Hail Mary in human history.<br><br>TEYLA: What is a Hail Mary?<br><br>SHEPPARD: It's the play that you just saw. (Teyla looks at him, not understanding.) It's named after a prayer. See, there was this woman, and her name was Mary and she ... uh  Did I ever tell you how much I like Ferris Wheels?<br><br><br>HALLING'S QUARTERS. Jinto opens the door and looks out to check if there's anybody around. He looks round at his sleeping father for a moment, then hurries away. He makes his way to Wex's room and stands outside the door.<br><br>JINTO: Psst!<br><br>(Wex has been waiting just inside and opens the door and comes out. He hands the Wraith mask he wore in the previous episode to Jinto.)<br><br>WEX: Your turn to be the Wraith.<br><br>JINTO: You can be the Wraith. I get to be Major Sheppard.<br><br>WEX (awestruck): Ohh!<br><br>(Jinto smiles as he hands the mask back to Wex. He walks to a nearby container which used to hold plants but is now full of dead branches. He takes out one of the branches to use as a pretend rifle, then leans against the wall with his face against his arm.)<br><br>JINTO: One, two, three ... (Wex hurries off. Jinto peeks to see which way he goes.) ... four, five, six ...<br><br><br>SHORTLY AFTERWARDS. Aiming his rifle', Jinto makes his way through the corridors looking for Wex. He hears a strange electronic bleeping noise and looks towards the noise. It seems to be coming from behind some closed doors nearby.<br><br>JINTO: Wex?<br><br>(He aims his rifle' and walks cautiously towards the doors. He pushes a panel on the wall and the doors open. Various containers from Earth are inside.)<br><br><br>Somewhere nearby, Wex is hiding behind more Earth containers, wearing his Wraith mask. He comes out of hiding.<br><br>WEX: Jinto?<br><br>(He hears a whooshing sound some distance away. He takes off his mask and looks around, puzzled.)<br><br><br>SHEPPARD'S QUARTERS. Sheppard is sitting up on his bed reading a book. There's a knock on the door.<br><br>HALLING (from outside): Major? Major! (Sheppard goes to the door and pushes the panel to open the door. Halling and Wex are outside.) Jinto's missing. I can't find him. I told him to be careful. Anything he touches could be dangerous.<br><br>(Sheppard turns to grab his gear.)<br><br>WEX (to Halling, frightened): What if there are monsters here?<br><br>SHEPPARD: We'll find him.<br><br>(He runs out of the room. Halling follows as fast as he can on his crutches.)<br><br><br>FORD'S QUARTERS. Ford answers a knock on the door to find Sheppard there.<br><br>SHEPPARD: Jinto's missing. Teams of two, floor to floor sweep, now. Start with the Jumpers. Full gear. (He walks off.)<br><br>FORD: Yes, sir.<br><br>(Sheppard meets up with Teyla and Halling.)<br><br>TEYLA: He's not in any of the other living quarters.<br><br>HALLING (to Sheppard): I'm coming with you.<br><br>(Sheppard looks at him.)<br><br>SHEPPARD: You going to be OK with that leg?<br><br>HALLING: He's my son.<br><br>(Sheppard nods and they head off.)<br><br><br>CONTROL ROOM. Weir comes up the stairs to join McKay and Grodin.<br><br>WEIR: Can we use the sensors to locate him?<br><br>McKAY: We don't have nearly enough power to activate the whole city at one time.<br><br>GRODIN: Even if we could, the sensors don't distinguish ... (he pauses and looks up as the lights flicker momentarily) ... individuals.<br><br>McKAY: For all we know, there could be shielded areas or, uh, (he gestures to the lights) malfunctioning sensors. We are getting a pretty strange energy reading in one of the unexplored areas across the city. (He indicates a flashing light on a map of the city on one of the screens.)<br><br>WEIR: Activate the communications system.<br><br>McKAY (pushing some buttons): Done.<br><br>WEIR (into comms): Jinto? This is Doctor Weir. If you can hear me, please respond. (Around the city, people look up at the sound of her voice.) Jinto? If you're lost; if you can't ...<br><br>(At that moment, all the consoles and a lot of the lights go off. The screens go dark.)<br><br>GRODIN: We've lost power.<br><br>McKAY: We've still got lights.<br><br>(Grodin goes to a console and pushes some buttons. The console and the wall screen behind it come back on again.)<br><br>GRODIN: Don't know why that happened.<br><br>(Down in the Gateroom, the Stargate shield comes on. Everyone stares at it for a moment, then Weir turns to Grodin. Grodin raises his hands.)<br><br>GRODIN: That wasn't me!<br><br>(The shield deactivates. McKay raises his hands to show that he didn't do anything either. Just then, seven symbols on the D.H.D. console light up in quick succession. The Stargate begins to dial. Grodin and McKay run to the console.)<br><br>WEIR: Shut it down, now.<br><br>(McKay pushes a button and the Gate shuts down.)<br><br>WEIR: What the hell is going on?<br><br>McKAY: I don't know.<br><br>GRODIN: Nothing like this has happened before.<br><br>McKAY: We've only been here for a couple of days. This stuff is pretty old. It's that, or there really are ghosts.<br><br><br>CITY. Sheppard and Halling are searching for Jinto. Suddenly the lights go out. Sheppard activates his radio.<br><br>SHEPPARD: Control Room, this is Sheppard. Lights just went out.<br><br>WEIR: Major, we're experiencing some technical malfunctions.<br><br>(As Sheppard and Halling look around, we see through the eyes of someone or something nearby as it moves through the corridors. The view is slightly blurry.)<br><br><br>CONTROL ROOM.<br><br>McKAY: It could have something to do with the interfaces between our naqahdah generators and the city. Or that or the way we isolated certain systems could be causing erroneous operations in the Ancient programming.<br><br>GRODIN: I'll run a diagnostic on the power flow.<br><br>WEIR (to McKay): I wouldn't have thought you believed in ghosts.<br><br>McKAY: I never used to, then I heard about things called Wraiths that can suck the life out of you with their hands. What the hell is that?!<br><br>(Teyla comes up the stairs.)<br><br>TEYLA: Doctor Weir.<br><br>WEIR: Teyla. I'll be right there. (To McKay) Do what you can.<br><br>McKAY: Right.<br><br>(Teyla leads Weir back to the steps where a young Athosian woman is waiting.)<br><br>TEYLA: Doctor Weir, this is Marta.<br><br>WEIR: Pleased to meet you.<br><br>(Marta backs away, looking at Weir nervously.)<br><br>TEYLA: It's alright. Tell her what you saw.<br><br>MARTA: A shadow.<br><br>TEYLA (to Weir): The Wraith project them; make you see things that aren't there.<br><br>WEIR (to Marta): Are you sure?<br><br>(Marta nods.)<br><br>TEYLA: And yet I sense no Wraith here.<br><br>WEIR: Teyla, have you ever been wrong about that? (Teyla looks at her uncertainly. Weir activates her radio headset.) Major Sheppard, this is Weir. One of the Athosians is claiming to have seen what she's calling a shadow.<br><br>(Marta looks at Teyla.)<br><br>MARTA: She does not believe me?<br><br>(Weir looks at her for a moment, then walks away as she speaks into her headset again.)<br><br>WEIR: Teyla says that she senses no Wraith here, but I'm still concerned.<br><br><br>(At Sheppard and Halling's position)<br><br>SHEPPARD (into radio): Alright, all teams fall back to the Gateroom and wait for further instructions.<br><br>HALLING: We can't stop searching.<br><br>SHEPPARD: If there is a threat here, we need to establish a proper perimeter.<br><br>(Nearby, the someone or something watches them go through its blurry vision.)<br><br><br>CONTROL ROOM. Halling and Sheppard come in. As Teyla comforts Halling, Sheppard walks over to Weir and McKay.<br><br>SHEPPARD: I've secured access to the Control Tower and living quarters.<br><br>WEIR: Two more Athosians reported seeing a shadow.<br><br>SHEPPARD: Now, I don't get that. That means the Wraith would be here.<br><br>WEIR: You don't think so?<br><br>SHEPPARD: I don't think they want to scare us. When they decide to come, they're going to start blowing the crap out of this place with their ships.<br><br>WEIR: So what, the Athosians are just seeing things?<br><br>SHEPPARD: Well, like Teyla said, it's a scary place for them.<br><br>McKAY: Not just for them.<br><br>(Teyla walks over to join them.)<br><br>TEYLA: Halling wishes to speak with Jinto.<br><br>(Weir turns to Halling and gestures to him.)<br><br>WEIR: Please.<br><br>(As Halling hobbles over to the console, McKay turns on the communications systems.)<br><br>McKAY (to Halling): Go ahead.<br><br>HALLING: Jinto. If you can hear me, I'm not angry. I just want to know that you are safe. So if you are lost or hurt, stay where you are. Make some noise if you can. We will find you. (He leans his crutches against the console and puts his hands together.) Pere lume tempo e teri.<br><br>SHEPPARD (to Weir): Is that Latin?<br><br>WEIR: It's Ancient! Fathers of light of the everlasting temple.<br><br>TEYLA: It is a prayer to the Ancestors.<br><br>HALLING (raising his hands into the air): If you are angry that we have unrightfully inhabited your great city, we humbly apologise. We mean no harm. We will leave if it is your wish. But I will not go without my son.<br><br>(At that moment the lights in the Control Room go out. A second later, McKay collapses to the floor unconscious. As the others stare at him, Halling looks upwards, wondering if it was a message from the Ancestors.)<br><br><br>INFIRMARY. McKay is conscious again and sitting on the end of a bed as Beckett checks him out. Sheppard stands nearby.<br><br>BECKETT: He fainted.<br><br>McKAY: Oh, there's gotta be a better word!<br><br>BECKETT: Faint is the proper medical term.<br><br>McKAY: I passed out from ... manly hunger.<br><br>SHEPPARD: Well, hang in there. (He activates his headset radio.) Doctor Weir, this is Sheppard. Uh, McKay's OK. (He turns and looks at McKay sarcastically.) He, uh, he fainted.<br><br>(Beckett grins as Sheppard leaves the room.)<br><br>McKAY (calling out to Sheppard): Oh, yes, very sympathetic! Let's all mock the dying man! (He looks at Beckett in irritation.) Thank you(!)<br><br><br>OUTSIDE THE INFIRMARY. As Sheppard walks along, the lights flicker, then go out. Sheppard cocks his P-90 and raises it cautiously before walking on slowly through the dimly illuminated hallway. Nearby, the someone or something approaches. Sheppard aims his rifle as a cloud of total darkness comes towards him. He backs out of its way as the darkness floats past him and heads off down the corridor. Sheppard follows it as, behind him, the lights come back on. Sheppard follows the darkness around a corner and watches as it goes into a room. Peter Grodin backs nervously out of the room, staring in shock. Sheppard joins him and they both watch as the darkness envelops the naqahdah generator inside.<br><br><br>CONTROL ROOM. Sheppard and Grodin have returned.<br><br>SHEPPARD: Didn't look like the phantoms the Wraith make you see but I could see how the Athosians would be confused.<br><br>WEIR: What did it look like?<br><br>SHEPPARD: It looked like a... (He holds out his hands to signify the cloud but then turns to Grodin for help.)<br><br>GRODIN: Darkness. It surrounded the naqahdah generator and started to grow, like it was feeding off the energy.<br><br>SHEPPARD: When you shut it down, the whole ... whatever it was, it just went away.<br><br>McKAY: If this thing feeds on energy we could be in big trouble -- and when I say we, I mean you because I won't actually be around for much longer.<br><br>WEIR: So we need to figure out exactly what it is and what to do about it.<br><br>GRODIN: We know it's attracted to energy.<br><br>WEIR: How about shutting down the generators?<br><br>McKAY: Well, uh, people also give off heat energy. But, now, granted it's negligible compared to that of the naqahdah generator but, uh, you take away this thing's only other obvious source of food and ...<br><br>WEIR: You're saying it could come after us.<br><br>McKAY: Well, I only know one thing for sure, and that is that flying darkness that needs energy can only be very, very bad.<br><br>WEIR: OK. We keep the power on. Grodin, figure out a way to detect it, and in the meantime, Major, establish a constant surveillance on all the generators. If one of them is targeted, we'll shut it down remotely and hopefully we can keep this ... thing busy until we can figure out a way to get rid of it. (She activates the communications systems.) Attention, everyone, this is Weir. For the time being, we need you all to remain in your quarters unless otherwise instructed. If you see anything out ...<br><br>JINTO (over comms): Hello? Can you hear me? Can anyone hear me?<br><br>SHEPPARD: Jinto?<br><br>JINTO (over comms): Major Sheppard!<br><br>WEIR: Are you OK?<br><br>JINTO (over comms): I'm scared.<br><br>SHEPPARD: Where are you?<br><br>JINTO (over comms): I don't know.<br><br>WEIR: Jinto, start from the beginning. Tell us how you got to where you are.<br><br>JINTO (over comms): I was in the hall outside my quarters.<br><br>(Sheppard hurries off. The others follow him.)<br><br><br>HALL. The group has arrived where Jinto said he was.<br><br>SHEPPARD: Where did you go next?<br><br>JINTO (over comms): I can't remember.<br><br>TEYLA: He is used to the forest -- being able to see the stars at night.<br><br>JINTO (over comms): I found a small room filled with boxes from Earth.<br><br>(Sheppard sees doors ahead of him. He and McKay walk to the doors and Sheppard opens them. The room is empty.)<br><br>SHEPPARD: No boxes.<br><br>JINTO (over comms): They are here with me.<br><br>McKAY: Someone thought it would make a nice closet.<br><br>(Sheppard and McKay walk into the room. On the opposite wall, which is only a couple of feet away, a panel opens and a map of the city is displayed.)<br><br>SHEPPARD: This is definitely not a closet. (To Jinto) Did the panel start to glow when you stepped inside?<br><br>JINTO (over comms): Yes!<br><br>SHEPPARD: Did you touch it?<br><br>JINTO (over comms): Yes.<br><br>SHEPPARD: What, exactly?<br><br>JINTO (over comms): I-I don't remember.<br><br>McKAY: Just before he disappeared we got an unusual energy reading from this area here.<br><br>(He points to a part of the map. Sheppard reaches out and touches the screen where McKay indicated.)<br><br>McKAY: Whoa-whoa-whoa, no-no ...<br><br>(The doors close. As Teyla, Weir and Halling stare, the room is filled with light.)<br><br><br>SECONDS LATER. The doors open again. Sheppard and McKay turn and stare out into a different room. Sheppard raises his P-90 as they step out cautiously.<br><br>McKAY: It must be a transporter.<br><br>SHEPPARD: We can name it later.<br><br>(Back with Weir and the others, Weir presses the panel to open the doors. The room is filled with boxes.)<br><br>(At Sheppard and McKay's location, Jinto peers nervously around the corner, then runs out.)<br><br>JINTO: Major Sheppard!<br><br>(He runs to Sheppard, barging McKay out of the way. McKay rolls his eyes in irritation. Sheppard squats down to Jinto.)<br><br>SHEPPARD: Jinto! Are you OK?<br><br>JINTO: Yes.<br><br>(Sheppard activates his radio.)<br><br>SHEPPARD: We've got Jinto. He's OK.<br><br>(Teyla smiles in delight and turns to put a hand on Halling's shoulder as he sighs in relief, then laughs happily. Back at the other location, McKay walks over to a console and activates it.)<br><br>SHEPPARD: Do you have any idea what this place is?<br><br>McKAY: Some sort of research lab. We've come across a few of them. These consoles generally access the central computer systems, so Jinto could have caused what we thought were malfunctions from here. (He turns to Jinto.) Look, I need to know everything you touched.<br><br>(Jinto looks up at him nervously.)<br><br><br>CONTROL ROOM. Grodin is sitting at a laptop which shows a map of the city. There are five glowing blue points of light on the map, and a red elongated light which is moving towards one of the blue lights. He looks up as Weir comes over to him.<br><br>GRODIN: As far as I can tell, there's only one entity. Now, the bright blue spots are the active naqahdah generators. (He points to the red light.) This blob is our entity. It was just a matter of calibrating the sensors. Your idea is working. So far I've been able to anticipate its approach to the active generators and shut them off remotely. Here, watch. (As the red light reaches the generator, the blue light goes out as Grodin shuts the generator down. The red light moves off.) Got it running in circles.<br><br>WEIR: Good job.<br><br>GRODIN: Thanks.<br><br>WEIR: I hope we're not making this thing mad.<br><br>(Grodin nods his agreement, then frowns as he notices something. He activates comms.)<br><br>GRODIN: Lieutenant. This is Doctor Grodin. I'm tracking the entity heading your way. (The screen now shows a close-up of part of the city. Two white dots indicating people are moving down a corridor. The red light is moving towards them.) You might want to get out of the hall you're standing in.<br><br>(In the corridor, Lieutenants Ford and Stackhouse receive the message.)<br><br>FORD (into radio): Roger that.<br><br>(They turn and head back the way they just came. As they approach a doorway, the doors close in front of them.)<br><br>FORD (into radio): Uh, this is Ford. A bulkhead just blocked our way. There's no panel on the wall or any way to open it that we can see.<br><br>GRODIN: Roger that.<br><br>WEIR: McKay?<br><br>(At Sheppard and McKay's location)<br><br>McKAY: We didn't touch anything. It could be the entity causing random malfunctions. The proximity to that large an energy disturbance could cause the Ancient technology to-to go haywire.<br><br>(In the Control Room, Weir looks at the map.)<br><br>WEIR: Lieutenant, double back and try the door on the east side of the hall.<br><br>(Ford and Stackhouse head back to the door. Ford touches the panel beside it but nothing happens.)<br><br>FORD: This door won't open either.<br><br>STACKHOUSE: Here it comes.<br><br>(As darkness fills the end of the corridor, McKay speaks to Ford over the comms.)<br><br>McKAY: Pull open the console in the wall.<br><br>(Ford starts to tug the cover off the panel.)<br><br>STACKHOUSE: Hurry.<br><br>(Ford gets the cover off.)<br><br>FORD: What next?<br><br>McKAY: I'm not sure. What do you see?<br><br>FORD: Three crystals.<br><br>McKay: Take out the middle one and move the top one down.<br><br>(Ford does as he has been instructed.)<br><br>FORD (to Stackhouse): If this door opens, go. I'll be right behind you.<br><br>(As the area of darkness gets larger, Ford talks to McKay.)<br><br>FORD: Not working.<br><br>McKAY: OK, use the middle one to bridge the two others.<br><br>FORD: You sure about this?<br><br>McKAY: Not exactly.<br><br>(Ford grimaces, then touches the crystal that he's holding to the two on the panel. The darkness swoops towards the marines as the door finally opens.)<br><br>FORD: Go!<br><br>(As the darkness races towards them, Stackhouse runs into the room. Ford aims his rifle at the entity as he backs towards the door but the cloud envelops him.)<br><br>(In the Control Room, Grodin stares up at Weir as Ford screams. Weir closes her eyes. In the lab, Sheppard, McKay and Jinto stare in shock. In the room, Stackhouse gets to his feet and runs outside to Ford, who is lying unconscious on the floor. The entity has passed by. Smoke is rising from Ford's clothing.)<br><br>STACKHOUSE: Man down. I need a medical team.<br><br><br>INFIRMARY. Sheppard and Weir walk in. Beckett is at Ford's bedside.<br><br>BECKETT (to Ford): Right, hang in there. (He turns and walks over to the other two.) Are we in any danger here?<br><br>WEIR: I wish I could tell you.<br><br>SHEPPARD: How's Ford?<br><br>BECKETT: It's like he was hit by lightning.<br><br>WEIR: He's gonna be OK?<br><br>BECKETT: He's a tough kid.<br><br>(Sheppard and Weir walk over to Ford's bedside. Stackhouse is sitting on the other side of the bed. He stands as the other two approach.)<br><br>MARINE: Sir.<br><br>(Sheppard nods to him, then looks down at Ford, who opens his eyes and looks up at him. His face looks like it has a bad case of sunburn.)<br><br>SHEPPARD: Hey.<br><br>(Ford takes out his nasal canula and points at Stackhouse.)<br><br>FORD: Would you tell this guy there's nothing he could have done?<br><br>(Sheppard looks across to Stackhouse.)<br><br>SHEPPARD: There is nothing you could have done.<br><br>STACKHOUSE: I could have tried to pull him out, sir.<br><br>FORD: Yeah, then we'd both look like this.<br><br>WEIR: Oh, you don't look so bad.<br><br>SHEPPARD: Doctor Beckett says you're gonna be back to, uh, pretty boy in no time.<br><br><br>LAB. Weir and Sheppard step out of the transporter and walk over to McKay.<br><br>SHEPPARD: Apparently it's also an elevator.<br><br>McKAY: Really?<br><br>WEIR: We can stop taking the stairs everywhere.<br><br>McKAY (sarcastically): Oh, how nice for you all.<br><br>SHEPPARD: What have you got?<br><br>McKAY: Well believe it or not, Jinto didn't touch anything of any consequence other than that. (He points at a large device and they all walk over to it. McKay presses a switch on the device and it lights up.) It must have its own power source like the, uh, Jumpers.<br><br>WEIR: What is it?<br><br>McKAY: Well, it's some sort of containment vessel for the energy creature.<br><br>SHEPPARD: And Jinto released it.<br><br>McKAY: Well, it seems that way. As I suggested, the entity's what's been causing most of our technical problems. Now, it was captured for observation. The Ancients were researching ascension.<br><br>WEIR (amazed): Really?<br><br>SHEPPARD: What exactly is ascension?<br><br>McKAY: Well at some point during their evolution the Ancients reached a... uh, an advanced stage of being where they were able to rid themselves of their physical bodies and rise to a higher plane of existence, one in which they-they live as pure energy. (Sheppard nods, obviously not sure that he believes that.) Well, I know it sounds ridiculous, but-but this is the first indication that there may have been evolutionary intervention to get there.<br><br>SHEPPARD: A little gene therapy of their own, huh?<br><br>McKAY: Well, I haven't read all the notes but what I do know is that the entity is energy. It feeds on energy. Ford's lucky. I mean, the more it feeds, the bigger it gets; the bigger it gets, the more charged it becomes and the more deadly it will be.<br><br>WEIR: Is it intelligent?<br><br>McKAY: Well, according to the research it is sentient but if-if you're thinking about trying to talk to it, you'd have more luck with a Great White shark. This thing is going to suck the power out of our generators and then it will kill us all.<br><br>WEIR: Alright, what do we do about it?<br><br>McKAY: The entity's been trapped in here since before the Ancients abandoned the city.<br><br>SHEPPARD: I know I'd be pissed.<br><br>McKAY: And hungry. The point is, this device was designed to attract it, capture it, and hold it for observation. There's still a chance we may be able to get it back inside. I'm just gonna need a little more time to figure out how.<br><br><br>INFIRMARY. Teyla brings Jinto in and they walk over to Ford's bedside.<br><br>FORD: Hey.<br><br>TEYLA: Jinto has something he wishes to say.<br><br>JINTO: I am sorry. What happened to you was my fault.<br><br>(Ford shakes his head.)<br><br>FORD: Where I come from, we've got a little saying: Stuff happens. Actually, it's a little different but ... You didn't mean for this to happen, did you? (Jinto shakes his head.) You're a good kid. You weren't doing anything wrong, which means this isn't your fault, OK? (Jinto nods, but he is clearly not convinced. Ford props himself up on one elbow.) Same as when we came to your planet. We didn't mean for the Wraith to show up -- they just did. That's why you're here. Your home was destroyed. You almost lost your dad. I don't remember you getting mad at me over that.<br><br>(Jinto understands what he means and shrugs.)<br><br>JINTO: Stuff happens.<br><br>(Ford nods. Jinto smiles back at him.)<br><br><br>CONTROL ROOM. Grodin is still watching the progress of the entity. Suddenly he sits up and stares at the screen as he notices something new happening.<br><br><br>LAB.<br><br>WEIR: It's not falling for the same tricks any more.<br><br>SHEPPARD: How smart is this thing?<br><br>WEIR: Rodney?<br><br>McKAY: I don't know, but this (he indicates the device) is much simpler than I thought. It's kind of like a mouse trap. This button here causes the device to emit an energy signature that attracts the creature. This one shuts it in. The only downside is it looks like, uh, someone's actually gonna have to be here to press the buttons.<br><br>SHEPPARD: I'll do it.<br><br>McKAY: OK. (He starts to walk away.)<br><br>WEIR: Wait a minute, Rodney. (McKay turns around to face her.) You're still wearing the shield. Now isn't there a chance that if something went wrong, that would protect you?<br><br>(As McKay stares at her, the light on the shield device on his chest goes out and it drops off. McKay catches it and looks down at it. Weir nods. McKay rummages in his jacket pocket, takes out an energy bar, tears the top off and takes a large bite, smiling happily.)<br><br>WEIR: I had a feeling. (She turns her back on him.)<br><br>McKAY: What do you mean? Had a feeling about what? (He walks over to her.) You think I wanted it to come off just now? You think I'm scared? I'm not scared. I'll stay, I'll do this.<br><br>SHEPPARD: No, that's OK. You might faint again(!)<br><br>McKAY: Look, it's just not working any more, that's all. Look ... (He tries to attach the device onto Sheppard's chest but it won't stick.) See, it doesn't work on you either.<br><br>WEIR: Look, I just meant that it wasn't going to let you die.<br><br>McKAY: It is just a coincidence that it happened to stop working now. (indignantly) Oh, I need a drink!<br><br>SHEPPARD: Go.<br><br>(McKay storms off to the transporter.)<br><br><br>HALLING'S QUARTERS. Halling is tucking Jinto into bed. Jinto looks at him, afraid.<br><br>JINTO: You always told me I shouldn't be afraid of the dark.<br><br>HALLING: I was wrong.<br><br>JINTO: I can't sleep now. What if the darkness comes?<br><br>TEYLA (offscreen): It won't.<br><br>(Halling turns and sees Teyla standing at the doorway. She comes into the room.)<br><br>JINTO: How do you know?<br><br>TEYLA: Because ... (she takes out her firelighter and aims it at a candle. A flame shoots out and lights the candle) ... it's afraid of fire.<br><br>JINTO: The darkness is afraid?<br><br>TEYLA: Everything is afraid of something.<br><br>(Jinto smiles a little, slightly reassured.)<br><br><br>CORRIDORS. The entity rushes through the corridors.<br><br><br>ANOTHER CORRIDOR. Athosians are sitting around in the corridors. Each group of people has a lit candle in its midst. Weir walks along looking at this. She passes some of the Athosians' quarters. All of them have their doors open and a lit candle near them.<br><br><br>CONTROL ROOM. Weir has returned, bringing a large candle with her. She talks with Grodin.<br><br>GRODIN: So the shield device just came off by itself?<br><br>WEIR: Yeah, it just stopped working. He even tried it on Sheppard.<br><br>GRODIN: It wouldn't work on Sheppard.<br><br>WEIR: Why not?<br><br>GRODIN: McKay didn't tell you? (Weir shakes her head.) The text we studied said the shield imprints on the wearer. If we're right, it wouldn't work on anyone else.<br><br>(McKay arrives, stuffing food into his mouth. He has something large under his arm but we can't see what it is yet.)<br><br>McKAY: We ready?<br><br>GRODIN: You do realise that when we shut everything down, we're going to lose the sensors. We're not going to be able to track it.<br><br>WEIR: We have security personnel posted around the living quarters. At least we'll have some warning. (She lights the candle. Grodin looks at her quizzically.) Teyla told the Athosian children that lighting a candle would help protect them.<br><br>McKAY (with a mouth full of food): And you're doing it because ...?<br><br>WEIR: It's gonna get dark in here.<br><br>McKAY: Hmm. (He reaches to the object under his arm. It's a large flashlight. He turns it on and makes a triumphant sound.)<br><br>WEIR (into comms): OK, Major. Go ahead.<br><br>(In the lab, Sheppard switches on the device.)<br><br>WEIR (to Grodin): Now.<br><br>(Grodin looks at the lit candle momentarily.)<br><br>GRODIN: Shutting down power.<br><br>(The computer screen shows the naqahdah generators all turning off. The lights go off in the Control Room. In the lab, the lights go off. Sheppard switches on the light attached to his P-90. In the Control Room, everyone waits nervously, apart from McKay who is still shoving food into his mouth. Elsewhere, the entity rushes through the corridors. In the lab, Sheppard raises his rifle as the corridor outside the room is plunged into darkness.)<br><br>SHEPPARD: It's coming.<br><br>(In the Control Room, everyone continues to wait. McKay continues to chew. In the lab, we see through the entity's eyes as it approaches the device. Sheppard looks up at it.)<br><br>SHEPPARD: I think you're gonna need a bigger boat.<br><br>McKAY (over comms): Size doesn't matter.<br><br>SHEPPARD: That's a myth.<br><br>McKAY: It'll fit. The device traps the creature in subspace. You just need to make sure it gets all the way inside the containment vessel.<br><br>(Sheppard backs away from the device as the entity approaches.)<br><br>SHEPPARD: Alright, come on.<br><br>(As the entire other side of the lab fills with darkness, the entity reaches the device. Reflected in the light from the device, we can almost see something within the cloud of darkness. The entity looks down at the device, looks back up at Sheppard, then starts to retreat. The other side of the room comes into view as the entity leaves the room.)<br><br>SHEPPARD: Son of a bitch!<br><br>WEIR: What happened?<br><br>SHEPPARD: Damned thing took one look and went away. It's a lot smarter than we thought.<br><br><br>CONTROL ROOM. MORNING. As Teyla stands on the balcony looking down to the Stargate, the others discuss options.<br><br>WEIR: We need to know where it is right now.<br><br>GRODIN: We'll have to turn the power on to use the sensors.<br><br>McKAY: You can't do that.<br><br>WEIR: Do it -- just the Operations Tower.<br><br>(Sheppard walks in as Grodin puts the power back on. He looks up as the lights come on.)<br><br>SHEPPARD: What now?<br><br>(Weir looks at the computer screen.)<br><br>WEIR: It's headed this way.<br><br>McKAY: Because you turned the power back on!<br><br>WEIR: We can't go on like this.<br><br>(Teyla turns around to face them.)<br><br>TEYLA: Do you think it wants to be here?<br><br>SHEPPARD: What do you mean?<br><br>TEYLA: It's been trapped here for thousands of years, alone.<br><br>WEIR: It's not alone any more.<br><br>McKAY: It doesn't think on that level. It thinks about eating, that's it.<br><br>SHEPPARD: Well, you would know!<br><br>TEYLA: If we stay, it will kill us.<br><br>SHEPPARD: Not unless we kill it first.<br><br>McKAY: Well, I don't see how.<br><br>TEYLA: Then either we must go or it must. Maybe it wants to go. (She turns toward the Gate.) If we open the Stargate ...<br><br>(The others look at each other.)<br><br><br>GATEROOM. A M.A.L.P. is in the Gateroom in front of the Stargate. A box is on the top of the M.A.L.P. Sheppard opens the box. Inside is a naqahdah generator. McKay, standing beside him, takes a small device out of the box.<br><br>McKAY: This is a bad idea.<br><br>WEIR: You said that already.<br><br>McKAY: Well, it's worth saying again.<br><br>(Sheppard takes the generator out of the box while McKay types on the device. Up in the Control Room, Teyla and Grodin are watching the entity's progress on the computer screen. Grodin points to the screen. Teyla nods and runs to the balcony to call down to the others.)<br><br>TEYLA: It's coming.<br><br>McKAY: An open Stargate is a huge power source. This thing is smart. It knew enough not to get trapped in the Ancient containment vessel again. How much do you think it's going to follow a naqahdah generator through a wormhole? (He turns the generator on and puts it back into the box.)<br><br>SHEPPARD: You got a better idea?<br><br>(McKay closes and locks the box.)<br><br>McKAY: Good luck. (He hurries off to the stairs up to the Control Room. Weir looks at Sheppard.)<br><br>WEIR: Are you OK?<br><br>(Sheppard nods as he settles the box onto the top of the M.A.L.P.)<br><br>GRODIN: It's almost here.<br><br>WEIR (arriving back beside him): Do you have an address?<br><br>GRODIN: M4X-337. Barren wasteland.<br><br>WEIR (to McKay): Dial it.<br><br>(McKay starts dialling.)<br><br>WEIR (to Teyla): That was good thinking.<br><br>(Teyla nods to her. Down in the Gateroom, the Gate kawhooshes. Sheppard looks at the Gate for a moment, then turns and sees that the exit to the nearest corridor is filling with darkness. He looks across to the exit on the other side of the stairs. That too is filling with darkness. He walks to the back of the M.A.L.P., pushes a button and the M.A.L.P. starts to trundle towards the Gate as he turns and races for the stairs up to the Control Room. The entity sweeps into the Gateroom and heads towards the Gate. From upstairs, the crew watch as it envelops the M.A.L.P. just before it reaches the Gate. The Gateroom fills with darkness.)<br><br>McKAY: It's not going anywhere.<br><br>WEIR: I can't see if the M.A.L.P. got through.<br><br>GRODIN: The entity could have drained the battery.<br><br>McKAY: It could be feeding off the generator, off-off the Stargate. I mean, this is disaster.<br><br>WEIR: Shut it down.<br><br>(McKay pushes the central button on the D.H.D. Nothing happens. He pushes it a couple more times. Still nothing happens.)<br><br>McKAY: I can't.<br><br>GRODIN: The consoles are dead.<br><br>WEIR: There must be something we can do.<br><br>GRODIN: We don't know if the M.A.L.P. is still down there.<br><br>(Unnoticed by the others, McKay reaches into his jacket and takes out the shield device.)<br><br>GRODIN: It's possible the entity will still go through the Gate once it's depleted the energy in the naqahdah generator on the M.A.L.P.<br><br>WEIR: Or it could just continue to feed off the Gate's energy.<br><br>(Still unnoticed by the others, McKay looks down at the shield device with a look of dread on his face. He attaches it to his chest and it sticks there and lights up. The shield ripples down his body. As the darkness continues to boil around the Gateroom and the others stare in horror at it, McKay gazes at them for a moment, his face full of despair, then he turns and walks to the top of the stairs. Sheppard notices where he is.)<br><br>SHEPPARD: McKay?<br><br>(He starts to run towards him. McKay walks down the stairs. As he reaches the entity, his shield starts to glow around him.)<br><br>WEIR: Rodney!<br><br>(McKay walks further down the stairs and disappears into the dark cloud. Inside the cloud, it's not completely black. He can see large particles floating around in the cloud. As the others stare anxiously from the Control Room, unable to know what's happening, McKay walks to the M.A.L.P., picks up the box on top of it and hurls it into the open Gate. The entity rushes into the Gate in pursuit of the generator. Slowly the darkness clears from the Gateroom, revealing the M.A.L.P. -- and McKay lying flat on his back on the floor. The Gate closes down. Sheppard races down to the stairs, kneels down and reaches for McKay's wrist to check his pulse. Weir, Teyla and Grodin run down from the Control Room to join them.)<br><br>WEIR: McKay?<br><br>(She touches his chest and realises that the shield device is no longer working. She lifts it off his chest.)<br><br>GRODIN: The power must have been drained by the entity.<br><br>SHEPPARD (into radio): Medical team to the Gateroom.<br><br>WEIR: He's not burned. He's breathing. (She looks down at him.) McKay? McKay.<br><br>(McKay opens his eyes.)<br><br>McKAY: What happened?<br><br>WEIR: You did it.<br><br>McKAY: I did?<br><br>WEIR: It went through the Gate.<br><br>(Weir and Grodin smile in relief.)<br><br>SHEPPARD (to McKay): You must have passed out.<br><br>McKAY: Oh. Well, thanks for not saying the other thing.<br><br>(Sheppard smiles, stands up and turns to Teyla. He gestures down to McKay, still smiling.)<br><br>SHEPPARD: That was a Hail Mary!<br><br>(Weir and Grodin help McKay to sit up as the medical team runs into the Gateroom.)<br><br>McKAY (to the medics): Thank you, take your time. Man down.
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="102.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s1/103.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="104.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s1/index.shtml">
+<IMG SRC="/graphics/title_s1episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season One Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="101.shtml" CLASS="list">Rising, Part 1</A><BR><A HREF="102.shtml" CLASS="list">Rising, Part 2</A><BR><A HREF="103.shtml" CLASS="list">Hide and Seek</A><BR><A HREF="104.shtml" CLASS="list">Thirty Eight Minutes</A><BR><A HREF="105.shtml" CLASS="list">Suspicion</A><BR><A HREF="106.shtml" CLASS="list">Childhood's End</A><BR><A HREF="107.shtml" CLASS="list">Poisoning the Well</A><BR><A HREF="108.shtml" CLASS="list">Underground</A><BR><A HREF="109.shtml" CLASS="list">Home</A><BR><A HREF="110.shtml" CLASS="list">The Storm</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="111.shtml" CLASS="list">The Eye</A><BR><A HREF="112.shtml" CLASS="list">The Defiant One</A><BR><A HREF="113.shtml" CLASS="list">Hot Zone</A><BR><A HREF="114.shtml" CLASS="list">Sanctuary</A><BR><A HREF="115.shtml" CLASS="list">Before I Sleep</A><BR><A HREF="116.shtml" CLASS="list">The Brotherhood</A><BR><A HREF="117.shtml" CLASS="list">Letters From Pegasus</A><BR><A HREF="118.shtml" CLASS="list">The Gift</A><BR><A HREF="119.shtml" CLASS="list">The Siege, Part 1</A><BR><A HREF="120.shtml" CLASS="list">The Siege, Part 2</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season One</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B000BVXPGY/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B000CEVUIK/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B000B8IA2G/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls1.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="102.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s1/103.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="104.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

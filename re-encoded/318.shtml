@@ -1,0 +1,527 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Submersion" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				
+				<A HREF="/atlantis/s3/transcripts/318.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=562">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=309">Screen Captures</A><BR>
+				
+				
+				
+				
+				
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=37758">Fan Reviews</A>
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=37748">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s3/318.shtml"><IMG SRC="/atlantis/graphics/318_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="SUBMERSION" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://click.linksynergy.com/fs-bin/click?id=2cvd55rHd*s&offerid=78941.10001326&type=4&subid=0" TARGET="_blank"><img height="15" width="61" border="0" alt="iTunes" src="/store/graphics/itunes_button.gif"></img></a> &nbsp; <a href="http://www.amazon.com/exec/obidos/ASIN/B000S1VB1S/bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 318<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 3, Disc 5<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 06.08.07<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 04.28.08<BR>
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0192551/" TARGET="_blank">Ken Cuperus</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0817878/" TARGET="_blank">Brenton Spencer</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">The team discovers an Ancient drilling station deep beneath the surface of the ocean, only to find that a Wraith queen is still alive there.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    ATLANTIS.  Some distance from the city, a Puddle Jumper is flying under the ocean.  On board, Doctor Elizabeth Weir is sitting beside Lieutenant Colonel John Sheppard as he pilots the ship towards the ocean floor.  Behind Elizabeth, Ronon Dex sits and yawns in boredom.  Teyla Emmagan comes forward from the rear compartment, where several Atlantis crewmembers are sitting, and walks over to Doctor Rodney McKay who is sitting behind John.  She glances back at the team in the rear, obviously bored with having had nothing to look at for ages, then looks at Rodney.<br><br>TEYLA: Um ... shotgun ... is it?<br><br>McKAY (exasperated): Oh, come on.<br><br>(Teyla smiles at him.  Annoyed, he picks up his computer tablet and stands up.)<br><br>McKAY: I dont know why I have to do this.<br><br>(He walks into the rear compartment and sits down on one of the side benches.  There are seven other people back there, including Doctor Radek Zelenka.  All of them look really bored.  Teyla takes Rodneys seat in the front compartment.  Rodney looks down at his computer tablet for a moment, then looks up at Radek and the other people opposite him.)<br><br>McKAY: What?<br><br>ZELENKA: Nobody said anything.<br><br>McKAY: You dont <I>have</I> to, do you?  Look, its not <I>my</I> fault things are hard to find on the bottom of the ocean.<br><br>ZELENKA: Rodney, you said you knew where it was.<br><br>McKAY: I <I>said</I> I knew its last known location.  It is a <I>mobile</I> drilling station, remember?  Obviously thats gonna take a few hours.<br><br>DEX: If we dont find it soon, this is gonna be <I>your</I> last known location.<br><br>McKAY: Oh, zing!<br><br>SHEPPARD: OK, kids.  Do I have to pull this thing over?  Its hard enough being in this damned thing for hours without listening to you guys.<br><br>GRAYDON: Actually, Doctor McKay has managed to narrow the search field to a remarkably small area.<br><br>McKAY: Hmm, finally!  The voice of reason!  Thank you, Doctor ... um ...<br><br>GRAYDON: Graydon.<br><br>McKAY: Yes, yes, of course.  (He smiles insincerely at Graydon.)  Well, welcome to the team.<br><br>(Graydons smile fades.)<br><br>GRAYDON: Uh, Ive been here almost eight months.<br><br>McKAY: Really?<br><br>(Graydon nods.)<br><br>McKAY: Oh.  Its been that long, has it?  (Awkwardly) Time certainly flies.<br><br>ZELENKA: Of course, not sitting in a Jumper looking for a needle in a haystack.<br><br>McKAY: You know what?  Shut up!<br><br>DEX: You know what?  <I>You</I> shut up, OK?<br><br>McKAY: Hey!  I dont hear Grayson complaining!<br><br>GRAYDON: Uh, its Graydon, with a d.<br><br>McKAY: What?  You sure?<br><br>GRAYDON: Its my name.<br><br>McKAY: No-no-no, cause I could have sworn that the guy I wanted from your department was called Grayson, cause I remember thinking Dick Grayson, Bruce Waynes ward.<br><br>GRAYDON: Well, its Graydon.<br><br>McKAY: Oh.  Perhaps that means I hired the wrong guy.<br><br>SHEPPARD (to Elizabeth): Well, still glad you came?<br><br>(Elizabeth, who had been lost in thought until now, jerks out of her reverie.)<br><br>WEIR: Oh, sorry.  (Sarcastically) I was preoccupied thinking about the geothermal drilling platform.<br><br>SHEPPARD: Shouldnt take us much longer.  We just passed the thermal layer and Im getting some readings a couple of hundred feet ahead. <br><br>WEIR: If we did manage to find an alternate and potentially limitless power supply, that would make even this insufferably long search seem worthwhile.<br><br>(The heads-up display comes up on the windshield.)<br><br>SHEPPARD: OK, kids, were here.<br><br>(Rodney and Radek come into the front compartment.  The other scientists also stand up and come forward to take a look at the display.)<br><br>SHEPPARD: Well, hopefully it wont take too much longer to power up the station.<br><br>(The Jumper flies towards the drilling platform sitting on the ocean floor.  As the Jumper approaches, lights on the outside of the platform come on automatically.  Elizabeth smiles at John.)<br><br>WEIR: That wasnt so hard.<br><br>SHEPPARD: Now all Ive gotta do is dock this thing and we can find out what this place is all about.<br><br><br>Somewhere nearby, a Wraith Queen opens her eyes as she becomes aware of something approaching.<br><br><br>SHORTLY AFTERWARDS.  The Jumper has backed into the platforms docking port, leaving its nose sticking out into the ocean.  The crew is in a Control Room of the platform and they are hooking up their laptops to various consoles.  Rodney reports to Elizabeth.<br><br>McKAY: All systems are online and functioning at full capacity.<br><br>WEIR: You mean were generating power already?<br><br>McKAY: Well ... no.  No-no, but we probably could if we wanted to.<br><br>WEIR: No, slow down.  The Ancients abandoned this project for a reason.  Lets try to find out what that reason might be <I>before</I> we start drilling into the planets crust.<br><br>McKAY: Yes, well, fair enough.<br><br><br>CORRIDOR.  John, Ronon and Teyla are walking around the base checking the place out.<br><br>TEYLA: Have we not been down this hallway before?<br><br>DEX: Every corridor looks the same.<br><br>SHEPPARD: Dont worry.  I have an uncanny sense of direction.<br><br>DEX: I think shes right.  Weve been down this way before.<br><br>SHEPPARD: Thats impossible.  We took a left, and a left, and then a right.<br><br>DEX: Hey, look, all Im saying is ...<br><br>(Suddenly Teyla stops and gasps.  Ronon turns back to her.)<br><br>DEX: What?<br><br>TEYLA: I am sensing a Wraith presence nearby.<br><br>SHEPPARD: Are you sure?  Were pretty deep underwater.<br><br>TEYLA: I cannot be certain, but I believe it is onboard the drilling platform.<br><br>(John looks around nervously, then activates his headset radio.)<br><br>SHEPPARD: This is Sheppard.  Everyone drop what youre doing; get back to the Control Room immediately.<br><br><br>CONTROL ROOM. <br><br>McKAY (tetchily): We did a complete life signs scan.  Its the first thing we did when we stepped aboard this station.  Look, I promise you, there is nobody here but us.<br><br>TEYLA: I know, Rodney, but I am sensing it even closer now.<br><br>McKAY: Well, maybe its the pressure.  Its been known to do things to the mind.<br><br>SHEPPARD: Just humour me and check again.<br><br>(Rodney sighs in irritation.  He turns to his computer and activates the life signs scanner.  It shows twelve life signs.)<br><br>McKAY: There.  All of these life signs have been accounted for.  (He turns and looks smugly at John.)  Humoured?<br><br>WEIR: Wraith dont show up on life signs detectors if theyre hibernating.<br><br>TEYLA: I know what I am sensing.<br><br>McKAY: There is no Wraith here!  Im telling you!<br><br>DEX (to Teyla): Has your sense ever been wrong?<br><br>TEYLA: Never.  And I cannot shake this feeling.<br><br>DEX: I trust her.<br><br>McKAY (pointing to his computer): As opposed to irrefutable fact?<br><br>DEX: Your machines dont know everything.<br><br>McKAY: I never said that they did.<br><br>TEYLA: There is a way for me to be sure.  If I can reach out with my mind and establish a link ...<br><br>SHEPPARD: Whoa.  Thats a little reckless, dont you think?<br><br>TEYLA: If there is no Wraith, then there will be no mind for me to link with, and therefore no risk.  But if there <I>is</I> a Wraith nearby ...<br><br>WEIR: ... we need to know.<br><br><br>CREW QUARTERS.  John, Teyla, Ronon and Elizabeth have gone to a room which has bunks around the wall.  Teyla is sitting cross-legged on a bench in the middle of the room with her hands upturned on her knees.<br><br>TEYLA: I am ready.<br><br>SHEPPARD: You sure?<br><br>TEYLA: The briefest contact will determine whether or not Im right.<br><br>SHEPPARD: Thats all we need, so dont stick around any longer.<br><br>(Teyla nods.)<br><br>WEIR: And we will bring you out of it at the first sign of trouble.<br><br>(Teyla nods again and closes her eyes.  John turns and whispers quietly to Ronon.)<br><br>SHEPPARD: Just to be sure ...<br><br>DEX: Its already set to stun.<br><br>(Teyla opens her eyes and rolls them at the boys, more at the distraction than what theyve said.)<br><br>SHEPPARD: Sorry.<br><br>(Teyla exhales deeply and closes her eyes again.  Ronon puts his hand onto his blaster.  Teyla concentrates for several long seconds, turning her hands over to place them flat on her knees.  She continues to concentrate as Ronon fidgets nervously.  John puts his hand on his pistol.  After a while, Teyla opens her eyes.  Elizabeth steps closer to her.)<br><br>WEIR: Teyla?<br><br>(As Teyla looks up at the others, looking a little bewildered, John and Ronon also take a step closer to her.)<br><br>TEYLA: I was mistaken.  Theres nothing there.<br><br>SHEPPARD: Well, thats <I>good</I>.<br><br>(Teyla stands up.)<br><br>TEYLA: Im sorry.<br><br>SHEPPARD: No reason to be sorry.<br><br>TEYLA: Perhaps it <I>was</I> the effect of the pressure at this depth.<br><br>SHEPPARD: Well, if youve ever seen The Abyss, pressure can make you nuts.<br><br>(Teyla frowns at him.)<br><br>SHEPPARD: Not that I think youre nuts.<br><br>TEYLA: Its alright, John.  (She smiles.)  I am relieved.<br><br>WEIR: So am I.  Well, we have a lot of exploring to do.<br><br>SHEPPARD: We?<br><br>WEIR: Until Rodney delivers the preliminary status report, Im all yours.  Put me to work, Colonel.<br><br>SHEPPARD: Alright, lets make up some time.  Break into teams.  Ronon, youre with Teyla.  Elizabeth, youre with me -- or Im with you, however you wanna put it.<br><br>(Ronon hands him a rifle and he walks off, Elizabeth following him.)<br><br>WEIR: Either [ee-ther] way ... or either [eye-ther] way.<br><br>(Ronon hands Teyla a pistol and they too head off.)<br><br><br>CORRIDOR.<br><br>SHEPPARD: That was weird.<br><br>WEIR: Well, we <I>are</I> at the very bottom of the ocean.  Maybe youre right.  Teylas just experiencing the effects of the pressure.<br><br>SHEPPARD: Hopefully not as bad as that guy in The Abyss.<br><br><br>ANOTHER CORRIDOR.<br><br>DEX: This place is big, huh?<br><br>(Teyla doesnt answer him.  He looks round at her.)<br><br>DEX: Whats wrong?<br><br>TEYLA: Nothing.  Why?<br><br>DEX: You just havent said a word.<br><br>TEYLA: Have I not?<br><br>DEX: No.<br><br>TEYLA (stopping): Has my silence made you uncomfortable?<br><br>(Ronon stops and turns to face her.)<br><br>DEX: No.<br><br>(Teyla walks closer to him.)<br><br>TEYLA: Your friendship is very important to me.  I would hate to do anything that made you ... (she puts her hand on his shoulder) ... uncomfortable.<br><br>DEX: OK.  Well ... (he looks at her hand on his shoulder) ... good.<br><br>(Teyla knees him hard in the groin.  As Ronon groans and starts to double up, she punches him hard in the face twice.  The second blow slams his head into the wall and he falls to the floor.  Teyla kicks him brutally three times, knocking him unconscious.  She looks around for a moment, then heads off.  She finds another Control Room, looks at the control panel for a while, then activates some crystals.  In John and Elizabeths area, the lights go out.  John switches on the light on top of his rifle.)<br><br>SHEPPARD: Rodney.  Whats going on?<br><br>(In the main Control Room, the lights are still on.)<br><br>McKAY: What do you mean, whats going on?<br><br>SHEPPARD: We just lost the lights.<br><br>McKAY: What?<br><br>(He goes over to a control panel and looks at it.  It shows that several areas of the base are in darkness.)<br><br>McKAY: Huh.  Youre right.<br><br>WEIR: Yes, we can see that!<br><br>McKAY: We just lost power to forty percent of the station.  Sensors are currently offline.  Zelenka, what are you doing?<br><br>ZELENKA (from another Control Room): Uh, what do you mean, what am I doing?<br><br>McKAY: Have you lost power where you are?<br><br>ZELENKA: No.  Have you?<br><br>McKAY: No.<br><br>SHEPPARD: <I>We</I> have.  I wanna know whats going on.<br><br>McKAY: You know, this station <I>has</I> been lying idle down here for a few millennia.  Were bound to blow a few fuses.  Look, Ill have power back online in a minute.  Just hang tight.<br><br>SHEPPARD: Ronon, Teyla?  Report your position.<br><br>(Theres no reply.  Ronon is still unconscious.)<br><br>SHEPPARD: Ronon, Teyla?  Come in. <br><br>(Again theres no reply.  John looks suspiciously at Elizabeth.)<br><br>(In her Control Room, Teyla is still activating controls.  In the corridor, Elizabeth looks back down the dark corridor nervously.)<br><br>SHEPPARD: Ronon.  Teyla.  Rodney, weve lost contact with Ronon and Teyla.  You know their position?<br><br>McKAY: No, negative.  Internal sensors are out, but I have determined the location where the power went down.  Its an auxiliary control area, search grid six.  Its the deck that Ronon and Teyla were exploring.<br><br>SHEPPARD: Well meet you there.<br><br>McKAY: OK.  (He looks at one of the scientists.)  Davidson.<br><br>DICKENSON: Its, uh, Dickenson, sir.<br><br>McKAY: Yeah, well, I was in the ballpark.  Just give me a break here.  Look, get back to the Jumper -- see if you can use its sensors to determine the location of our people within the drilling platform.<br><br>DICKENSON: Sir.<br><br>McKAY: Gray<I>DON</I>, you go with him.<br><br><br>Out in the ocean, a figure is swimming towards the platform.<br><br><br>CORRIDOR.   Rodney walks nervously along a dark corridor, shining his flashlight around.  A light flickers behind him and he turns quickly towards it, sighing with relief as he sees John and Elizabeth walking towards him.<br><br>McKAY: There you are.<br><br>(The three of them continue on.  In the Auxiliary Control Room, Teyla activates a control that opens a panel containing some crystals.  Stepping back, she draws her pistol and fires repeatedly into the panel, destroying the crystals.  Nearby, John and the others hear the shooting.)<br><br>WEIR: Weapons fire.<br><br>SHEPPARD: Nine mil.  This way.<br><br>(He and Elizabeth hurry towards the sound.  Rodney hesitates.)<br><br>McKAY: Oh, yes.  Lets race <I>towards</I> the gunfire!<br><br>(Nevertheless, he follows the other two.)<br><br><br>In another part of the platform is a room with a moon pool -- a round opening in the floor which allows instant access to the ocean.  The Wraith Queen surfaces and snarls.<br><br><br>CORRIDOR.  John, Elizabeth and Rodney are still making their way towards the area where they heard gunshots.<br><br>SHEPPARD (into radio): Ronon, Teyla, come in.<br><br>(As they turn a corner, Ronon groans.  John and the others run towards him as he tries to sit up.)<br><br>WEIR: Are you alright?<br><br>DEX: No!<br><br>WEIR: Did you see who attacked you?<br><br>DEX: Yeah, it was Teyla.<br><br>McKAY: What?!  Why?<br><br>WEIR: OK, until we know whats going on, Id like everyone in one place.<br><br><br>AUXILIARY CONTROL ROOM.  Teyla continues activating controls.<br><br><br>CORRIDOR.  Graydon and Dickenson are walking along.  Suddenly a forcefield activates in front of them.  All around the base, forcefields activate, blocking corridors.  Back at Johns position, Ronon is on his feet and the four of them are walking along.<br><br>ZELENKA (over radio): This is Zelenka.  Someone has just activated emergency forcefields throughout the station.<br><br>SHEPPARD: Can you make it back to the Control Room?<br><br>ZELENKA: Yes, I think so.<br><br>SHEPPARD: Do it.<br><br>McKAY: That doesnt make any sense.  Whats she doing?<br><br>SHEPPARD: You and Elizabeth go back to the Control Room.  Ronon and I are gonna check up on Teyla.<br><br>WEIR: Be careful.<br><br>DEX: No kidding!<br><br>(Drawing his blaster, he follows John as Elizabeth and Rodney head off in a different direction.)<br><br><br>AUXILIARY CONTROL ROOM.  Teyla gasps and slumps over the control panel.  Standing up again, she looks around the room in confusion.  She notices her pistol lying on top of the panel and picks it up.  She backs away from the panel, still looking around bewildered.  Suddenly she senses something behind her and turns, aiming her pistol, only to find John and Ronon both aiming their weapons at her.<br><br>SHEPPARD: Drop it.<br><br>(Teyla drops her pistol to the floor.)<br><br>TEYLA: John.<br><br>(She slumps against the control panel again.)<br><br>SHEPPARD: What the hells going on?<br><br>TEYLA (anguished): I do not know.<br><br><br>MAIN CONTROL ROOM.<br><br>WEIR: Rodney, whats the status?<br><br>McKAY: As far from the quo as it gets.  Look, Teyla didnt just shut down several key systems; she scrambled the existing operating codes.<br><br>ZELENKA: This is going to take a while.<br><br>WEIR: Can we contact Atlantis?<br><br>McKAY: The stations communication system is just gone.  I cant even patch it.  Shes blown the control crystals -- <I>and</I> shut down half  the power to the station <I>and</I> set up a series of emergency forcefields.<br><br>WEIR: To what purpose?<br><br>SHEPPARD (over radio): This is Sheppard.  Weve got Teyla.<br><br>WEIR: And?<br><br>SHEPPARD: And nothin.  She has no memory of anything that happened the last hour.  Were on our way to Crew Quarters.<br><br>WEIR: Ill meet you there.  (To Rodney) OK, lets forget about restoring the station to its former glory.  Concentrate your efforts on internal sensors and disabling the forcefields that are cutting us off from the Jumper.<br><br><br>CREW QUARTERS.  Teyla is sitting on the bench with the two men standing nearby and watching her closely.  Elizabeth comes in.  Teyla stands up.<br><br>TEYLA: Elizabeth, Im so sorry.<br><br>WEIR: Dont worry about that.  How are you feeling now?<br><br>TEYLA: Im fine, but to hear of the damage I caused and yet to have no memory of my actions ...<br><br>WEIR: Just tell us what you <I>do</I> remember.<br><br>TEYLA: I was attempting to seek out the Wraith presence with my mind, and then ...  (She trails off.)<br><br>WEIR: There <I>is</I> a Wraith?<br><br>TEYLA: The most powerful mind I have ever encountered.  (She sits down again.)  I tried to shut her out ...<br><br>SHEPPARD (sharply): <I>Her</I>?<br><br>TEYLA: Yes.  I believe this Wraith is a Queen.<br><br>SHEPPARD (grimacing): I <I>hate</I> Queens.<br><br>TEYLA: In that brief moment, I sensed great power; the experiences of many centuries; hunger ... and then nothing.  My next memory is of Colonel Sheppard and Ronon aiming their weapons towards me.<br><br>WEIR: So there <I>is</I> a Wraith aboard the drilling platform.<br><br>SHEPPARD: If that were the case, whyd she use Teyla to do all that damage, and why didnt the life signs detector pick up a signal?<br><br>DEX: Doesnt matter.  If shes here, Ill find her.<br><br>SHEPPARD: <I>Well</I> find her.<br><br>TEYLA: I would like to help.<br><br>(The other three look at her awkwardly.)<br><br>WEIR: Im sorry, Teyla, but until we can determine exactly what ...<br><br>(Teyla lowers her head, realising that her team cant trust her yet.)<br><br>TEYLA: Yes, of course.  I understand.<br><br><br>CORRIDOR.  Dickenson and Graydon are kneeling by a panel near the floor of the corridor.  Dickenson presses some symbols on the cover and the panel slides open.<br><br>McKAY (over radio): Dickenson.  Any progress on disabling those forcefields?<br><br>(The scientists look at each other as if to say, Give us a minute, will you?!)<br><br>McKAY: Im getting indications that some of them are going up and down.  We could really use the Jumpers sensors.<br><br>DICKENSON: Im doing my best, sir.<br><br>GRAYDON (to Dickenson): One of these days Im just going to call him Doctor McCoy.<br><br>DICKENSON: Id love to be there for that!<br><br>GRAYDON: Well, the next time he calls me Grayson ...<br><br>DICKENSON (getting to work on the panel): Actually, I know a Grayson.<br><br>GRAYDON: There really <I>is</I> a Grayson?<br><br>DICKENSON: Yeah.  Hes a damned good scientist, too.  Im surprised McKay didnt hire him.<br><br>(Graydon looks hurt.  Just then, a sound comes from around the corner, as if a forcefield has just lowered.)<br><br>GRAYDON: Did you do that?<br><br>DICKENSON: I dont know -- but Im happy to take credit for it.  Check it out.<br><br>GRAYDON: Yeah.<br><br>(He heads off around the corner as Dickenson gets back to work on the panel.)<br><br><br>SHORTLY AFTERWARDS.  At the docking port, Graydon frowns as he spots a small puddle of water on the floor.  He walks over to the Jumper and stops again at the sight of another small puddle on the ramp.  He bends down to touch it, then stands up and looks around the area.  Seeing nothing, he turns to go into the Jumper only to find himself face to face with the Wraith Queen.<br><br><br>CONTROL ROOM.<br><br>ZELENKA: I dont understand.  What could the Wraith possibly want with an Ancient drilling platform?  For that matter, how did they even get here?<br><br>McKAY: Maybe on a ship nearby.<br><br>ZELENKA: Underwater?<br><br>McKAY: Look, who knows?  Teylas spidey-sense works for miles.  Look, are the external sensors up and running?<br><br>ZELENKA: Uh, yes, theyre operational, but theyre designed to scan the ocean floor.<br><br>McKAY: Doesnt matter.  Coleman, take a look at the drilling platforms external sensors -- see what you turn up.<br><br>COLEMAN: What am I looking for?<br><br>McKAY: Anything.<br><br><br>CREW QUARTERS.  Teyla is now sitting on one of the bunks while Elizabeth wanders around the room.<br><br>WEIR: How are you feeling?<br><br>TEYLA: I have never been more ashamed.<br><br>WEIR: Oh, you cant blame yourself.<br><br>TEYLA: I should have been more careful.<br><br>WEIR: A Wraith Queens mind is extremely powerful, Teyla.  You know that better than I do.<br><br>TEYLA: Still, if my actions while under her control result in people getting hurt ...  (She trails off, shaking her head.)<br><br>WEIR: If you hadnt done what you did, who knows <I>what</I> could have happened?  At least now we <I>know</I> what were dealing with.  If anything, I should thank you.  I <I>certainly</I> dont blame you.<br><br>TEYLA: I would like to help them find her.<br><br>WEIR (awkwardly): Teyla ...<br><br>TEYLA: There is no risk.<br><br>WEIR: I dont <I>know</I> that.<br><br>TEYLA: Unless you suspect I am still under her control even now.<br><br>WEIR (deliberately sitting down opposite her): Would I be alone with you if I did?<br><br>TEYLA: Then you think I am somehow vulnerable to her.<br><br>WEIR: I think it is best to keep you away from her for the moment, yes.  Look, I dont fully understand this capability you have of linking with a Wraith mind, but if its even remotely possible that ...<br><br>TEYLA (interrupting): She was only able to control me because I opened my mind to her.  (She stands up.)  If I choose to do so again, I will be ready.<br><br>WEIR: Teyla, I know you wanna help.<br><br>TEYLA: I do.<br><br>WEIR: The best way for you to do that is allow Ronon and Colonel Sheppard to find her.<br><br>TEYLA (reluctantly): As you wish.<br><br><br>CORRIDOR.  John and Ronon, their weapons aimed, walk cautiously along a corridor.  A Wraith ghost flits past the end of the corridor.  Ronon hangs back, covering the corridor with his blaster, as John proceeds forward carefully.  He gestures to Ronon to head off down another corridor.<br><br><br>ANOTHER CORRIDOR.  Dickenson is still working on the panel but raises his head briefly as he hears footsteps approaching behind him.<br><br>DICKENSON: Its about time.  (He gets back to work on the panel.)  I was beginning to think youd gotten lost.  Listen, did you manage to, uh ...<br><br>(He turns around to see the Queen standing behind him.  As she snarls, he scrambles to his feet and runs off but crashes into a forcefield just a few yards down the corridor.  He falls to the floor and drags himself into the corner, terrified.)<br><br>DICKENSON: Oh no!  Oh!  (He activates his headset.)  Colonel Sheppard!<br><br>(The Queen walks towards him and bends down to him.)<br><br>DICKENSON (into radio): If you can hear me, please ...<br><br>(The Queen slams her hand around his throat.  In another corridor, John hears the voice over the radio.)<br><br>DICKENSON (over radio): Help me!<br><br>SHEPPARD: Who am I talking to?  (Theres no reply.)  Whats your location?  (Still no reply.)  McKay.  Do you have any men unaccounted for?<br><br>McKAY (from the Control Room): Two guys I just sent back to the Jumper.<br><br>SHEPPARD: I think theyre in trouble.  Can you get those forcefields down?<br><br>(Near Rodney, Radek looks across at him and raises his hands in despair.)<br><br>McKAY (into radio): Were working on it.<br><br>(He clicks his fingers at Radek to indicate that he needs to work faster.)<br><br><br>CREW QUARTERS.  Teyla is pacing, with her fingers to her head as if in pain.<br><br>TEYLA: The Wraith presence is even stronger than before.  She is aboard this station.  You must warn them.<br><br>WEIR (into radio): Colonel Sheppard.  Teylas certain the Wraith is aboard the station.<br><br>SHEPPARD (over radio): Understood.<br><br>(He starts to race back down the corridor.)<br><br>SHEPPARD: Ronon, Im headin back to the Jumper.  Meet me there.<br><br>DEX (running down another corridor): Im on my way.<br><br>(John screeches to a halt as he reaches glowing panels on the walls that indicate that the forcefield is active.)<br><br>DICKENSON (over radio): Sheppard!  Help me!  Please!<br><br>SHEPPARD (into radio): McKay!<br><br>(Nearby, Ronon runs around a corner so fast that he cant stop from running into another forcefield.  He cries out in pain and recoils backwards.)<br><br>DEX (angrily): McKay!<br><br>ZELENKA: Yeah-yeah-yeah.  Almost there.  (He looks up at Rodney.)  I can only do one at a time.<br><br>(He and Rodney continue working.  A few moments later the forcefield in front of John drops and he races off.)<br><br>McKAY: The Jumpers sensors should be able to locate them.<br><br>(John slowly approaches the Jumper.  Noticing the puddles on the floor, he checks around the area carefully, then quickly swings around and aims his rifle inside before going in.  Graydon is sitting in the pilots seat facing the front of the ship.)<br><br>SHEPPARD: Graydon?<br><br>(He walks to the front of the ship as Graydon doesnt respond.  John swings the seat around and sees that Graydon is skeletal, having been fed on by the Queen.  Startled, John jumps back.  After looking at him for a few seconds, he activates his headset.)<br><br>SHEPPARD: Graydons dead.  Fed upon.<br><br>WEIR: What about Dickenson?<br><br>SHEPPARD: No sign of him yet.  Lets see if we can find him using the, uh ...  (He trails off, looking around vaguely.)<br><br>WEIR: Sheppard?  (Theres no reply.)  Sheppard, come in.<br><br>(In the corridors, Ronon makes his way cautiously towards the docking port.  In the Jumper, John spins round and sees the Queen standing in the doorway of the ship.  He raises his rifle and tries to shoot her but the Queen exerts her mental powers and John is unable to pull the trigger.  He groans with effort as the Queen forces him to drop his rifle.)<br><br>QUEEN: You are Sheppard.  The one who can fly this ship.<br><br>(John continues to groan as he tries to break her mental hold on him.  The Queen walks towards him.)<br><br>QUEEN: You will return me to the surface.<br><br>(She points at him.)<br><br>QUEEN: Kneel.<br><br>(Struggling to resist her, John falls to his knees.  The Queen grins in delight.)<br><br>McKAY (over radio): Sheppard, this is McKay.  Whatve you got?<br><br>(John tries his hardest to speak but cant.)<br><br>McKAY (over radio): Sheppard, can you hear me?<br><br>(In the Control Room, Radek rises to his feet in consternation.  Rodney continues trying to contact John.)<br><br>McKAY (into radio): Is something wrong?<br><br>(In the Jumper, the Queen runs a finger down the side of Johns face as he gazes up at her helplessly.)<br><br>QUEEN: You will fly me to the Stargate and return me to my people.<br><br>(Ronon races around the corner of the Jumper and aims his blaster at the Queen with both hands.  John cant help but look at him.  The Queen sees his gaze shift and, snarling, turns around just as Ronon fires.  The blast goes past her, over Johns head and smashes the windshield.  Instantly the ocean starts to rush in.  John and the Queen are knocked over by the water as it races through the ship and heads towards Ronon.)<br><br><br>SOME TIME LATER.  John recovers consciousness lying on a corridor floor.  He and the floor are soaked with water.  Rodneys voice comes over his radio.  From the urgency in his voice, he has been calling for some time.<br><br>McKAY: Sheppard, this is McKay.  <I>Please</I> respond.  Sheppard, come in!<br><br>(John raises his head.)<br><br>SHEPPARD: Im here.<br><br>(In the Control Room, Radek sighs in relief.)<br><br>ZELENKA: We had to throw the emergency forcefields up.  The section you were in was flooding.<br><br>SHEPPARD: I noticed!<br><br>McKAY:  See, you were thrown by the force of the water clear of the forcefield bulkhead.<br><br>(John looks over to Ronon who is just regaining consciousness.)<br><br>SHEPPARD: Ronon.<br><br>(Groaning, Ronon lifts his head.  He hauls himself to his feet and walks over to the forcefield.  The field is holding back the ocean on the other side.  He puts his fingers against the field and it sparks.  He looks round to John.)<br><br>DEX: I missed.<br><br>SHEPPARD (tetchily): I noticed that too!<br><br>McKAY: Everyone else is accounted for.  Any sign of Dickenson?<br><br>SHEPPARD: Stand by, McKay.<br><br>(He looks around the area, then his eyes widen and he draws his pistol and points it at the Queen as he sees her lying some yards away.  She doesnt move.)<br><br>McKAY: Look, I dont know what just happened, but we are now cut off from the Jumper.<br><br>(Ronon walks over to the unconscious Queen and aims his blaster down at her head.)<br><br>DEX: I wont miss now.<br><br>SHEPPARD: Wait!  (Having finally got to his feet, he comes over to join Ronon, aiming his pistol down at the Queen.)<br><br>DEX: What for?<br><br>SHEPPARD: Well, we lost the Jumper, we lost communications with Atlantis.  Maybe she can help us get out of this place.<br><br><br>LATER.  The Queen has been taken to a room and strapped by the wrists and ankles onto a table.  She is now conscious and struggling to pull her hands free.  Elizabeth walks over to her.<br><br>WEIR: Welcome back.  I trust youre comfortable.<br><br>SHEPPARD (to the Queen): That groggy sensation youre feeling are the sedatives were pumping you full of.  Just a precaution.  As for the other precautions ...<br><br>(Ronon lifts his blaster up so that the Queen can see it and pointedly switches the setting from stun to kill.  Elizabeth walks closer to the table.)<br><br>WEIR: Now, youre gonna tell us everything we want to know.<br><br>QUEEN: In exchange for ...?<br><br>WEIR: This is <I>not</I> a negotiation.<br><br>(The Queen grins.)<br><br>QUEEN: I disagree.<br><br>DEX: Let me get this over with.<br><br>(He charges his blaster and aims it at the Queen.  She surges up into a sitting position and snarls into Elizabeths face.  As Elizabeth steps back nervously, Ronon rushes over, grabs the Queen by the throat and shoves her back down onto the table, aiming his blaster at her head with his other hand.  John also aims his pistol at her.  Elizabeth catches her breath, then nods to Ronon who releases the Queen and steps back, he and John still aiming their weapons at her head.  Elizabeth steps closer to the table again.)<br><br>WEIR: How did you get aboard this station?<br><br>(The Queen smiles but doesnt respond.)<br><br>WEIR: Are there any more of you?<br><br>QUEEN: You are all about to die.<br><br>WEIR: Really?  (She smiles disbelievingly.)<br><br>SHEPPARD: You care to elaborate on that at all?<br><br>(Deliberately, the Queen turns her head away from them.)<br><br><br>CONTROL ROOM.<br><br>ZELENKA: We should be able to keep the forcefields up until Atlantis sends a rescue Jumper, but station communications are still down, so ...<br><br>McKAY: I should have listened to Teyla.  This wouldnt have happened.<br><br>ZELENKA: Dont worry about it, Rodney.  Its not your fault.<br><br>McKAY: Im the one who sent those men back to the Jumper.<br><br>ZELENKA: Well, the sensors indicated that there was nobody here, so ...<br><br>COLEMAN: I dont think there <I>was</I>, sir.  I think the Wraith arrived here <I>after</I> we did the initial scans.<br><br>McKAY: What?<br><br>COLEMAN: You asked me to do a search with the remote sensors.  I found something.<br><br>(She activates the control panel.  The wall panel shows an overhead image of the drilling platform, then pulls back to show the ocean surrounding the area.  A familiar shape can be seen some distance away from the platform.)<br><br>COLEMAN: We didnt notice it on the way down because its radiating very little E.M.<br><br>(Rodney activates his headset.)<br><br>McKAY: Guys?  Head back here.  I think I have a few answers.<br><br><br>LATER.  John is looking at the image.<br><br>SHEPPARD: A Wraith cruiser.<br><br>McKAY: Its almost completely buried in silt.<br><br>ZELENKA: Which means its been here a very, very, very long time.<br><br>McKAY: Yes, give or take a very.<br><br>SHEPPARD: That doesnt explain how she got here.<br><br>WEIR: Maybe she swam over.<br><br>SHEPPARD: No, no.  The pressure at that depth is ...<br><br>McKAY: ... is deadly to humans, but shes not human, remember?<br><br>ZELENKA: Yes, its difficult to imagine, but with the Wraiths ability to heal itself ...<br><br>(He and Elizabeth look at each other.)<br><br><br>CREW QUARTERS.  John and Elizabeth are telling Teyla whats been happening.<br><br>TEYLA: And there are no other Wraith on board?<br><br>SHEPPARD: No way to know for sure.  Our prisoner isnt talking, other than Youre all about to die.<br><br>WEIR: Which may or may not be an empty threat.<br><br>TEYLA: Then you have no way of knowing?<br><br>SHEPPARD: Well, she said it with a lot of confidence.<br><br>TEYLA: There <I>is</I> a way to find out.<br><br>SHEPPARD: Weve already been down that road.<br><br>WEIR: And what is to stop her exerting control over you again?<br><br>TEYLA: Shes heavily sedated.  And this time I know exactly what Im dealing with.<br><br><br>SHORTLY AFTERWARDS.  Elizabeth and John bring Teyla into the room where the Queen is lying.  Teyla walks over to the Queens side.  The Queens eyes widen as she realises who Teyla is.<br><br>QUEEN: You.<br><br>TEYLA: I was caught offguard the first time.  That will <I>not</I> happen again.<br><br>QUEEN (grinning): It does not matter.<br><br>SHEPPARD: Well, <I>we</I> think it <I>does</I>.<br><br>QUEEN: Your fate is sealed.<br><br>(Teyla looks at Ronon.)<br><br>TEYLA: If you have any reason to suspect that I am not myself, do not hesitate to use that.  (She nods towards his holstered blaster.)<br><br>DEX: I wont.<br><br>(Teyla turns back to the table and takes a preparatory breath.  Breathing out, she closes her eyes and concentrates for a few seconds.  The Queen snarls as she tries to keep Teyla out of her mind.)<br><br>TEYLA: I see her ...<br><br>(In her mind she sees the Queen as she looks out the windshield of her ship.  Several Wraith hive ships fly past.)<br><br>TEYLA: ... leading the first wave of ships that attacked Atlantis during the war.  Queen of a great alliance.  Her ship was damaged during the battle.  (She gasps with the effort.)  It crashed into the ocean.<br><br>(On the table, the Queen writhes as if disturbed by the memories.)<br><br>TEYLA: She fed upon her own crew to survive.  Too deep to ever swim to the surface ... waking between centuries ... waiting for rescue that never came ... until finally she was alone.  She sensed our presence during our descent.  She sensed ... <I>me</I>, and saw us as her one chance of freedom from her prison.<br><br>(In Teylas mind, she sees the Queen walk along the corridors of her cruiser, then she sees an image of the ocean.)<br><br>TEYLA: The water was ... crushing ... but she was determined.  Finally, after all these millennia, a ship!<br><br>(In Teylas mind, the Queen tries to activate the controls of the Puddle Jumper.)<br><br>TEYLA: But she did not possess the gene to fly it.<br><br>(In the Puddle Jumper, the Queen snarls in frustration.)<br><br>SHEPPARD: She used Dickenson to call for me.<br><br>(On the table, the Queen writhes as she tries to keep Teyla out of her mind, but Teyla sees her activate some controls on her own cruiser.  Teyla gasps and slumps onto the edge of the table.)<br><br>WEIR: Teyla ...<br><br>(Teyla raises her head, her eyes still closed.)<br><br>TEYLA: You are all about to die.<br><br>SHEPPARD: That does not sound like Teyla.<br><br>(He raises his pistol.)<br><br>TEYLA: You are all about to die.<br><br>(Ronon activates his blaster and aims it.)<br><br>TEYLA: You are all about to die.<br><br>SHEPPARD: Teyla, snap out of it!<br><br>TEYLA: Wait!<br><br>(She forces herself to continue her probe of the Queens mind, and sees a red light begin to pulse on the control panel of the cruiser.  Teyla raises her head, her eyes open.)<br><br>TEYLA: She has activated the self-destruct device of the Wraith cruiser.  It is set to detonate within two hours.<br><br>(The Queen looks round at John and grins.)<br><br>SHEPPARD: So -- <I>not</I> an empty threat.<br><br><br>CONTROL ROOM.  John and Elizabeth walk in.<br><br>McKAY: Hows Teyla?<br><br>WEIR: Shes resting.  I think it took a lot more out of her than shes willing to admit.<br><br>SHEPPARD: Whats the news?<br><br>McKAY: OK, well, it looks like the Ancients chose this section of the ocean floor because the planets crust is remarkably thin right below us, allowing them to drill directly into the magma and maximise the geothermal power output.<br><br>SHEPPARD: OK ...<br><br>ZELENKA: Which means theres a great deal of potential energy directly beneath this station.<br><br>SHEPPARD: Thats the news?  That this place works as advertised?<br><br>McKAY: No.  No, the news is that if they were to detonate, say, the self-destruct of a Wraith cruiser on just such a wafer-thin crust ...<br><br>WEIR: Oh my God.<br><br>ZELENKA: ... all that thermal energy directly beneath us will be released all at once.<br><br>SHEPPARD: So, bad news.<br><br>McKAY: Yeah.  The initial explosion will be magnified a thousand times.  Were talking catastrophic.<br><br>SHEPPARD: So it wont just be us thats affected.<br><br>ZELENKA: No.  Atlantis will be affected as well.  Its well within the blast radius.<br><br>WEIR: And we have no way to warn them?<br><br>McKAY: Theyd never even see it coming.<br><br>SHEPPARD: So we disarm the self-destruct.<br><br>McKAY: Thats brilliant, but we still need to get there.<br><br>WEIR: And how do we do that without the Jumper?<br><br>SHEPPARD: Were way behind schedule.  Theyre gonna send a rescue Jumper any minute now.<br><br>McKAY: Even if theyve left already -- I mean the <I>moment</I> we were overdue ...<br><br>ZELENKA: No, they wont make it in time.<br><br>SHEPPARD: How far is the cruiser?<br><br>ZELENKA: Um, less than a kilometre.<br><br>SHEPPARD: She swam that far?!  What <I>is</I> she?!<br><br>ZELENKA: A formidable enemy.<br><br>McKAY: I have an idea.<br><br><br>MOON POOL ROOM.  Rodney leads John and Elizabeth over to a couple of bulky diving suits.<br><br>McKAY: I found these in the database when we first got here.  They were used primarily to make repairs to the exterior of the station.<br><br>SHEPPARD: Very cool!<br><br>McKAY: Yeah.  You should be able to traverse the distance between here and the cruiser.<br><br>SHEPPARD: You mean <I>we</I>.<br><br>McKAY (reluctantly): Um, yes, of course.  We.<br><br>(Elizabeth walks across to the edge of the moon pool.)<br><br>WEIR: This must be how she got in.<br><br>SHEPPARD: Probably.  Alright.  Lets get suited up.<br><br>(Rodney stares down into the water in dread.)<br><br>McKAY (unhappily): Right.<br><br><br>LATER.  John and Rodney are walking slowly across the ocean floor.  Rodney is breathing rapidly.<br><br>SHEPPARD: Youre breathing too hard.<br><br>McKAY: Oh, forgive me for being aware of exactly how much pressure is being exerted on this suit right now.<br><br>SHEPPARD: Just think of it as a walk on the beach -- a beach thats about to explode.<br><br>McKAY: Thats supposed to make me feel better?!<br><br>SHEPPARD: No, its supposed to make you walk faster.  Were on the clock here.<br><br>WEIR (over radio): This is Weir.  How close are you?<br><br>SHEPPARD: Almost there, but were runnin out of time.  We may need Teyla to do her Kreskin act again.<br><br>WEIR: Id rather not have to.  I think it could be much too dangerous for her.<br><br>SHEPPARD: So is exploding magma.<br><br>McKAY (sighing irritably): I am walking as fast as I can.<br><br><br>DRILLING PLATFORM.  Elizabeth walks back to the Queen.<br><br>WEIR: How do we disarm the self-destruct?  You wont survive the blast any more than we will.<br><br>(The Queen grins and turns her head away.)<br><br>TEYLA: I can get the information we need.<br><br>QUEEN: If you are strong enough, you would have done so already.  (She looks at Teyla.)  I can feel how weak you are.<br><br>TEYLA: We shall see who is stronger.<br><br>(She prepares herself, then closes her eyes and reinitiates mental contact with the Queen, who gasps as she struggles to keep her out.)<br><br><br>WRAITH CRUISER.  John and Rodney are inside the ship and have taken their suits off.<br><br>SHEPPARD: Hey, that took too long.<br><br>McKAY: Yeah, well, I probably wont be able to disarm the self-destruct in time anyway, so were really not in a rush.<br><br>SHEPPARD: Why dont we find it first, and <I>then</I> you can be negative?<br><br>McKAY: The ship is remarkably preserved.<br><br>SHEPPARD: Youd think after ten thousand years, shed want to redecorate.<br><br>McKAY: Im serious.  The hull damage is minimal.  They probably just lost their main drive.<br><br>SHEPPARD: Youre saying this thing is salvageable?<br><br>McKAY: Hmm, Id have to assess damage to primary systems but its not completely out of the question.  Of course, youd probably just go and blow it up or slam it into a hive ship or something, and all that workd be for nothing.<br><br>SHEPPARD: Tick, tick, tick.<br><br>(Rodney sighs and looks at an Ancient device hes holding.  He points.)<br><br>McKAY: This way.<br><br><br>DRILLING PLATFORM.  Teylas eyes are closed in concentration.  The Queen writhes gently as she struggles to keep her out.<br><br>WEIR: Teyla?<br><br>(Teyla gasps and clutches her head, crying out in pain.)<br><br>QUEEN (triumphantly): You are weakening.<br><br>WEIR: Teyla, I think you should stop.<br><br>TEYLA: My concentration slipped for just a moment.<br><br>QUEEN: And in that moment, I could have crushed you with a single thought.  (She looks at Teyla pointedly.)  Perhaps next time, I will.<br><br>WEIR: There isnt gonna <I>be</I> a next time.<br><br>(She pulls Teyla away from the Queen.)<br><br>TEYLA: Elizabeth, I am fine.<br><br>WEIR: No, youre not.  I can see what this is doing to you.  Lets just give McKay a chance.<br><br><br>WRAITH CRUISER.  John and Rodney walk onto the Bridge and see the console that Teyla saw in the Queens mind.  The red light is flashing ominously.<br><br>SHEPPARD: There it is.<br><br>(Rodney walks over and looks at the controls.)<br><br>McKAY: Huh.<br><br>SHEPPARD: What?<br><br>McKAY: Well, Im pretty sure this is the device, and Im pretty sure it says we have less than half an hour.<br><br>SHEPPARD: So turn it off.<br><br>(Rodney takes hold of a control device and pushes it forward.  He pulls it back again and pushes a button but nothing happens.)<br><br>McKAY: Huh!<br><br>SHEPPARD: What does <I>that</I> mean?<br><br>McKAY: Its not accepting commands of any kind.  There must be some kind of a command code that needs to be entered first.<br><br>(He experimentally pushes a few buttons.)<br><br>SHEPPARD: Can you figure it out?<br><br>McKAY (sarcastically): Yes, well, command codes are usually quite simple, like the number one or the letter A, like, in Wraith, which would be, umm ...<br><br>SHEPPARD: Can you figure out the code or not?<br><br>McKAY: No!  Not if I stood here and tried for a million years, and we have ... (he looks at his watch) ... just under a million years less than that.<br><br>(Exasperated, John turns away and activates his radio.)<br><br>SHEPPARD: Elizabeth, you there?<br><br>(Back at the platform, Elizabeth walks out of the room and activates her headset.)<br><br>WEIR: Any luck?<br><br>SHEPPARD: Negative.  If we dont get the command code in less than thirty minutes, were dead.<br><br><br>DRILLING PLATFORM.  Elizabeth and Teyla are just outside the Queens prison room.  The Queen can hear them as they talk.<br><br>TEYLA: This is the only way.<br><br>WEIR: I told you, Rodney has another idea.<br><br>TEYLA: That may or may not succeed.  There is only <I>one</I> way to be certain.<br><br>WEIR: She said she would kill you next time.<br><br>TEYLA: I will not let that happen.<br><br>(Elizabeth considers it for a moment, then makes a decision.)<br><br>WEIR: No.  Were gonna give them more time.<br><br>(She walks away.  Teyla watches her go, then turns and goes back into the room.)<br><br>TEYLA: Ronon.  Theres been an emergency in the Control Room.  Doctor Weir needs your help.<br><br>DEX (gesturing to the Queen): What about her?<br><br>(Teyla draws her pistol and aims it at the Queens head.)<br><br>TEYLA: Ill watch the prisoner.  Hurry.<br><br>DEX: Watch yourself.<br><br>(He leaves the room.  Once he has gone, Teyla lowers her pistol and holsters it.)<br><br>QUEEN: Are you fool enough to try again?<br><br>TEYLA: I have very little to lose.<br><br>(The Queen grins as Teyla closes her eyes and concentrates.  Another mental struggle ensues between the two of them.  After several seconds the Queen gasps and her eyes snap open.  Teyla opens her own eyes and stares at her in horror.  The Queen grins triumphantly and stares at Teyla, who reaches down and pulls out the I.V. in her arm, then goes to the foot of the bed and undoes the tethers around her ankles before returning to the other end of the bed and undoing the tethers around her wrists.  The Queen sits up and raises her right hand ready to strike at Teyla and feed on her, then she hesitates and looks at her closely.)<br><br>QUEEN: Youre trying to hide something from me.<br><br>(Teyla stares at her wide-eyed, trying to keep her out of her mind, but the Queen gets through her defences and sees a flashback of an earlier conversation.)<br><br><br>FLASHBACK.  Teyla meets with Elizabeth and John.<br><br>WEIR: Theres been a development.<br><br>TEYLA: Were you able to disarm the self-destruct device?<br><br>SHEPPARD: No, but Rodney thinks if we can tie in a naqahdah generator he can still get the Wraith cruiser to fly.<br><br>TEYLA: After all these years?<br><br>SHEPPARD: Yeah.  The damage is superficial.  The problem was the engines.  McKays already restored power and I think I can fly the ship to a safe distance.<br><br>TEYLA: Thats a suicide mission.<br><br>SHEPPARD: Well, if I can ditch the ship on the mainland, maybe I can get far enough away from the explosion.  I gotta go now.<br><br>(He turns to leave.)<br><br>TEYLA: Wait.  Let me try again.  If I can get her to give up her command code, you wont have to risk it.<br><br>SHEPPARD: Youre in no condition to do that.  (He and Elizabeth exchange a glance for a moment.)  Sorry.  (He turns and leaves.)<br><br><br>The flashback ends.  As the Queen grins, Teyla drops to the floor, unconscious.  The Queen leaves the room and heads for the moon pool.  Shortly afterwards, she is swimming through the ocean towards her cruiser.<br><br><br>WRAITH CRUISER.  The self-destruct light continues to pulse.  John stands watching it with concern, then turns as the Queen enters the Bridge.<br><br>SHEPPARD: Well, youre a hell of a swimmer, Ill give you that.<br><br>QUEEN: You have restored power?<br><br>SHEPPARD (backing away from the console): Itll fly.<br><br>(Hissing in delight, the Queen walks across to the console and punches her code into it.  The red light goes off.)<br><br>QUEEN: You shall be rewarded ... with a quick death.<br><br>(Behind her, Rodney raises a P90 and fires a hail of bullets into her back.  The Queen convulses, then turns to face him, snarling.  Rodneys eyes widen.)<br><br>McKAY: Shes not dying according to plan here!<br><br>(He cowers out of the way as the Queen walks toward him.  John draws his pistol and fires eight more bullets into her back.  She finally drops to the floor.  John walks toward her, still aiming his pistol cautiously, as Rodney straightens up.)<br><br>SHEPPARD: I thought youd forgotten about me!<br><br>McKAY: Of course not!  I just had to wait for her to disable the device.  Hey, just be thankful she didnt feed on you before she entered the command code.<br><br>SHEPPARD: Oh, <I>thats</I> why you didnt wanna be bait!<br><br>McKAY: No-no-no-no.  <I>You</I> had to be bait because she was expecting you to be the one trying to fly the ship.<br><br>(John narrows his eyes at him.  Rodney looks down at the Queen.)<br><br>McKAY: She <I>is</I> dead, right?<br><br>SHEPPARD: Lets get outta here.<br><br><br>CREW QUARTERS.  Ronon goes over to one of the bunks and puts his blaster down.  John walks across the room, looking at Teyla who is sitting on the side of another bunk with Elizabeth.<br><br>SHEPPARD: Howre you feelin?<br><br>TEYLA: Much better now that I no longer feel the constant presence of a Wraith.<br><br>(John sits down on another bunk.)<br><br>SHEPPARD: That was no ordinary Wraith.  It took a lot of bullets to take her down.<br><br>DEX (unstrapping his holster): I wish I was there.<br><br>WEIR: Hes right, you know.  I mean, deceiving a Wraith <I>Queen</I> -- thats no small feat.<br><br>TEYLA: Well, when there are so many lives at stake, its easy to summon the strength.<br><br>(Ronon sits down on the edge of his bunk.  Rodney comes in just as Ronon lies down.)<br><br>McKAY: Well, Zelenkas finally got communications back up.  Turns out Atlantis <I>had</I> sent another Jumper.  Should be here within the hour.<br><br>WEIR: Thats good news!<br><br>DEX (lying face down on his bunk): Yeah, no kiddin.  I cant wait to see the sun.<br><br>McKAY: What?  No-no-no -- we havent finished what we came here for.  Look, the Wraiths gone -- weve got a ton of research to do.<br><br>WEIR (picking up her jacket and standing up): Yes, we do.<br><br>McKAY: In fact, Im pretty sure we should be able to come up with a way to get auxiliary power online in a couple of days.<br><br>(As she follows Rodney out of the room, Elizabeth throws a rueful smile back at Teyla, who grins.)<br><br>DEX: Is he serious?<br><br>SHEPPARD: Yeah.  He is.<br><br>TEYLA: Well, I for one intend to spend the next little while resting.<br><br>(She bundles up her jacket and puts it at the head of the bunk to use as a pillow.)<br><br>DEX: Same here.<br><br>SHEPPARD: Yeah.  Same here.<br><br>(He lies down on his bunk and settles down.)
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="317.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s3/318.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="319.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s3/index.shtml">
+<IMG SRC="/graphics/title_s3episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Three Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="301.shtml" CLASS="list">No Man's Land</A><BR><A HREF="302.shtml" CLASS="list">Misbegotten</A><BR><A HREF="303.shtml" CLASS="list">Irresistible</A><BR><A HREF="304.shtml" CLASS="list">Sateda</A><BR><A HREF="305.shtml" CLASS="list">Progeny</A><BR><A HREF="306.shtml" CLASS="list">The Real World</A><BR><A HREF="307.shtml" CLASS="list">Common Ground</A><BR><A HREF="308.shtml" CLASS="list">McKay and Mrs. Miller</A><BR><A HREF="309.shtml" CLASS="list">Phantoms</A><BR><A HREF="310.shtml" CLASS="list">The Return, Part 1</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="311.shtml" CLASS="list">The Return, Part 2</A><BR><A HREF="312.shtml" CLASS="list">Echoes</A><BR><A HREF="313.shtml" CLASS="list">Irresponsible</A><BR><A HREF="314.shtml" CLASS="list">Tao of Rodney</A><BR><A HREF="315.shtml" CLASS="list">The Game</A><BR><A HREF="316.shtml" CLASS="list">The Ark</A><BR><A HREF="317.shtml" CLASS="list">Sunday</A><BR><A HREF="318.shtml" CLASS="list">Submersion</A><BR><A HREF="319.shtml" CLASS="list">Vengeance</A><BR><A HREF="320.shtml" CLASS="list">First Strike</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B000RW3YYA/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B000RW3YYA/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Three</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B000RW3YYA/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B000XEMDQC/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B000RW3YYA/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B000RW3YYA/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls3.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="317.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s3/318.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="319.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

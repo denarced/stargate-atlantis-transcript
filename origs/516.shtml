@@ -1,0 +1,527 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Brain Storm" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s5/516.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s5/transcripts/516.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=650">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=729">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s5/516.shtml#production">Production</A>
+				 | <A HREF="/universe/s5/516.shtml#news">News</A>
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=60870">Fan Reviews</A>
+				 | <A HREF="http://forum.gateworld.net/forumdisplay.php?f=141">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s5/516.shtml"><IMG SRC="/atlantis/graphics/516_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="BRAIN STORM" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://click.linksynergy.com/fs-bin/stat?id=2cvd55rHd*s&offerid=78941&type=3&subid=0&tmpid=1826&RD_PARM1=http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewTVShow?id=179127311&partnerId=30"><img height="15" width="61" border="0" alt="iTunes" src="/store/graphics/itunes_button.gif"></img></a> &nbsp; <a href="http://www.amazon.com/gp/product/B001LX4Z1K/?tag=bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 516<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 5, Disc 4<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 11.21.08<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 03.08.10<BR>
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm1236625/" TARGET="_blank">Martin Gero</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm1236625/" TARGET="_blank">Martin Gero</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">Rodney returns to Earth with Jennifer to witness the triumph of his rival, who believes he has solved the problem of global warming.  But when the new technology goes horribly awry, Rodney must help shut down the deadly weather device.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    ATLANTIS.  In the Mess Hall, John Sheppard and Ronon Dex arrive at the food table and start loading trays with their lunch.<br><br>DEX: You sure you don't wanna spend your leave going back to Earth with McKay and the others?<br><br>SHEPPARD: Nah.  The S.G.C. doesn't have a ZeeP.M., so two weeks on Earth means three weeks cooped up in the Daedalus.  That's five weeks of missing work.  We only get one of those every year and a half, so I'd like to save mine for something more special.<br><br>DEX: So we're going camping instead?<br><br>SHEPPARD: On a beach that's never been surfed or even touched.  You know, you've gotta get a little more excited about this thing.<br><br>DEX: Uh-huh.<br><br>(John looks across the room and sees Rodney McKay and Jennifer Keller sitting at a table together, eating lunch and talking.)<br><br>SHEPPARD: Hey.  Check that out.<br><br>DEX: What?<br><br>SHEPPARD: D'you think he's <I>ever</I> gonna make a move?<br><br>DEX: Who cares?<br><br>(He walks away.  John looks thoughtfully at the other two for a moment.)<br><br>SHEPPARD: Hmm.<br><br>(He looks around to find Ronon gone, and hurries off after him.)<br><br>(At the nearby table, Rodney and Jennifer are chatting.)<br><br>McKAY: Say, I know we only get fourteen days on Earth a year and you miss your dad and all.<br><br>KELLER: But?<br><br>McKAY: See, one of my old ... this guy who was doing his doctorate the same time as me, he's giving a big secret presentation about some new thing that he's working on, and everyone and anyone in the physics community's gonna be there and ... well ... see the thing is, there's this perception out there that, uh, I'm, um ... (he looks down, embarrassed) ... like a washout recluse.<br><br>KELLER: Why?<br><br>McKAY: Well, ‘cause I do <I>this</I> for a living.  I mean, super double tip-top secret stuff.  I mean, I haven't published a paper in nearly a decade – not one that could be read by the general public – and I'm kinda hard to get ahold of, what with living in another galaxy and all.<br><br>KELLER: Yeah, I know what <I>that's</I> like!<br><br>McKAY: Exactly!  They think I'm a shut-in.  So I was thinking that, um, if I was to, say, show up with a woman ...<br><br>KELLER: Uh-huh.<br><br>McKAY (looking at her shyly): ... a-a <I>beautiful</I> woman ...<br><br>(Jen smiles, flattered.)<br><br>McKAY (awkwardly): ... that, um, they would maybe not think that I was ... like, a complete loser.  It'd be, like, one day – the first night we were there and then you could be off to Chippewa Falls.  (He looks at her hopefully.)  I mean, it could be fun.<br><br>KELLER (thoughtfully): Hmm.  Now, let's see: a room full of physicists; a long-winded presentation I probably won't understand.  Yeah, it doesn't really sound like <I>fun</I>.<br><br>McKAY: Well, there'll be drinks, probably, and maybe those little sandwiches ...  (Shyly) And ... me.  I'll be there.<br><br>KELLER: You don't have to fabricate all these reasons on why you need me to be with you.  You could just ask me out on a date.<br><br>McKAY: Hey, I didn't wanna ... I mean, I know ... you ...<br><br>KELLER (interrupting): I'll probably say yes!<br><br>McKAY (trying to look casual): Well, you wanna go to this thing with me?<br><br>KELLER: Sure!  (She smiles at him.)  I'd love to.<br><br>McKAY: What?  I love ... I mean, that's good!  Good!  Great!  That's ...<br><br>KELLER (smiling): It's a date!<br><br>McKAY (surprised and relieved): That's a date!<br><br>KELLER: So, what's the presentation?<br><br>McKAY: I don't know.  He doesn't wanna tell anyone until we all get there but if I know this guy, it'll be a, you know, first class presentation ... with, like, second rate science.<br><br>(They pick up their trays and leave the table.)<br><br>McKAY: Probably some minor adjustment to someone else's work, but the food'll be good!<br><br>KELLER (smiling at him): And the company.<br><br><br>EARTH.  KRAMER INNOVATIONS INC.  A large complex is in the middle of nowhere in a desert in North America.  In a room inside the complex, Doctor Malcolm Tunney is working at a console as the head of the company, Terence Kramer, walks in reading a document.<br><br>KRAMER: Malcolm, have you read this?<br><br>TUNNEY (without looking up): Yes.<br><br>KRAMER: Your staff thinks it's reckless to turn this thing on tomorrow.<br><br>TUNNEY: <I>Some</I> of my staff.<br><br>KRAMER: Malcolm!<br><br>(Sighing, Tunney stands up and turns to him before going over to another console and typing on that.)<br><br>TUNNEY: They're just getting cold feet, that's all.  D'you remember all that stuff they came out with before CERN turned on the L.H.C.?   You know, miniature black holes, exotic particles, strangelets, the instantaneous destruction of the planet?  All unfounded histrionics.  We are gonna be just fine.<br><br>KRAMER: So you're saying none of these potential catastrophes is gonna happen?<br><br>TUNNEY: Well, there is always the <I>slight</I> possibility that something <I>might</I> go wrong.<br><br>KRAMER: The cause has a lot riding on this.<br><br>TUNNEY: Don't worry about it.  Your precious cause will come out of this squeaky clean tomorrow.<br><br>KRAMER: Some of these worst-case scenarios are terrifying.<br><br>TUNNEY: Of <I>course</I> they're terrifying!  They're worst-case scenarios!  They are the worst possible thing that could ever happen <I>ever</I>!  Tomorrow's gonna come off without a hitch.  We've done hundreds of tests; there is zero possibility for failure.  Trust me.<br><br><br>PRIVATE JET.  On board the airborne jet, Jennifer picks up a glass of champagne.  The bottle is on ice on the table in front of her and next to it is a bowl of large fresh strawberries.  She is wearing a pretty black cocktail dress and her hair is nicely done.  She takes an appreciative drink from her glass, puts it on the table and smiles across the table.<br><br>KELLER: This is exciting!<br><br>(Sitting opposite her, Rodney is wearing a smart black suit with a dark stripe in it, and a black bowtie.  He smiles back at her, trying to hide his grimace.)<br><br>McKAY: Well, it's just a plane.<br><br>KELLER: Yeah, but I've never even flown first class.  I mean, this is amazing!  Have you tried these strawberries?<br><br>McKAY: When I was ten I ate a bowlful of strawberries and threw up.  Haven't been able to stomach them since.<br><br>KELLER: How does this guy afford all this?  I thought he was just a physicist.<br><br>McKAY (a little bitterly): Well, he was always able to dupe guys with deep pockets into backing his research, you know?  It's amazing what a nice smile and a PowerPoint presentation'll get you.<br><br>KELLER: Well, I <I>am</I> impressed.<br><br>McKAY: Yes, I can see that.<br><br>KELLER: Oh, come on.  You should be happy for your friend's success.<br><br>McKAY: Well, he's more of an acquaintance than a friend.<br><br>KELLER: Acquaintances don't pick you up in private planes.<br><br>McKAY: He didn't send the jet to be nice; he sent the jet to rub it in my face.<br><br>(Jen sighs resignedly.)<br><br>McKAY: Look, I was always one step ahead of this guy during school and now that we're in the real world he wants to show me that, as far as most of the planet is concerned, he's a lot more successful than I am.  And what is with the evening attire?!  We're going to a science talk, for God's sake!  Who the hell does he think he is?!<br><br>KELLER: Is this what the whole day's gonna be like?  Are you gonna be in a bad mood?<br><br>McKAY (looking embarrassed): No.<br><br>KELLER: ‘Cause we're back on Earth in a private jet, drinking expensive champagne, and your date's wearing a fancy dress.  Most people would be having a good time, Rodney.<br><br>McKAY: You're right.  You're right.<br><br>(Smiling, Jennifer picks up her champagne glass.  To prove that he's going to make an effort, Rodney picks up one of the strawberries and holds it up.)<br><br>McKAY: Hmm?<br><br>(He bites into it and starts to chew, apparently genuinely enjoying it, but then he looks up at the wall ahead of him where there's a framed photograph of Tunney laughing with the Dalai Lama.  He grimaces, stops chewing and looks down at the strawberry unhappily.)<br><br><br>KRAMER INNOVATIONS INC.  Rodney and Jennifer approach the reception desk where a male receptionist is looking at a clipboard.<br><br>McKAY: McKay.  Doctor Rodney McKay.  (He gestures at Jen.)  Doctor Jennifer Keller.<br><br>RECEPTIONIST (without looking up): Yes, welcome.<br><br>(He puts the clipboard down.)<br><br>RECEPTIONIST: I'll just need you both to sign this non-disclosure and confidentiality agreement.<br><br>(He picks up two thick documents and drops them onto the desk in front of them.)<br><br>McKAY: Oh, you're not serious.<br><br>RECEPTIONIST: Is there a problem, sir?<br><br>McKAY (looking at the document in front of him): This whole thing is a confidentiality agreement?!<br><br>RECEPTIONIST: Yes, sir.<br><br>McKAY: What could he possibly be doing back there that needs to be kept two hundred pages secret?!<br><br>RECEPTIONIST (belligerently): If you want to go inside, sir, you need to sign the agreement.<br><br>(Jennifer is already signing her document.  Rodney looks at the receptionist stubbornly.)<br><br>McKAY: Dinosaurs?<br><br>RECEPTIONIST: Excuse me?<br><br>McKAY: Do they have living dinosaurs back there?  Because I'll sign this if he's brought dinosaurs back to life, but short of that he's out of his mind if he thinks I'm gonna pretend that whatever discovery he has made is so important and so secret that I have to sign the unabridged works of William Shakespeare here.<br><br>KELLER (holding up her pen): Just sign it.<br><br>(Embarrassed, Rodney reaches for the pen.)<br><br>KELLER: Here you go.<br><br>(Taking the pen from her, Rodney looks at the receptionist.)<br><br>McKAY: Well, you're just lucky the lady's here, aren't you?<br><br>(He starts to sign the document as Jennifer smiles fondly.)<br><br><br>LOBBY.  A large group of scientists are milling around and talking, all wearing evening wear.  Waitresses are circulating with trays of drinks.  Near the buffet table, Rodney is standing with Jennifer and holding a plate of food.<br><br>KELLER: Where do you think we are?<br><br>McKAY: I don't know.  Arizona; Nevada.  I didn't think people even built secret facilities any more.  Seems so 1950s.<br><br>(A voice calls out to him from behind.)<br><br>NYE: Rodney McKay?!<br><br>(Recognising the voice, Rodney's eyes widen before he turns around as Bill Nye and Neil deGrasse Tyson walk over. [For the benefit of non-American viewers, Nye is an American comedian, television host, science educator and mechanical engineer and is known as "the Science Guy".  Tyson is an astrophysicist who hosts a TV show called "NOVA ScienceNOW".])<br><br>NYE: We had it on good authority that you were dead!<br><br>(Rodney laughs in a forced way.  Tyson looks at Jennifer appreciatively.)<br><br>TYSON: And this would be your sister?<br><br>McKAY: No, no, Neil, you know, she's not my sister.  This is Jennifer Keller.  (To Jen) It's Bill Nye and ... (mumbling) ... Neil deGrasse Tyson.<br><br>(Jennifer shakes hands with Nye and then with Tyson.)<br><br>TYSON: You know, from television.<br><br>KELLER: Yeah, uh, of course.  Very nice to meet you.<br><br>TYSON: No, the pleasure's mine.<br><br>McKAY: And she's taken, Neil.<br><br>TYSON: Oh no, I didn't mean it <I>that</I> way, no!<br><br>McKAY (to Jen): Neil likes to steal things from me – things like women and theoretical physics ideas.<br><br>TYSON (sarcastically): Yeah, but who <I>hasn't</I> stolen an idea from the great Rodney McKay?!<br><br>McKAY: Oh, so we admit it now!<br><br>NYE (to Jennifer): See, back in the day whenever any one of these people ... (he gestures around the room) ... came up with a new idea or published a new paper, Doctor McKay here would swear that he was already working on something very similar; just hadn't gotten around to publishing it yet.<br><br>TYSON: He'd say things like, "I was about to say that very same thing," or "I was just about to have that same idea"!<br><br>McKAY: Hey, at least I didn't declassify Pluto from planet status.  Way to make all the little kids cry, Neil.  That make you feel like a big man?<br><br>NYE (to Jennifer): See, thanks to Doctor Tyson, Pluto is now the first of the plutoids – a new class of celestial object.  It's cool!  Come on, Rodney!  It's the twenty-first century!<br><br>TYSON: Actually, come to think of it, when was the last time you even published a paper?  It was, like, the eighties?!<br><br>McKAY (awkwardly): It ... hasn't been <I>that</I> long.<br><br>NYE (mock-thoughtfully): I think I was listening to that band A Flock of Seagulls while I was reading it!<br><br>TYSON: Actually it might have been pre-Reagan!<br><br>McKAY (unhappily): Well, it has been great running into you guys.  We should, maybe, get our seats.<br><br>(He walks away.)<br><br>KELLER (to the other two): Bye.<br><br>(She follows Rodney.  The men watch her go and Nye whistles appreciatively.)<br><br>TYSON: They can't <I>possibly</I> be dating!<br><br>NYE: I know!  Well, you know, you're married, so ... dibs!<br><br>(Rubbing his hands together, he walks off in pursuit.  Tyson laughs and gestures him onwards.) <br><br>TYSON: She's all yours!<br><br><br>LECTURE HALL.  The guests are taking their seats.  Rodney and Jennifer are already seated about halfway up the tiered seating.<br><br>McKAY: I think maybe this was a bad idea.<br><br>KELLER: Why?<br><br>McKAY: Well, I just ... I remembered I don't really like these people.<br><br>(Jennifer chuckles.)<br><br>KELLER: Is it that you don't like <I>them</I>, or maybe <I>they</I> don't like <I>you</I>?<br><br>McKAY: Well, possibly.  I mean, I used to be a little ... (he searches for the right word) ... abrasive?<br><br>KELLER: Oh.  "Used to be"(!)<br><br>McKAY: Yeah.  <br><br>(Jen looks away, biting back a smile.)<br><br>McKAY: Well, it's hard to explain.  My field is very competitive.<br><br>KELLER: Yeah, I went to med school for six years.  I wouldn't know anything about that(!)<br><br>McKAY: Oh.  Right.<br><br>KELLER: Not everything has to be a competition, Rodney.  They know how smart you are.<br><br>McKAY: I'm not sure they do!<br><br>KELLER: Of <I>course</I> they do.  You don't have to keep reminding them.  It's called being humble.  You've heard that word before?<br><br>(Snorting, Rodney looks at her.)<br><br>KELLER: Look, we're on our first date and I've come to a physics talk, OK?!  <I>You</I> have to bend a little bit too.<br><br>McKAY: Humble, eh?  I guess I can try anything once.<br><br>(Smiling, Jen takes his hand just as the lights dim in the hall.  Dramatic native American-style music begins to play and a rotating image of the Earth as seen from space appears on the large screen at the front of the hall.  Tunney's voice comes over the speakers.)<br><br>TUNNEY's VOICE: Earth – our home, our planet; the very vessel of life.  Our world – unique, irreplaceable.<br><br>(Various images begin to scroll over the screen: destroyed forests, trucks digging up the landscape, a polar bear on a small ice floe; cars belching out exhaust fumes etc.)<br><br>TUNNEY's VOICE: And yet, at times, it seems like we are unrelenting in our quest to drive our ecosystem into catastrophic failure.  Gone unchecked, global warming <I>will</I> transform this lush world we know today into a lifeless and arid rock.<br><br>(The picture of Earth begins to change, showing it in the future as the landmasses begin to dry out and turn from green to a sandy yellow, and then the oceans dry up.)<br><br>TUNNEY's VOICE: Friends, the stakes couldn't be higher – the situation no more dire.<br><br>(Rodney and Jen turn to each other and roll their eyes at the ludicrous poetry.)<br><br>TUNNEY's VOICE: It's time to act.<br><br>(The image of Earth fades and the word "TUNNEY" appears on the screen.  Tunney walks onto the stage wearing a headpiece microphone.)<br><br>TUNNEY: Hello.  I'm Malcolm Tunney.<br><br>(The audience applauds.)<br><br>McKAY (to Jen): If he's so worried about global warming, why'd he fly us here in a private jet?  It spews out more CO2 than Sweden!<br><br>KELLER (laughing): Shh!<br><br>TUNNEY (as the applause fades): Thank you very much.  You're very kind.  As many of you know, I am not an environmental scientist, nor do I pretend to <I>be</I> one.  For instance, I shower regularly!<br><br>(The audience laughs.  Tunney chuckles and looks down at a scruffily-dressed man with a long straggly beard sitting in the front row.)<br><br>TUNNEY: No offence, Larry!<br><br>(Larry stares back at him, unamused.)<br><br>TUNNEY (to the audience): I'm just a concerned citizen – one who realises that the Earth has carried us for so long.<br><br>(Behind him on the screen, the image of Earth reappears, then shrinks down to a smaller size.  Tunney lifts up his hand palm upwards and holds it under the image as if he is supporting the planet.)<br><br>TUNNEY: Maybe it's time that <I>we</I> carried <I>her</I>.<br><br>McKAY (to Jennifer): The ratio would be accurate if his body was the size of his ego.<br><br>KELLER: Yeah.  It's a little much!<br><br>McKAY: Mmm!<br><br>TUNNEY: Solving a problem like global warming may seem impossibly complex.  So many nations, so many corporations and John Q Public will have to agree on a dizzying number of issues.  So, then, what can one person really do to make a difference?<br><br>(A photograph of Tunney appears on the screen behind him.)<br><br>TUNNEY: What can <I>I</I>, with my particular and unique skills set, do to help?<br><br>(Jennifer looks at Rodney.)<br><br>KELLER: They think <I>you're</I> the arrogant one?!<br><br>McKAY: Hm!<br><br>TUNNEY: I've been working on a number of projects over the last decade and I realised that if I were to combine them, I just may be able to achieve something unexpected.  So, ladies and gentlemen, with major funding from my friends at Kramer Innovations, I have been able to devise a means to cool our planet in a safe and controlled way.<br><br>(The audience start to murmur.  Jennifer smirks at Rodney.)<br><br>KELLER: This guy wouldn't know "cool" ...<br><br>(She trails off as Rodney, frowning and intrigued, leans forward in his seat.)<br><br>TUNNEY: Now, the science behind this is immensely complex, but there will be detailed briefs handed out to you as you leave the lecture hall, but for right now, let me just give you the Cliff  Notes.<br><br>(An image of the device he has invented comes up on the screen behind him.)<br><br>TUNNEY: It begins with a massive heat sink – one of my own design – which steadily draws heat from the surrounding environment.<br><br>McKAY and KELLER (simultaneously): But where does the heat go?<br><br>TUNNEY: "Where does the heat go?" you may ask.  Well, my friends, <I>that</I> is the hard part.<br><br>(A new image appears on the screen.  On the left are the words "Our Space/Time".  The heat from Earth can be seen channelling along a sort of tunnel to the other side, labelled "Alternate Space/Time".)<br><br>TUNNEY: I give you the Tunney Space/Time Matter Bridge.<br><br>(Rodney stares in shock as he recognises the concept.)<br><br>McKAY: Wait.  What?<br><br>TUNNEY: Now this isn't just some theoretical math proof.  This is a functioning piece of technology – one that literally moves heat from our space/time and vents it out into another space/time.<br><br>McKAY: Yeah, but, that's my bridge!  My sister and I came up with it!<br><br>(The man sitting beside Rodney looks round at him.)<br><br>KELLER: Shh!<br><br>(She pushes him back and smiles apologetically at the man.)<br><br>KELLER: Sorry!<br><br>TUNNEY: And it works.  We've been testing the system for a few months now and it has proved to be remarkably stable.<br><br>McKAY (indignantly): It's my idea!<br><br>KELLER: Rodney, now's not the time.<br><br>TUNNEY: For the purposes of the demonstration today, I've surrounded this facility with an electrified plasma grid that will contain the reach of the heat sink.  It will draw heat only from this facility.<br><br>McKAY: Wait – he's gonna turn it on with us here?  I mean, that's – this – this is a bad idea.<br><br>KELLER: Rodney, <I>please</I>!<br><br>TUNNEY: And to prove the effectiveness of the system, I will lower the temperature within this facility by ten degrees.<br><br>(Behind him, the screen shows the temperature dropping from 74 degrees to 64 degrees.)<br><br>TUNNEY: Oh, and don't worry – I've turned off the air conditioning, so there'll be no cheating, I promise.<br><br>(Rodney turns to Jen.)<br><br>McKAY: Oh, I'm sorry.  I cannot do this.<br><br>(He starts to get to his feet.  She grabs at his arm in a desperate attempt to stop him.)<br><br>KELLER: Oh, no, Rodney ...<br><br>(Rodney stands up and calls out.)<br><br>McKAY: ‘Scuse me!  Malcolm!<br><br>TUNNEY: Doctor McKay!  Thank you for coming!<br><br>McKAY: This is a bad idea.<br><br>TUNNEY: Well, we're not quite ready for the Q and A session yet, so if you could just wait ‘til then ...<br><br>McKAY: Let's just take a look at the data you've come up with and talk about this, because turning the device on with all these people here could be very dangerous.<br><br>TUNNEY: Respectfully, I disagree.<br><br>McKAY: OK, you can't do something like this without our consent.<br><br>VOICE: Sit down!<br><br>TUNNEY: You <I>did</I> sign the document when you entered, didn't you?<br><br>McKAY: Well, yeah.  I thought that was just ...<br><br>TUNNEY: Then I have your consent.<br><br>McKAY: Yeah, but ...  Look, I've been doing work that is very, very similar to this ...<br><br>TUNNEY: Really?!<br><br>(In the audience, Tyson rolls his eyes and shakes his head at Rodney going off on another "I thought of it first" rant.)<br><br>TUNNEY: I don't think that possible.<br><br>McKAY: Look, these bridges to other space/times can be very unpredictable.<br><br>TUNNEY: D'you have any research you'd like to put forward right now?  A paper, perhaps – anything to back up your claim?<br><br>(Jennifer looks embarrassed for Rodney.)<br><br>TUNNEY: Rodney, please tell me this isn't just petty jealousy.<br><br>(Jennifer reaches up and takes Rodney's arm, trying to pull him back into his seat.)<br><br>KELLER: OK.<br><br>McKAY: Well, no, no, I – I ...<br><br>(Looking down at Jennifer, he starts to sink back into his seat.)<br><br>McKAY: I ... just ...<br><br>TUNNEY: No, I didn't think so.  Don't worry, everyone.  This is completely safe.  And ...<br><br>(He nods down to an assistant sitting in the front row with a laptop.  She types and, from an external viewpoint, the plasma grid begins to surround the facility.  The assistant looks at her screen, then points to Tunney, nodding.)<br><br>TUNNEY: We're up and running, and I'll be happy to answer all your questions once you've had a chance to read the brief, but for now, why don't we all go back out to the lobby where hot cocoa is waiting!  ‘Cause it's about to get very cold in here.  Thank you.<br><br>(As he leaves the stage and the audience starts to applaud – if a little uncertainly – Jen puts a comforting arm around Rodney's shoulder.)<br><br>McKAY: I ...<br><br>KELLER: Come on.  Let's go get some hot chocolate, OK?  Come on.<br><br>(Standing, she takes his hand and leads him out.)<br><br><br>LOBBY.  The scientists are standing around reading the brief that has been handed to them and discussing it.  Waitresses are circulating with mugs.  Rodney and Jen stand near a cardboard cut-out of a life-sized photograph of Tunney grinning and holding a round cardboard cut-out of the Earth.  In the centre of it is a thermometer which drops from 74 degrees to 73 degrees.  Rodney stares at his copy of the brief in disbelief.<br><br>McKAY: Well, this is ... this is ...  How'd he even get ahold of my work?!<br><br>KELLER: You're sure this is your work?<br><br>McKAY: Absolutely!  You believe me, don't you?<br><br>KELLER: Of course I do.<br><br>McKAY: There is no <I>way</I> that he came up with this on his own.  We've gotta ... we've gotta ...<br><br>(He looks around and sees a roped-off area behind him leading to a corridor.)<br><br>McKAY: We've ...  Come on.<br><br>(He runs over to the ropes and hops over them, dumping the brief into a nearby rubbish bin as he goes.  Looking around nervously to ensure that nobody's watching, Jennifer follows him.)<br><br><br>LATER.  Rodney has found the door to Tunney's office, and goes inside.  As he goes over to Tunney's computer, which has a desktop picture of the man himself, Jennifer stands nervously at the door.<br><br>KELLER: We shouldn't be in here.<br><br>McKAY: Shh!  Just stand guard there.<br><br>KELLER: Why?<br><br>McKAY: It'll take me a couple of seconds to hack into his computer.<br><br>KELLER: What are you doing?!<br><br><br>LOBBY.  The thermometer drops from 65 to 64 degrees.  The scientists burst into a round of applause.<br><br>TUNNEY: Thank you!  Thank you!  (He turns to the two scientists that he has been talking with.)  Thank you – but I don't think that an achievement of this magnitude can truly be credited to one man.<br><br>(His assistant walks over to him.)<br><br>ASSISTANT: Doctor Tunney, sir.<br><br>TUNNEY: Oh.  (To the scientists) Excuse me.<br><br>(He turns to his assistant as the scientists walk away.)<br><br>TUNNEY: Yes?  What is it?<br><br>ASSISTANT: Well, you told us to shut the device down once we reached sixty-four.<br><br>TUNNEY: Yes, that's right.  We can shut it down now.<br><br>ASSISTANT: Well, that's the problem, sir.  We've tried.  We've tried everything, in fact.  The device won't shut off.<br><br>(Tunney's smile fades and he looks across to his cardboard cut-out.  The temperature reading drops to 63 degrees.)<br><br><br>Shortly afterwards, Tunney hurries into the computer room.  Kramer is in there and calls out angrily to him.<br><br>KRAMER: Malcolm!<br><br>TUNNEY: I'm sorry, can you just give me a moment here?<br><br>(He hurries over to a console where a woman is working.)<br><br>TUNNEY: Let me in here, let me in here.<br><br>(The woman vacates the seat and he types, then looks at the screen.)<br><br>TUNNEY: All right, who's been in here?<br><br>ASSISTANT: Just us, sir.<br><br>KRAMER: What is it?<br><br>TUNNEY: Well, the bridge won't deactivate.  I don't understand why it shouldn't.<br><br>(He goes to another console as Kramer turns to the assistant.) <br><br>KRAMER: Shut down the power to the facility.<br><br>TUNNEY: Uh, that won't do anything.  The system self-generates its own power once it's up and running.<br><br>KRAMER: Well, then, shut down the containment field.  We need to get these guests out of here.<br><br>TUNNEY: That won't work either.<br><br>KRAMER: Why not?<br><br>TUNNEY: "Why not?"  Well, it's impossibly complicated but the containment field is tied into the basic operations of the device, all right?  It literally <I>can't</I> shut down until we collapse the matter bridge.  It's a safety protocol – one that I can't reprogramme until we've powered down the device.<br><br>KRAMER: So we're trapped in here until you can get this thing fixed.<br><br>TUNNEY (exasperated): Yes!<br><br>KRAMER: Well, what happens until then?<br><br>TUNNEY: The bridge will continue to draw heat from the heat sink.<br><br>KRAMER: We've just dropped ten degrees in ten minutes.  In an hour we're gonna be below zero.  We're gonna freeze to death.<br><br>TUNNEY: Well, I have activated the facility's heating system.  That should buy us a little bit of time.<br><br>KRAMER: You said "without a hitch."  You'd run hundreds of tests.<br><br>TUNNEY (angrily): Someone has messed with the system.<br><br><br>LOBBY.  Rodney and Jennifer have returned and are standing at a table with Bill Nye.  They all have mugs of hot drinks.<br><br>NYE: That was out of line, man!<br><br>McKAY: He <I>stole</I> the work!<br><br>NYE: Hey, come on.  It was in the middle of his presentation!<br><br>McKAY: He was about to start the thing up!  It couldn't wait!<br><br>NYE: He brought you here as an olive branch.  He wanted to bury the hatchet.<br><br>McKAY: Yeah, in my back!<br><br>(The snarky male receptionist walks over.)<br><br>RECEPTIONIST: Doctor McKay, Doctor Keller.<br><br>McKAY: Yes?<br><br>KELLER: Yes?<br><br>RECEPTIONIST: Mr Tunney would like a word.<br><br>McKAY: Ah-ha!  Well, I'm guessing that that word is, "I apologise."<br><br>(He walks away, followed by Jennifer and the receptionist.  Nye calls after him.)<br><br>NYE: That's <I>two</I> words, genius!<br><br>(Taking a drink from his mug, he picks up his copy of Tunney's brief and starts to read it again, frowning.)<br><br>NYE: He's one odd duck, that guy.<br><br><br>SMALL CONFERENCE ROOM.  Rodney and Jennifer have been sat on one side of a table.  The door opens and Kramer walks in, followed by Tunney.  They sit down on the other side of the table.<br><br>McKAY: Ah.  Well, it takes a big man to admit that he's wrong and – much as I appreciate it – I really would prefer that this whole apology thing took place a little more publicly.<br><br>TUNNEY: Are you kidding?!  <I>You</I> are the one who should be apologising to <I>me</I>.<br><br>McKAY: What the hell for?<br><br>TUNNEY: I invited you here as a courtesy; out of kindness.  You know, most people think you've lost your mind – that you've gone Howard Hughes.<br><br>McKAY: Just because I don't call any more doesn't mean I'm keeping my urine in jars!  Look, I don't need you to ...<br><br>KRAMER (interrupting): Shut up.  I don't have time for this.  What have you two done?<br><br>KELLER: What have <I>we</I> done?<br><br>TUNNEY: We can't shut the device down.<br><br>McKAY: I <I>told</I> you not to turn it on.  I practically <I>begged</I> you.  But would you listen?  No.<br><br>KRAMER: Tell us what you did and how to undo it and I'll consider not pressing charges.<br><br>KELLER: We didn't do anything.<br><br>KRAMER: Oh, really?  Explain this, then.<br><br>(Tunney activates a computer on the table and it begins to show CCTV footage of his office as Rodney comes in and goes over to Tunney's computer while Jennifer stands nervously at the door.)<br><br>KELLER: We shouldn't be in here.<br><br>McKAY: Shh!  Just stand guard there.<br><br>KELLER: Why?<br><br>McKAY: It'll take me a couple of seconds to hack into his computer.<br><br>KELLER: What are you doing?!<br><br>McKAY (typing on the computer): If that son of a bitch thinks he can humiliate me in front of my peers and get away with it, he's got another thing coming.<br><br>(In the conference room, Jennifer turns to Rodney with an "I told you so" look on her face.  The CCTV footage continues.)<br><br>McKAY: I'm gonna destroy him.<br><br>KELLER: Now is not the time, Rodney!<br><br>McKAY: There's <I>gotta</I> be something in here I can use to discredit the pretentious tool.<br><br>(Jennifer looks out of the door, then turns back to Rodney.)<br><br>KELLER: Hurry up, hurry up.  Somebody's coming.  Come on, come on, come on!<br><br>(She beckons him away from the desk and they hurry out of the room.  In the conference room, Rodney tries not to look too embarrassed.)<br><br>McKAY: Now look, I can see how – out of context – that could seem incriminating.<br><br>TUNNEY: "Out of context"?!<br><br>KELLER: What were you doing in there?<br><br>McKAY: I was looking for a paper I published a little over two years ago – one that dealt with a matter bridge.<br><br>TUNNEY: Rodney, you have not published a paper in a very long time.<br><br>McKAY: You probably didn't even know it was my work.<br><br>TUNNEY: Oh, you're publishing under a nom de plume now?!<br><br>McKAY: OK, here's how I think it went down: you were working with the government.  Someone there trusted you, a lot, and let you see something you weren't supposed to see.  Or maybe you were sent something by accident.  Who knows?  You saw a paper about a matter bridge – a project that was shut down due to the adverse effects of exotic particles.  You read it; you realised that if the bridge was used merely as a transfer of energy – say, heat – there would be no exotic particle creation and thus no adverse effects.  So, you co-opted the science as your own, made a few changes to make yourself feel better and got to work, dismissing the original author's warnings about the inherent instability of time/space bridges.  How'm I doing so far?<br><br>KRAMER: That's preposterous.  Doctor Tunney's been working on this for years.<br><br>(Ignoring him, Rodney looks at Tunney, a hurt expression on his face.)<br><br>McKAY: That was <I>my</I> work, Malcolm.  <I>I</I> wrote that paper.<br><br>(Tunney looks at him for a long moment, his guilt obvious on his face.  Eventually, without looking away from Rodney, he speaks to the man at his side.)<br><br>TUNNEY: Terence, these people may be able to help us.<br><br><br>COMPUTER ROOM.  Rodney walks around the room looking at various readouts.  He walks back to where Tunney is sitting at a console while Kramer and Jennifer stand on the other side of it.<br><br>McKAY: This is bad.<br><br>KRAMER: Sabotage?<br><br>McKAY (scornfully): "Sabotage"!  Please!<br><br>KRAMER (to Tunney): You said there was ...<br><br>TUNNEY: I may have rushed to judgement.<br><br>KRAMER (to Rodney): Can you shut it down?<br><br>McKAY: These matter bridges are the very definition of "unpredictable."<br><br>KELLER (sarcastically): You know, I think I remember you saying something about that before.<br><br>KRAMER: Yes or no, Doctor?<br><br>McKAY: Look, I don't know yet.  (To Tunney) Have you turned up the heat?<br><br>TUNNEY: Yes.<br><br>McKAY (pointing to the screen): Have you noticed <I>this</I>?<br><br>TUNNEY: Yes!<br><br>KELLER: What is it?<br><br>McKAY: The bridge isn't drawing a consistent load from the heat sink.  Instead, it's wavering.<br><br>KELLER: Why is that bad?<br><br>TUNNEY: Well, I wouldn't necessarily call it bad.  It's definitely not <I>good</I> but I don't know that I'd go so far as to call it bad ...<br><br>KELLER: You're kidding me, right?<br><br>McKAY: A regular bridge should draw the same amount of energy from the heat sink at all times.  This one is fluctuating greatly.<br><br>(He thinks for a second.)<br><br>McKAY: Maybe we can use that.  Wait for it to peak, and overload it and crash.<br><br>TUNNEY: That's a good idea.<br><br>McKAY: Yeah, I thought you'd like it ... what with it being my idea an' all.<br><br>(Glaring at him momentarily, Tunney gets to work.)<br><br><br>LOBBY.  All the scientists are shivering and rubbing themselves to try and keep warm.  Nye pulls his jacket tighter around himself.<br><br>NYE: It's freezing in here!<br><br>(In front of him, a man in a motorised wheelchair speaks via an electronic voice.  It can only be Stephen Hawking, although we never see his face.)<br><br>HAWKING: We get it.  It works.  Shut it down.  I'm starting to freeze to my chair.<br><br>(Suddenly a beam of blue light spears quickly across the room, zapping between Nye and Hawking.  Everyone cowers back, then looks around as the beam dissipates.  It has brushed past one of the scientists and his entire left side is now frozen.  The man stands unmoving as the glass he was holding drops from his hand.)<br><br>NYE: What the hell was that?!<br><br><br>SHORTLY AFTERWARDS.  The man has been lowered to the ground, although his left hand is still raised, frozen in place.  Jennifer and Nye are kneeling either side of him while Rodney and Tunney stand nearby.  The other scientists are standing around behind them.<br><br>McKAY: A sudden dramatic cooling beam – the irregular power from the bridge.<br><br>TUNNEY: Oh, so when the bridge makes a sudden demand on the heat sink ...<br><br>McKAY: ... the heat sink reacts by drawing power from a single localised place inside the containment field ...<br><br>TUNNEY: ... and that beam would freeze anything in its path.  Oh, I did <I>not</I> see <I>this</I> coming.<br><br>McKAY: It's freeze lightning!<br><br>TUNNEY: "Freeze lightning"!  Ooh, I like that!<br><br>McKAY: Well, you can't have it.  It's mine.  It-it's copywritten.<br><br>(Jennifer stands up and walks over to them.)<br><br>McKAY: How's he doing?<br><br>KELLER: He's in very bad shape.  It's like his whole left side has been flash frozen.  I have never seen anything like this before.<br><br>TUNNEY (shaking his head sadly): Oh.  Oh, man.<br><br>(Rodney looks at him sympathetically.)<br><br>McKAY: Look, this isn't entirely your fault.<br><br>TUNNEY: I <I>really</I> hope he signed his waiver.<br><br>(Rodney stares at Jen, appalled.  She shakes her head in disbelief, but then turns to Tunney.)<br><br>KELLER: Do you think this is the first time this has happened?<br><br>TUNNEY: Or maybe just the first time anyone's been around to notice it.<br><br>McKAY: What, so this thing could be wreaking havoc all over the facility.<br><br>KELLER: So this is gonna keep happening?<br><br>TUNNEY: Yes, and probably with greater frequency.<br><br>McKAY: OK, this little side effect is going to really hamper our attempts to shut this thing down.<br><br>KELLER: And, by "hamper," you mean "get us all killed."<br><br>McKAY: Yeah.  Something like that.<br><br><br>LATER.  COMPUTER ROOM.<br><br>McKAY: We need to call in the military.<br><br>KRAMER: I prefer not to do that just yet.<br><br>KELLER: You're lucky that guy out there isn't dead.<br><br>KRAMER: I'm sure these two can get the device back into its proper operating mode.<br><br>McKAY: It's a little late for that!<br><br>TUNNEY: Terence, things have gotten out of hand.  We need to make that call.<br><br>KRAMER: You make that call and the government shuts us down.<br><br>McKAY: Yeah!  That's the idea!<br><br>TUNNEY: I don't understand.  When the device started to malfunction, the first thing you wanted to do was get everyone out of here safely.<br><br>KRAMER: To avoid the project being branded as too dangerous to move forward.<br><br>KELLER: Well, the cat's out of the bag now.<br><br>McKAY: What, are you worried about all the money you've sunk into this?  ‘Cause that's <I>gone</I>.<br><br>KRAMER (angrily): No, I'm <I>not</I> worried about the money.  We're close to coming up with a solution for global warming.  We could save the planet.  It's bigger than me, and it's bigger than <I>you</I> – and if we can get the device under control without calling the military, they're gonna let us continue our research.<br><br>McKAY: I've got news for you: you <I>can't</I> control it, and you shouldn't continue with your research.<br><br>KRAMER: We'll figure it out.  I have the utmost faith in both of you.<br><br>(He walks away.)<br><br>McKAY: This is ridiculous!  (He turns to Tunney.)  Give me your cell.<br><br>TUNNEY: It won't work – not with the containment field up.  There's too much interference.<br><br>KELLER: You have a landline in your office.<br><br>(They hurry away and go to Tunney's office, where he picks up his phone and holds it to his ear.)<br><br>TUNNEY: It's dead.<br><br>McKAY: Give me that.<br><br>(He takes the phone and listens.)<br><br>McKAY: It's dead!<br><br>(Tunney nods sarcastically.)<br><br>KELLER: Kramer must have killed the phones.<br><br>McKAY (to Tunney): I don't suppose you have access to the communications room?<br><br>TUNNEY: It's a Kramer facility.  I just work here.<br><br>McKAY: Great(!)<br><br>TUNNEY: Looks like it's up to you and me.<br><br>McKAY (leading him towards the door): Well, we'd better get back to the control room – we'll figure this out ourselves and ...<br><br>KELLER: Wait!  W-w-w-wait.  Isn't there, like, a room full of geniuses out there?<br><br>McKAY and TUNNEY (simultaneously): That's debateable!<br><br>KELLER: If that freeze lightning thing happens again, people could die.<br><br>McKAY: They'll slow me down.<br><br>KELLER: Hey!  What happened to that "humble" thing we were gonna try today?<br><br>(Rodney stares at her as Tunney turns and looks at him with a "What?!" expression on his face.  Rodney lowers his head, knowing that she's right.)<br><br><br>LATER.  LOBBY.  Rodney, Tunney and Jennifer are standing on some stairs looking down at the assembled scientists.  Tunney has been explaining the situation.<br><br>TUNNEY: The result is what I am calling "freeze lighting."<br><br>McKAY (under his breath): Unbelievable!<br><br>TUNNEY: It is the sudden and immediate transfer feed from a localised area and it is potentially very lethal.<br><br>McKAY: Look, we need to figure out how to collapse the matter bridge – stop it from drawing energy from the heat sink, otherwise it's going to get unliveably cold in here.<br><br>FEMALE SCIENTIST: Why don't we just turn this containment field off and get out of here?<br><br>TUNNEY: Well, for one thing, it's tied into the basic function of the matter bridge, so we can't just shut it off.<br><br>McKAY: Even if we could, it houses so much cool air now that it would create a sudden massive cold front as soon as it drops.  I mean, we're talking high-speed winds, tornadoes ... an instant mega-storm.<br><br>TUNNEY: Not to mention the fact that the heat sink would start to draw heat not just from this facility but from the entire planet.  We cannot allow that to happen.<br><br>NYE: Why don't we just destroy it, just bash it apart?<br><br>McKAY (patiently, as if explaining it to an idiot): Because that could create a tear in our space/time?<br><br>NYE: Never mind, then.<br><br>McKAY: Yeah.<br><br>(A burst of "freeze lightning" zaps across the lobby behind the scientists.  Everyone cringes.)<br><br>KELLER: Look, you guys are the best of the best.  I'm sure if you work together you'll come up with something.<br><br><br>LATER.  Several whiteboards have been brought into the lobby and groups of scientists are clustered around each one, writing complicated equations on the boards and arguing amongst themselves.  At one board, Nye is writing on the board while Rodney and Tunney stand nearby.<br><br>NYE (to Rodney): Whoever built this, it's all wrong!<br><br>McKAY: Watch who you're correcting, Science Guy!  My PhD is <I>not</I> honorary!<br><br>NYE: Hey, look!  I'm an engineer!  I can do math!  Just-just listen to my idea!<br><br>McKAY: I <I>have</I> been listening to you, and that is what led me to believe that you are a <I>moron</I>!<br><br>TUNNEY: If it's any consolation, you're both wrong.<br><br>McKAY: What, and you're right?!<br><br>(Tunney nods.)<br><br>NYE: We're supposed to listen to <I>you</I>?  You're the jerk that got us into this mess!<br><br>McKAY: I have a workable theory!<br><br>TUNNEY: Yeah, a <I>theory</I>.<br><br>McKAY (getting more and more high-pitched in indignation): Maybe take into account the fact that I have some experience with this; that I have been doing work that is <I>years</I> ahead of anything that you guys have even been dreaming of!<br><br>(All three of them start shouting at each other.  Jennifer, who has been standing nearby and listening to all this in growing frustration, finally calls out.)<br><br>KELLER: Hey!<br><br>(They continue arguing.  Angrily she claps her hands together repeatedly and the boys, together with the other scientists, all fall silent.)<br><br>KELLER: This is embarrassing!  Look at you!  The greatest minds this world has to offer and, if I didn't know any better, I'd think there were a bunch of sixth graders in here.  You guys need to suck it up and get along.<br><br>NYE: It's like I've always said.  You see, people are more alike than they are different ...<br><br>KELLER: Not now, Nye.<br><br>NYE (embarrassed): OK.<br><br>KELLER: Our lives are at stake here.<br><br>(Tunney, Rodney and Nye all hang their heads like chastised schoolboys.)<br><br>KELLER: We need a solution, and we need this fast.  <I>Please.</I>  Come on – the rest of us are counting on you.<br><br>(Nervously, Rodney raises his hand.)<br><br>KELLER: Yes, Rodney?<br><br>McKAY: I think I'm onto something.  I ...  Just needs some ironing out.<br><br>KELLER: OK, great.<br><br>(She gestures the other scientists towards him.)<br><br>KELLER: Guys?<br><br>TUNNEY: Yeah, well, yeah, let's have a look at it.<br><br>NYE: With fresh eyes.<br><br>(They turn back to the whiteboard as the other scientists start to gather around and they get back to work.  Jennifer watches them for a moment, then turns and sees Kramer standing nearby, also watching the group.  She walks over to him.)<br><br>KRAMER: They'll figure something out.<br><br>KELLER: I'm sure they will.  (Sternly) Let's just hope it's before someone dies.<br><br>(He looks at her hopelessly.  She relents a little.)<br><br>KELLER: You know, my Uncle George – he always hated the phrase "save the planet."<br><br>KRAMER: What?<br><br>KELLER: Well, he just thought it was a little backwards, you know, ‘cause the planet's gonna be here no matter <I>what</I> happens.  It might be a giant unliveable rock but it's gonna survive.<br><br>KRAMER: So you're turning this into a discussion on semantics?!<br><br>KELLER: What I mean is, Mr Kramer, the work you're doing isn't about saving the planet – it's about saving lives, and that's a noble pursuit, trying to save billions of people.  But it's no less noble to save a hundred.  These guys, no matter <I>how</I> smart they are, they could use some help.  One phonecall could get that help here.  Now, <I>please</I>  – please let me make that call.<br><br>(Kramer nods.)<br><br><br>Shortly afterwards, Kramer and Jennifer trot through the complex towards the communications room.  As they approach the door, they see a large "splat" of ice on the wall and partly covering the door.<br><br>KELLER: Oh, don't tell me ...<br><br>(Kramer forces the door open.  There is a similar "splat" on the inside of the door and, as they look across to the opposite wall, there's another "splat" covering the electrical system which is still sparking out.)<br><br>KRAMER (under his breath): Oh, God.<br><br>(He goes across to look at the damage.)<br><br>KRAMER: Oh, I'm so sorry.<br><br>KELLER: Can you fix this?<br><br>KRAMER: No.  We're completely cut off.<br><br><br>COMPUTER ROOM.  Jennifer and Kramer have returned to the room, where the wall monitor shows that the temperature has now dropped to 36 degrees.  They have just told the others what has happened.<br><br>McKAY: Well, that's terrible news.<br><br>(He takes off his jacket and helps Jennifer put it on.)<br><br>KRAMER: It's my fault.  I should have ...<br><br>McKAY (talking over him): Yes, you <I>should</I> have.<br><br>(Nearby, Tunney is hugging himself to try and keep his hands warm while he looks at one of the computer screens.)<br><br>TUNNEY: You need to see this.<br><br>(Rodney goes over to look at the screen.)<br><br>McKAY: Oh, the cold temperatures are affecting the containment field emitters. I mean, they're weak – they're on the verge of failing.<br><br>KELLER: That's great!  We can get most of the people out of here, no?  Make a call to the military?<br><br>McKAY: We're surrounded by desert air.  I mean, the temperatures inside the containment field have gotten very, very cold.  Introducing a sudden and immediate blast of icy air is gonna create one <I>hell</I> of a vortex.  I mean, there's no way troopers could make it through, let alone actually get people out of here safely.<br><br>KRAMER: We can ride out the storm.<br><br>TUNNEY: No.  If we can't shut down the device, the heat sink's gonna keep feeding cold air into that weather system.  It'll ... it'll never stop.<br><br>KELLER: That's not good.<br><br>TUNNEY: No, I'd rather that didn't happen.<br><br>McKAY: No-no-no-no, this might be a good thing.<br><br>KELLER: What?  What is it?<br><br>McKAY: Well, the containment field is dying a slow but consistent death.  It might be weak enough to actually punch a cellphone signal through now.<br><br>TUNNEY: Oh, you know, you might be right.<br><br>(He picks up a computer tablet with a schematic of the complex on it and shows it to Rodney.)<br><br>TUNNEY: OK, this is probably our best bet.<br><br>(He points to the south east corner of the complex.)<br><br>TUNNEY: These two emitters are the weakest.  It's a bit of a run from here, so I'd better get going right now.<br><br>(He starts to leave but Jennifer stops him.)<br><br>KELLER: Wait, wait, w-w-wait.  Give me your cell.<br><br>TUNNEY: Huh?<br><br>KELLER: We need you here to help Rodney dismantle the bridge.  I'll make the call.<br><br>TUNNEY: I ...<br><br>(Nodding, Jennifer holds her hand out.)<br><br>KELLER: Come on!<br><br>TUNNEY: All right, all right, fine.<br><br>(He gets his cellphone out of his pocket and hands it to her.)<br><br>KELLER: Thanks.<br><br>(Taking the computer tablet from him, she trots over to a table containing a couple of walkie talkies and picks one of them up.)<br><br>KELLER: I'm gonna radio once I get through.<br><br>McKAY: Good luck.<br><br>KELLER: You too.<br><br>(She turns and trots away.)<br><br>TUNNEY: She seems like a very capable woman.<br><br>McKAY: She sure is!<br><br>TUNNEY: It's your sister, right?  Is she single?<br><br>(Rodney rolls his eyes.)<br><br>McKAY: All right.  (He turns back to the consoles.)  Where were we?<br><br>(Nye is nearby, also without a jacket which he has given to one of the women in the room.  Most of the men in the room have given their coats to the women, the notable exceptions being Tunney and Kramer.)<br><br>NYE: Your idea of overwhelming the bridge to the point of collapse – it's a good one.  It's right on track.<br><br>McKAY: But ...?<br><br>NYE: Everybody here thinks that it means we've gotta dial up the heat sink.  It's gonna get even colder.<br><br>TUNNEY: And that could result in an unpredictable amount of freeze lightning ...<br><br>McKAY: ... which could kill us all.<br><br>TUNNEY: Right.<br><br>(Nye nods his agreement.  Kramer calls out to them, having just received a report from someone.)<br><br>KRAMER: The facility's furnace just went down.<br><br>McKAY: What?  Well, how did <I>that</I> happen?!<br><br>KRAMER: We've been running at a hundred and twenty per cent for the last hour to compensate for falling temperatures.  We're in the middle of a desert – the facility's not meant to be heated like this.<br><br>McKAY: Well, we're gonna get below freezing pretty darned quick now!<br><br>TUNNEY: All right.  Well, we can't power down because it generates its own power ...<br><br>NYE: ... and we can't wait for the containment field to collapse because the storm'll probably kill us.<br><br>McKAY: All right, guys, we don't have a choice, OK?  We've gotta wait for the bridge to peak, dial up the heat sink, see if we can overwhelm it.  I know it's dangerous but that's all we've got.<br><br>(Nye and Tunney look at him unhappily but have no other suggestions.  Rodney calls out to the room.)<br><br>McKAY: OK, look, there's too many people in here.  I have important work to do.  I do not need you in the way, so everybody, out!<br><br><br>CORRIDORS.  Following the map on the computer tablet, Jennifer opens a door into another corridor, checking Tunney's Blackberry and waving it around to see if she can get a signal yet.<br><br>KELLER: Oh, come on.<br><br>(She walks slowly down the corridor, still waving the phone in front of her.  Finally its screen changes as it gets reception.)<br><br>KELLER: Oh, thank God!<br><br>(She dials and holds the phone to her ear.)<br><br><br>STARGATE COMMAND.  Walter Harriman picks up the phone.<br><br>HARRIMAN: General Landry's office.<br><br>KELLER: Yes, this is Doctor Jennifer Keller.  I need to speak to the general immediately.  It's an emergency.<br><br>(At S.G.C., Walter frowns as the line fritzes with static.)<br><br>HARRIMAN: Hello?<br><br>(Jen frowns.)<br><br>HARRIMAN's VOICE: Hello?<br><br>KELLER: Hello?  This is Doctor K...<br><br>(At S.G.C., the line continues to fritz and Walter can't make out a word the caller is saying.  He hangs up.)<br><br>KELLER: Hello?<br><br>(She takes the phone from her ear and looks at the screen.  The signal has gone again.)<br><br>KELLER: Son of a bitch!<br><br><br>COMPUTER ROOM.<br><br>NYE: Should we warn everyone we're about to do this?<br><br>TUNNEY: No, no, that would just cause a panic.<br><br>McKAY: It's probably better they don't know.  I mean, we have no way of moving people to a safe area, plus we have no idea where the next freeze lighting strike could hit.<br><br>(As he continues to type, Nye frowns.)<br><br>NYE: "Freeze lightning."  You know, that's a bad name.<br><br>McKAY: Well, don't look at <I>me.</I>  (He jerks his head towards Tunney.)  It's <I>his</I> idea.<br><br>TUNNEY: What?  Hey, wh...?  I ...<br><br>McKAY (talking over him): OK!  Here we go!<br><br>(He types.  In the lobby, a burst of freeze lightning zaps across the room, fortunately not hitting anyone as they duck out of the way.  In the computer room a second burst whizzes across the room behind the men.)<br><br>TUNNEY: All right, shut it off!<br><br>McKAY: I can't – it hasn't collapsed the bridge yet.<br><br><br>CORRIDOR.  Jennifer is still waving the phone around.<br><br>KELLER: I had a signal before – come <I>on</I>!<br><br>(A blast of freeze lighting bursts through the door behind her and whizzes down the corridor.  Jen ducks down as it brushes past a water pipe running up the wall and water begins to spurt out of it, soaking her with its spray.)<br><br><br>COMPUTER ROOM.<br><br>TUNNEY: It's not working!<br><br>McKAY: We just need a little more time – just a little more time.<br><br>(Another burst of lightning zaps across the room and they duck again.)<br><br>TUNNEY: The lightning strikes are freezing up whole sections of the facility.  Everyone is getting isolated.<br><br>McKAY: Look, it doesn't matter.  They'll melt eventually.  We can shut this thing down.<br><br>(Tunney walks away from them.)<br><br>NYE: You are gonna kill us all!<br><br>McKAY: OK, look, I just need to keep doing what I'm ...<br><br>(He stares as the readout on the primary thermal output monitor begins to drop.  Rodney turns to Tunney who is just standing up from typing on another console.)<br><br>McKAY: What did you do?<br><br>TUNNEY: I turned it down.<br><br>McKAY: What?!  <I>Why?!</I><br><br>TUNNEY: It was too dangerous.<br><br>McKAY: Yeah, but we were almost there.  It was peaking out!  It was gonna work!<br><br>TUNNEY: Yeah, and we would all be dead.  Look, we just have to come up with something else.<br><br>McKAY: Yeah, something <I>fast</I> ‘cause the containment field's about to fail!<br><br><br>CORRIDOR.  As water continues spraying out of the broken pipe, Jennifer looks at the door she came through.  It's frozen shut with a big "splat" of ice.  She turns to the opposite door and looks at it.<br><br>KELLER: Great(!)<br><br>(That door too is frozen shut.)<br><br>KELLER: Oh, not good.<br><br>(She reaches into her jacket pocket, pulls out the walkie talkie and activates it.)<br><br>KELLER: Rodney, can you hear me?<br><br>(In the computer room, Rodney picks up the other radio.)<br><br>McKAY: Please tell me you got through to the S.G.C.<br><br>KELLER: No.<br><br>McKAY: Well, you've gotta keep trying.<br><br>KELLER: I'd love to but my phone got a little soaked.  It's not even turning on.<br><br>McKAY: What?<br><br>KELLER: My hallway got hit by that freeze lightning thing.<br><br>McKAY: Are you OK?<br><br>KELLER: I am now, but I won't be for long.<br><br>McKAY: What happened?<br><br>KELLER: I'm frozen in and the pipe's busted open.  My body temperature's dropping really fast.<br><br>(Rodney turns and stares at Tunney.)<br><br>TUNNEY: OK, I'll radio security and we'll get someone out to her right away.<br><br>McKAY (into radio): Look, security's on the way.  I need you just to sit tight and try to stay warm, OK?<br><br>KELLER: OK.  Sorry I didn't get the call through.<br><br>McKAY: You did your best.<br><br>KELLER: Did you shut that thing down?<br><br>McKAY: Not yet.  We're working on it.<br><br>KELLER: Hurry.<br><br>McKAY: Yeah.<br><br>(Nye calls out to him.)<br><br>NYE: McKay.<br><br>McKAY (into radio): OK, look, I gotta go.  Someone's on the way, all right?<br><br>(Shivering, Jen deactivates her radio.  In the computer room Rodney runs across to see what Nye is looking at.)<br><br>McKAY: What is it?<br><br>NYE: Containment failure in three ... two ... one ...<br><br>(From an external perspective, the field around the facility fritzes and then fails.  Immediately, as the cold air rushes out into the warmth of the desert, the wind begins to rise and the building is soon obscured by swirling sand and dust.  Inside, Nye looks at the screens.)<br><br>NYE: Winds awaft.  Reaching dangerous levels.<br><br>TUNNEY: If it continues like this, we're gonna have a mess of tornadoes on our hands.<br><br>McKAY (turning to glare at him): Great – even <I>less</I> time before we die.<br><br>(Outside the complex, the first tornado begins to swirl across the desert, ripping up the Kramer Innovations sign and whisking it away.  Inside, the boys are still trying to solve the problem.)<br><br>McKAY: Look, this device is capable of generating its own power, right?<br><br>TUNNEY: Yeah.  A small percentage of the energy that we're transferring is siphoned off to power the device, so once it's running, it's self-sustaining.<br><br>McKAY: Which is why we can't just pull the plug.<br><br>TUNNEY: Exactly.<br><br>McKAY: But it's only capable of powering itself to a certain extent, right?  I mean, it has a finite amount of power diversion capability.<br><br>TUNNEY: Well, yes, of course.<br><br>McKAY: Maybe we've been approaching this the wrong way.  We've been trying to force so much power through the bridge that it overloads it.  I mean, maybe we should be trying to <I>starve</I> it – I mean, suck so much power from its generator that it stalls it out.<br><br>TUNNEY: Well, technically we could do that, but you'd have to draw an insane amount of power.  The heat sink could never do that.<br><br>McKAY: No – but another space/time bridge could.<br><br>TUNNEY: You wanna open another space/time bridge?!<br><br>McKAY: The device was rigged to power a single bridge.  We open another one ...<br><br>TUNNEY: ... and it overwhelms the system and it fails.<br><br>McKAY: It'll work!<br><br>(He hurries towards the consoles.)<br><br>TUNNEY (following him): Yeah, but d'you have any idea how difficult it's gonna be to configure the system to open two concurrent space/time bridges?<br><br>McKAY: I never said it was gonna be easy.<br><br>TUNNEY: It's gonna be impossible.<br><br>McKAY (spreading his arms wide): Hey, I'm Doctor Rodney McKay, all right?  Difficult takes a few seconds; impossible a few minutes.<br><br>(He starts to type.  Outside, at least three tornadoes are swirling around the complex.  One of them roars across the front of the complex and whisks away the cars parked out there.)<br><br>(In the corridor, Jennifer is standing as far away from the spurting pipe as she can but is still soaking wet.  The floor is covered with water.  She activates her walkie talkie.)<br><br>KELLER: Rodney, can you hear me?<br><br>(In the computer room, Rodney snatches up his radio.)<br><br>McKAY: Have they got you out of there yet?<br><br>KELLER: No.<br><br>(Rodney turns to Tunney.)<br><br>McKAY: Tunney, what's the deal?  I thought you sent security?<br><br>TUNNEY: They can't get to her.<br><br>McKAY: What?  Why not?<br><br>(Tunney shows him another computer tablet with the facility schematic on it.)<br><br>TUNNEY: That last round of freeze lightning sealed off one of the corridors.  You see, they're making their way to her but it's gonna take some time.<br><br>KELLER (over radio): It's getting hard-harder to stay awake.  I'm going into hypothermic shock.<br><br>McKAY (into radio): Jennifer, just-just hang in there, all right?<br><br>(He looks at the schematic again and points at it.)<br><br>McKAY: Right, we're here, right?<br><br>TUNNEY: Uh-huh.<br><br>McKAY (pointing to Jen's location): So we can get to her.  It's a straight shot.  I mean, they should have come <I>this</I> way, through the lab!<br><br>TUNNEY: They're cut off from us too.<br><br>McKAY: OK, I've gotta go get her.<br><br>(He starts to hurry away but Tunney calls him back.) <br><br>TUNNEY: No, wait a minute.  We're a little bit busy right now.<br><br>McKAY: She'll <I>die</I>.<br><br>TUNNEY: Yeah, but you know what?  If the storm keeps up like this, it's gonna rip the building apart and we'll <I>all</I> die.<br><br>McKAY: Last time I checked, you were claiming to be a genius.  I already gave you the plan.<br><br>TUNNEY: A plan full of holes.<br><br>McKAY: So <I>fill</I> them.<br><br>TUNNEY (high-pitched in terror): Wha-what if I run into a problem?<br><br>McKAY: Work around it!<br><br>(Tunney grimaces, then reluctantly admits the truth.)<br><br>TUNNEY: You're smarter than me.<br><br>(Rodney straightens up.)<br><br>McKAY: I know.<br><br>(He turns and runs from the room.)<br><br>TUNNEY (yelling after him): McKay!<br><br>(When Rodney doesn't stop, he groans and walks towards Nye.)<br><br>TUNNEY (talking very rapidly in a panic): Oh, this is outrageous!  I mean, right when we need him the most he puts it on me and I'm supposed to be the one who's gonna do this?!  I can't ...<br><br>(Nye stands up, puts his hand on his shoulder and slaps him hard around the face.)<br><br>TUNNEY: Oh!<br><br>NYE (shaking him by the shoulders): Man up!<br><br><br>Rodney races down the corridors, then skids to a halt as he sees a fire hose in a cabinet on the wall.  Running back to it, he opens it and takes out the fire axe inside before continuing onwards.  He runs down the stairs, makes his way to the frozen door at the end of the corridor and begins to hack into it with the axe.  Three blows open up a small hole and he peers through it.  Jen is lying unconscious on the floor inside.<br><br>McKAY (yelling): Jennifer!<br><br>(She doesn't respond.  He steps back and begins hacking into the door again.)<br><br><br>COMPUTER ROOM.  Tunney is working on a console as Nye stands beside him watching what he's doing.<br><br>TUNNEY: OK, I think that's it.  Before I run it, just check my math.<br><br>NYE: I <I>have</I> been!  Why do you think I'm standing here?!<br><br>(Outside, the tornadoes swirl closer to the complex.  One comes close enough for its edge to impact the front of the building and electrical circuits start to spark out as bits of the building are ripped away.)  <br><br>(In the corridor Rodney has broken a big enough hole to climb through.  He scrambles in and runs over to Jen's unconscious body.)<br><br>McKAY: Jennifer!<br><br>(He bends down to pick her up.)<br><br>McKAY: Come on.<br><br>(In the computer room, Nye yells out.)<br><br>NYE: DO IT!<br><br>(Grimacing, Tunney types.  Instantly all the wall panels in the room start to explode.  He and Nye cringe.)<br><br><br>In the corridors, Rodney has got Jennifer out of the wet corridor and lays her gently on the floor.  Kneeling beside her, he leans down and blows a breath into her mouth, then puts his ear to her mouth.<br><br>McKAY: She's not breathing.  Oh my God, she's not breathing.<br><br>(Panting frantically he puts his fingers to her throat, feeling for a pulse.)<br><br>McKAY (tearfully): Please don't be dead.  Please don't be dead.<br><br>(He starts to apply chest compressions.)<br><br>McKAY: Jennifer.  Come back to me, please.  <I>Please</I> come back to me.<br><br><br>In the computer room, Tunney has his eyes tightly closed.  On the screen, the graphic showing the time/space bridge changes to show heat no longer travelling along it.  Nye raises up from where he's been cowering under the desk and looks at the screen.<br><br>NYE: It worked!  The second space/time bridge blew the power supply!  Both bridges collapsed!<br><br>(Tunney laughs, relieved.)<br><br>TUNNEY: I did it!<br><br>(Outside the facility, the tornadoes melt away and the dust begins to dissipate.  The sun begins to shine on the complex again.)<br><br><br>In the corridor, Rodney is still pumping Jennifer's chest.<br><br>McKAY (in time with the compressions): Please.  Please.<br><br>(Finally Jen drags in a breath, then raises her head and coughs.  Rodney helps her to sit up, then wriggles into a sitting position himself and holds her.)<br><br>McKAY: Oh, thank God.  You're OK, you're OK.<br><br>KELLER: I'm really cold.<br><br>McKAY (rubbing her arms): Me too.<br><br>(They gaze into each other's eyes.)<br><br>KELLER: You saved me.<br><br>McKAY: Guess that makes us even.  I used an axe – a <I>big</I> axe!  I mean, I really wish you were conscious, ‘cause I think it's the coolest thing I've ever done in my ...<br><br>(Smiling, Jennifer leans forward and kisses him deeply.  He gazes at her as she pulls back.)<br><br>McKAY: Oh, I don't know what I would have done if I'd lost you.<br><br>(She looks into his eyes.)<br><br>KELLER: I love you.<br><br>(His eyes widen in amazement.)<br><br>KELLER: I have for some time now.  Just wanted you to know.<br><br>(Rodney smiles gently.)<br><br>McKAY: I ...<br><br>(He doesn't finish the sentence as she leans forward and kisses him again.)<br><br><br>PRIVATE JET.  As the plane flies them away from the desert, Rodney and Jennifer sit opposite each other wrapped in blankets.<br><br>KELLER: Well, at least your friends don't think you're a washout any more.<br><br>(Rodney looks miserable.)<br><br>McKAY: Stupid Bill Nye is telling everyone who'll listen that Tunney's the guy who turned the device off.<br><br>KELLER: Because he <I>was</I> the one that shut off the device!<br><br>McKAY: With my coding!  It was my idea!<br><br>KELLER: Rodney, does it really matter?<br><br>(Rodney takes a moment, then answers.)<br><br>McKAY: Yes.  Yes, it does.  I'm sorry – I know I'm supposed to be humble, I know I'm not supposed to care, but I <I>do</I>, I really <I>do</I> and that's ... well, that's something you should know about me.<br><br>KELLER: Well, quit then.  Join the private sector, start doing work the whole world can see.<br><br>McKAY: Well, I've been thinking about it.<br><br>KELLER: What?  No you haven't.<br><br>McKAY: Hey, my contract with the S.G.C.'s up this year.  Maybe it's time for me to move on; time for me to do other things.<br><br>KELLER: Please!  I don't know <I>anyone</I> who loves their job more than you.<br><br>McKAY: Hmm.<br><br>KELLER: D'you think the military's gonna let them keep experimenting?<br><br>McKAY: I think it's highly unlikely.  Besides, geo-engineering's a dumb pursuit anyways.  I mean, no <I>one</I> person's gonna solve global warming.  We <I>all</I> have to do our part.<br><br>KELLER: Like not take private jets.<br><br>McKAY: Well, they <I>were</I> going our way anyway.<br><br>(She smiles, then looks at him flirtatiously.)<br><br>KELLER: You know, it <I>is</I> kinda nice, just me and you back here.<br><br>McKAY (smiling): Right.<br><br>(She raises her eyebrows suggestively at him.  His eyes widen as he gets the message.)<br><br>McKAY: Right!  (He looks at her.)  But you were legally dead a few hours ago; you were practically frozen.  You really wanna ...?<br><br>KELLER (rolling her eyes): Well, it's either that or you keep telling me how you and only you saved the day.<br><br>(Smiling, Rodney stands up and moves to the seat beside her.)<br><br>McKAY: We-e-e-el, I've tried this whole "humble" thing out; seems to be quite a hit with the ladies!<br><br>(Laughing, Jen leans towards him and they start to kiss.)
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="515.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s5/516.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="517.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s5/index.shtml">
+<IMG SRC="/graphics/title_s5episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Five Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="501.shtml" CLASS="list">Search and Rescue</A><BR><A HREF="502.shtml" CLASS="list">The Seed</A><BR><A HREF="503.shtml" CLASS="list">Broken Ties</A><BR><A HREF="504.shtml" CLASS="list">The Daedalus Variations</A><BR><A HREF="505.shtml" CLASS="list">Ghost In the Machine</A><BR><A HREF="506.shtml" CLASS="list">The Shrine</A><BR><A HREF="507.shtml" CLASS="list">Whispers</A><BR><A HREF="508.shtml" CLASS="list">The Queen</A><BR><A HREF="509.shtml" CLASS="list">Tracker</A><BR><A HREF="510.shtml" CLASS="list">First Contact</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="511.shtml" CLASS="list">The Lost Tribe</A><BR><A HREF="512.shtml" CLASS="list">Outsiders</A><BR><A HREF="513.shtml" CLASS="list">Inquisition</A><BR><A HREF="514.shtml" CLASS="list">The Prodigal</A><BR><A HREF="515.shtml" CLASS="list">Remnants</A><BR><A HREF="516.shtml" CLASS="list">Brain Storm</A><BR><A HREF="517.shtml" CLASS="list">Infection</A><BR><A HREF="518.shtml" CLASS="list">Identity</A><BR><A HREF="519.shtml" CLASS="list">Vegas</A><BR><A HREF="520.shtml" CLASS="list">Enemy At the Gate</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Five</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B002ACP0MO/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B002612S6A/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls5.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="515.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s5/516.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="517.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

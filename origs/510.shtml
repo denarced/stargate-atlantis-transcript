@@ -1,0 +1,527 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "First Contact" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s5/510.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s5/transcripts/510.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=643">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=745">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s5/510.shtml#production">Production</A>
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=58710">Fan Reviews</A>
+				 | <A HREF="http://forum.gateworld.net/forumdisplay.php?f=132">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s5/510.shtml"><IMG SRC="/atlantis/graphics/510_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="FIRST CONTACT" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://click.linksynergy.com/fs-bin/stat?id=2cvd55rHd*s&offerid=78941&type=3&subid=0&tmpid=1826&RD_PARM1=http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewTVShow?id=179127311&partnerId=30"><img height="15" width="61" border="0" alt="iTunes" src="/store/graphics/itunes_button.gif"></img></a> &nbsp; <a href="http://www.amazon.com/gp/product/B001GT3N6C/?tag=bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 510<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 5, Disc 3<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 09.26.08<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 11.16.09<BR>
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm1236625/" TARGET="_blank">Martin Gero</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0586539/" TARGET="_blank">Andy Mikita</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">When Daniel Jackson visits Atlantis, he and Dr. McKay discover a hidden lab that brings a new enemy knocking.  The <I>Daedalus</I> welcomes a Wraith ally for a special project.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    ATLANTIS.  John Sheppard and Rodney McKay are walking along a corridor.<br><br>McKAY: I don't know what all the fuss is about.  If we do this every time someone comes for a visit, we'll never get any work done.<br><br>SHEPPARD: We're just meeting him at the Gate.<br><br>McKAY: We're not just meeting him at the Gate!  I've been pulled from my regular duties to help him with his database research!  (He makes an annoyed sound.)  I've got stuff on the go, you know: important, vital projects for the -- the betterment of the human race.<br><br>SHEPPARD: Apparently there are other people doing equally important work, Rodney, as hard as that is to believe.<br><br>(They walk into the Gateroom and join Richard Woolsey.)<br><br>WOOLSEY: An exciting day!<br><br>SHEPPARD: Absolutely.<br><br>(Rodney grimaces.  Chuck the technician walks to the edge of the Control Room balcony and looks down at them.)<br><br>CHUCK: He's ready to beam.<br><br>WOOLSEY: Very well.<br><br>(An Asgard transporter beam deposits none other than Doctor Daniel Jackson into the Gateroom.  He grins at them happily.)<br><br>WOOLSEY: Doctor Jackson, welcome to Atlantis.<br><br>JACKSON: Thank you, Mr Woolsey.  It's great to be back.<br><br>(He grins at the other men.)<br><br>JACKSON: Colonel Sheppard.  Rodney.<br><br>(Rodney grimaces again, then forces an unconvincing smile.  Daniel continues to grin happily.)<br><br><br>SHORTLY AFTERWARDS.  Richard leads Daniel and Rodney from the Gateroom.<br><br>WOOLSEY: I'll have Rodney here show you to your quarters.<br><br>JACKSON: Actually, I'd like to get started right away, if that's OK with you, Rodney.<br><br>McKAY (sarcastically): Oh, sure, sure.  What've you got planned?  An exciting exploration of insignificant Ancient historical events?<br><br>JACKSON: No, not quite.  I'm sure you're both familiar with the Ancient named Janus?<br><br>McKAY: The inventor?<br><br>JACKSON: Yes.  He was a lead scientist and apparently a bit of a renegade.<br><br>McKAY: Yeah, and I've been over all of his logs.  Look, this is work we've done already.<br><br>JACKSON: Well, I'm pretty sure I have information that could lead us to his secret lab.<br><br>(Rodney stops and turns to face him, his face full of cynicism.)<br><br>McKAY: Secret lab?!<br><br>JACKSON: Yes, a place where he conducted and subsequently hid a significant portion of his unauthorised research.  And if I'm correct, it's right here, on Atlantis.<br><br><br>RODNEY'S LAB.  Rodney and Daniel sit side by side at a table as Daniel types on a laptop.  Rodney has his head propped up on his hand and is looking bored.<br><br>McKAY: I've been over Janus' database entries with a fine-tooth comb.  I never saw any mention of a secret lab.<br><br>JACKSON: Janus was doing a lot of work that wasn't exactly approved by the Ancient Council, so it's not hard to imagine he wouldn't include a full account in this very public database.  I mean, do you include all of your research in <I>your</I> official reports?<br><br>McKAY: Just get to the point.<br><br>JACKSON: OK, he never talked about it in his entries, but several of Janus' peers suspected he had a "bastion of unfettered thought and experimentation" or -- as one of his lovers put it ...<br><br>McKAY: He had lovers?!<br><br>JACKSON (calling up an entry on the computer): ... "an isle of solitude within the city walls."<br><br>McKAY: Well, that could just mean he's hard to talk to.  People say things like that about me all the time.<br><br>JACKSON: Now, none of these writers had any idea where the lab could be, but one of his young assistants recalls a day where Janus turned a corner down a hallway.<br><br>McKAY (mock-quoting the entry): "Today: saw Janus in the hallway."  There's a real page turner!<br><br>JACKSON: He chased after him with a question about his work but when he rounded the corner, Janus was gone.  The hallway was a dead end.  He had seemingly disappeared and, I think, into his secret lab.<br><br>McKAY (looking more interested): Well, did this assistant happen to mention ...<br><br>JACKSON: ... which hallway?  Yes, he does.<br><br>McKAY: Oh.  Well ...<br><br>(He reaches towards the laptop.)<br><br>JACKSON: Yeah.<br><br>(He leans back and lets Rodney pick it up.  Pulling it closer to himself, Rodney looks at the screen.)<br><br>McKAY: Hmm.<br><br><br>CORRIDOR.  John and Richard are walking along.  Richard has a large bag over his shoulder.<br><br>WOOLSEY: As soon as the Daedalus unloads its supplies, we'll be heading off to meet up with Todd and one of his Hives.<br><br>SHEPPARD: You really think he's gonna show up, huh, and let you guys try out Doctor Keller's gene therapy on a few of his guys?<br><br>WOOLSEY: Well, we held up <I>our</I> end of the deal.  We let him use Teyla to take control of an alliance of Wraith Hives.<br><br>SHEPPARD: That's what I'm sayin'.  He's got what he wants.  I should go with you, because I have a relationship with Todd ...<br><br>WOOLSEY: That is precisely why I <I>don't</I> want you there.  This mission is basically going to be a negotiation and Todd has ... well, less baggage with me than he does with you.<br><br>SHEPPARD: I'm not saying you shouldn't take the lead on this.  I'm just ...<br><br>WOOLSEY: You're second in command here, Colonel.  I know my predecessors played fast and loose with many of the rules set forth by the I.O.A., but protocol plainly states that in the rare instance where I am required to leave Atlantis, you stay put.  You're in command here until I get back, understood?<br><br>(John grimaces unhappily.)<br><br>SHEPPARD: OK.<br><br>WOOLSEY: Try not to blow her up while I'm gone.<br><br>(He turns and heads up the stairs.)<br><br>SHEPPARD (walking away): No promises.<br><br>(Richard stops and watches him go, frowning.)<br><br><br>INFIRMARY.  Jennifer Keller is supervising as members of her staff carry bags and boxes away.<br><br>KELLER: Yeah, I think this should be the last of it.<br><br>(Ronon Dex walks in.)<br><br>DEX: Hey.<br><br>KELLER: Hi.  I was just leaving.<br><br>(They walk over to another bed and she reaches for another bag.)<br><br>DEX: Yeah, I know.  Hey, let me get that.<br><br>KELLER: Thanks.<br><br>DEX: So, you're going on this Daedalus thing?<br><br>KELLER: Yeah.  <br><br>(She reaches for yet another bag but Ronon picks it up with his other hand.)<br><br>KELLER: Thank you.<br><br>(They walk out of the room.)<br><br>KELLER: I kind of have to.  I'm the one that's gonna be administering the treatment -- if, you know, we ever get to that point.<br><br>DEX: Right.  I think I should come with you on this.<br><br>KELLER: Really?  Why?<br><br>DEX: I don't really trust these guys.<br><br>KELLER: You don't trust Todd and his Wraith, or the entire crew of the Daedalus to protect me if something goes wrong?<br><br>DEX: I don't know.  Both, I guess.<br><br>(She turns away, grinning.)<br><br>DEX: What?<br><br>KELLER: Nothing!<br><br>DEX: What?<br><br>KELLER (shaking her head, still smiling): Nothing!  Nothing!  It'll be great to have the company.<br><br>DEX: Great.<br><br>(They pass Rodney and Daniel going in another direction.)<br><br>KELLER: Bye, Rodney!  Wish us luck!<br><br>McKAY (waving): Good luck!<br><br>(He stops and turns back towards them.)<br><br>McKAY: What do you mean, "us"?<br><br>(Ronon turns and smiles at him smugly.  Rodney stares as he watches the two of them disappear around the corner.  Daniel comes back to him.)<br><br>JACKSON: Rodney?<br><br>(He jerks his thumb in the direction they were going.)<br><br>JACKSON: You, uh ...?<br><br>(He heads off again.  Rodney, still upset, follows him.)<br><br><br>EDGE OF THE CITY.  Rodney and Daniel are making their way through dark abandoned corridors, lighting the way with torches, although the lights do come on automatically as they continue onwards.  Daniel looks up at the walls.<br><br>JACKSON: Is that a water line up there?<br><br>McKAY: Yeah.  This section of the city flooded the first year we were here.  Anything salvageable got moved to the main tower.<br><br>JACKSON: Well, it's remote.  That's promising.  He wouldn't want anyone around when he came in and out of his lab.<br><br>McKAY: Ooh, like the Batcave!<br><br>JACKSON: Yes, just like the Batcave(!)<br><br>McKAY (looking at a small scanner): Well, I'm not picking up anything unusual.<br><br>(Daniel stops as he sees a small recess in a column on the wall.)<br><br>JACKSON: Something used to be attached here.<br><br>(Rodney turns and looks, then sees a similar recess two columns along.)<br><br>McKAY: Hmm.  And here.<br><br>JACKSON (going to the column in between the other two): And another one.  Any idea what they are?<br><br>McKAY: Looks like a run of the mill sconce interface.<br><br>JACKSON: Right!  Well ... (he shines his torch around the corridor) ... where are the sconces?<br><br>McKAY: I don't know!  Maybe the decorator changed his mind.<br><br>JACKSON: You said after the flood anything worth salvaging was moved to the main tower.  Now, please tell me you kept detailed records of what was found and where.<br><br>McKAY (smiling smugly): Did we keep detailed records?  Who are you <I>talking</I> to here?!<br><br><br>LATER.  Back in Rodney's lab in the main tower, Rodney is showing Daniel photographs taken of the corridors after they were flooded.  He flicks through the photos on the screen until Daniel points.<br><br>JACKSON: There.  That's the hallway.  Can you, uh, can you zoom in there?<br><br>(Glaring at him for a moment, Rodney types and the image zooms in on three round objects lying on the floor.)<br><br>McKAY: There.  There are your light fixtures.<br><br>JACKSON: They must have been knocked loose during the flood.<br><br>McKAY (bored): Possibly.<br><br>JACKSON: But you salvaged them, right?<br><br>McKAY: They're <I>lights</I>!  They fell to the ground during the flood ...<br><br>JACKSON: Humour me, OK?  I think we're on to something.<br><br>McKAY (sighing): Right.<br><br><br>ARCHIVE STORAGE.  In a room a long way from the main tower, Rodney and Daniel are searching through cases of stuff.<br><br>McKAY: Here they are.  We got ‘em.<br><br>(Daniel goes over to join him.  Rodney opens a case and Daniel looks thoughtfully at the three lights inside.)<br><br><br>EDGE OF THE CITY.  Back in the corridor, Daniel pushes the last of the lights into its position on the wall.  It chimes a single note as it lights up.<br><br>JACKSON: That's odd.  Each of these three lights made a different tone when I plugged them in.  Does that usually happen around here?<br><br>McKAY (thoughtfully): Not usually, no.<br><br>(Daniel taps the light and it chimes again.  He walks along and taps the other two lights and each one chimes a different note.)<br><br>McKAY: Well, they've been banged around a lot, under water for a few days.  Maybe they're just broken.<br><br>JACKSON: No, it's a puzzle.  I think we need to activate these in a specific order.<br><br>McKAY: You mean, like a three digit code?  D'you know how easy that'd be to break?!  There's only six variations!<br><br>JACKSON: Well, maybe we need to activate them a number of times in a specific order.  I don't suppose you recognise any of these three notes?<br><br>McKAY: What, do you mean, like, does it remind me of Janus' favourite Brian Eno track?!  No -- no such luck.<br><br>JACKSON: Well, Janus' assistant said he disappeared pretty quickly down the hallway, so it can't be a long code.  Maybe it's just as simple as three tones in a row.<br><br>McKAY (bored): Go for it.<br><br>(Sighing, he turns to the right and walks to the end of the corridor.  Daniel taps the lights in the reverse order to what he did previously.  Rodney, with his back to him, pats the end wall.  Daniel taps the middle light, then the right and then the left.  Putting his hand against the wall again, Rodney frowns.  Daniel tries middle, left, right.)<br><br>McKAY: Hold on for a second.<br><br>JACKSON: What is it?<br><br>McKAY: Come here and push against this wall.<br><br>JACKSON: Why?<br><br>McKAY: Please, just humour me.  I think I'm on to something.<br><br>(They change positions.)<br><br>McKAY: OK.  On the count of three, I want you to push against the wall as hard as you can, OK?<br><br>JACKSON: OK.<br><br>(He puts his hands against the wall.)<br><br>McKAY: OK, one, two, three.<br><br>(Daniel leans hard against the wall as Rodney walks along and taps the lights left to right in quick succession.  The wall doesn't move but Daniel plunges forward and disappears straight through it.  Rodney stares in surprise.)<br><br>McKAY: Son of a bitch!<br><br>(He trots back to the left light and taps the three of them again, then walks briskly towards the wall -- and straight through it, appearing in a darkened room on the other side.)<br><br>JACKSON: Ow.<br><br>(Rodney looks down, then squats down to Daniel lying on his face on the floor.)<br><br>McKAY: Controlled magnetic harmonic resonance.<br><br>JACKSON (sitting up and looking at him blearily): What?<br><br>McKAY: Apparently, Tessla was close to something like this before Edison trashed his lab!<br><br>JACKSON (rubbing the back of his neck): What are you talking about?<br><br>McKAY: That wall was specially designed to destabilise when bombarded with a very specific harmonic resonance.  That's what the tones were!  And the strong magnetic property of the particles is what keeps the door from just crumbling into dust!  It's a great way to hide a door because, you know, if you're looking for a door to open, it's never gonna be found!  It's like a hologram, only better, because it's solid mass until the tones are played.<br><br>JACKSON: Right, so you could've just told me to <I>walk</I> through the door when you did.<br><br>McKAY: I could've, yes.<br><br>JACKSON: Yes, yes.<br><br>(Sighing, he stands up.)<br><br>JACKSON: Where the hell are we?<br><br>(They step forward and the lights begin to come on.  All around the room wallscreens and consoles light up.)<br><br>JACKSON: Wow.<br><br>McKAY: Janus' secret lab!<br><br>(They walk around and start to investigate.  Unseen on a table behind them, a red light begins to flash on a device.)<br><br>(On a white planet a long way away, an identical red light begins to flash and the console to which the light is connected lights up.  The wallscreen nearby illuminates and text scrolls down it as an alarm begins to sound.  Standing nearby, a human shape, either a robot or a person dressed entirely in battle armour, speaks in an electronic voice.)<br><br>ALIEN: Alert the others.  The device has been activated.<br><br><br>DAEDALUS.  As the ship flies through hyperspace, Richard is sitting in the Mess writing on a notepad.  Jennifer comes in, picks up a bottle of water from a table and then walks over to him.<br><br>KELLER: Hey, Mr Woolsey.<br><br>WOOLSEY: Doctor Keller.  (He looks around.)  Where's your burly protector?  It's odd to see you without him nowadays.<br><br>KELLER (smiling): He's in the lab.<br><br>(She gestures to his notepad.)<br><br>KELLER: What are you working on?<br><br>WOOLSEY: A speech.<br><br>KELLER: What for?<br><br>WOOLSEY: Well, this is a fairly momentous occasion.  The Wraith will take a step forward, not only for their own benefit but for that of the entire galaxy.  It's an historic day.  I just think it deserves some recognition.<br><br>KELLER: Well, what have you got so far?<br><br>(Woolsey looks down at his pad and starts to read.)<br><br>WOOLSEY: "Today is an historic day."<br><br>(That's all he has written.  He looks up at her, embarrassed.)<br><br>KELLER: It's a good place to start.<br><br>WOOLSEY: Well, it's a work in progress.<br><br><br>JANUS' LAB.  John walks through the wall into the lab.  It's obviously his first visit because he stares back at the wall in amazement.<br><br>SHEPPARD: Wow!  That's pretty cool!<br><br>(Rodney, Daniel and various scientists are inside the lab.)<br><br>McKAY: Harmonic resonance.<br><br>SHEPPARD: Yeah, I was told, but what happens if the sound goes off and you're in the middle of the wall?<br><br>McKAY: Well, the wall would break apart your body.<br><br>SHEPPARD (nervously): Maybe we should, uh ...<br><br>McKAY: I've set up a sub-sonic tone generator outside.  The wall is now permanently open.  Don't worry.<br><br>SHEPPARD: That's good.  So what've we got?<br><br>JACKSON: Well, the good news is: it's definitely Janus' secret lab.  The bad news is: getting in was the easy part.<br><br>McKAY: There are levels of encryption on all the data here that even the most paranoid N.S.A. agent wouldn't use.  I mean, it is <I>deep</I>.<br><br>JACKSON: Some of them are straight-up math ciphers while others are Ancient knowledge puzzles.<br><br>McKAY: And until we start deciphering, there's no way to tell what <I>any</I> of this stuff does.<br><br>SHEPPARD: Sounds like you guys make a good team, though.<br><br>McKAY (uncomfortably): Mmm.<br><br>JACKSON (equally uncomfortably): Yeah.<br><br>SHEPPARD: Well, I guess I'll go back to being the boss.<br><br>McKAY: How's <I>that</I> going?<br><br>SHEPPARD: Pretty boring, actually.<br><br>McKAY: Well, you're more than welcome to help us crack this first stream cipher.<br><br>(He glances at Daniel.)<br><br>McKAY: You know, he could have been in Mensa.<br><br>(Daniel grins disbelievingly while Rodney snorts with laughter.  John glares at them.)<br><br>SHEPPARD: Why don't you contact me when you two geniuses have a breakthrough?<br><br>JACKSON: Will do!<br><br>(John turns and walks back through the wall.  On the nearby table, the red light continues to flash on the unnoticed device.)<br><br><br>SPACE.  Daedalus comes out of hyperspace to find two Wraith Cruisers and a Hive waiting.  Kevin Marks, in the Weapons Officer's position, addresses Steven Caldwell.<br><br>MARKS: Sir, we're being hailed.<br><br>CALDWELL: Open a channel.<br><br>(Marks does so.)<br><br>CALDWELL: This is Colonel Caldwell of the Earth ship Daedalus.  We're ready to receive your delegation.<br><br>WRAITH VOICE (over comms): The delegation is on their way.<br><br>(Caldwell turns to Marks.)<br><br>CALDWELL: Marks, you have the Bridge.  I'm gonna meet our guests.<br><br>(A Wraith shuttle Dart flies from the Hive and enters Daedalus' F-302 Bay.  In the corridor nearby, Caldwell, Richard, Ronon and Jennifer wait together with some armed guards.  Richard is pacing nervously.  Finally the doors open and Todd comes through with two other male Wraith.  Richard walks towards him.)<br><br>WOOLSEY: Thank you for coming.<br><br>TODD: Thank you for having us.<br><br>(Richard clears his throat.)<br><br>WOOLSEY: Today is an historic day.  Robert Grosseteste once said ...<br><br>TODD (interrupting as it looks at Jennifer): I would like to get started as soon as possible.<br><br>WOOLSEY: Y-yes, of course.  But I wanted to recognise ...<br><br>TODD (to Jennifer): I have my doubts that your plan will be effective ... (it turns to Richard) ... so shall we drop these unfounded pleasantries and get to work?<br><br>WOOLSEY: Very well.  (He turns to Jen.)  Doctor Keller, lead the way.<br><br>KELLER (to the Wraith): Please, come with me.<br><br>(She and Ronon lead them away.  The Daedalus guards follow.  Caldwell turns to Woolsey.)<br><br>CALDWELL: Robert who?!<br><br>WOOLSEY (walking away): Never mind.<br><br><br>ATLANTIS.  NIGHT TIME.  In Janus' lab, Daniel is sitting at a console and gazing at text scrolling across a wallscreen in front of him.  Sitting at another console beside him, Rodney yawns.<br><br>JACKSON: You know, it's almost dawn.  If you wanna call it a night, it's, uh ...<br><br>(He takes off his glasses and rubs his eyes tiredly.)<br><br>McKAY: What?  No-no-no, I'm fine, fine, but, you know, if you need to rest, I completely understand.<br><br>(Annoyed, Daniel puts his glasses back on and turns to face him.)<br><br>JACKSON: Seriously, is everything a competition with you?<br><br>McKAY: I'm not sure what you're talkin' about.<br><br>JACKSON: I just found you a secret lab full of really cool Ancient stuff.  I kind of think that should score me some points here.<br><br>McKAY: OK, I will admit that I may have been little brusque with you up until now.<br><br>JACKSON: Just a little(!)<br><br>McKAY: But the truth is, I really didn't think you were gonna find anything.<br><br>JACKSON: Well, <I>that</I> much I actually understand.<br><br>McKAY: You do?<br><br>JACKSON: Yeah.  I've spent the majority of my professional life being ridiculed for my theories -- most of which turned out to be correct, by the way.  I'm kind of used to it, Rodney.<br><br>(Rodney slumps back in his chair and sighs.)<br><br>McKAY: Doesn't that bother you?  I mean, there's no vindication, no recognition, no credit.<br><br>JACKSON: Well, I could say the same thing about you.  The discoveries you've made -- you probably could have won the Nobel Prize five times over by now.<br><br>McKAY: It's too true.  So -- I guess none of us signed up to get famous, huh?<br><br>JACKSON: No, we did it for the money.<br><br>McKAY (chuckling): Good one! <br><br>(He continues to chuckle as Daniel grins.  Then Rodney's smile drops and he turns to Daniel.)<br><br>McKAY: Wait a minute.  You don't get paid more than I do, do you?<br><br>(Daniel rolls his eyes and sighs.)<br><br>McKAY: <I>Do</I> you?<br><br><br>OCEAN.  Out on the ocean of New Lantea, a hyperspace window opens just above the water and a small lozenge shaped ship flies out of it.  In the Control Room of the city, Chuck has his feet up on his console and is reading a book but straightens up as the console beeps.<br><br>CHUCK: Hyperspace window just opened.<br><br>(Technician Amelia Banks walks over.)<br><br>BANKS: Daedalus isn't due back yet.<br><br>(They look at the wallscreen which reads HYPERSPACE WINDOW DETECTED, followed by UNKNOWN I.F.F.)<br><br>BANKS: Get Sheppard.<br><br>(John is in his quarters, lying on his bed fully dressed.  He too has been reading but has fallen asleep.  He wakes up as he hears Chuck's voice.)<br><br>CHUCK: Colonel Sheppard, sir?<br><br>SHEPPARD: Yeah, uh, just resting my eyes.<br><br>(He frowns and looks around.)<br><br>SHEPPARD: Who said that?<br><br>CHUCK: I patched into the P.A. in your room, sir.  You're gonna wanna get up here.<br><br>(John jumps off the bed, walks to the doors and swipes the wall panel to open them before heading off.)<br><br>(Out on the ocean, the side pods on the ship open out and landing struts descend as it heads towards the city.)<br><br>(John runs into the Control Room.)<br><br>SHEPPARD: What's going on?<br><br>BANKS: Tracking a small ship in atmosphere.  It's coming right for us.<br><br>SHEPPARD: Get the Jumpers in the air.<br><br>BANKS: It's closing fast, sir.  It'll be here in less than ten seconds.<br><br>SHEPPARD: Shields up.  I still want the Jumpers ready.<br><br>(Chuck activates his controls and the shield rises up around the city.  John and Amelia watch the wallscreen nervously.)<br><br>BANKS: Here it comes.<br><br>(The image on the screen shows the ship as it flies straight through the shield and heads for the end of one of the piers.)<br><br>BANKS: That's impossible.<br><br>SHEPPARD: What-what did it just do?<br><br>CHUCK: It passed through the shield.<br><br>SHEPPARD: Yeah, but how did it <I>do</I> that?<br><br>BANKS: I'm not sure, sir.  (She looks at him.)  Ancient ships can do it.<br><br>(John frowns, then looks at the screen which shows that the ship has stopped a short distance in from the end of the pier.)<br><br>SHEPPARD: All right, tell Teyla and a team of marines to meet me at that pier.<br><br>(He hurries away.  At the pier, a section of the underside of the ship opens and three figures -- dressed in the same battle armour as the one we saw earlier -- drop out of it and fall towards a building below the ship.  They plunge straight through the roof.  Shortly afterwards, they start to make their way through the city.)<br><br>(Some distance away, John runs out of a transporter and joins Teyla Emmagan and the marines as they hurry along.  In the Control Room, Amelia guides them over radio.)<br><br>BANKS: They should be right in front of you.<br><br>(The three aliens have each taken from their backs a piece of metal shaped like a large slice of pie.  They lay them on the floor, unfold them and lock them together to form a circle.  One of the aliens locks a device into the centre of the circle and it begins to power up.  Just as John and the team run into view, the aliens step onto the circle with their backs to each other.)<br><br>SHEPPARD: Don't move!<br><br>(As the team aims its weapons at the aliens, one of them presses a device on its chest armour and a white glowing energy shield deploys up from the metal circle and surrounds them.  The team opens fire but their bullets have no effect.  The metal circle glows and, having apparently cut around itself, drops through the floor, taking the aliens with it.  As crashing noises come from the hole in the floor, the team walks cautiously forward and looks down to see that several floors below them have also been cut through.  The glow of the shield can just be seen receding lower into the tower.)<br><br>SHEPPARD: What's at the bottom of this tower?<br><br>(Teyla looks at him in dread.)<br><br>TEYLA: Rodney.<br><br><br>In the corridor outside Janus' lab, the metal circle and its aliens smash through the ceiling and land on the floor.  The shield instantly drops and two of the aliens head towards the wall leading to the lab while the other moves in the opposite direction to guard the corridor.<br><br>(Several levels above, John and the team are running.)<br><br>SHEPPARD (into radio): Rodney, this is Sheppard.  Come in.<br><br>(In the lab, Rodney looks up at the sound of John's voice.)<br><br>SHEPPARD (over radio): Rodney!<br><br>McKAY: What's up?<br><br>(John, Teyla and the marines hurry into a transporter.)<br><br>SHEPPARD: Get out of there right now.<br><br>McKAY (standing): Why?<br><br>(He instantly finds out as the two aliens walk through the wall, raise weapons and shoot him and Daniel.  One of them walks over to the fallen men while the other goes to the device with the red flashing light and picks it up.)<br><br>(In a nearby corridor, transporter doors open and the team hurries out.  They run to the corridor and then stop and raise their rifles at the sight of the alien standing in the middle of it.  It quickly presses a button on its left arm and holds its arm horizontally in front of itself.  A wall of energy emanates out, forming a glowing yellow shield which deflects all the shots fired at it by John, Teyla and one of the marines.  Behind it, the two other aliens walk back through the wall, one of them carrying the device and the other dragging Daniel and Rodney along the ground by an arm each.  John and the others continue firing at the energy wall but can't get through it.  The alien pulling Daniel and Rodney hauls them up onto their feet by the necks of their jackets and pulls them onto the metal circle.  The other alien joins it and the white forcefield deploys around them and the circle rises up into the air, shooting back up the way it had just come.  The yellow shield wall around the last alien either fails or the bullets finally wear it out and at long last the team's weapons fire impacts the alien itself.  The gunfire sends it crashing to the ground.)<br><br>(Above the tower, the circle flies back up into the ship.  Its hatch closes and the ship heads forward, flies past the main tower, through the shield and into a waiting hyperspace window.)<br><br>(In the corridor, John and the others carefully walk forward, aiming their rifles down at the alien.  When it doesn't move, John activates his headset radio.)<br><br>SHEPPARD: Control Room, what's the status of that ship?<br><br>BANKS: I'm sorry, Colonel.  They're gone.<br><br><br>DAWN.  Radek Zelenka and a couple of other scientists hurry into the corridor.  Radek looks down at the alien nervously.<br><br>ZELENKA: Is it alive?<br><br>SHEPPARD: You tell me.<br><br>(Radek activates a hand-held scanner and squats down to the alien and scans it.)<br><br>ZELENKA: No.  I'm not getting any coherent readings.  Perhaps we should put it under a medical scanner.<br><br>SHEPPARD: OK, do it.<br><br>(Radek stands up and addresses one of the scientists.)<br><br>ZELENKA: Go get a gurney.<br><br>(As the scientist heads off, Radek looks up at the hole in the ceiling.)<br><br>ZELENKA: Ooh!  So is it true they took Rodney and Doctor Jackson?<br><br>SHEPPARD: Yeah.<br><br><br>ALIEN SHIP.  Daniel kneels at Rodney's side and gently slaps his face to wake him up.  Groaning, Rodney regains consciousness and Daniel helps him to sit up.<br><br>McKAY (high-pitched in indignation): What the hell happened?!<br><br>JACKSON (pulling him to his feet): We were attacked.<br><br>McKAY: <I>That</I> much I got, thanks!  By who?<br><br>JACKSON: I was kinda hoping you could tell <I>me</I>.<br><br>(They look around.  The room they are in is very dark but they are in a small triangular cell bounded by horizontal lasers.)<br><br>McKAY: OK, there is no way this is a coincidence.  I mean, we discover Janus' super-secret lab and less than twenty-four hours later a bunch of aliens show up, all guns blazing?!  Don't you think it's a little odd?<br><br>JACKSON: Well, now that you mention it ...(!)<br><br><br>ATLANTIS CORRIDOR.  Scientists are wheeling away the alien on a gurney.<br><br>SHEPPARD: They knew exactly what they were looking for.  Didn't waste any time.  Went straight for the lab.<br><br>TEYLA: When they came out, one of them was carrying a device.<br><br>(She, John and Radek go into the lab.)<br><br>ZELENKA: Unfortunately, we haven't had nearly enough time to go through everything we found in here, so there's no way of knowing exactly what they took.<br><br>SHEPPARD: All this stuff came on when Rodney and Doctor Jackson came in here?<br><br>ZELENKA: Yeah, pretty much.  It activated probably in response to Rodney's A.T.A. gene.  Why?<br><br>SHEPPARD: Something in here's been broadcasting.<br><br>(On the alien ship, Rodney has had the same idea.)<br><br>McKAY: A sub-space signal.  That's the only possible answer.<br><br>JACKSON: What are you talking about?<br><br>McKAY: We've come across them before.  They're a real-time, practically instantaneous, link between two Ancient devices.  They can be separated by, like, half a galaxy.<br><br>(In the Atlantis lab)<br><br>SHEPPARD: There's a bunch of aliens out there.  They stumble upon an Ancient lab, probably built by Janus himself.  It's dormant, it's not working; then one day out of the blue it activates.<br><br>(On the alien ship)<br><br>McKAY: So they're standing around, they're scratching their heads, they have no idea what's going on, then they discover the sub-space link.<br><br>(In the Atlantis lab)<br><br>SHEPPARD: They decide to follow it, they trace it back to us.<br><br>ZELENKA (sceptically): And then attack us and take two of our people hostage?<br><br>TEYLA: Rodney and Doctor Jackson were not the targets.<br><br>SHEPPARD: They were just in the wrong place at the wrong time.  Whatever that device was, that's what they were after.<br><br>(On the alien ship)<br><br>JACKSON: All right, good theory.  So what do we do?<br><br>McKAY: Well, we've gotta get out of here.<br><br>(He starts to walk around the small cell, looking at the laser bars.)<br><br>JACKSON: We're probably on a ship travelling through hyperspace.  Where are we gonna go?<br><br>McKAY: I'll think of something.<br><br>JACKSON: Really?<br><br>McKAY: Yeah.  Always do.<br><br>(Tentatively he puts the tip of his finger to one of the laser bars, which promptly sparks and burns him.)<br><br>McKAY: Ow!<br><br>JACKSON: Oh yeah, I tried that.  They zap you when you touch them.<br><br>McKAY (indignantly): You could have told me that before I touched it!<br><br>JACKSON: I could have, yes.<br><br>(Rodney glares at him, realising that he was getting payback for the wall incident earlier.)<br><br>JACKSON: Look, they stripped us of everything but the clothing on our backs and surrounded us with laser walls.  I'm not sure how much play we have here.<br><br>McKAY: We've got one thing going for us at least.<br><br>JACKSON: What's that?<br><br>McKAY: We're not dead yet.<br><br>JACKSON: Good point!<br><br><br>ATLANTIS INFIRMARY.  The alien has been laid on the scanner bed and the scanner is running overhead.  Looking at a computer nearby, Radek sighs.<br><br>ZELENKA: It's no good.  I'm still not getting any useful readings.  The suit is emitting some sort of E.M. field that's disrupting the scanner.  I have no idea how to shut it off.<br><br>SHEPPARD: There's no way to penetrate the shell and see what's under there?<br><br>ZELENKA: I'm afraid not.<br><br>TEYLA: Do you think there's a human underneath all that armour?<br><br>SHEPPARD: Impossible to say.  Could be a robot.<br><br>ZELENKA: One thing's for sure: it's not like anything we've ever seen before.<br><br>TEYLA: Well, Doctor Weir did say that there were other technologically advanced societies that we have yet to encounter.<br><br>SHEPPARD: We just made first contact.<br><br>ZELENKA: What do you want me to do?<br><br>(John looks down at the alien thoughtfully.)<br><br>SHEPPARD: Cut it open.<br><br><br>LATER.  Radek, wearing safety glasses, is attempting to drill into the chest plate of the alien.  Some seconds later he stops and takes off the glasses, looking at the drill.<br><br>ZELENKA: Ah, it's no good.  I just dulled out the blade.<br><br>SHEPPARD: The neck.<br><br>ZELENKA: What?<br><br>SHEPPARD: Looks like the softest part.  Try the neck.<br><br>(Radek looks uncomfortable at that thought.)<br><br>TEYLA: It's already dead, Radek.<br><br>ZELENKA: We <I>think</I>.<br><br>SHEPPARD: Just <I>do</I> it.<br><br>(Someone brings over another drill.  Pulling his safety glasses back into position, Radek takes the drill and gets back to work.  Almost instantly he calls out over the noise of the drill.)<br><br>ZELENKA: It's working!<br><br>(He continues to drill but then looks up at a beeping noise.  On the chest piece of the alien, a yellow light has begun to flash.  He stops drilling.)<br><br>ZELENKA: Oh-oh.<br><br>SHEPPARD: Get out!  Everyone, get out!<br><br>(Everybody races out of the doors as the beeping and flashing increase their rate.  The crew charges around the corner and cowers down as an enormous explosion goes off behind them.)<br><br>SHEPPARD: Everyone OK?<br><br>TEYLA (looking around to check): Yes.<br><br>SHEPPARD: Somebody really wants to keep secret whatever's inside that suit.<br><br><br>DAEDALUS.  Jennifer and Todd are in a lab.  She is working on a computer while Todd is wandering around looking at the equipment in the room.<br><br>KELLER: We've run close to a hundred simulations based on full medical scans of the Wraith we've had in ... captivity.<br><br>(She gulps nervously but Todd seems to take no notice.)<br><br>KELLER: They've all been successful.<br><br>TODD: We both know very well that computer simulations and live trials are very different.<br><br>KELLER: I don't think we're doing this cavalierly.  I stand by the data.  It <I>will</I> work.<br><br>TODD: Uh-huh.  Perhaps it <I>will</I>.<br><br>KELLER: The question is: do you <I>want</I> it to?<br><br>(Todd turns and looks at her, humming thoughtfully.)<br><br>TODD: I do see the benefits, even if we only use the therapy on <I>some</I> of my troops, say those whose lives -- thanks to this war -- are expected to be short.  Why waste perfectly good resources on them, yes?  But it will be very difficult for me to ask those around me to give themselves over for the good of the human race.<br><br>KELLER: But it's for <I>your</I> benefit too.  If you don't have to rely on human feeding, the war would be over.<br><br>TODD: Perhaps.  (It looks away.)  But <I>then</I> what would we do?  Who would we be?<br><br><br>ALIEN PLANET.  A hyperspace window opens and the alien ship comes out of it and heads down towards the white planet beneath it.  It flies towards a complex on the surface which is covered with snow as a blizzard rages all around, and settles onto the landing pad.  Shortly afterwards, an alien walks along a corridor inside the complex, holding the device taken from Janus' lab.  It is followed by two other aliens, each of which is bundling Daniel and Rodney along by the neck of their jackets.<br><br>JACKSON: Can we talk to somebody in charge?  I think there's been a bit of a misunderstanding.  There's no need to treat us this way.<br><br>(Behind him, Rodney is grimacing and making "Ow" noises as his alien shoves him along.  They reach a lab and the doors open and everyone goes inside.  The lab looks Ancient in design.  The aliens shove Rodney and Daniel into the middle of the room and the alien with the device sets it down onto the central console.  Immediately it lights up and a wallscreen behind it activates.)<br><br>ALIEN: Get the device operational.<br><br>McKAY: We don't even know what it is!<br><br>(The aliens leave the room and the doors close.  Rodney walks over to the doors.)<br><br>McKAY: Oh, great!  Sealed shut and they've removed the door controls from this side.<br><br>JACKSON: Where the <I>hell</I> are we?<br><br>McKAY: I'd say judging by the Lantean architecture, I'd guess, you know, a secret Janus facility -- which is, you know, probably bad for us because it probably means it's hard to find.<br><br>JACKSON: So I guess that means no rescue any time soon.<br><br>(Rodney walks over to the device which the alien put onto the console.)<br><br>McKAY: Does that look familiar to you?<br><br>JACKSON: Yeah, it's the device from the Atlantis lab.<br><br>McKAY: At least we know why they brought us with them.<br><br>JACKSON: Yeah, they need us to get the device operational.  I got that.<br><br>McKAY: Right.  And I don't think we're gonna get any more info from Talky McSays-A-Lot out there, so fire up these consoles -- see what we're dealing with.<br><br>(Daniel reaches for a button on the console.)<br><br>McKAY: Not like that.<br><br>(Daniel pulls his hand back as Rodney looks at the console.)<br><br>McKAY: Uh, yeah, see, like that.<br><br>(He reaches across Daniel and presses what looks like the button that Daniel had been reaching for anyway.  Daniel looks irritated.)<br><br>McKAY: OK, that's the one.<br><br>(He leans across him again.)<br><br>McKAY: And I need to be right there.<br><br>(Trying hard not to look murderous, Daniel lifts his hands off the console so that Rodney can activate controls at the bottom of it.)<br><br>McKAY: Yeah, thanks.  There.<br><br><br>ATLANTIS.  John and Amelia walk up the stairs into the Control Room.<br><br>BANKS: We've got five Jumpers in the air flying a defensive formation around the city, <I>and</I> have the Chair fired up and ready for you at a moment's notice.<br><br>SHEPPARD: I want marine details every five levels, locked and loaded ready for my go-ahead just in case.<br><br>BANKS: Absolutely.<br><br>(John walks over to Radek who is sitting at a console.)<br><br>ZELENKA: Colonel.  I think I may have something.  I've been working under the assumption that, as you suggested, the device they took must have been broadcasting some sort of sub-space communication ...<br><br>SHEPPARD: You can trace it.<br><br>ZELENKA: Well, yeah, if it was broadcasting from Atlantis, yes, but obviously it's not doing that any more.<br><br>SHEPPARD: So?<br><br>ZELENKA: So ... well ... I'm using the work of László Babai as a stepping stone.<br><br>(John looks at him straight faced.)<br><br>ZELENKA: You know, combinatorics and, um ...  (He shakes his head.)  No offence, but the math I'm using is so complicated, I don't know if I can dumb it down enough for it to make sense.<br><br>SHEPPARD (sternly): Try.<br><br>ZELENKA (swallowing nervously): Well, OK, I've been going over our record of sub-space logs and I'm trying to extrapolate the single thread that will lead us to the area of space associated with the device.<br><br>SHEPPARD: Well, I understand that.<br><br>ZELENKA: Yes.  It doesn't accurately represent what I'm doing, but ...<br><br>SHEPPARD: I get it.  What you're doing is difficult.  Just ... tell me when you get a hit.<br><br>(He walks away.  Radek sighs and gets back to work.)<br><br><br>ALIEN LAB.  Rodney is gazing thoughtfully through a window in the lab which looks into another room which has a large device in it with large antennae either side.  After a while he turns around and walks back to the main console and looks down at it.  Daniel, standing by another console near the opposite wall, turns around.<br><br>JACKSON: This facility's tapped into some pretty serious power generation.  I've never seen anything like it before.<br><br>(Rodney has realised something.)<br><br>McKAY: You'd <I>need</I> a lot of power.<br><br>JACKSON: What?<br><br>McKAY (turning to face him): I think I know what this thing does.<br><br>JACKSON: What?<br><br>McKAY: It's an end game machine.<br><br>JACKSON (a little nervously): How so?<br><br>McKAY: If it works the way I think it does, it would mean the end of the Wraith once and for all.<br><br>JACKSON: So how do you destroy the Wraith once and for all?<br><br>McKAY: Well, I never said "destroy."  I mean, it would lead to that, I suppose, but this device would stop them dead in their tracks.<br><br>JACKSON: How?<br><br>McKAY: It creates a very specific sub-space static ... uh, turbulence is probably a better way of looking at it.<br><br>JACKSON: Which ...?<br><br>McKAY: OK, look.  Um, although they're all based on a fairly similar technological premise, each race has a slightly different type of hyperdrive.  Ours are based on the Asgard drive with our own little twist; the Ancients had their own particular system; and the Wraith, again, have their own separate hyperdrive technology.<br><br>JACKSON: All right.<br><br>McKAY: OK, so at its base level, a hyperdrive allows you to travel great distances by entering and exiting sub-space.<br><br>JACKSON: OK, this much I already know, yes.<br><br>McKAY (leading him back to the central console so that they can see the device in the next room): OK, so, if this machine is capable of actually functioning safely, it disrupts the very specific sub-space frequencies the Wraith use.<br><br>JACKSON: So they wouldn't be able to engage their hyperdrive.<br><br>McKAY: Well, that's the genius.  They <I>would</I> be able to engage their hyperdrives.  It's just that their particular channel of sub-space would be destabilised and their ship would be ripped into a million pieces.<br><br>JACKSON: When this device is turned on, every time a Wraith ship enters hyperspace, it self-destructs?<br><br>McKAY: Yeah!<br><br>JACKSON: It's a pretty effective idea.<br><br>McKAY: Yeah!  I mean, because even if word got back to the other Wraith that the ships should stop using their hyperdrive, they'd be stuck where they were.  They'd only be able to travel using sub-light engines.<br><br>JACKSON: And because an Ancient ship's hyperdrives operate on a different frequency of sub-space, the Ancients could fly around the galaxy and pick them off one by one.<br><br>McKAY: Yeah, or you just leave ‘em to die in the vastness of space.<br><br>JACKSON: So, what's the catch?<br><br>McKAY: Ah, well, the catch is that Janus ran a three day test about ten thousand years ago and then shut the whole project down because of unforeseen side effects.<br><br>JACKSON: Right, which were ...?<br><br>McKAY: Well, it's not clear.<br><br>(He points to the device from Janus' Atlantis lab.)<br><br>McKAY: That's the key to the whole shebang.  I mean, Janus brought that back with him to Atlantis but kept it connected to the main system here.  One won't work without the other.<br><br>JACKSON: Well, they seem pretty convinced we can make it operational.<br><br>McKAY: That's because we probably <I>can</I>.  I mean, we have everything we need here.  The question is whether we <I>should</I>.<br><br>(Daniel looks at him.)<br><br>McKAY: The last time I went down this road, I ... I kinda destroyed a solar system.<br><br>JACKSON: Yeah, and I'm not too keen about experiencing those unforeseen side effects.<br><br>McKAY: So, what do we do?<br><br>JACKSON: It's simple: we, uh ... we reason with them.<br><br>McKAY: Oh(!)<br><br><br>LATER.  An alien has come to the lab and Daniel is trying to reason with it.<br><br>JACKSON: Now, obviously you're excited about the possibility of ending the Wraiths' reign over this galaxy once and for all, but the reality is: this device and this facility were abandoned by their creator for a very good reason.  See, uh, it doesn't work -- at least, not safely.  (He gestures to Rodney beside him.)  That's from what my friend can tell.<br><br>(Smiling nervously, Rodney raises a hand to the alien.  Ignoring him, the alien stares silently at Daniel -- or at least aims the helmet on its head in his direction.)<br><br>JACKSON: Look, we share the same goal.  Perhaps we have <I>many</I> things in common.<br><br>(The alien continues to look at him silently.  Daniel looks at Rodney briefly, then turns back to it.)<br><br>JACKSON: Look, given the right amount of time, it's possible we could get the device to function safely, but we'd have to contact our people and bring in a much larger science team.  See, I'm not <I>that</I> kind of scientist ... (he points towards Rodney) ... and what my friend ...<br><br>(The alien interrupts, turning its head to address Rodney.)<br><br>ALIEN: Get the device operational within one hour or I will kill him.<br><br>(Daniel freezes, his finger still pointing towards Rodney.)<br><br>ALIEN (to Rodney): Do you understand?<br><br>McKAY (nervously): I understand, yes.<br><br>(The alien turns and the doors behind it open.  It walks through and the doors close again.)<br><br>McKAY (turning back to the console with a look of frustration on his face): Great plan, Danny!  <I>Great</I> plan!<br><br>JACKSON (still staring at the doors): Why the suits?<br><br>McKAY (over his shoulder): Huh?<br><br>JACKSON: Well, they're not in battle any more.  Originally I thought it was just their version of SWAT gear, but they still have it on.  Maybe they're more than just armour; maybe they're some sort of protective suit.  Maybe they can't function on our liveable atmosphere.<br><br>McKAY: Maybe we should just add it to the list of things that have nothing to do with the task at hand.<br><br>JACKSON: Those suits might be the key to figuring out who these guys really are.<br><br>McKAY: Well, <I>you</I> work on understanding them; <I>I'll</I> work on trying not to get us killed.<br><br>(He gets back to work on the console.  Daniel continues staring at the door, frowning thoughtfully.)<br><br><br>ATLANTIS.  John trots into the Control Room.<br><br>SHEPPARD: Well, you got something for me?<br><br>ZELENKA: Yes.  M6H-987.  That's my best guess.<br><br>SHEPPARD: You sure?<br><br>ZELENKA: Well, about eighty percent sure.<br><br>SHEPPARD: All right.  Well, it's our only lead.  It'll have to do.  Doesn't happen to have a Gate on it, does it?<br><br>ZELENKA: No.<br><br>SHEPPARD: Of course not!  Daedalus still out of communications range?<br><br>ZELENKA: Yeah, I'm afraid so -- and the rendezvous point with Todd isn't even <I>near</I> a Stargate.<br><br>SHEPPARD: All right, I need you to get to the Jumper Bay, boost the sub-space communications range as much as you can.<br><br>ZELENKA: What are you planning?<br><br>SHEPPARD: We've gotta get to that planet as soon as possible.  We're gonna gate as near as we can to the Daedalus with the Jumper, have ‘em pick us up en route to the planet.<br><br>ZELENKA: OK.  Give me half an hour.<br><br>SHEPPARD: I'm gonna get the team ready.<br><br><br>ALIEN LAB.  Rodney and Daniel are looking through the window into the other room.<br><br>McKAY: That main chamber houses the sub-space antenna.<br><br>JACKSON: It harnesses the static into sub-space.<br><br>McKAY: Well, it <I>will</I> once I light it up.<br><br>(Daniel turns to look at him.)<br><br>JACKSON: What?  You're already ready?<br><br>McKAY (turning and walking back to the main console): Well, it wasn't broken.  He just shut it down.  All we need is <I>that</I> ... (he points at the device from the Atlantis lab) ... a basic understanding of Janus' coding style and -- here's where I come in again -- the Ancient gene.  I mean, we're ... we're ready to roll.<br><br>JACKSON: Rodney, you don't have to do this.<br><br>McKAY: What?<br><br>JACKSON: Look, if turning this thing on means a solar system is gonna explode, then let's ... not.<br><br>McKAY: They're gonna kill you!  We don't have a choice!<br><br>JACKSON: Yes we do.<br><br>McKAY: OK, so I do nothing, they come in here, they kill you.  Who gets killed next, huh?  Me!  And to tell you the truth here, I'm quite fond of me, so we might as well do it, you know, now, while you're still alive, as opposed to ... you know, then.<br><br>JACKSON (not entirely happy): All right.<br><br>McKAY: Right.<br><br>(He activates the controls.  In the next room, electricity begins to spark off the antennae and bounce around the room.  Daniel and Rodney turn to watch as the central device begins to glow and more electricity sparks around.)<br><br>McKAY (nervously): Are we still alive?<br><br>JACKSON: I <I>think</I> so.  I'd hate to think heaven looks like this.<br><br>McKAY: Who says we went to heaven?<br><br>(Whimpering nervously, he leads Daniel closer to the window.)<br><br>McKAY: It's operational.<br><br>JACKSON: Anything out of the ordinary?<br><br>(Rodney looks at the console.)<br><br>McKAY: No.  I mean, everything's in the green.  I mean, it's working great!<br><br>JACKSON: What about those unforeseen side effects?<br><br>McKAY: Still unforeseen.  For now, it's working and we're still alive.<br><br>JACKSON: OK, so what now?<br><br>McKAY: Uh, maybe, uh, a nice pat on the back and an all-expense paid trip back to Atlantis?<br><br>(He looks hopefully at Daniel, who looks back at him as if to say, "You wish!"  Rodney's smile fades.)<br><br>McKAY (quietly): Yeah.<br><br><br>DAEDALUS.  Todd is escorted to the Bridge.<br><br>WOOLSEY: You have an urgent message from your Hive.<br><br>(He hands it an earpiece.)<br><br>WOOLSEY: I assumed you'd want to take it privately.<br><br>(Taking the earpiece and putting it on, Todd walks to the front of the Bridge and looks through the windshield at its Hive.)<br><br>TODD: Go ahead.<br><br>(It listens to the message.)<br><br>TODD: Very well.  Permission granted.  I shall remain here.<br><br>CALDWELL: Is everything OK?<br><br>(Todd lowers the earpiece and turns back to the others.)<br><br>TODD: One of our facilities is under attack by a rival Hive.  Our two support ships must depart for battle.  My Hive will remain here; continue the work with Doctor Keller.<br><br>WOOLSEY: I'm glad to hear that.<br><br>(Todd turns and frowns at him.  Richard's eyes widen.)<br><br>WOOLSEY: Oh, not the "under attack" part.  That's unfortunate, of course.  I-I just meant ...<br><br>(He looks at Todd's expression and trails off.)<br><br>WOOLSEY: ... Never mind.<br><br>(Todd turns back to the windshield to watch as the first of the two Cruisers turns and heads for a hyperspace window which has opened in front of it.  As soon as it hits the window, it instantly disintegrates into tiny particles which spray back from the window.  Everyone on Daedalus stares in shock.)<br><br>CALDWELL (hurrying over to the Weapons station): Marks, what the hell just happened?<br><br>TODD (furiously): How did you do that?<br><br>WOOLSEY: How did we ...?  Surely you don't think <I>we</I> had anything to do ...<br><br>TODD (turning to face them): You tricked me.<br><br>WOOLSEY: What?<br><br>(Holding its arms by its sides that the others can't see, Todd slips a glowing yellow rod from each sleeve of its coat down into its hands.)<br><br>TODD: This was your plan all along.  Somehow you found the Attero device.<br><br>WOOLSEY: The what?  We have no idea what ...<br><br>(Todd brings up the rods in front of it and touches them together.  A shockwave emanates out from them and sweeps across the Bridge, and everyone but Todd instantly drops to the floor or -- in Marks' case -- slumps back in their chair unconscious.  Todd walks to the command chair and activates the comms to its ship.  A Wraith on the Hive's Bridge responds.)<br><br>WRAITH: Commander.  We've been trying to contact you.  The other Cruisers were destroyed.<br><br>TODD: I know.  We've been betrayed.<br><br>WRAITH: What should we do?<br><br>TODD: I have control of the humans' transport system.  I'll begin beaming in our troops immediately.<br><br>(It sits down in the command chair.)<br><br>TODD: We're taking this ship.<br><br><br>Elsewhere on the ship, Ronon is walking along a corridor.  He stops as a transporter beam activates in front of him, depositing four Wraith guards into the corridor.  He draws his blaster but the guards have their backs to him and don't notice him as they head off in different directions.  Somewhat surprisingly, he doesn't open fire but backs away around the corner until the corridor is clear again, then hurries off and makes his way to the lab where Jennifer is working.<br><br>DEX: Come on.<br><br>KELLER: What's going on?<br><br>(Grabbing her arm, he pulls her to her feet.)<br><br>DEX: We're under attack.  We've gotta get you to the Armoury and give you a gun.  Come on.<br><br>(He drags her out of the room.)<br><br><br>BRIDGE.  Wraith have arrived and a couple of guards are dragging Marks out of his chair to dump him with the others who have been dragged to the sides of the Bridge.  A male Wraith is familiarising itself with the pilot's station while Todd stands at a console at the wall, activating controls.  A message flashes up reading, "EMERGENCY LOCKDOWN ACTIVATING."<br><br>(Ronon is racing along the corridors with Jennifer running behind him.  He roars in fury as doors close in front of him.  He tries to activate the door controls but nothing happens.)<br><br>DEX: Locked.<br><br>(Jennifer turns as doors can be heard closing behind her.)<br><br>KELLER: Ronon!<br><br>(She hurries to the nearest doors but they too close before she can reach them.  She tries the controls but again nothing happens.  She turns back to Ronon.)<br><br>KELLER: We're locked in.<br><br>(On the Bridge, Todd turns away from the console.)<br><br>TODD: That should limit their movements.  Continue beaming in our troops.<br><br><br>ALIEN LAB.  Daniel is pacing around the room but now goes over to Rodney's console.<br><br>JACKSON: Ten minutes and counting.  Still no problem.<br><br>(Rodney's eyes widen as he looks at the wallscreen in front of him.)<br><br>McKAY: Oh boy.<br><br>JACKSON: What?  What is it?<br><br>McKAY: I think I just found a log entry that tells us what the side effect is.<br><br>JACKSON (backing away from the console nervously): It's not harmful radiation, is it?<br><br>McKAY: No.  No-no-no, you and I are safe.  It's just the rest of the galaxy that's gonna have problems, including Atlantis.  I've gotta shut this thing down.<br><br>(He starts to work on the console but just then the doors open and two aliens walk in.  One of them aims a pistol at Rodney.)<br><br>ALIEN: Step away from the device.<br><br>(Rodney keeps working, so the alien shoots him.  He crumples to the floor as Daniel raises his hands.)<br><br>JACKSON: Ok, wait-wait-wait.  There's a very dangerous, very serious problem with the device and we need to talk to your boss ...<br><br>(The aliens shoot him too and he joins Rodney on the floor.)<br><br><br>ATLANTIS.  JUMPER BAY.  Inside a Puddle Jumper, Radek is closing the various panels he had opened in the rear compartment just as John, Teyla and a team of marines walk in.<br><br>ZELENKA: OK, all set.  So I'll have Chuck dial M5R-179 and you should be able to contact the Daedalus via sub-space once you get there.<br><br>SHEPPARD: Nice work.<br><br>ZELENKA: Thanks.  Good luck.<br><br>SHEPPARD: Thanks.  We're gonna need it.<br><br>(He and Teyla head for the front compartment as the marines sit down in the rear.  Radek trots down the stairs into the Control Room and goes to Chuck's console.)<br><br>ZELENKA: All right, dial her up.<br><br>(Chuck presses the panels on the D.H.D. and the Stargate dials out and then kawhooshes.  Radek sits down at a nearby console, then looks at his screen in surprise.)<br><br>ZELENKA: What's <I>that</I>?<br><br>CHUCK: We've got a power spike in the event horizon.<br><br>ZELENKA: What?  Power's building from the Gate?  No-no-no-no.  (He laughs disbelievingly while typing.)  That-that can't happen.<br><br>(He stares at his screen, then activates his headset.)<br><br>ZELENKA: Colonel, do not lower the Jumper into the Gateroom.<br><br>SHEPPARD (over radio): Why not?<br><br>ZELENKA: Well, for some reason there is an unprecedented power build-up within the Gate.<br><br>TEYLA: Power build-up from where?<br><br>ZELENKA: It's coming from within the event horizon. Oh, no.  This is very, very bad for us.<br><br>(He starts typing very fast.)<br><br>SHEPPARD: Just shut it down.  It's probably a faulty Gate at the other end.<br><br>ZELENKA: I'm-I'm-I'm trying!  It won't let me!<br><br>(He looks across to Chuck, who shakes his head at him to indicate that he can't shut it down either.)<br><br>SHEPPARD: All right, I'm coming down.<br><br>(He and the others run down into the Control Room.)<br><br>SHEPPARD: What do we do?  Wait thirty-eight minutes and ride the puddle out?<br><br>ZELENKA: I wish.  If the power continues to build like this, the Gate will reach critical overload and most certainly explode.<br><br>SHEPPARD: Explode?!<br><br>ZELENKA: Yes.  I <I>told</I> you it was very, very bad for us.<br><br>SHEPPARD: How did something like this happen?<br><br>ZELENKA: I don't know.  It's never happened before.<br><br>SHEPPARD: How long do we have?<br><br>ZELENKA: Not very long at all.  About ninety seconds.<br><br>TEYLA: Ninety seconds?!<br><br>BANKS: I would say closer to sixty.<br><br>SHEPPARD: We've gotta evacuate everyone in the tower.<br><br>ZELENKA: The Gate exploding is the equivalent of a dozen nuclear explosions.  There's nowhere we could evacuate quickly enough to a safe distance.<br><br>SHEPPARD: The-the-the shield.<br><br>ZELENKA: What?<br><br>SHEPPARD: Collapse the city's shield around the Gate; we can contain the explosion.<br><br>ZELENKA: Yes, yes.<br><br>(He scoots his chair across to another console.)<br><br>ZELENKA: That might just work.<br><br>(He starts to type frantically.)<br><br>CHUCK: The Gate'll reach a critical limit in five, four, three ...<br><br>(Radek continues typing and the shield begins to rise up around the Gate.)<br><br>CHUCK: ... two, one.<br><br>(The shield reaches the top of the Gate just as it explodes.  A brilliant yellow light fills the room and everyone cowers.)<br><br>ZELENKA: Don't look at the blast!<br><br>(John, shielding his eyes but looking in the direction of the Gate, turns and glares at him.)<br><br>SHEPPARD: Could've mentioned that before!<br><br>ZELENKA: I'll see if I can divert more power to the shield -- see if we can block more of the radiation.<br><br>(He types and the shield whines as it strengthens around the destroyed Gate.  John lowers his hand and walks closer to the balcony, looking down at the yellow ball of energy inside the field.)<br><br>SHEPPARD: OK, now what?<br><br>ZELENKA (wheeling himself back to his original console): Well, the shield continues to diffuse the energy of the blast.  Every second that it is contained within the shield, the explosion gets weaker.<br><br>SHEPPARD: How long does it take?<br><br>(An alarm beeps.  Radek's eyes widen.)<br><br>ZELENKA: Oh no.<br><br>SHEPPARD (walking over to him): What?<br><br>ZELENKA: The shield needs at least another minute to contain the full brunt of the blast, but we're frying out the emitters.  I don't know how much longer I can hold this.<br><br>SHEPPARD: Shut down the city.  Transfer all the power.<br><br>ZELENKA: Yes, I'm trying.<br><br>(John turns and calls out to the others in the Control Room.)<br><br>SHEPPARD: Everyone who doesn't need to be here, get to the edge of the city.  Move!  Everybody!<br><br>(As the crew start to leave the room, he looks at Teyla.)<br><br>SHEPPARD: You're gonna want to get out of here.<br><br>TEYLA: John, I ...<br><br>SHEPPARD: Teyla, please.<br><br>(Unhappily, she joins the exodus, leaving just John and Radek in the Control Room.  Radek continues to type frantically.)<br><br>SHEPPARD (gently, encouragingly): Come on, you can do it, Radek.<br><br>(Not stopping his typing, Radek glances nervously towards the shield.  The yellow glow begins to fluctuate and fill with orange speckling.)<br><br>SHEPPARD: It's going down.  We're gonna make it.<br><br>(Radek shakes his head.)<br><br>ZELENKA: No.  It's not enough.<br><br>(From a viewpoint in the air some distance from the main tower, the Control Room is glowing with orange-yellow light.  A moment later the light intensifies.  A moment after that, all the windows in the Control Room blow out in a massive explosion.)<br><br>TO BE CONTINUED
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="509.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s5/510.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="511.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s5/index.shtml">
+<IMG SRC="/graphics/title_s5episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Five Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="501.shtml" CLASS="list">Search and Rescue</A><BR><A HREF="502.shtml" CLASS="list">The Seed</A><BR><A HREF="503.shtml" CLASS="list">Broken Ties</A><BR><A HREF="504.shtml" CLASS="list">The Daedalus Variations</A><BR><A HREF="505.shtml" CLASS="list">Ghost In the Machine</A><BR><A HREF="506.shtml" CLASS="list">The Shrine</A><BR><A HREF="507.shtml" CLASS="list">Whispers</A><BR><A HREF="508.shtml" CLASS="list">The Queen</A><BR><A HREF="509.shtml" CLASS="list">Tracker</A><BR><A HREF="510.shtml" CLASS="list">First Contact</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="511.shtml" CLASS="list">The Lost Tribe</A><BR><A HREF="512.shtml" CLASS="list">Outsiders</A><BR><A HREF="513.shtml" CLASS="list">Inquisition</A><BR><A HREF="514.shtml" CLASS="list">The Prodigal</A><BR><A HREF="515.shtml" CLASS="list">Remnants</A><BR><A HREF="516.shtml" CLASS="list">Brain Storm</A><BR><A HREF="517.shtml" CLASS="list">Infection</A><BR><A HREF="518.shtml" CLASS="list">Identity</A><BR><A HREF="519.shtml" CLASS="list">Vegas</A><BR><A HREF="520.shtml" CLASS="list">Enemy At the Gate</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Five</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B002ACP0MO/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B002612S6A/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B00243FQFA/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls5.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="509.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s5/510.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="511.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

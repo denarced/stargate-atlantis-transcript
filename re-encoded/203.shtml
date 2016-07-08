@@ -1,0 +1,515 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Runner" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s2/203.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s2/transcripts/203.shtml">Transcript</A>
+				 | <A HREF="/atlantis/s2/reviews/203.shtml">Review</A>
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=530">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=274">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s2/203.shtml#production">Production</A>
+				
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=13902">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s2/203.shtml"><IMG SRC="/atlantis/graphics/203_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="RUNNER" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 203<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 2, Disc 1<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 07.29.05<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 10.02.06<BR>
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0178338/" TARGET="_blank">Robert C. Cooper</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0939869/" TARGET="_blank">Martin Wood</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">Sheppard and his team attempt to locate Lieutenant Ford, only to find themselves captives of a former soldier who is being hunted by the Wraith.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    P3M-736. NIGHT TIME. Major Lorne and Doctor Parrish are walking through a forest.<br><br>LORNE: You know, when they told me I'd be travelling to another galaxy, visiting strange new worlds, defending humanity against unimaginable alien threats, this just is not what I pictured!<br><br>PARRISH: We could be saving Earth -- right here, right now, Major.<br><br>LORNE: Oh yeah? How's that?<br><br>PARRISH: Through a greater understanding of the long-term effects of severe ozone depletion on plant life. You may not want to admit it, but it's a real danger.<br><br>LORNE (sarcastically): Oh yeah! Sure! Global warming -- Wraith attack. I see the similarity now, you're right! Yeah, it's great! (As Parrish wanders off.) Hey, not too far, Doc, OK?<br><br>PARRISH: Ah, not to worry, Major. I don't think there's much chance any animal could survive the long-term effects of exposure to the sunlight on this planet.<br><br>LORNE: So not a place to build a summer home?<br><br>(Parrish spots a fungus-like growth on a dead tree.)<br><br>PARRISH: Ah! It's the fact this vegetation is thriving! Somehow it's managed to persist despite what should be extremely destructive ionising radiation.<br><br>(Unknown to the pair of them, something is watching them from high up in a tree above their heads. Parrish stares delightedly at the fungus, then looks to his left.)<br><br>PARRISH: Oh, would you look at that?!<br><br>(Lorne raises his P90 nervously and aims his light in the direction that Parrish is looking. Parrish laughs delightedly.)<br><br>PARRISH: Now <I>what</I> is a Williamsonia sewardiana doing here?!<br><br>(Parrish heads off towards whatever he's spotted. Lorne sighs and relaxes, lowering his gun, then tenses again as he spots something on the ground. He bends down to look more closely, then Parrish calls out in alarm.)<br><br>PARRISH: Major!<br><br>(Lorne hurries over to join him and sees what Parrish has found. It's a dead Wraith. Lorne squats down to check it over and sees that it has what look like bullet holes in it.)<br><br>LORNE: Doesn't look like the sun killed him.<br><br>PARRISH: What do we do?<br><br>LORNE (activating his radio): Coughlin, this is Lorne -- any activity?<br><br>COUGHLIN (over radio): No, sir.<br><br>LORNE (into radio): We got a dead sucker here -- looks K.I.A., no more than a day old. We're on our way. (He deactivates his radio and drops some light sticks to mark the location of the Wraith.) C'mon, Doc, let's get you back to the Gate.<br><br>PARRISH: I-I don't understand.<br><br>LORNE: Well, neither do I. All I know is he didn't do that to himself. C'mon. Let's go.<br><br>(As they head off, the camera sweeps up to show who has been watching them from his hiding place in the tree. It's Aiden Ford.)<br><br><br>ATLANTIS. CONFERENCE ROOM. Lorne is reporting to John and Elizabeth.<br><br>SHEPPARD: Is the Gate covered?<br><br>LORNE: Coughlin and Reed, yeah.<br><br>(Teyla enters. John turns to her.)<br><br>SHEPPARD: We found a dead Wraith. Shot several times.<br><br>LORNE: Looked like bullets, but it's hard to say. The guy was a mess.<br><br>TEYLA: The Genii use such weapons.<br><br>WEIR: Doctor Beckett is performing an autopsy. (At that moment, Carson comes in.) Oh! Here he is now.<br><br>BECKETT: I'm not done -- not nearly, but I thought you might like to know this. The enzyme sac on the right arm has been removed.<br><br>SHEPPARD: Ford!<br><br>(Rodney comes in.)<br><br>McKAY: What's going on?<br><br>SHEPPARD (sarcastically): Thanks for coming, Rodney.<br><br>McKAY: What? I was right in the middle of a ...<br><br>WEIR: P3M-736. We found a dead Wraith, maybe killed by Ford.<br><br>SHEPPARD: He could still be there.<br><br>McKAY: Whoa, wait a second. 736? The U.V. index there during the day is something like a thousand.<br><br>SHEPPARD: Bring your sunscreen. Be ready in ten minutes.<br><br>(He leaves. Rodney hesitates. Everyone looks at him.)<br><br>McKAY: What?! I wanna get Ford back just as much as everyone else, but do you see my complexion?<br><br>TEYLA: Yes.<br><br>McKAY: Yes, it's very fair! (Teyla walks out.) <I>Extremely</I> fair. (Lorne walks out. Rodney looks at Elizabeth, who tilts her head at him.) This isn't fair! (He follows the others out.)<br><br><br>CORRIDORS. As John walks along, Colonel Caldwell joins him.<br><br>CALDWELL: Colonel!<br><br>SHEPPARD: Colonel. <br><br>CALDWELL: Something urgent?<br><br>SHEPPARD: We think we may have a bead on Ford.<br><br>CALDWELL: So I heard. <br><br>SHEPPARD: That was fast.<br><br>(John leads Caldwell into a transporter room.)<br><br>CALDWELL: Base protocol dictates all senior officers be notified of situations Code Orange and above. (As the doors close, John presses a button on the panel at the back of the room. A white light fills the room.) Hey!<br><br>SHEPPARD: How does that go again? Red, Orange, Blue or the other way around? (They have arrived at their destination. The doors open and John precedes Caldwell out.) You mind if we go over that again when I get back? <br><br>CALDWELL: Colonel!<br><br>SHEPPARD: You don't have to remind me of our respective positions or that you outrank me, sir.<br><br>CALDWELL: I was wondering if I needed to remind you that Lieutenant Ford is a significant threat to the security of this base.<br><br>SHEPPARD: He's also a friend in need.<br><br>CALDWELL: His condition forces him to seek out the Wraith. If he's caught, he would compromise ...<br><br>SHEPPARD (interrupting): Look, I'm gonna find him, and I'm gonna bring him back.<br><br>CALDWELL: According to Doctor Beckett's report, there may not be anything that can be done to help him.<br><br>(John stops walking, turns around and walks back to face Caldwell.)<br><br>SHEPPARD: With all due respect, sir, I hope you're not saying what I think you're saying.<br><br>CALDWELL: Lieutenant Ford has already proven resourceful enough to penetrate security and escape the city. I'm saying if you encounter him and there's any chance whatsoever that his capture might prove elusive, you are duty bound to eliminate the threat. (John looks down.) Lieutenant Ford may have been your friend, but he's not any more. I know you understand -- you'll do what's right. You didn't seem to have a problem with mercy when it came to Colonel Sumner.<br><br>(John stares at him and they lock eyes for a moment.)<br><br>CALDWELL: Dismissed.<br><br><br>P3M-736. NIGHT TIME. As the waiting marines watch, a Puddle Jumper flies through the Gate and lands. The marines run over to the Jumper. John calls up a display on the windshield.<br><br>SHEPPARD: Life signs detector's useless.<br><br>McKAY: I told you so.<br><br>SHEPPARD: Just preserving your streak of being right officially?<br><br>McKAY: Doctor Parrish believes that the indigenous plant life retains enough residual radioactivity absorbed during the daylight to, um, well, to screw up our sensors.<br><br>SHEPPARD: Making it the perfect place to hide. (He gets up and walks toward the rear of the Jumper.)<br><br>McKAY: Yes -- <I>or</I> the perfect place to be exposed to dangerously high levels of solar radiation!<br><br>(Lorne walks out of the Jumper to join his men.)<br><br>LORNE: Any activity while we were gone?<br><br>REED: No, sir.<br><br>SHEPPARD: Start a sweep -- teams of two. Radio contact every twenty minutes.<br><br>(Behind him, Rodney is smearing sunscreen over his face. John sniffs the air.)<br><br>SHEPPARD: How come it smells like I'm on vacation?<br><br>McKAY: Mmm, could it be the simulated tropical aroma of cocoa butter?<br><br>SHEPPARD: Strong enough for anyone within five miles to smell you.<br><br>McKAY: Like they haven't been tipped off by the Aqua Velva?<br><br>SHEPPARD: It's dark.<br><br>McKAY (looking at his watch): Yeah, and the sun will be up in two hours, forty three minutes and ... ten seconds.<br><br>SHEPPARD: It's raining!<br><br>McKAY: So we'll be cold and miserable. Look, the cloud cover will depreciate a small percentage of U.V. rays, but ninety-five percent of deadly is still deadly.<br><br>LORNE: Doctor Parrish said a day or two of exposure wasn't gonna kill us.<br><br>McKAY: Oh yes, and Doctor Parrish has a PhD in what? Right -- botany!<br><br>SHEPPARD: Teyla, you're with me; Coughlin, take Billick; Reed: you and Sherman cover the Gate; and Major, (he points to Lorne) you've got McKay.<br><br>LORNE (ironically): Oh, lucky me!<br><br>McKAY (offering him some sunscreen): Here, try some. S.P.F. 100.<br><br>LORNE: A hundred?<br><br>McKAY: Yeah, can't buy this kind of protection. Make it myself. Waterproof too.<br><br>LORNE: Great(!)<br><br><br>FOREST. John and Teyla have reached the place where Lorne and Parrish found the dead Wraith. John squats down to look at the Wraith's stunner, and picks up a small round device, possibly a grenade.<br><br>SHEPPARD: You have any idea what a lone Wraith would be doin' out here on foot?<br><br>TEYLA: No, it is unusual. Perhaps Lieutenant Ford was able to lure him through the Gate. (As John puts the grenade down, Teyla wanders around and spots some disturbance on the ground.) It looks as if someone might have headed off in this direction. (She and John follow the tracks.)<br><br><br>ELSEWHERE IN THE FOREST. Rodney and Lorne are walking along.<br><br>McKAY: So exactly what kind of, uh, special training do you guys have to go through to get this sort of mission?<br><br>LORNE: You guys'?<br><br>McKAY: Yeah, you know -- Army, Navy, Air Force, Marines -- it's a great place to start!<br><br>LORNE: And by this mission' you mean hunting down a skilled weapons expert hopped up on Wraith drugs in the pitch black of an alien planet?<br><br>McKAY: Yes!<br><br>LORNE: Actually, I skipped that course in major school.<br><br>McKAY: Yeah, I was afraid of that.<br><br>LORNE: I was hoping Lieutenant Ford might recognise a friendly face and just turn himself in.<br><br>McKAY: What, you mean me?!<br><br>LORNE: Well, you were friends, weren't you?<br><br>McKAY: Oh, yeah! When we weren't out on harrowing missions, we used to hang out together. I'd share my dreams of a self-sustaining fusion and he -- he would talk of how you could sever a man's torso with a P90!<br><br>(Lorne spots something up ahead and holds up a clenched fist.)<br><br>McKAY: What -- that means quiet, right?<br><br>LORNE (quietly): Get down, get down, get down! (He pulls Rodney down and extinguishes the light on his P90. Rodney, however, shines his torch in the direction Lorne is looking.)<br><br>McKAY: What? What?<br><br>LORNE: I thought I saw something move.<br><br><br>Elsewhere, John and Teyla are searching. Teyla stops.<br><br>SHEPPARD: What is it?<br><br>TEYLA: I heard something.<br><br>SHEPPARD (calling out): Ford? That you? It's John.<br><br>TEYLA (calling out): Aiden, listen to me. We wanna help you, please! Just come out -- we only wanna talk.<br><br>(A little way away, someone or something breaks cover and runs off. John and Teyla chase off after him/it.)<br><br><br>Back at Rodney and Lorne's position, Lorne looks round at Rodney and raises his eyebrows encouragingly at him.<br><br>McKAY: What?<br><br>LORNE: <I>Say</I> something!<br><br>McKAY: Well, what?<br><br>LORNE: Talk to him!<br><br>McKAY: What if it's not him?<br><br>(Lorne grabs him and hauls him to his feet. Rodney steps forward nervously and calls out.)<br><br>McKAY: Ford? You there? It's your ... best friend Rodney, Rodney McKay. Everyone misses you back in Atlantis, and Doctor Beckett's figured out a way to help you, so you've just gotta trust me and ... <br><br>(A little way away, someone or something breaks cover and runs off. Lorne chases off after him/it. Rodney follows.)<br><br>LORNE (into radio as he runs): Colonel Sheppard, it's Major Lorne. In pursuit of suspect.<br><br>SHEPPARD: What? So are we. Where are you?<br><br>LORNE: We're two klicks south of the Stargate. Where are you?<br><br>(Before John can answer, Teyla, running ahead of him, is hit by a red beam of some sort. She cries out and collapses. John stops and aims his rifle cautiously.)<br><br>(At Rodney and Lorne's position, Lorne stops running. Rodney catches him up.)<br><br>McKAY: What is it?<br><br>LORNE: Lost him. (He activates his radio.) Colonel Sheppard.<br><br>SHEPPARD (into radio): Stand by. Teyla's been hit.<br><br>(He walks forward cautiously, but is also hit by the beam and collapses.)<br><br>LORNE (into radio): Colonel Sheppard, say again. What's your position? (There's no reply.) Colonel Sheppard, please respond.<br><br>(At John's position, someone or something carefully approaches John as he lies unconscious on the ground.)<br><br>LORNE (over radio): Colonel Sheppard, come in please. Colonel Sheppard.<br><br><br>ATLANTIS. CONTROL ROOM. The Gate is open, and Lorne is reporting over radio to Elizabeth.<br><br>LORNE: We haven't heard from them since 26:30 Atlantis Standard Time.<br><br>WEIR: I know the life signs detector doesn't work there, Major, but can you use the Jumper to search from the air?<br><br>LORNE: No, ma'am, the foliage is far too dense for that.<br><br>WEIR: I'll send another team to assist.<br><br>(The view switches to P3M-736 where it is now daytime.)<br><br>LORNE: Well, anyone you could spare would be great.<br><br>WEIR: Anything else you need?<br><br>McKAY: Elizabeth, it's Rodney. Yes, hi. There are four Class One radiation suits in Medlab storage. We'll need them all. (Lorne looks at him.) What? Look, I know there's not enough for us all, but we can take turns.<br><br>WEIR: Any sign of Lieutenant Ford yet?<br><br>LORNE: Uh, no, ma'am, not that we can confirm. Fact is, we don't even know if this is Lieutenant Ford we're dealing with.<br><br><br>P3M-736. CAVE. Teyla and John are still unconscious and are tied together sitting up on the ground back to back. In the entrance to the cave, a man is squatting down and looking through their kit. John slowly regains consciousness and squints at the man.<br><br>SHEPPARD: Ford?<br><br>(The man turns to look at him. He's not Aiden. He has long, dirty dreadlocked hair and his skin looks quite burned from the sun. He looks at John for a moment, then turns back to rummaging through the kit. Teyla wakes up.)<br><br>TEYLA: Colonel?<br><br>SHEPPARD: You OK?<br><br>TEYLA: My head is pounding. Where are we?<br><br>SHEPPARD: I don't know, but I was just about to ask <I>him</I>.<br><br>(The man stands up and walks over to them, holding John's P90.)<br><br>SHEPPARD: You might wanna be careful where you point that thing. Looks like you've got the safety off. (The man professionally cocks the gun and points it at John.) OK, be that way. But my guess is if you wanted us dead, we'd be dead right now, so why don't you tell us who you are and what you want. (The man just looks at him, still pointing the gun at him.) Alright, I'll go first. I'm Lieutenant Colonel John Sheppard. (He emphasises the Colonel'.)<br><br>TEYLA: I am Teyla Emmagan.<br><br>DEX: Colonel'?<br><br>SHEPPARD: It's my rank -- military designation.<br><br>DEX: Specialist Ronon Dex.<br><br>SHEPPARD: That's you?<br><br>DEX: Name and rank. (He turns away from them and goes back to their kit.)<br><br>SHEPPARD: Military?<br><br>DEX: I used to be.<br><br><br>FLASHBACK. A city is burning and explosions are going off everywhere. Dex and others, all wearing identical uniforms, are aiming large rifles into the sky. As Dex defends the position while his colleagues run for cover, we see that Wraith Darts are buzzing overhead. End flashback.<br><br><br>DEX: It was a long time ago.<br><br>SHEPPARD: And now?<br><br>DEX: Now I'm deciding whether to kill you and your friends.<br><br><br>PUDDLE JUMPER. As Rodney gets himself into one of the radiation suits, Lorne addresses the marines who have just arrived.<br><br>LORNE: OK, listen up. I want regular radio contact. Report anything unusual -- and I'm talking <I>anything</I> unusual at all. Alright, move out.<br><br>(The men head off.)<br><br>McKAY: Hey, wait, aren't any of them gonna, uh ... (He gestures to his radiation suit. The marines continue moving out.) OK, that's just reckless! There are four suits.<br><br>LORNE: Not exactly designed for moving through dense brush and rough terrain, not to mention possible combat, huh?<br><br>McKAY: No, but by my calculations we've been exposed to 327 millisieverts since the sun came up. It may not sound like much to you but, uh, I've been keeping a running tally of my lifetime exposure to radiation: X-rays, cellphones, plane rides, that whole unfortunate Genii nuclear reactor thing. My God -- last week we flew dangerously close to the corona of a sun! As it is, I may have to forego reproducing.<br><br>LORNE: Yeah, that's funny -- I was just thinkin' that might be wise.<br><br>(He heads off. Rodney puts his helmet on and follows him.)<br><br><br>CAVE. Dex is smearing something on his arms -- presumably some sort of sunscreen.<br><br>SHEPPARD: Look, the men guarding the Stargate are highly-trained soldiers armed with deadly weapons.<br><br>DEX: Stargate?<br><br>SHEPPARD: Stargate -- big circle thing.<br><br>DEX: I've always known it as the Ring of the Ancestors. No matter -- I have to make it through.<br><br>SHEPPARD: Look, we didn't come here looking for trouble, and the whole killing thing is really unnecessary.<br><br>DEX: If your friends try to stop me ...<br><br>SHEPPARD: They won't, if I tell them not to. Untie us, we'll all go to the Gate together and you can be on your way.<br><br>DEX: But why should I trust you?<br><br>(John narrows his eyes thoughtfully.)<br><br>SHEPPARD: That's a good question. Teyla -- why should he trust us?<br><br>TEYLA (to Dex): We mean you no harm. We are only here searching for a friend.<br><br><br>FLASHBACK. Dex is running through a forest, being chased by a Wraith. The Wraith fires its stunner at him, and one of the blasts hits him in the leg. He stumbles, and limps on. Suddenly a man is standing in front of him aiming a P90. It's Aiden.<br><br>FORD: Drop it!<br><br>(Dex raises his own gun and aims it at Aiden. The two of them face off for a moment, then Dex is struck in the back by the full blast of the Wraith's stunner. He drops to the ground, leaving Aiden and the Wraith facing each other. Aiden opens fire and guns the Wraith down. He grins as the Wraith lies on the floor groaning. He pulls out a knife, steps over Dex and walks over to the Wraith. Dex turns over and looks as Aiden squats down beside the Wraith, clearly meaning business with his knife. Dex gets up and runs off. End flashback.)<br><br><br>DEX: I saw him -- your friend.<br><br>SHEPPARD: Where? When?<br><br>DEX: He killed the Wraith that was hunting me.<br><br>SHEPPARD: Hunting you?<br><br>DEX: Why are you looking for him?<br><br>TEYLA: His name is Aiden Ford and he is sick. He needs our help.<br><br>(Dex briefly flashes back to the sight of Aiden glaring at him with his mismatched eyes.)<br><br>DEX: Thought he'd been in the sun too long. It can make you sick here.<br><br>SHEPPARD: We know that, and that may be true, but that's not all that's wrong with him.<br><br>DEX: Then why is he running from you?<br><br>SHEPPARD: Well, he's not, exactly.<br><br>DEX: Then what is he doing -- exactly?<br><br>SHEPPARD: It's complicated.<br><br>DEX: You can do better than that.<br><br><br>FOREST. Lorne and Rodney are walking through the forest. Rodney is struggling to walk in his radiation suit.<br><br>LORNE (into radio): Colonel Sheppard? Teyla? This is Major Lorne, do you read?<br><br>McKAY (panting inside his helmet): It's so hot!<br><br>LORNE: Oh, come on -- step it up, McKay, wouldya?<br><br>McKAY: I am moving as fast as I can. I'm very hot. Aren't you hot?<br><br>LORNE: Actually, I'm quite comfortable -- but I'm not wearing a fifty pound rubber suit, am I?<br><br>McKAY: I can't breathe! I gotta stop! (He stands still and takes his helmet off.) Sweet relief! (He totters off after Lorne again.) I think the, uh, the fumes from the sunblock are making me dizzy. I gotta ... I gotta ... just, uh, rest here.<br><br>(He stops, breathing heavily. Lorne throws him a look, then turns away.)<br><br>LORNE: Unbelievable!<br><br><br>CAVE. John is telling Dex the whole story about what happened to Aiden.<br><br>SHEPPARD: The Wraith was feeding on him. Apparently they inject some sort of drug into you when they feed.<br><br><br>FLASHBACK. Dex is on board a Wraith ship, trapped inside a cocoon in a storage chamber. A Wraith stands in front of him, and plunges its hand into Dex's chest.<br><br><br>(As John continues his story, Dex flinches uncomfortably from the memory.)<br><br>SHEPPARD: He killed the Wraith, got an overdose of the drug. It kinda messed him up.<br><br>TEYLA: But we think we can help him if we can find him.<br><br>(Over at John's pack, his radio crackles and static can be heard. Dex looks over to it, then back at John.)<br><br>DEX: What is that?<br><br>SHEPPARD: Radios.<br><br>TEYLA: Communication devices.<br><br>SHEPPARD: Our people are trying to contact us. The cave must be causing some interference with the signal.<br><br>(Dex picks up the packs and takes them outside. John looks round as Teyla starts wriggling her hand behind his back.)<br><br>SHEPPARD: What the hell are you doing?!<br><br>TEYLA: Getting my hand free.<br><br>SHEPPARD: Didn't feel that way!<br><br><br>FOREST. Lorne returns to Rodney, who is sitting on the ground.<br><br>LORNE: OK, you've had your fresh air. C'mon, let's go.<br><br>McKAY: Well, shouldn't we be headed back? I mean, it must have been half an hour.<br><br>LORNE: It's been fifteen minutes.<br><br>McKAY: Oh, really? I thought ... (He looks at his watch.) It feels longer.<br><br>LORNE: Wow -- you must really be some kind of genius!<br><br>(Rodney gets up and follows him.)<br><br>McKAY: Well, as a matter of fact, I, um ... wait a minute. See, why would you say that now?<br><br>LORNE: <I>Something</I> has to have kept Colonel Sheppard from shooting you all this time!<br><br>McKAY: Yeah, yeah, like I didn't see that one coming, huh?!<br><br>(At that moment, Lorne is hit by what looks like a Wraith stunner blast. As he collapses, Rodney grabs his radio.)<br><br>McKAY (into radio): Mayday! Mayday! We are under attack! Lorne's been hit! I repeat -- we are under Wraith attack!<br><br>(He pulls out his pistol and aims it in the direction the blast came from, only to see Aiden standing there aiming a Wraith stunner at him.)<br><br>FORD: Will you relax, McKay?<br><br>McKAY: Ford!<br><br>FORD: How about you drop your gun? I know what you're like with weapons -- I wouldn't want it accidentally going off while it's pointed at me.<br><br>(Rodney, too shocked to move, continues to point his pistol as Aiden walks forward and takes the gun out of his hand.)<br><br>McKAY: Right!<br><br>(Aiden pockets the pistol, then grins at him.)<br><br>FORD: Good. Now you and me can catch up. (He playfully pummels Rodney on the shoulder before going over to the unconscious Lorne and taking his spare clips.)<br><br>MARINE (over radio): Doctor McKay, what is your position? Please respond. Major Lorne, come in? (As Rodney looks at his radio, Aiden takes it off him, turns it off and tosses it over to land on top of Lorne.) <br><br>FORD: Let's go.<br><br>McKAY: We can't leave Major Lorne.<br><br>FORD: He'll be fine.<br><br>McKAY: No, uh ...<br><br>(As he hesitates, Aiden takes out Rodney's pistol and aims both it and his Wraith stunner at him. He doesn't look so friendly any more.)<br><br>McKAY: You know that the sunlight on this planet is kinda dangerous?<br><br>FORD: Not for me.<br><br>McKAY: Actually, if you ...<br><br>FORD (interrupting): Listen, McKay -- you guys all think I'm crazy or something.<br><br>McKAY: No -- no-one thinks that.<br><br>FORD: Sure(!) Here's the thing: I'm not just fine -- I'm better than fine. Really. This <I>is</I> the best thing that ever happened to me.<br><br>McKAY: Well, good! Good for you!<br><br>FORD: I can prove it. You just have to give me the <I>chance</I> to prove it.<br><br>McKAY: Well, sure. Let's, um, let's head back to the Jumper ...<br><br>FORD: No way. First I'm gonna prove to you that I'm OK, that things are better this way, then you can go back and tell the others and then they'll let me come back.<br><br>McKAY: You can come back to Atlantis right now. Doctor Beckett is ...<br><br>FORD: No. First we have to save Major Sheppard and Teyla.<br><br>McKAY: Right -- and you know where they are?<br><br>FORD: Yeah.<br><br>McKAY: Which way did you ...?<br><br>(Aiden points the way and they start to walk.)<br><br>FORD: So obviously the Wraith didn't destroy Atlantis.<br><br>McKAY (evasively): Mmm.<br><br>FORD: Anything else happen since I've been gone?<br><br>McKAY: Uh, Major Sheppard got promoted to Lieutenant Colonel Sheppard.<br><br>FORD: Really?<br><br>McKAY: Yeah.<br><br>FORD (grinning): Good for him!<br><br>McKAY: Yeah.<br><br><br>CAVE. Outside the cave, Dex is walking about with John's pack in one hand and his radio in the other, trying to get a clear signal. As he turns toward the cave entrance, John is standing there, aiming his P90 at him.<br><br>SHEPPARD: Keep your hands where I can see em.<br><br>(Dex, moving carefully so that John can see what he is doing, puts the radio back into John's gear. Teyla comes out of the cave, also aiming a rifle at him.)<br><br>DEX: I told you, I have to get through the Ring.<br><br>SHEPPARD: Why?<br><br>DEX: Because the Wraith are coming.<br><br>SHEPPARD: How do you know?<br><br>DEX: I know. They're hunting me.<br><br>SHEPPARD: Join the club.<br><br>(Teyla stares at Dex.)<br><br>TEYLA: You are a Runner. (Dex nods at her.) I have heard stories, but ...<br><br>SHEPPARD: What's a Runner?<br><br>DEX: I was captured during a culling on my planet. I was taken to a ship. A Wraith started to feed on me.<br><br>FLASHBACK. As the Wraith stands with its hand plunged into Dex's chest, its expression changes and it looks perturbed. It looks down to its hand.<br><br>DEX: Something made him stop.<br><br>FLASHBACK. Dex has been taken out of the cocooning and three Wraith are surrounding him. One plunges a syringe-like object into his shoulder. He is lain face-down on a table and a Wraith takes a knife and starts to cut into his back. Dex grimaces in agony.<br><br>DEX: They operated on me -- put some sort of tracking device in my back and released me. <br><br>FLASHBACK. Dex is running through a forest with a Wraith pursuing him.<br><br>DEX: They hunted me.<br><br>FLASHBACK. The Wraith is looking around for Dex. Suddenly its foot snags a trap which hoists it into the air feet first. Dex rushes in and stabs it.<br><br>DEX: I hunted them back. I've been running ever since. (His hand starts to move towards a gun he has strapped to his leg.)<br><br>SHEPPARD: Don't do it. Like I said, we're not here to get in your way.<br><br>DEX: That's good.<br><br>(He throws John's pack at him. John fires his P90 but the pack knocks him off-balance and he misses. Dex grabs his gun out of its holster and shoots Teyla, then whirls and shoots John in the arm. John recoils from the blast and before he can regain his balance Dex has run over and has his gun pointed at John's face.)<br><br>DEX: You're lucky I had that set to stun.<br><br><br>FOREST.<br><br>McKAY: You sure this is the right way?<br><br>FORD: Yeah, I'm sure. Keep moving.<br><br>McKAY: You say this guy has them.<br><br>FORD: Yeah.<br><br>McKAY: What guy?<br><br>FORD: I don't know! What do you mean, what guy?' A guy! Look, I was on a Wraith planet, uh, P3X, uh, P3X-447? 447 ... I know the address.<br><br>McKAY: And there were Wraith there?<br><br>FORD: Yeah. A whole hive ship. Anyway, I was scouting the place out, looking for the best way in so I could kill a couple.<br><br>McKAY: What, for the enzyme?<br><br>FORD: Exactly. McKay, I'm telling you, it's the key to defeating them! We could create a whole army of supermen like me!<br><br>McKAY: You were saying?<br><br>FORD: What?<br><br>McKAY: About the guy.<br><br>FORD: Right. So this one Wraith, armed to the teeth, comes walking towards the Gate. I figure one Wraith by himself is easy pickings, so I followed him here to this planet. Anyway, I think he was looking for the guy.<br><br>McKAY: How do you know?<br><br>FORD: Well, he was running from the Wraith when I killed the sucker.<br><br>McKAY: OK, so what does the guy want with Sheppard and Teyla?<br><br>FORD: I don't know. When I save em, I'll find out!<br><br><br>CAVE. Outside the cave, Teyla has regained consciousness. Dex is holding her and John at gunpoint.<br><br>SHEPPARD: Look, you wanna go through the Gate, go. Give me my radio, I'll order my men not to stop you.<br><br>DEX: You can tell them in person. I'm taking you with me.<br><br>SHEPPARD: You know, there's a chance we could help you.<br><br>DEX: How?<br><br>SHEPPARD: We know a pretty good doctor -- maybe he could take that tracking device out of you.<br><br>DEX: You think I haven't tried?<br><br>SHEPPARD: Suit yourself.<br><br>(Dex thinks about it for a moment.)<br><br>DEX: And why would you do that?<br><br>SHEPPARD: Because I'm a nice guy. Look, I told you. You hate the Wraith, we hate the Wraith -- it's something we all have in common. We just want our friend back.<br><br>DEX: You get this tracking device out of me -- I'll get your friend back for you.<br><br>SHEPPARD: OK, good. It's a deal.<br><br><br>PUDDLE JUMPER. Lorne has made it back to the Jumper, and is sitting groggily on one of the benches while one of the marines is shining a penlight into his eyes. Reed is looking out of the window and turns as he sees John running towards the Jumper. <br><br>REED: Major. (He heads out to the rear of the Jumper to meet John.)<br><br>SHEPPARD: Where's Lorne?<br><br>REED: He's inside, sir.<br><br>(John runs inside to see Lorne groggily getting to his feet.)<br><br>SHEPPARD: What happened to you?<br><br>LORNE: I got hit by a Wraith blaster looking for you. Now McKay's missing.<br><br>SHEPPARD: Great!<br><br>LORNE: What about Teyla?<br><br>SHEPPARD (already dialling the Gate): Long story. You can listen to it when I tell Doctor Weir.<br><br><br>ATLANTIS. INFIRMARY. Carson walks towards Elizabeth.<br><br>BECKETT: This is a joke, right?<br><br>WEIR: I'm afraid not.<br><br>BECKETT: You want me to go to an alien planet and perform surgery on an armed man holding Teyla hostage?<br><br>WEIR: Yeah, something like that. And apparently you don't have much time. The Wraith could show up any minute.<br><br>BECKETT: Oh! It's getting better all the time! (He sighs.) Have they found Lieutenant Ford yet?<br><br>WEIR: No. I haven't told you about McKay yet either. (Carson closes his eyes for a moment.) C'mon, pack up what you need.<br><br>BECKETT (sighing again, then turning to start taking equipment off a shelf): I don't think an operating room and a bloody army will fit through the Gate.<br><br><br>P3M-736. Rodney and Aiden are still walking through the forest. After a while, Rodney stops dead and folds his arms defiantly.<br><br>FORD: Why are you stopping?<br><br>McKAY: Because I am tired, and you have no idea where you're going.<br><br>FORD: How do you know?<br><br>McKAY: We've been walking around in circles for hours!<br><br>FORD: So that's it -- you just give up, is that it? That's what you do, isn't it -- you give up on your friends when they need you most!<br><br>McKAY: No-one's given up on you, Ford! We wanna help you!<br><br>FORD: I'm talking about Major Sheppard and Teyla.<br><br>McKAY: Lieutenant Colonel Sheppard.<br><br>FORD (angrily): Alright -- Lieutenant Colonel. So Ford's lost it, Ford's all crazy, Ford can't even remember a simple little thing.<br><br>McKAY: Hey, I never said that! Although the fact that you keep referring to yourself in the third person does indicate clinical dissociation.<br><br>FORD (furiously): You don't even know what a friend is, do you, McKay? All you care about is yourself.<br><br>McKAY: Will you relax?!<br><br>FORD: <I>You</I> relax! You're pathetic. You were always making fun of me. You wanna play a game? Pick on Ford. I could shoot you and leave you here to die.<br><br>McKAY: Shoot me? When did this escalate to physical violence?<br><br>FORD: You're the one who thinks I'm nuts! I'm capable of anything -- I could go off at any time. (He raises his P90 and aims it at Rodney.)<br><br>McKAY (furiously): Alright, you wanna shoot me, shoot me! Fine! I don't care. It'll just save me suffering one of the many horribly painful deaths I have in line from having been exposed to this much radiation! And, quite frankly, it'll prove just how far gone you are! Now, I'm heading back to the Jumper and you're welcome to join me.<br><br>(He turns and storms off. Aiden opens fire, shooting a hail of bullets all around Rodney, who ducks in terror. As Aiden stops firing, Rodney straightens up and screams angrily at him.)<br><br>McKAY: Are you crazy? You could have killed me!<br><br>(Aiden stares at him, upset.)<br><br>FORD: I'm sorry. Look, you don't know what it's like, almost dying like I did, having your friends turn on you, no-one trusts you. I'm out here all alone.<br><br>McKAY: You don't have to be alone, Ford. Look, this drug is messing with your head. Come back to the Jumper with me -- we'll go back to Atlantis, and Doctor Beckett may even be able to figure out a way for you to keep all your new super-powers, huh?<br><br>FORD (hopefully): You think?<br><br>McKAY: Sure, why not?<br><br>(Aiden looks like he's considering it for a moment, then turns and starts to walk away.)<br><br>FORD: First we've gotta save Colonel Sheppard and Teyla.<br><br>McKAY: No, no, wait.<br><br>FORD: No! That'll prove that I'm OK. You go back to the Jumper, I'll meet you there. (He heads off.)<br><br>McKAY: Ford! No! (He looks back in the direction of the Jumper, then turns and runs after Aiden.)<br><br><br>CAVE. Teyla and Dex are sitting in the mouth of the cave. Dex is holding his pistol on her.<br><br>TEYLA: This is not necessary, you know. (Dex looks at her for a moment, then lowers his gun.) How long have you been on the run?<br><br>DEX: Seven years.<br><br>TEYLA: And you have been on your own all that time?<br><br>DEX: Not much choice.<br><br>TEYLA: Afraid of bringing the Wraith down on anyone you were with?<br><br>DEX: Can't go home. Can't stay in one place for too long.<br><br>TEYLA: Why do you think they do it?<br><br>DEX: I don't know. Sport, training, learn how we fight, measure our will to survive. You said you heard stories, about others like me?<br><br>TEYLA: Yes. I have heard of Runners my whole life, but I've never met one. I did not even believe it was true.<br><br>DEX: One time I accidentally came across a planet with a village near the Ring.<br><br>TEYLA: What happened?<br><br>DEX: I stayed -- one night -- ate a real meal for a change. Left right away the next day. Didn't matter. I later heard: the whole village ... (He trails off.)<br><br>(Just then, John's voice comes over the radio.)<br><br>SHEPPARD: Teyla, this is Sheppard, come in?<br><br>(Dex picks up the radio and hands it to Teyla.)<br><br>TEYLA (into radio): Go ahead, Colonel.<br><br>SHEPPARD: You OK?<br><br>TEYLA: Yes. We are fine.<br><br>SHEPPARD: I'm here with Doctor Beckett. He's coming in.<br><br>DEX: Unarmed.<br><br>TEYLA (into radio): Ronon would like me to remind you that Doctor Beckett remain unarmed.<br><br>(Nearby, John and Carson, who is laden down with equipment, are approaching. John stops Carson and talks quietly to him.)<br><br>SHEPPARD: Alright, for what it's worth, I'd never send you in there if I thought the guy was gonna hurt you.<br><br>BECKETT: Is that opinion based on some sort of evidence, or is it just a gut feeling that this gentleman isn't dangerous?<br><br>SHEPPARD: I didn't say he wasn't dangerous. He could probably kill you in the blink of an eye. I don't think he will.<br><br>BECKETT: Well thank you, I feel much better now!<br><br>SHEPPARD: You ever heard of Androcles and the Lion?<br><br>BECKETT: Aye -- and who are you in this retelling? The Romans?<br><br>SHEPPARD (looking up at the cliff walls): I'll be right up there.<br><br>(Nervously, Carson heads towards the cave on his own, glancing back at John, who gives him a nod of encouragement. He makes his way towards Teyla and Dex, who are standing waiting for him.)<br><br>BECKETT: Hullo. I normally don't make house calls like this, but then again this isn't really a house, is it?<br><br>DEX: What's in the case, Doc?<br><br>BECKETT: Surgical implements, diagnostic tools, various drugs, analgesics, antibiotics.<br><br>DEX (to Teyla): What?<br><br>TEYLA: Ronon, Doctor Carson Beckett. Doctor Beckett, Ronon.<br><br>BECKETT: Pleasure. I understand you have some sort of a transmitter in your back. Well, have a seat. Off with your shirt, let's have a look.<br><br>(Still pointing his gun at Teyla, Dex sits down on a rock as Carson starts unpacking his equipment.)<br><br>DEX (to Teyla): A little help.<br><br>(Carson and Teyla take off Dex's shirt. As his chest is revealed, Teyla sees that he's wearing a necklace made up of what look like Wraith finger bones and teeth. She stares when she sees the mark of a Wraith palm print on his chest. Carson is also staring -- at Dex's back, where there are several healed cuts around the wound.)<br><br>BECKETT: My God! Tell me you didn't try to cut this thing out yourself.<br><br>DEX: Yeah, I tried once with a mirror. Couldn't quite reach. Most of it's from two different doctors.<br><br>BECKETT: No-one I know who calls himself a doctor would do this.<br><br>(He goes to his case and takes out an Ancient device of some sort. He holds the sensor near Dex's back, activates it and looks at the readout. Nearby, John has got himself into position in the cliffs. He looks through the scope of his P90 and aims directly at Dex's head.)<br><br>DEX (to Carson): Is that Ancestor technology?<br><br>BECKETT: That it is. (He finishes his scan and looks at Teyla with an expression that isn't hopeful, then turns to Dex.) Son, you're gonna have to put that weapon down and lie down.<br><br>DEX: Not a chance.<br><br>BECKETT: Now you listen to me. I've located the transmitter. It's in the soft tissue next to the second thoracic vertebrae.<br><br>DEX: Good, cut it out.<br><br>BECKETT: I can't do that with you sitting up like this, and I'm gonna have to give you some anaesthetic to make you sleep.<br><br>DEX: No you're not.<br><br>BECKETT: Excuse me?<br><br>TEYLA: Ronon, you need to trust us.<br><br>DEX: I do. (He raises his gun and points it at Teyla.) That's why he's here and you're still alive. Now get to work, Doc.<br><br><br>FOREST. NIGHT TIME. Aiden and Rodney are still walking along. Rodney is breathing heavily.<br><br>McKAY: Look, if you'd just turn on your radio, we could hear what's happening. The others must have called for back-up by now. Maybe Sheppard and Teyla don't even need rescuing any more.<br><br>(Aiden suddenly shoves him down. He doesn't seem to push him very hard but his strength propels Rodney down hard.)<br><br>McKAY: Ow!<br><br>FORD: Shh!<br><br>McKAY (clutching his arm): Ow!<br><br>(Aiden takes out a pistol and hands it to Rodney.)<br><br>FORD: Someone's coming. (He moves away.)<br><br>McKAY (looking at the pistol): What do I need <I>this</I> for?<br><br>(Aiden doesn't reply. Rodney scrunches down in the foliage.)<br><br><br>CAVE. Carson has set up a spotlight behind Dex's back and is wearing a headpiece with a small spotlight in the middle and a magnifying lens which is currently flipped up.<br><br>BECKETT: OK, I'm ready. Look, I just wanna say one last time: I really don't think this is a good idea. I'm gonna be cutting very close to your spinal column here. If you were to flinch ...<br><br>DEX: I won't flinch.<br><br>BECKETT (reluctantly): OK. (He flips his lens down.) Here we go.<br><br>(Teyla is holding a tray with implements in it. Carson takes a scalpel from it and starts to cut. Dex groans in pain but doesn't flinch. His gun, however, wavers about as he's distracted by the pain. Up on the cliffs, John keeps Dex's head in his sights. As Carson continues cutting, Dex grunts several times in pain.)<br><br>BECKETT: I think I've got it.<br><br>(He pulls a round device out of Dex's back and turns away to put it down. Dex breathes heavily, then topples sideways and passes out.)<br><br><br>FOREST. A couple of the marines are searching. They hear a twig snap nearby, switch off the lights on their rifles and aim in the direction the noise came from. A moment later, Rodney bursts out of the bushes, holding his hands up.<br><br>McKAY: Don't shoot! Just me!<br><br>(As the marines walk towards him, a Wraith stunner blast hits one of them from behind and he goes down. The other marine turns, but is shot down himself. Rodney aims his pistol, but it's Aiden who comes out of the trees.)<br><br>FORD: What the hell are you doing, McKay?<br><br>McKAY: What the hell am <I>I</I> doing? What the hell are <I>you</I> doing?! Those are <I>our</I> guys!<br><br>FORD: I can't trust them!<br><br>McKAY: Oh, that's it -- I've had it. (He aims his pistol at Aiden.) Just drop your weapons now!<br><br>(Aiden laughs.)<br><br>FORD: You're gonna shoot me?!<br><br>McKAY: I will if I have to. Ford, I'm taking you in. Look, you may not believe this, but it's for your own good.<br><br>(Aiden stops smiling, glares at Rodney and starts to raise his pistol. Rodney fires, hitting him in the shoulder. Aiden recoils from the shot but shows no sign of pain. He stares at Rodney in disbelief for a moment, then touches his hand to his wound, looking at the blood on his fingers before looking at Rodney with a venomous expression.)<br><br>McKAY: Oh boy! (He turns tail and runs.)<br><br><br>CAVE. Dex is still unconscious on the ground. John has rejoined the others.<br><br>BECKETT: I'm quite certain I've disabled the device.<br><br>TEYLA: It may be too late.<br><br>SHEPPARD: We know at least one Wraith tracked Ronon here. I'm gonna go look for McKay and Ford.<br><br>TEYLA: Yes -- we will be fine.<br><br>BECKETT: Now that the lion's passed out cold.<br><br>SHEPPARD: I'm gonna pick you up with the Jumper as soon as ...<br><br>(He's interrupted by the sound of gunfire coming from the forest. He races off in its direction.)<br><br>(In the forest, Rodney is running through the trees.)<br><br>McKAY: Help me! Help me!<br><br>(He fires his pistol into the air again. After several shots, he runs out of bullets. He stares at the pistol and screams as he continues running.)<br><br><br>PUDDLE JUMPER. Two marines are patrolling as a third one is inside the Jumper. The Gate starts to dial in.<br><br>COUGHLIN: Sir! We got Gate activity over here!<br><br>LORNE (to the marine inside the Jumper): Cloak the Jumper, now! (He and Coughlin run to a nearby bush to take cover behind it as the Gate kawhooshes. Lorne activates his radio.) Colonel Sheppard, we've got Gate activity. (Wraith Darts fly out of the Gate. Lorne reports into his radio.) Three Wraith Darts just came through.<br><br>SHEPPARD (running through the forest): Great!<br><br>(At the cave, Teyla turns to Carson.)<br><br>TEYLA: We should head back inside.<br><br>(They turn to collect Dex, but he has gone. Carson runs to grab a rifle as Teyla checks the cave, then comes back out.)<br><br>TEYLA: He went through there.<br><br><br>Out in the forest, Rodney is running along when his foot snags a trap which hoists him into the air feet first.<br><br>McKAY (struggling and protesting in a high-pitched voice): Oh, you've gotta be kidding me!<br><br><br>Elsewhere in the forest, John is still running as Teyla reports in by radio.<br><br>TEYLA: Colonel, Ronon is gone. There was another way out of the cave.<br><br>SHEPPARD: Get back to the Jumper!<br><br><br>At Rodney's position, Aiden runs up and giggles at the sight of Rodney hanging upside down.<br><br>FORD: Well, look at you!<br><br>McKAY (nervously): Yes -- look at me! It's funny, huh? (Aiden giggles again.) You set this up? It's clever.<br><br>FORD: It wasn't me.<br><br>McKAY: No, huh? Well, I'm glad we could both, uh, still laugh about this together. (He laughs falsely.) How about cutting me down now?<br><br>FORD: No. (His smile fades.) I think I'm still gonna kill you.<br><br>McKAY: What?! What do you mean, still'?! When did this escalate to killing?!<br><br>FORD: When you shot me.<br><br>McKAY: It's a flesh wound! I knew it wasn't gonna hurt you -- you're, you're SuperFord, remember?!<br><br>FORD: You tried to kill me! (He aims his rifle at Rodney.)<br><br>McKAY: Wait, hey! You-you can't kill an unarmed upside down man!<br><br>(Aiden is about to pull the trigger when a figure races out of the trees and throws himself at Aiden, knocking him flying just as a hail of bullets bursts from his gun. Out in the forest, John stops at the sound of firing. He heads in the direction the sound came from. Back at Aiden, it's Dex who stopped him from killing Rodney. He pins him to the ground but Aiden throws him off. The two of them engage in a fierce bout of hand-to-hand fighting, Dex's natural strength matched by Aiden's Wraith-induced energy. The fight goes on for some time until they break free of each other, grabbing a moment to catch their breath. Aiden has a knife; Dex draws his own. They have at it again, slashing at each other. Eventually their knives clash and they engage in a battle of strength, both trying to push their knife towards the other. Aiden starts to overcome Dex but Dex pushes him away. Aiden throws his knife at him and runs towards his Wraith stunner lying on the ground. As he reaches it and leans down to pick it up, John bursts out of the trees and aims his rifle at him.)<br><br>SHEPPARD: Lieutenant! Don't.<br><br>(Aiden straightens up. Just then, a couple of the Wraith Darts scream overhead. John glances up at them and Aiden turns and runs.)<br><br>SHEPPARD: Ford! (He races off after him.)<br><br>(Dex walks over to Rodney, still dangling upside down.)<br><br>McKAY: Hi! Doctor Rodney McKay. Could you, um, get me down please?<br><br>(Dex grins at him savagely.)<br><br><br>Out in the forest, John is chasing Aiden. The Darts scream overhead again. John glances up at them, then raises his rifle and aims it at Aiden.<br><br>SHEPPARD: Ford!<br><br>(Up ahead, Aiden stops and turns to face him. A Dart transporter beam sweeps across the ground nearby.)<br><br>SHEPPARD: Keep your hands where I can see em. (Aiden holds his hand out to the sides.) We wanna help.<br><br>(Aiden looks at him for a moment, then lowers his right hand towards the pistol strapped to his leg. John fires a single shot, hitting Aiden in his left leg. Aiden groans but stays on his feet and draws his pistol, aiming it at John.)<br><br>SHEPPARD: You're not gettin' off this planet!<br><br>(Behind Aiden, another transporter beam is sweeping along the ground. Aiden glances round at it, then looks back at John.)<br><br>FORD: I'll show you. You'll see!<br><br>(He turns and deliberately runs into the path of the transporter beam and is swept away. John stares up into the sky in anguish as the Dart flies away.)<br><br><br>ATLANTIS. CONFERENCE ROOM. John, Rodney and Teyla are reporting to Elizabeth and Caldwell.<br><br>SHEPPARD: After they scooped up Ford, the Darts made a beeline for the Gate. We tried to stop em, but ...<br><br>CALDWELL: You had him in your sights, and you let him get away.<br><br>SHEPPARD: I shot him once. Didn't slow him down.<br><br>McKAY: I shot him too.<br><br>SHEPPARD: He ran into the beam.<br><br>WEIR: Are you suggesting he <I>wanted</I> to be taken?<br><br>SHEPPARD: I think he saw it was the only way off the planet.<br><br>McKAY: Well, I can tell you from the quality time I spent with Ford, he was definitely not thinking straight.<br><br>CALDWELL (to John): Now thanks to you, he's in enemy hands with information that could compromise all of us.<br><br>SHEPPARD: I don't think he'll give us away.<br><br>CALDWELL (sarcastically): Oh, thank you so much for your assurance, Colonel. I'll be sure to include your feelings' in my report. (He walks away.)<br><br><br>HOLDING ROOM. John walks into a room where two marines are standing guard inside. Ronon Dex is sitting on a bed in the room.<br><br>SHEPPARD: How's it going?<br><br>DEX: This place is impressive.<br><br>SHEPPARD: Ah, those Ancestors sure could build em.<br><br>DEX: The guards are unnecessary.<br><br>SHEPPARD: Well, with your habit of taking people hostage an' all ...<br><br>DEX: I meant, should I want to escape, they will not be able to stop me.<br><br>SHEPPARD: Alright.<br><br>DEX: Did you manage to contact my home world?<br><br>SHEPPARD: Well, that's why I'm here.<br><br><br>CONTROL ROOM. The Gate is open. On a screen in the Control Room is an image of a ravaged city. Ronon stares at the image.<br><br>DEX: I don't understand.<br><br>WEIR: We have machines called M.A.L.P.s. They're capable of transmitting back images and information from other planets. We sent this one to the address you gave us.<br><br>DEX (looking at the image): That is Sateda?<br><br>SHEPPARD: I'm sorry. It doesn't look like anyone survived the last attack.<br><br>(Ronon gazes at the image, tears in his eyes. He turns to look at John and Elizabeth for a moment, then turns and walks away with his armed escort.)
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="202.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s2/203.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="204.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s2/index.shtml">
+<IMG SRC="/graphics/title_s2episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Two Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="201.shtml" CLASS="list">The Siege, Part 3</A><BR><A HREF="202.shtml" CLASS="list">The Intruder</A><BR><A HREF="203.shtml" CLASS="list">Runner</A><BR><A HREF="204.shtml" CLASS="list">Duet</A><BR><A HREF="205.shtml" CLASS="list">Condemned</A><BR><A HREF="206.shtml" CLASS="list">Trinity</A><BR><A HREF="207.shtml" CLASS="list">Instinct</A><BR><A HREF="208.shtml" CLASS="list">Conversion</A><BR><A HREF="209.shtml" CLASS="list">Aurora</A><BR><A HREF="210.shtml" CLASS="list">The Lost Boys</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="211.shtml" CLASS="list">The Hive</A><BR><A HREF="212.shtml" CLASS="list">Epiphany</A><BR><A HREF="213.shtml" CLASS="list">Critical Mass</A><BR><A HREF="214.shtml" CLASS="list">Grace Under Pressure</A><BR><A HREF="215.shtml" CLASS="list">The Tower</A><BR><A HREF="216.shtml" CLASS="list">The Long Goodbye</A><BR><A HREF="217.shtml" CLASS="list">Coup D'etat</A><BR><A HREF="218.shtml" CLASS="list">Michael</A><BR><A HREF="219.shtml" CLASS="list">Inferno</A><BR><A HREF="220.shtml" CLASS="list">Allies</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B000LC4ZI0/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B000LC4ZI0/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Two</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B000LC4ZI0/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B000KGGP1W/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B000LPQ67A/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B000LC4ZI0/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls2.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="202.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s2/203.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="204.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

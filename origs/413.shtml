@@ -1,0 +1,527 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Quarantine" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				
+				<A HREF="/atlantis/s4/transcripts/413.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=570">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=324">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s4/413.shtml#production">Production</A>
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=50266">Fan Reviews</A>
+				 | <A HREF="http://forum.gateworld.net/forumdisplay.php?f=108">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s4/413.shtml"><IMG SRC="/atlantis/graphics/413_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="QUARANTINE" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://click.linksynergy.com/fs-bin/stat?id=2cvd55rHd*s&offerid=78941&type=3&subid=0&tmpid=1826&RD_PARM1=http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewTVShow?id=179127311&partnerId=30" TARGET="_blank"><img height="15" width="61" border="0" alt="iTunes" src="/store/graphics/itunes_button.gif"></img></a> &nbsp; <a href="http://www.amazon.com/exec/obidos/ASIN/B0012T2KOC/bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 413<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 4, Disc 4<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 01.18.08<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 02.16.09<BR>
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0082772/" TARGET="_blank">Carl Binder</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0939869/" TARGET="_blank">Martin Wood</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">An automated lockdown traps Atlantis personnel in various parts of the city, each of them hoping the others will come to their rescue.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    ATLANTIS.  RODNEY'S LAB.  On one of the large screens, a computer golf game, obviously brought from Earth, is displayed.  Applause can be heard from the speakers and the game has just finished.  In front of the screen, John Sheppard is sitting in front of a laptop computer which is also showing the game.  Rodney McKay stands a short distance away with his back to him.<br><br>SHEPPARD: C'mon, dude, one more round.<br><br>McKAY: No, I can't.<br><br>SHEPPARD: We don't have to do eighteen; we can do nine – easy course, par three.<br><br>McKAY: No, Katie's expecting me.<br><br>SHEPPARD: Well, be late.  Women like it when guys are late.<br><br>McKAY: No they don't, and I can't be late – not for <I>this</I> lunch.<br><br>(He walks over to stand behind John, smiling.  John starts another round of golf on the computer.)<br><br>SHEPPARD: Why's that?<br><br>McKAY: Can you keep a secret?<br><br>SHEPPARD: No.<br><br>McKAY (instantly): Right.<br><br>(Grinning, he walks closer to him, rummaging in the pocket of his trousers.  He takes out a small box and opens it.)<br><br>McKAY: I, uh, I got this on my last trip to Earth.<br><br>(Inside the box is a white gold ring with a small diamond in it.  John takes the box and looks at the ring.)<br><br>McKAY: I feel it's time that Katie and I move the relationship to the next level, so ...<br><br>SHEPPARD: Second base?<br><br>McKAY (indignantly): Marriage.<br><br>SHEPPARD: Really?!<br><br>McKAY: Yes.<br><br>SHEPPARD: You?!<br><br>McKAY: Yes.<br><br>SHEPPARD: <I>Married?!</I><br><br>McKAY: What, you don't think I'm ready?  You think I'm rushing things?<br><br>SHEPPARD: I didn't say <I>that</I> ...<br><br>McKAY: Well, I'm not.  I'm not ready to set a date or anything but ...<br><br>SHEPPARD (looking at the ring): Is this a <I>diamond</I>?!<br><br>McKAY: Yes.  Eighth of a carat, actually – conflict-free and got a good deal, actually.<br><br>SHEPPARD: Well, I'm sure you did!<br><br>McKAY: All right, so ... (he takes out his radio earpiece) ... here I go!<br><br>(He drops the earpiece onto the table.  John hands the box back to him, still looking a little startled.)<br><br>SHEPPARD: Well, I'll ... I'll buy you a beer later.  We can celebrate.<br><br>McKAY: Yeah – or drown my sorrows should she say no.<br><br>SHEPPARD: No, no, none of that.<br><br>(Rodney smiles at him nervously.)<br><br>McKAY: Right.<br><br>(He gazes towards the door, hesitating for a moment.)<br><br>SHEPPARD: Well, go get the girl!<br><br>(Rodney points towards the door, makes an incoherent sound, then puts the box into his pocket and heads towards the exit.  Teyla Emmagan, now very visibly pregnant, walks in.)<br><br>TEYLA: Hello, Rodney.<br><br>McKAY: No, can't talk.<br><br>(Teyla watches him leave and run off down some stairs, then turns to John.)<br><br>TEYLA: John.  Do you have a moment to talk?<br><br><br>INFIRMARY.  Ronon Dex walks in and goes over to Jennifer Keller.  His lower right arm is covered in blood.<br><br>KELLER: Another sparring accident?<br><br>DEX: Actually, I slipped in the shower.<br><br>KELLER: Oh, really?<br><br>DEX (smiling): No.  Sparring accident.<br><br>(He sits down on the side of a bed as Jennifer fetches some medical gloves.) <br><br>KELLER: This is the third time this week I've had to patch you up.<br><br>(She looks more closely at the wound.)<br><br>KELLER: You know, there are a lot of other ways you can spend your free time.<br><br>DEX: Not as much fun, though.<br><br>(Jennifer rolls her eyes and starts to put her gloves on.)<br><br><br>CORRIDOR.  Samantha Carter walks towards a transporter.  From another direction, Radek Zelenka, holding a computer tablet, also approaches the transporter.  They smile at each other as they reach the doors.<br><br>ZELENKA: Colonel.<br><br>CARTER: Doctor.  Where are you headed?<br><br>ZELENKA: Control Room.<br><br>CARTER: Oh, me too.  We can share.<br><br>ZELENKA: Splendid.<br><br>(The doors to the transporter open and Sam and Radek stand aside as a couple of scientists step out.)<br><br><br>BOTANY LAB.  Rodney walks in and looks around.<br><br>McKAY: Katie?<br><br>(Katie Brown is sitting in the next room working on some plants and calls out to him.)<br><br>BROWN: I'm in here.<br><br>McKAY: Great.  Awesome!<br><br>(He walks over to her.)<br><br>McKAY: Hope you're hungry.<br><br>BROWN: Oh, I <I>am</I>!  (She takes her gloves off.)<br><br>McKAY (nervously): Yeah, me too.  Very hungry.  Hungry, hungry, hungry.<br><br>(Katie looks at his anxious expression.)<br><br>BROWN: Are you all right?<br><br>McKAY: I'm ... fine.  Yeah, uh, yeah.  Wow, this is much more, uh ...<br><br>(Katie walks around the table and looks at him closely.)<br><br>BROWN: You're sweating.<br><br>McKAY: Oh, am I?  (He runs his fingers over his forehead.)  Oh, I suppose I am.  OK, um, I guess I, I should just, uh, jump right into this, you know – rip the Band Aid off, as they say ... not, not that this is painful in any way ... it's quite the opposite, actually.<br><br>BROWN (laughing): Rodney!  What's wrong?<br><br>McKAY (smiling at her but still nervous): It's nothing.  In fact, everything's right ... with us, I mean.  So, I was thinking – and I don't know about you, but the way I see it, um ... I thought that, uh, maybe, it's time that we ... you know ...<br><br>(Katie puts her hands behind her back and looks at him coyly.)<br><br>McKAY: ... start entertaining the notion ...<br><br>(He reaches down to his trouser pocket and opens the Velcro flap.  Just then an alarm starts to sound and the doors to the room slide closed.  Rodney stares at the doors in surprise.)<br><br>(In the Infirmary, Jennifer is stitching Ronon's arm.  The alarm sounds and the nearby doors slide closed.  They turn and look as, across the room, a second set of doors closes.)<br><br>(All around the base, doors close.)<br><br>(In Rodney's lab, an entire bulkhead wall slides downwards, sealing John and Teyla inside.)<br><br>(In the Botany Lab, Rodney and Katie hurry to the door.  Rodney waves his hand over the wall panel but it beeps negatively at him.)<br><br>BROWN: What happened?<br><br>(Rodney runs his hand over the panel again but it just beeps.)<br><br>BROWN: Why did the doors close?<br><br>(Rodney tries to pull the doors open manually.  Katie helps but they can't budge them.)<br><br>BROWN: Rodney?  What's going on?<br><br>McKAY: It's locked.  We're trapped.<br><br><br>RODNEY'S LAB.  Teyla runs her hand repeatedly over the wall panel of another entrance to the lab but the panel beeps negatively each time.  John tries to slide the door open manually but can't manage it.<br><br>TEYLA: We are locked in.<br><br>SHEPPARD (activating his radio headset): Rodney?  Come in.<br><br>(Teyla tries the wall panel again but still gets a negative beep.)<br><br><br>INFIRMARY.  Jennifer and Ronon are each trying to get a set of doors open.  Jennifer turns from her doors towards Ronon.<br><br>KELLER: This one's locked too.<br><br>DEX: What the hell's going on here?<br><br>(As he continues to try to get his doors open, Jennifer activates her headset.)<br><br>KELLER: Doctor McKay, this is Doctor Keller.  Are you there?<br><br><br>TRANSPORTER.  Inside the transporter, Radek has opened a panel in the wall and has slid out the crystal tray inside it.  As he tries to manipulate the crystals, Sam presses various locations on the wall panel at the back of the transporter with one hand and activates her headset with the other.<br><br>CARTER: Rodney, this is Sam.  Do you read?<br><br>(Radek slides the tray back into the wall.)<br><br>ZELENKA: The control mechanism is not responding.  Perhaps I can physically open the door.<br><br>(He puts his computer tablet on the floor and he and Sam turn to the doors.)<br><br>ZELENKA: You know, transporter doors are lighter.  They're not really as heavy as other doors in the city.<br><br>(They try to push the doors apart but are unsuccessful.  Radek curses in Czech.  Sam activates her headset again.)<br><br>CARTER: Rodney, this is Sam.  Please respond.<br><br>(She taps the headset a few times.)<br><br>CARTER: Colonel Sheppard, do you read?<br><br>(Radek taps his own headset.  Sam looks at him.)<br><br>CARTER: Are you getting anything?<br><br>ZELENKA: No.  Communications must be down.<br><br>CARTER (sighing): Oh, great(!)<br><br><br>BOTANY LAB.<br><br>McKAY: All right.  (He clicks his fingers several times.)  I'm gonna need a radio.  I left mine in the lab.<br><br>BROWN: Uh, radio?<br><br>(She thinks for a moment, then points through the closed doors.)<br><br>BROWN: In there.<br><br>McKAY: What do you mean?  What, you don't have a radio in here?<br><br>BROWN: It's a plant cultivation room – we haven't needed one.<br><br>McKAY (walking away from the doors and starting to look around the room): Well, you need one now.  Look, that alarm was the quarantine lockdown.<br><br>BROWN: Quarantine?<br><br>McKAY: It's Atlantis' self-protection against another outbreak, sealing off sections of the city to prevent the spread of a disease.  I tweaked the system after the recent Kirsan fever outbreak.<br><br>BROWN: But there was no lockdown during that outbreak.<br><br>McKAY (still searching the room): Well, hence the need to tweak the system, you know – institute more vigorous protocols.  OK, I need to get to a computer – assess the degree of the situation.  I mean, is this just a few sections that have been sealed off, or maybe the whole tower?<br><br>(He stops searching and stands still, his eyes widening.)<br><br>McKAY: The computer's in the other room, isn't it?<br><br>(Katie nods.)<br><br>McKAY: With the radio.<br><br>(Katie looks sheepish.)<br><br><br>INFIRMARY.  Ronon is still trying to force the doors open.  Jennifer stands nearby.<br><br>KELLER: There must be another disease outbreak.<br><br>(Ronon grunts in frustration and lets go of the doors.)<br><br>KELLER: McKay said he was gonna modify the quarantine system to make it more efficient.<br><br>DEX: How does cutting off the radios make it more efficient?<br><br>KELLER: Well, obviously there's a glitch in the programme.  Problem is, without communications, he can't tell me how bad the outbreak is or give me the pass codes to open whichever doors are deemed safe.<br><br>DEX: Huh, great(!)<br><br>KELLER: Well, in any case, I should be ready to treat the sick when they bring them in.  Will you help me?<br><br>DEX: Tell me what to do.<br><br><br>RODNEY'S LAB.  John has his hands against the bulkhead wall that lowered down.<br><br>SHEPPARD: I could <I>really</I> use Ronon's gun right about now.<br><br>TEYLA: John, look.<br><br>(John turns to see Teyla standing at a computer, looking at it.)<br><br>SHEPPARD: What?<br><br>TEYLA: It appears there's been another outbreak.<br><br>(John goes over to the computer and calls the information up onto the larger screen.  It shows a schematic of the city, all outlined in red.  More screens come up showing various information, then a message comes up on the bottom of the screen saying “CATEGORY FIVE QUARANTINE INITIATED.”)<br><br>TEYLA: What is a category five?<br><br>SHEPPARD: Well, I'm guessing it's a lot worse than categories one through four.  We could be here a while.<br><br>(He looks down nervously at Teyla's large bump.)<br><br>TEYLA: What?<br><br>SHEPPARD: It's just that every time one of these things happens in the movies, the pregnant woman goes into labour.<br><br>TEYLA: I am still a long way from my due date.<br><br>SHEPPARD: Yeah, it's the same thing in the movies and then, wham.<br><br>TEYLA: Relax, John.  I will be fine.<br><br>SHEPPARD: Why don't you sit down?<br><br>TEYLA: I am all right.<br><br>SHEPPARD: You know, just to be on the safe side, sit down.<br><br>(He pulls a stool over for her.  Sighing, she sits down.  John turns back to the computer.) <br><br>SHEPPARD: Let's see what else we can find out.<br><br><br>TRANSPORTER.<br><br>CARTER: Quarantine lockdown.<br><br>ZELENKA: Yes.<br><br>(Sam turns back to the wall panel.)<br><br>CARTER: Well, I don't know why communications would be affected.<br><br>ZELENKA: Well, Rodney did say he was going to modify some of the Ancient protocols.  Perhaps he made a mistake – made the security measures a little too aggressive.<br><br>CARTER: We need to try and access the mainframe.<br><br>(She picks up the computer tablet.)<br><br>ZELENKA: Yes, but unfortunately that's <I>all</I> you'll be able to do.  This tablet has limited RAM.  It's configured mainly for read-only field diagnostics.<br><br>CARTER: Well, we should at least be able to determine the extent of the lockdown.<br><br>ZELENKA: Yes.<br><br>(Sam activates the tablet and its desktop picture appears.  Sam looks in surprise at the photograph of a pigeon.)<br><br>ZELENKA: Oh, sorry.<br><br>(He laughs nervously and takes the tablet.)<br><br>ZELENKA: It's one of my pigeons.<br><br>(Sam frowns at him uncomprehendingly.)<br><br>ZELENKA: I raise them as a hobby back home.<br><br>CARTER: Ah!<br><br>ZELENKA: Right, let's see what we have here.<br><br><br>RODNEY'S LAB.  John has sat down on a stool beside Teyla and they are working on separate laptops.  John glances at her.<br><br>SHEPPARD: You comfortable?  You want anything?  You wanna lie down, eat?<br><br>TEYLA: This is what I wanted to talk to you about.<br><br>SHEPPARD: What?<br><br>TEYLA: Your decision to remove me from the team's missions.<br><br>SHEPPARD: We're not gonna go through this again, are we?<br><br>TEYLA: No, no, no, it's all right.  I understand.<br><br>SHEPPARD: It's not permanent.  You're just gonna have to ease off, then you have your baby and in a few months you're back in action.<br><br>TEYLA: <I>Will</I> I be?  If it is wrong to place myself and my unborn child in danger <I>now</I>, will it be any less to do so when he is born?  John, it's bad enough that my son may grow up without a father, but if I were to be hurt or killed, he would be left without a mother as well.<br><br>SHEPPARD: It's tough, I know.  I've got a friend from college: she's a cop; three kids.  She goes through this every day when she goes to work.<br><br>TEYLA: How does she make peace with herself?<br><br>SHEPPARD: Well, she figures she's fighting the bad guys, keeping ‘em off the streets, so not only is she protecting <I>her</I> kids, she's protecting other kids too.<br><br>(He looks at Teyla.)<br><br>SHEPPARD: Look, you have to understand – your child has a family here in case anything ever happens.<br><br>(Teyla smiles at him and they get back to work.)<br><br><br>TRANSPORTER.  Radek has accessed the mainframe and he and Sam stare at his tablet in surprise.<br><br>ZELENKA: Category <I>five</I>?!<br><br>CARTER: The <I>entire</I> city?!  You know, this disease spreads more rapidly than anything I've ever encountered before.  Something's ...<br><br>ZELENKA (talking over her): Something's wrong, yeah.  Look at the levels: primary and secondary systems.  Look, wild fluctuations in every sector.<br><br>CARTER: Other systems are down too – not just communications.  Long-range scanners are out; ventilation in several areas, including this tower.<br><br>ZELENKA: Oh, oh, and plumbing too!  Oh dear!<br><br>CARTER: It's like the city's entire operating system is on the fritz.  This may not even be an outbreak at all.  This entire lockdown could be the result of a malfunction.  Don't worry – I'm sure McKay is sitting at a work station fixing this problem as we speak.<br><br><br>BOTANY LAB.  Rodney has his arms folded in frustration.  Katie, standing beside him, looks at him.<br><br>BROWN: I'm sure others are working on the problem.  Doctor Keller, Doctor Zelenka, Colonel Carter ...<br><br>McKAY: Well, they'd <I>better</I> be.<br><br><br>INFIRMARY.  Ronon has taken a drip stand, has wedged the end of it into a gap between the doors and is trying to lever them open.  The stand bends beyond its tolerance and snaps.  Hearing the noise, Jennifer runs in from the next room.<br><br>KELLER: Hey!  Hey-hey-hey-hey!<br><br>(She trots over to him and takes his arm.  The bandage covering his wound is soaked in blood.)<br><br>KELLER: You tore your stitches.<br><br>(She pulls him towards a bed.)<br><br>KELLER: God, honestly, I don't think I've ever met anyone with such a reckless aggression.<br><br>(Ronon smiles smugly.)<br><br>KELLER: That's not a compliment.<br><br>DEX: If you say so.<br><br>KELLER (pointing to the bed): Lay down.<br><br>(Ronon lies on the bed as Jennifer wheels over a trolley and puts on another pair of gloves.)<br><br>KELLER: OK, look – I don't think we're gonna have any luck opening those doors on our own.  We're probably just better off waiting for McKay and the others to figure out what needs to be done and which doors are even safe to open.<br><br>DEX: So we're just supposed to sit here and wait?<br><br>KELLER: Yes!  And be ready at a moment's notice to treat the sick.<br><br>DEX: I'm not very good at sitting and waiting.<br><br>KELLER (laughing): No kidding!<br><br>(She starts to cut away the bandage from his arm.)<br><br>KELLER: Well, maybe we could pass the time by getting to know each other better.<br><br>(Ronon narrows his eyes at her.)<br><br>DEX: What do you have in mind?<br><br>(Jennifer's eyes widen.)<br><br>KELLER: Oh, I, I mean, I didn't ... you know, I meant ... just, like, talk.  (She laughs nervously.)  I didn't mean ...  Yeah!  So, anyway, um, let's talk!<br><br>(Ronon looks at her blankly.  Jennifer grimaces.)<br><br><br>BOTANY LAB.  At the doorway, Katie tries to prise off the wall panel but fails.  She turns to Rodney who is slumped against a table.<br><br>BROWN: Can't you fiddle with this thing and get the door open?<br><br>McKAY: I could fiddle with it, sure.  As to actually getting the door open, not a chance.  Quarantine protocol completely disables the doors' control mechanism.  I mean, the whole <I>point</I> of it is to keep people from getting out.<br><br>BROWN (walking towards him): Oh, it's gonna be OK.  Doctor Keller and Zelenka ...<br><br>McKAY (interrupting): We don't <I>know</I> that.  We have <I>no</I> idea if it's gonna be OK.  For all we know, Zelenka and Keller could already be infected.  We don't even know how much of the city is in quarantine!  If this is serious – and we have no reason to believe otherwise – we could be looking at a city-wide lockdown.<br><br>BROWN (folding her arms): You are thinking the worst-case scenario.<br><br>McKAY: Hello!  This is what I do!  Someone needs to think ahead to the worst possible outcome to any situation in order to properly defend against it.<br><br>BROWN: <I>Any</I> situation – even the good ones.<br><br>McKAY: Hey, it doesn't take much for a good situation to turn ugly.  One minute you're happily riding your bicycle back from a senior Lagrangian mechanics mid-terms – you know, the warm breeze in your face – next thing you know, you're flying through the air because you just hit a pothole.<br><br>(Katie unfolds her arms and walks towards him sympathetically.)<br><br>BROWN: Oh, Rodney!  Did that happen to you?<br><br>McKAY (pulling away from her): The point is, one must <I>always</I> be on guard, you know, <I>always</I> looking out for the potholes.  Now, you can call me a catastrophist, but it's a necessary burden I bear.<br><br>(He walks over to the doors and looks at them.)<br><br>BROWN: A mindset like that and a person would live in a constant state of worry and fear.<br><br>(Rodney turns back to her.)<br><br>McKAY: You forgot “despair.”<br><br><br>TRANSPORTER.  Radek is looking at his computer tablet.<br><br>ZELENKA: Oh, it's definitely a malfunction – and surprisingly it's nothing Rodney did.<br><br>(He shows the screen to Sam.)<br><br>ZELENKA: Look at that: I'm reading a sudden spike in power caused by an intense ionospheric storm earlier today.  This new planet continues to surprise us.  It is going to require some drastic recalibration to account for any future ionospheric activity, that's for sure.<br><br>CARTER: Well, first things first – we need to get to a work station and fix this malfunction.<br><br>ZELENKA: Yes, I agree.  You know, I'm a little bit puzzled as to why Rodney hasn't solved this problem yet.  He's been a little off his game lately.<br><br>CARTER: Maybe he doesn't have access to a computer.<br><br>ZELENKA: Rodney?!  Without his computer?!  (He chuckles.)  <I>This</I> I have yet to witness.<br><br>CARTER: Well, whatever the cause, since there's no outbreak, there's no reason for us to be stuck in here.<br><br>ZELENKA: Well, yes, other than the doors being sealed shut ...<br><br>(Sam closes her eyes in despair at him stating the obvious.)<br><br>ZELENKA: ... and heavier than we had previously thought.<br><br>CARTER: Can you use this tablet to access this control panel?<br><br>(She opens the wall panel that Radek had previously opened.  The crystal tray slides out.)<br><br>CARTER: Maybe we could at least figure out a way to get the doors open.<br><br>ZELENKA: Doubtful.  The transporter panel has no wireless interface, and even if we could hook it up directly, you know, with the limitations of the RAM on this tablet ...<br><br>CARTER (interrupting): May I?<br><br>(She takes the tablet, pulls its cable out and starts to plug it into the panel.)<br><br>CARTER: Thanks.<br><br>ZELENKA: Yes, of course.<br><br><br>RODNEY'S LAB.  John and Teyla are still working on their computers and looking at information on the screen.<br><br>TEYLA: Well, life signs all over the city.  Everyone is trapped as we are.<br><br>SHEPPARD: Ventilation is down, which means they're running out of air.<br><br>(He rubs his brow tiredly, then notices Rodney's radio earpiece lying on the table.)<br><br>SHEPPARD: He's in the Botany Lab.<br><br>TEYLA: Who?<br><br>SHEPPARD: Rodney.  He went to pick up Katie Brown for a lunch date.  Have you been in that plant room?  There's no computers, no radios ...<br><br>TEYLA: If he's locked in there ...<br><br>SHEPPARD: ... he's gonna be freaking.<br><br><br>BOTANY LAB.  Rodney is using a metal trowel to try and prise the doors open.  Failing, he pulls it free and sighs.  Closing his eyes, he doubles over, breathing heavily.  Katie looks at him.<br><br>BROWN: Oh, are you all right?<br><br>McKAY: I don't know.  I feel all dizzy, a little feverish.<br><br>BROWN: Here.<br><br>(She fetches a stool.)<br><br>BROWN: Rodney, come on, sit down.<br><br>McKAY: Right.<br><br>(He walks over and sits on the stool.  Katie puts her hand on his forehead and coos sympathetically, then puts the back of her hand against the side of his face.)<br><br>BROWN: You don't <I>feel</I> warm.<br><br>McKAY: You sure?  ‘Cause my joints ache.  It's usually the first signs of a fever.<br><br>(Katie takes his left hand, turns it so that she can see the watch he is wearing and starts to take his pulse.)<br><br>BROWN: Pulse ... ooh, one twenty.<br><br>McKAY: It's normal.<br><br>BROWN: Oh.<br><br>(She smiles for a moment, then frowns at him.)<br><br>McKAY: Yes, I've always had a rapid heartbeat, even since I was a kid, even when I was in a deep sleep.  Our family doctor once wrote a paper about it.<br><br>BROWN: Oh!<br><br>McKAY: How are <I>you</I> feeling?<br><br>BROWN: I'm fine.<br><br>McKAY: OK, well, you let me know when <I>you</I> start feeling sick, all right?<br><br>(He stands up and goes back to the doors.)<br><br><br>RODNEY'S LAB.  John and Teyla are still working on the computers.<br><br>TEYLA: It seems that there was some sort of disturbance in the planet's ionosphere a few hours ago.  After that is when the system became unstable.<br><br>SHEPPARD: New planet, new problems.<br><br>TEYLA: There may not even <I>be</I> a disease outbreak.<br><br>SHEPPARD: Yeah, but the city's still in lockdown.  You know, if Rodney can't get ahold of a computer, he's not gonna be able to shut it down.<br><br>TEYLA: Perhaps Doctor Zelenka or Colonel Carter can do it.<br><br>SHEPPARD: If they could have, they would have done it already.  They probably can't get ahold of one either.<br><br>TEYLA: Can <I>anyone</I> do it?<br><br>SHEPPARD (shaking his head): They'd have to know Rodney's password.<br><br>(Teyla sighs.)<br><br>SHEPPARD: Fortunately, I do.<br><br>TEYLA: He told you his password?!<br><br>SHEPPARD: Well, he didn't think I'd remember it.<br><br>(He starts to type.)<br><br>SHEPPARD: One six four three one eight seven nine one nine six eight four two.<br><br>(The computer beeps.)<br><br>SHEPPARD: See?  Doesn't take a genius.<br><br>TEYLA: It doesn't?<br><br>SHEPPARD: 1643 is the year Isaac Newton was born; 1879, Einstein; and 1968 ...<br><br>TEYLA: The year Rodney was born.<br><br>SHEPPARD: <I>Never</I> underestimate the size of that man's ego.<br><br>TEYLA: Wait – weren't there other numbers?<br><br>SHEPPARD: Forty-two.<br><br>TEYLA: What is that?<br><br>SHEPPARD: It's the Ultimate Answer to the great question of life, the universe and everything.<br><br>(He types on as Teyla looks bewildered.)<br><br>SHEPPARD: OK – we're in.<br><br><br>TRANSPORTER.  As Sam continues to work on the computer tablet which is now plugged into the crystal tray, Radek sighs.  The small space has become hot and so he takes his jacket off.  Sam looks at him.<br><br>CARTER: Oh, that's a good idea.<br><br>(She puts the tablet down, unzips her own jacket and takes it off.  Radek, who has just dropped his jacket to the floor, turns back to find himself staring down Sam's cleavage.  Still looking down at the tablet, Sam is unaware of it as he looks awkward and turns away.  She drops her jacket to the floor, pushes up her sleeves and pulls her collar out and flaps it for a moment to get some air inside her top.)<br><br>CARTER: OK, much better.<br><br>(She picks up the tablet again.  Radek pulls his own top away from his chest and flaps it to try to cool himself down – not just from the heat.)<br><br>ZELENKA: Yes, <I>much</I> better(!)<br><br>CARTER (typing on the tablet): The control panel won't recognise authentication.<br><br>ZELENKA: It's because it's not configured, as I said earlier ...<br><br>CARTER: Yeah, I know, which is why I've written a work-around to free up memory to allow for local device input.<br><br>ZELENKA (startled): Oh, so fast!<br><br>CARTER: Well, there's obviously not enough RAM to handle the city's entire operating system, but we should at least be able to open these doors.  All I need to do is get it to recognise the authentication command.<br><br>ZELENKA: Perhaps if you bypass the secondary crystals and go direct to the ...<br><br>(He reaches into the panel and starts to move the crystals.)<br><br>CARTER: No, I don't think ...<br><br>(The panel explodes, throwing Radek across the transporter.)<br><br>CARTER: Oh, Doc!  Radek!<br><br>(Radek falls to the floor.  Sam crouches down to him as he whimpers and shakes his hand, then looks up at the doors.)<br><br>ZELENKA: They didn't open.<br><br>CARTER: No.<br><br>(She looks at the tablet.)<br><br>CARTER: And the tablet's fried.<br><br><br>RODNEY'S LAB.  Teyla has left the computer and is sitting nearby while John continues to work on his.  He looks at it as it beeps.<br><br>SHEPPARD: Oh, crap.<br><br>TEYLA: What is it?<br><br>SHEPPARD: Part of the lockdown programme includes broadcasting an alert beacon to approaching ships to warn them about a disease outbreak.<br><br>TEYLA: The city is doing this right now?<br><br>SHEPPARD: Five by five – clear enough for the entire neighbourhood to pick up.<br><br>TEYLA: Can you shut it off?<br><br>SHEPPARD: Not from here.  It can only be turned off from the sub-space transmitter which is up in the Control Room – which means the guys upstairs either haven't noticed it or, more likely, they don't have Rodney's password to turn it off.<br><br>TEYLA: As long as that signal is broadcast, Atlantis is vulnerable to discovery.<br><br>SHEPPARD: If it hasn't already happened.<br><br><br>BOTANY LAB. Rodney and Katie are standing near the doors.<br><br>BROWN: How are you feeling?<br><br>McKAY: The same.<br><br>(He looks at her unhappy expression and reaches to take her hands.)<br><br>McKAY: Hey.  You look like you could use some cheering up.<br><br>BROWN: As a matter of fact, I could.<br><br>(Rodney gazes at her for a long time.  She frowns at him, confused.)<br><br>BROWN: What <I>is</I> it?<br><br>McKAY: Nothing, I ...<br><br>(He trails off and looks around the room for some distraction.  He points.)<br><br>McKAY: Oh, hey, isn't that the, um ...?<br><br>(Katie looks.  He's pointing at a tall cactus with feathery fronds growing out of the top of it.)<br><br>BROWN: Oh, the Rodneyana Villosa?  The plant I named for you.<br><br>(They walk towards it.)<br><br>McKAY: Right.  It's grown.<br><br>BROWN: Yes, it's really flourished here.  (She runs her fingers around the rim of the pot.)  I've been kind of doting on it, giving it a little extra T.L.C. ... (she gestures slowly up the length of the cactus) ... and it just gets bigger and bigger ...<br><br>(Rodney coughs in embarrassment but then it turns into a full coughing fit.  Katie goes over to him, concerned.) <br><br>BROWN: We need to get you to the Infirmary.<br><br>McKAY: I already told you it's impossible.  Look, the whole point of the lockdown is to prevent the spread of disease, which means no-one's going anywhere.<br><br>BROWN: But how are the doctors supposed to treat anyone if they can't reach them?<br><br>(Rodney gazes at her.)<br><br>McKAY: I'm sorry, Katie.  Look, I've no doubt infected you by now.<br><br>BROWN: I feel fine.  You think I'd have at least a few symptoms.<br><br>McKAY: Every disease is different.  I mean, we have no idea what the incubation period for this strain is.  It could be hours, it could be days.  I mean, who knows when I caught it?  No, it's just a matter of time before you succumb too.<br><br>(Katie frowns.)<br><br>McKAY: Anyway, what were we talking about?<br><br>(Katie smiles bravely for him.)<br><br>BROWN: You were gonna cheer me up.<br><br>McKAY: Oh, right!<br><br>(He gazes into the distance, lost for something to say.)<br><br><br>INFIRMARY.  Ronon is still lying on the bed while Jennifer paces back and forth at the foot of the bed.  It seems that they haven't spoken to each other for some time.  Ronon pulls himself up into a sitting position.<br><br>DEX: You OK?<br><br>KELLER: Yeah.  I just ... I don't like sitting around either.<br><br>(Ronon smiles sympathetically.)<br><br>KELLER: Especially when there's people out there who need me.<br><br>DEX: You're not letting them down.<br><br>KELLER: There's a disease outbreak and I'm a doctor stuck in this room.<br><br>DEX: That's right.  “Stuck.”  It's not your fault you can't get to them, so don't put the blame on yourself.<br><br>(Jennifer smiles gratefully at him.  He smiles back.)<br><br>DEX: You remind me of someone I used to know.  She put way too much pressure on herself.<br><br>(Jennifer walks closer to him.)<br><br>KELLER: Someone from Sateda?<br><br>DEX: Yeah.<br><br>KELLER: Who was she?<br><br>DEX: She was someone I cared about.  (He clears his throat uncomfortably.)  She was killed during the siege.<br><br>KELLER: I'm sorry.<br><br>DEX: Yeah.  I wanted her to leave but she chose to stay behind and help the others.  (He coughs again, then smiles at Jennifer.)  Should have forced her to go.<br><br>KELLER: It's not your fault.  She <I>chose</I> to stay.  Don't put that blame on yourself.<br><br>(They gaze at each other for a long moment, then Ronon nods.)<br><br><br>RODNEY'S LAB.  John has got the cover off the wall panel and is swapping the crystals around.  He puts the final one back in but the panel beeps negatively.<br><br>SHEPPARD: Oh, <I>come</I> on!<br><br>TEYLA: Nothing's working.<br><br>(John starts looking around the room.)<br><br>SHEPPARD: OK, on to Plan B.<br><br>TEYLA: Which is ...?<br><br>SHEPPARD: Which is blast our way out of here and get to the Control Room.  Start searching for any explosives Rodney might have left.<br><br>TEYLA: Well, I doubt that he would ...<br><br>(Turning to look around the room, she suddenly turns back and stares down at her stomach wide-eyed.  John sees her expression and stops, staring at her nervously.  She looks up at him briefly, then down at her stomach again and gasps.  John points to her anxiously.)<br><br>SHEPPARD: Don't tell me that you're, uh ...<br><br>(Teyla smiles.)<br><br>TEYLA: The baby just kicked.<br><br>SHEPPARD: Really?<br><br>(He walks towards her.)<br><br>TEYLA: There it is again.  Here ...<br><br>(She takes his hand and places it on her stomach.  He smiles.)<br><br>SHEPPARD: Maybe he wants to get out of here as much as we do.<br><br>(Teyla's smile begins to fade.  John looks at her in concern.)<br><br>SHEPPARD: Teyla, you OK?<br><br>(She sighs as if in pain, but nods.)<br><br>SHEPPARD: Just hang in there.  I'm gonna get everybody out of here.<br><br>(He walks over to a window overlooking the city and looks through it, then turns and picks up a stool.  Teyla stands up and walks towards him.)<br><br>SHEPPARD: Stand back.<br><br>TEYLA: What are you ...?<br><br>(John hurls the stool at the window, which shatters.  Teyla hurries over and grabs his arm.)<br><br>TEYLA: John, what are you doing?<br><br>SHEPPARD: The Control Room is only four floors above us.  All I have to do is climb up and I'm in.<br><br>TEYLA: Climb the tower?!  Is that even possible?<br><br>(John clambers up onto the window sill and steps out onto a narrow ledge outside.)<br><br>SHEPPARD: Sure.  Batman did it all the time!<br><br>(From a viewpoint above his head, we can see that it's a straight drop several hundred feet into the ocean if he should fall.  He looks up the side of the tower.  There are lots of ledges and vents all the way up but they're not close together and they only jut out a little way.  To add to the difficulty, there's a strong wind blowing.  He looks down to Teyla.)<br><br>SHEPPARD: Piece of cake.  Don't worry – I'll be fine.  Gotta turn off that beacon.<br><br>(Slowly and carefully, he starts to climb.)<br><br><br>TRANSPORTER.  Sam and Radek are sitting on the floor covered in sweat.  Radek also appears to still be in pain from the shock he received earlier.<br><br>ZELENKA: I'm sorry.  I honestly thought that if we bypassed the secondary crystal ...<br><br>CARTER (talking over him): Radek, I know.  We've been through this.  I'm not angry with you.<br><br>(She nods and smiles reassuringly at him.)<br><br>CARTER: We could really use one of your pigeons around now.<br><br>(Radek frowns.)<br><br>ZELENKA: Well, they're not for eating.<br><br>CARTER: No, no!  You know, I meant to get help.<br><br>(He looks at her blankly.)<br><br>CARTER: Like homing pigeons – you tie a little S.O.S. note to their feet and ... <br><br>(She mimes throwing the pigeon into the air.  Radek looks upwards.)<br><br>ZELENKA: Yeah, but there's no window in here.<br><br>CARTER: I know.  I was just ...<br><br>(She gives up, realising that Radek doesn't seem to understand that she's just making small talk.)<br><br><br>OUTSIDE OF THE TOWER.  John carefully hauls himself up what look like a couple of vents.  Above him is what appears to be an external light, though it's not lit at the moment.  There's a thin strap of metal wrapped over the light and he reaches for it.  As he puts his full weight on it, the top of the strap tears loose and he loses his footing and swings around so that he is facing away from the tower.  Clinging onto the strap with both hands, he manages to swing himself around again.  He hangs for a moment, gathering his strength, then hauls himself upwards using only his arms until he can get his feet onto a very narrow ledge.  Carefully straightening up on top of it, he jumps across to a long ledge sticking out from the tower and dangles from it with his fingers.  Again he takes a few breaths, then hauls himself up on top of it.<br><br>(Some time later, his fingers appear over the top of the railing of the Control Room exterior balcony and he starts to pull himself over it.)<br><br>(Inside the Gateroom, Major Lorne and a group of scientists are still trying to prise open one of the doors.  Up in the Control Room, Chuck the technician is watching them from the balcony but turns and goes back to the consoles as a female technician reports from one of them.)<br><br>TECHNICIAN: OK, I've got ventilation restored to most of the tower.  Still working on getting air up here but so far nothing's responding.<br><br>(Just then she and the others look round in surprise as someone hurls a tree in a pot in through one of the glass doors.  John steps through the gap.)<br><br>CHUCK: Colonel!  How did you get out there?!<br><br>SHEPPARD (running over to a console): Long story.  We've got to turn off the beacon.  It's broadcasting our location to every ship in the neighbourhood.<br><br>TECHNICIAN: We already tried that.  It's password protected.<br><br>(As John starts to type, Lorne and the other scientists run up the stairs, looking at the broken glass on the floor.)<br><br>LORNE: What happened?<br><br>(He looks at John as he types in Rodney's password.)<br><br>LORNE: Colonel!  Where the hell d'<I>you</I> come from?<br><br>(The image on the laptop screen changes.) <br><br>CHUCK: Beacon's deactivated.<br><br>(John straightens up, relieved.  His relief lasts all of a couple of seconds, then a very familiar alarm starts to sound.  As John frowns, all the computer screens go dark.  Chuck runs to another laptop and types but his screen stays dark.)<br><br>CHUCK: Computers just shut down – <I>all</I> of them.<br><br>LORNE (referring to the alarm): Is that the, uh ...?<br><br>SHEPPARD: Self destruct.<br><br><br>TRANSPORTER.  Sam and Radek scramble to their feet as they hear the alarm.<br><br>CARTER: That's the self destruct sequence!<br><br>ZELENKA: Why would anybody arm it? <br><br>CARTER: More importantly, how much time do we have?<br><br>ZELENKA: I don't know.  Whoever arms it designates the duration – you know, depending on how quickly he wants to ... blow up the city.<br><br><br>INFIRMARY.  Hearing the alarm, Ronon gets off the bed and storms towards the doors.<br><br>KELLER: Ronon.<br><br>(He starts hauling on one of the doors, trying to slide it open.)<br><br>KELLER: Ronon, we've already tried.  It's not gonna open.<br><br>(Ronon turns away from the doors and starts looking around the room.)<br><br>DEX: We'll just have to blast a hole in it.<br><br>KELLER: With what?  You don't have your gun.<br><br>DEX: Got any C4 in here?<br><br>KELLER: In the Infirmary?!<br><br>DEX: Anything we can use to act as an explosive.<br><br>KELLER: I don't know.  Uh ...<br><br>(She thinks for a moment, then heads for another part of the room.)<br><br>KELLER: The oxygen tanks, maybe?<br><br>DEX (smiling): Right!  Shoot ‘em like Sheriff Brody did in the movie “Jaws.”<br><br>KELLER: Yeah, I know, I've seen it.  How do you ...?<br><br>(Ronon walks over to one of the tanks.)<br><br>DEX: Sheppard showed it to me.  It was a good movie!<br><br>(He picks up the tank and looks at it, smiling.)<br><br>DEX: Flammable.<br><br>(He carries the tank across the room and puts it onto a bed.)<br><br>DEX: All right, all we need is a gun to shoot it with.  You got one in here?<br><br>KELLER: Again, Infirmary, not Armoury.<br><br><br>CONTROL ROOM.<br><br>LORNE: I don't get it.  Why would you arm the self destruct?<br><br>SHEPPARD: I didn't.<br><br>(The alarm stops.  Everyone looks upwards for a moment, then John turns to Chuck who smiles in satisfaction.)<br><br>CHUCK: <I>Finally</I>.<br><br>SHEPPARD: You shut it down?<br><br>CHUCK: No, just the alarm.<br><br>TECHNICIAN (to Lorne): The city actually armed the self destruct by itself, Major.<br><br>LORNE: Well, why?<br><br>CHUCK: Last thing I saw on the screen was a breach of quarantine alert.<br><br>(John and Lorne both turn and look at the broken door.)<br><br>SHEPPARD: My coming into the room caused the city to think the disease was spreading.<br><br>LORNE (to the technician): Whoa-whoa-whoa – but you said earlier that there <I>was</I> no outbreak.<br><br>SHEPPARD: No, there isn't, but the city doesn't know that.<br><br>TECHNICIAN: It's all part of the system-wide malfunction.  The city must think there's a disease and now it's out of control.<br><br>CHUCK: So blowing up Atlantis is its final counter-measure.<br><br>SHEPPARD: Did you see how much time was left on the self destruct?<br><br>CHUCK: No.  The computer shut down before I could see.<br><br>(John walks over to the broken door and looks out onto the balcony for a moment before turning back to the others.)<br><br>SHEPPARD: All right.  If we can't shut it down from here, we're gonna have to turn it off at the source.<br><br>TECHNICIAN: But that's in the main Power Room.<br><br>CHUCK: That's six levels down.<br><br>LORNE: We can't get there.  The Jumper Room's sealed off, as well as every other corridor out of the Gateroom.<br><br>SHEPPARD: I'll just have to climb back down.<br><br>TECHNICIAN: The Power Room's in the centre of the tower.  Even if you climb back down, you'd still have to get through several sealed doors before reaching it.<br><br>(John turns to Lorne.)<br><br>SHEPPARD: You got any C4?<br><br>LORNE: Yeah, a little bit.<br><br>(He reaches into his vest pocket and takes out a small block.)<br><br>SHEPPARD: That's it?!<br><br>LORNE (shrugging): That's it.<br><br>(John grimaces, then looks at Chuck and the other technician.)<br><br>SHEPPARD: You two, with us.<br><br><br>BOTANY LAB.  Rodney and Katie are sitting side by side on stools, facing the doors.<br><br>BROWN: The alarm turned off.  That's a good sign, right?<br><br>McKAY (quietly): I don't know.<br><br>BROWN: I mean, maybe someone found a cure for the disease, or at least figured out how to turn off the self destruct.<br><br>McKAY (despairingly): Or maybe someone just figured out how to turn off the alarm.<br><br>(He sighs and sags on the seat.)<br><br>McKAY: Oh, I have to lie down.<br><br>(He stands up and walks to an open space on the floor.  Katie follows him, putting her hand on his back comfortingly.)<br><br>BROWN: Rodney, you can't give up.<br><br>(Ignoring her, Rodney starts to lie down on his back on the floor.  She kneels down beside him.)<br><br>BROWN: You have to keep fighting.  I know it looks bleak but ...<br><br>(She trails off as Rodney settles back onto the floor and something drops out of his trouser pocket.  She picks up the ring box.)<br><br>BROWN: What's this?<br><br>(Groaning, Rodney lifts his head again and sees what she's holding.)<br><br>McKAY: Oh, that's ...  When I came here today, I was ...<br><br>(Katie opens the box and gasps as she sees what's inside.)<br><br>McKAY: ... I was gonna propose – ask for your hand in marriage.<br><br>(Closing his eyes and groaning, he lays his head back down on the floor.)<br><br><br>INFIRMARY.  Standing by the bed with the oxygen tank lying on it, Jennifer puts a protective plastic shield over her face as Ronon picks up the second tank and starts to carry it across the room.<br><br>KELLER: This is not gonna work.<br><br>DEX (putting the tank down and turning to her): What are you talking about?  This is <I>your</I> idea.<br><br>KELLER: Yeah – after which I immediately said there was a one in a million chance it would work.<br><br>DEX: Yeah, well, this is that one.<br><br>KELLER: If I cut more than a millimetre too far ...<br><br>DEX: ... the tank'll blow.  I know.  So just make sure you don't cut too far.  Just score it, like you said.<br><br>(Jennifer looks down at the tank anxiously.)<br><br>DEX (smiling): Hey, look, if <I>you</I> don't do it, <I>I'm</I> gonna do it.<br><br>(Jennifer nods nervously.)<br><br>DEX: C'mon, you've got this.<br><br>(He picks up the other tank and takes it across the room.  Looking at the tank on the bed in dread, Jennifer picks up a surgical drill and puts it against the neck of the tank.  Wincing, she fires the drill for a split second.  Sparks fly.  She grimaces, then fires the drill again, and again.)<br><br><br>RODNEY'S LAB.  Teyla stands looking out of the broken window, then steps up onto a box, leans out and then steps up onto the window sill.  Looking up the length of the tower, she steps out onto the ledge outside.  Clinging onto the window, she looks up again before looking down at the enormous drop below her.  After a few moments, she sensibly climbs back into the lab.<br><br><br>INFIRMARY.  Ronon walks across to Jennifer as she continues firing short bursts of the drill into the neck of the oxygen tank.  Finally she looks up at him.<br><br>KELLER: OK, that's it.  I mean, that's as far as I should go.<br><br>DEX: All right.  Let's do it.<br><br>(He picks up the tank and takes it across to the doors.  He has pushed one bed – the bed with the scanner above it – so that it is parallel to the doors.  A second bed is at right angles to the foot of the scanner bed.  The second oxygen tank is standing on the second bed with its neck propped up against the scanner.  He lays the drilled tank onto the scanner bed so that it is underneath the scanner, with the neck facing directly away from the doors.  Once he is confident that everything is in position, he picks up a small Ancient device and takes it over to Jennifer, smiling.  They go into the next room and take cover behind the wall as Ronon switches on the device.  He looks at Jennifer.)<br><br>DEX: All right.  You ready?<br><br>KELLER: No.<br><br>(Grinning, Ronon activates the device.  The scanner starts to run up the bed.  The second oxygen tank falls downwards and drops onto the neck of the drilled tank.  Weakened by the drilling, the neck breaks and the pressure from the escaping oxygen sends the tank soaring towards the doors.  It smashes into the doors and bounces off, hitting the wall beside the doors.  The wall is slightly curved and this turns the tank around 180 degrees and sends it flying into the Infirmary.  Ronon and Jennifer duck down as the tank races across the room and smashes into the wall on the other side.  Ronon looks at Jennifer.)<br><br>DEX: You OK?<br><br>KELLER: Yeah.<br><br>DEX: All right.<br><br>(They get up and hurry over to look and see whether the tank made any impact on the doors.)<br><br>KELLER: Oh, you've <I>gotta</I> be kidding me.<br><br>(Ronon looks at the undamaged door.)<br><br>DEX: It's a lot stronger than a shark.<br><br><br>Somewhere in the city, John has put a small piece of C4 onto a set of doors and attached a firing mechanism.  Pulling out the safety tab, he turns and walks around the corner to where Lorne, Chuck and the female technician are waiting.  He holds up the detonator.<br><br>SHEPPARD: Fire in the hole.<br><br>(He activates the detonator and there's an explosion.  Somewhere nearby in the transporter, Sam and Radek hear the explosion.)<br><br>ZELENKA: What's that?<br><br>(They scramble to their feet and press their ears against the doors, then start to hammer on them while shouting loudly.)<br><br>CARTER: Hello?<br><br>ZELENKA: Hey!<br><br>CARTER: Hey!<br><br>ZELENKA: We're in here!<br><br>(A short distance away, John and the others look round at the sound of distant shouting.)<br><br>LORNE: You hear that?<br><br>SHEPPARD: The transporter.  Somebody's in there.<br><br>(As Sam and Radek continue yelling, the others run towards the transporter.)<br><br>SHEPPARD: Grab a side.<br><br>(He and Lorne each seize one of the doors, which have more handholds on the outside, and pull the doors open.  Radek and Sam stumble out.)<br><br>SHEPPARD: Colonel.  You all right?<br><br>CARTER: Yeah, I'm fine.<br><br>ZELENKA: I'm fine too!<br><br>SHEPPARD: There's no outbreak.  It's just a malfunction.<br><br>CARTER: We know.  Was Rodney the one who finally disabled the self destruct?<br><br>SHEPPARD: No, it's still on, but I haven't heard from Rodney.<br><br>CARTER: I need to get to a work station.<br><br>CHUCK: The computers are down.<br><br>LORNE: We're trying to get to the main Power Room so we can physically cut the power to the self destruct.<br><br>SHEPPARD: But all the doors are sealed shut.  We just used the last of our C4 getting here.<br><br>ZELENKA: Does that mean we're still stuck here?<br><br>SHEPPARD: That's what it looks like.<br><br>CARTER: How much time is left on the self destruct?<br><br>TECHNICIAN: We don't know.  The computer shut down before we could see.<br><br>CARTER: So it could happen any time?<br><br>(Chuck nods.)<br><br>CARTER: Great(!)<br><br><br>BOTANY LAB.  Rodney is still lying flat on his back on the floor.  Katie has stood up and is smiling down at the ring in its box.<br><br>BROWN: You were gonna propose to me?  Today?<br><br>(Rodney raises his head.)<br><br>McKAY: Oh – I mean, before the ... before the lockdown.<br><br>(Katie smiles and turns to him.)<br><br>BROWN: So?  Why don't you?<br><br>McKAY: Now?  Do I wanna propose now?<br><br>BROWN (smiling down at him): Don't you wanna hear my answer?<br><br>(Rodney lays his head back down again despairingly.)<br><br>McKAY: Well, it doesn't really matter any more, does it?<br><br>BROWN: How can you say that?<br><br>McKAY: Oh, I dunno – maybe because we're moments away from our deaths.<br><br>BROWN (angrily): Don't <I>talk</I> like that.  There's still a chance.  Someone could come through this door and ...<br><br>McKAY (lifting his head): Katie, please.  Enough already.  Look, much as I'd love to believe that someone's gonna swoop in and save the day, the fact that no-one <I>has</I> tells me it's probably not gonna happen.  I'm sorry if that's bleak and horrible and fatalistic but there it is.<br><br>(Grimacing, he lays his head down again.  Katie sighs sadly.)<br><br><br>Out in the corridors, Sam is trying to tweak the crystals in a wall panel while Lorne tugs at the doors, but to no avail.  Sighing, they turn back to the others.<br><br>ZELENKA: Well, what are we going to do now?<br><br>LORNE: Well, what <I>can</I> we do?<br><br>SHEPPARD: Does this vent go to the Power Room?<br><br>(They look where he's looking.  There's a vent high up on the wall.)<br><br>ZELENKA: Yes, yes.  I believe it leads to the tower's main ventilation flue.<br><br>CARTER: Well, that system's shut down.  Those vents'll be closed off.<br><br>TECHNICIAN: Not any more.  We were able to get it back online in most of the tower just before the computers went down.<br><br>(John climbs up onto a chair and prises the cover of the vent off.  Stepping up onto the back of the chair, he peers inside, then holds out a hand to Lorne who takes a torch out of his vest and hands it to him.  Taking it, John shines it along the shaft.)<br><br>SHEPPARD: All right, it looks clear.  It's gonna be a tight squeeze, though – there's no way I can move in here.<br><br>CARTER: I'll do it.<br><br>ZELENKA: No.  <I>I'll</I> do it.<br><br>CARTER: Are you sure?<br><br>ZELENKA: Yes.  I'm small enough.  I can crawl through there.  I'll have the power off in no time.<br><br>CARTER: All right.<br><br>SHEPPARD: Atta boy.<br><br>(He steps down and hands the torch to Radek who puts the end in his mouth, steps onto the chair and hauls himself up to the opening.  He looks into the shaft, then glances back at Sam for a moment.  She nods to him encouragingly.)<br><br>LORNE: Ready?<br><br>ZELENKA: Yeah.<br><br>(John and Lorne take hold of his feet and boost him up, carefully pushing him into the opening.  He starts to drag himself forward.)<br><br><br>INFIRMARY.  Ronon and Jennifer are sitting side by side on the floor with their backs against one of the beds.  Ronon smiles.<br><br>DEX: I had you wrong.<br><br>(Jennifer looks inquiringly at him.  He smiles at her.)<br><br>DEX: When you first came here, I thought you were weak – that you didn't belong.<br><br>KELLER (shaking her head and looking away): It's the story of my life.  (She pauses for a while, then continues.)  Growing up, I skipped through grades and graduated at fifteen.  Got my Bachelor's Degree before I was even old enough to vote.  I missed out on a lot of things – any kind of social event, you know, parties and dances.  (She smiles ruefully.)  I don't ever remember a time in my life where I belonged.<br><br>DEX: Yeah, well, blowing up that tank – you really showed yourself.<br><br>(She smiles at him.)<br><br>KELLER: But it didn't work.<br><br>DEX: That's not the point.<br><br>(They gaze at each other.)<br><br><br>VENTILATION FLUE.  Dragging himself along the narrow shaft, Radek mutters to himself.<br><br>ZELENKA: “I'll have the power off in no time.”  (In Czech) Jesus, that's unbelievable.  I'm <I>such</I> a moron.  She'll think I'm a total idiot. <br><br>(He reaches a junction and initially goes straight on, then shuffles backwards and shines his torch down the side turning.)<br><br>ZELENKA (in Czech): Well, what else should I do?  No, not this again ...   <br><br>(Still muttering to himself, he turns and wriggles along that shaft.)<br><br>ZELENKA (in Czech): Don't fit here ...  Ugh, this place stinks!<br><br>(After a while he reaches another junction, but it's going to be difficult to go in any direction because the floor is open and there's a long drop down a deep shaft.  He stares down it.)<br><br>ZELENKA (in Czech): Jesus Maria!<br><br>(He shines his torch along the left and right turnings, then groans.)<br><br>ZELENKA (pathetically in Czech): Oh, tell me this is not happening! <br><br>(Taking a deep breath, he wriggles forward and, wailing plaintively, plunges downwards.)<br><br><br>INFIRMARY.  Ronon shuffles sideways across the floor towards Jennifer.  Smiling, she leans sideways and puts her head on his shoulder.<br><br><br>BOTANY LAB.   As Rodney continues to lie on his back on the floor, Katie sits on a stool nearby and watches him.  His eyes are closed and, oblivious to his girlfriend's needs, he appears to be preparing himself for death.<br><br><br>CORRIDORS.  John, Sam and Lorne gaze up at the opening to the ventilator shaft.<br><br>SHEPPARD: Come on, Radek.<br><br>CARTER: He'll make it.<br><br>(John and Lorne look round at her a little doubtfully but she looks confident until they look away again, then her own doubt creeps into her face.)<br><br><br>INFIRMARY.  Ronon looks down at Jennifer's head leaning against his shoulder.  He gently puts his face into her hair and breathes in deeply.  She lifts her head and smiles at him.<br><br><br>MAIN POWER ROOM.  An alarm is beeping.  With a scream, Radek plummets headfirst through a vent in the ceiling and crashes to the floor.  Groaning, he stumbles to his feet, shaking his right wrist in pain.  Bending down, he picks up his glasses which had fallen off, puts them on, looks around the room and then, still shaking his wrist, goes across to the power levers on the wall and starts to pull them down one by one.<br><br><br>In the Infirmary, Ronon and Jennifer slowly lean towards each other.  Just before their lips meet, all the lights go off.  They pull away from each other and look up in surprise.<br><br><br>In the Power Room, Radek, still shaking his wrist in pain, continues to pull down the power levers.  In the corridor, John, Sam and Lorne look up as the lights go off.  Sam smiles.<br><br>CARTER: He did it!<br><br>(Lorne laughs as John blows out a relieved breath.)<br><br>(In the Power Room, Radek starts pushing all the levers back up again, reinstating the power.)<br><br>(In the Infirmary, as Ronon and Jennifer lean towards each other again, the lights come back on again.  They look round as the doors slide open.)<br><br>(In the corridor, the doors slide open behind Sam and the others.)<br><br>(In Rodney's lab, the bulkhead wall slides up.  Teyla smiles in delight and heads for the stairs.)<br><br>(In the Botany lab, Rodney scrambles to his feet as the doors slide open.)<br><br>McKAY: Oh my God!  Well, they found a cure or figured out how to override the programme!  I don't believe it!  We're gonna make it!<br><br>(He turns and hugs Katie, chuckling as she laughs.)<br><br>McKAY: We're not gonna die!<br><br>(He pulls back, then hesitates as he looks at her holding the ring box.  She looks down at the box, then folds her arms to hide it.  Rodney looks awkward.)<br><br><br>NIGHT TIME.  MESS HALL.  John, Teyla and Ronon are sitting at a table with Radek.<br><br>TEYLA: You crawled the entire way there in those tiny vents?<br><br>DEX: I'm surprised he even fit in there.<br><br>SHEPPARD: Oh, he fit, all right.  There's <I>plenty</I> of room.<br><br>ZELENKA: Well, not <I>plenty</I>.<br><br>SHEPPARD: You should have seen him.  He looked like one of those little hamsters in one of those ...<br><br>ZELENKA: Yes, yes, yes, yes.  Listen, the important thing is I was able to make it and shut off the power in time.<br><br>(Ronon looks at Teyla.)<br><br>DEX: Hey, d'you hear?  McKay thought it was a real outbreak.  He even started getting sick!  Thought he was, um ...<br><br>(He trails off and takes his feet off the chair beside him as Jennifer approaches, smiling.)<br><br>DEX: Hey, uh ...<br><br>KELLER (smiling at all of them): Hi.  Mind if I join you?<br><br>SHEPPARD: Sure, go ahead.<br><br>(Glancing at Ronon significantly, Jennifer puts her tray down and sits down beside him.  Ronon looks awkward, then frowns at John and Teyla who are both looking at him curiously, aware that something is going on.)<br><br>DEX (belligerently): What?<br><br>SHEPPARD (shrugging): Nothin'.<br><br>(Sam comes over to the table.)<br><br>CARTER: Well, it's been several hours now and there is no indication that anyone out there's picked up our alert beacon.  I think we're in the clear.<br><br>SHEPPARD: Well, we should keep an eye out, just in case.<br><br>(Sam looks down at Radek.)<br><br>CARTER: Great work, Radek.  (She pats him on the shoulder.)  Everyone on this base owes you a debt of gratitude.<br><br>ZELENKA (smiling up at her): Oh, thank you.<br><br>(John turns to Teyla.)<br><br>SHEPPARD: McKay would <I>love</I> this.<br><br>(Jennifer laughs and looks at Ronon again.)<br><br><br>BOTANY LAB.  Rodney walks in.<br><br>McKAY: Katie?<br><br>(Katie wheels a trolley of plants in from the next room.)<br><br>BROWN: Hullo.  Rodney.  I see you're feeling better.<br><br>McKAY (awkwardly): Uh, yes.  I, uh, well, I mean, it was probably just, you know, an allergic thing.  I'm fine.<br><br>BROWN: And the quarantine?  Is it true there was no outbreak?<br><br>McKAY: Uh, no.  It was a malfunction.  Uh, a planetary anomaly, um, an ionospheric disturbance.  I've actually recalibrated the system so it'll take into effect future activity, so we should be fine.<br><br>BROWN: Someone said it was Doctor Zelenka that finally turned off the self destruct?<br><br>McKAY: Technically, yes, but it was actually more of a group effort.  But that's not why I came here.  I, um ...  Here's the thing.  Over the last year and a half, I have become aware that I have certain ... I don't wanna use the word “flaws” ... uh, “shortcomings”, perhaps?  For example, on occasion I can be negative ... and demanding and-and-and a tad arrogant, but I'm also finding that just being aware of your, uh, shortcomings is just the first minute step on the road to betterment, and the real trick seems to be to actually <I>do</I> something about it.<br><br>BROWN (smiling): I know.  It's difficult.<br><br>McKAY: The point is, I came here earlier today to propose marriage to you, but after what happened, I realise that I may have been rushing things.  I just don't think I'm ready for this.<br><br>BROWN: I know.<br><br>McKAY: You do?<br><br>BROWN (nodding): I don't think I'm ready either.<br><br>McKAY: Oh.  OK.  That's good.  (He briefly laughs nervously.)  It's not that my feelings have changed or diminished ...<br><br>BROWN: No.  No, of course not.<br><br>McKAY: It's just, I mean ...  (He sighs.)  If we got married now, I would make your life miserable, and you are <I>far</I> too good a person for that.<br><br>BROWN (softly): Don't be so hard on yourself.<br><br>(Rodney smiles.)<br><br>McKAY: Yeah.  Easier said than done, right?<br><br>(Katie smiles briefly, then her face becomes sad.  Rodney gazes at her.)<br><br>McKAY: OK.  So – rain check on lunch?<br><br>BROWN (smiling): Absolutely.<br><br>McKAY (smiling): All right.<br><br>(He turns to walk away.)<br><br>BROWN: Rodney?<br><br>McKAY (turning back to her): Hmm?<br><br>(She looks at him for a moment.)<br><br>BROWN: Bye.<br><br>McKAY: Right.  (He waves to her.)  Bye.<br><br>(He turns and walks to the other side of the lab doors, then turns back to look at her again.  She gazes at him as the doors close between them.  Rodney turns, his face sad, and walks away.)
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="412.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s4/413.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="414.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s4/index.shtml">
+<IMG SRC="/graphics/title_s4episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Four Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="401.shtml" CLASS="list">Adrift</A><BR><A HREF="402.shtml" CLASS="list">Lifeline</A><BR><A HREF="403.shtml" CLASS="list">Reunion</A><BR><A HREF="404.shtml" CLASS="list">Doppelganger</A><BR><A HREF="405.shtml" CLASS="list">Travelers</A><BR><A HREF="406.shtml" CLASS="list">Tabula Rasa</A><BR><A HREF="407.shtml" CLASS="list">Missing</A><BR><A HREF="408.shtml" CLASS="list">The Seer</A><BR><A HREF="409.shtml" CLASS="list">Miller's Crossing</A><BR><A HREF="410.shtml" CLASS="list">This Mortal Coil</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="411.shtml" CLASS="list">Be All My Sins Remember'd</A><BR><A HREF="412.shtml" CLASS="list">Spoils of War</A><BR><A HREF="413.shtml" CLASS="list">Quarantine</A><BR><A HREF="414.shtml" CLASS="list">Harmony</A><BR><A HREF="415.shtml" CLASS="list">Outcast</A><BR><A HREF="416.shtml" CLASS="list">Trio</A><BR><A HREF="417.shtml" CLASS="list">Midway</A><BR><A HREF="418.shtml" CLASS="list">The Kindred, Part 1</A><BR><A HREF="419.shtml" CLASS="list">The Kindred, Part 2</A><BR><A HREF="420.shtml" CLASS="list">The Last Man</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Four</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B0019J2UHW/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B0017MO11O/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls4.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="412.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s4/413.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="414.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

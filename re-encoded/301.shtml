@@ -1,0 +1,527 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "No Man's Land" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				<A HREF="/atlantis/s3/301.shtml#summary">Summary</A>
+				 | <A HREF="/atlantis/s3/transcripts/301.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=549">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=292">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s3/301.shtml#production">Production</A>
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=30981">Fan Reviews</A>
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=30969">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s3/301.shtml"><IMG SRC="/atlantis/graphics/301_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="NO MAN'S LAND" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://click.linksynergy.com/fs-bin/stat?id=2cvd55rHd*s&offerid=78941&type=3&subid=0&tmpid=1826&RD_PARM1=http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewTVSeason?i=191995843&id=183132229&s=143441&partnerId=30" TARGET="_blank"><img height="15" width="61" border="0" alt="iTunes" src="/store/graphics/itunes_button.gif"></img></a> &nbsp; <a href="http://www.amazon.com/exec/obidos/ASIN/B000ICNWZ0/bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 301<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 3, Disc 1<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 07.14.06<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 09.17.07<BR>
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm1236625/" TARGET="_blank">Martin Gero</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0939869/" TARGET="_blank">Martin Wood</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">The team desperately attempts to stop two Wraith hive ships from reaching Earth.  Sheppard must rely on an old foe to rescue McKay and Ronon.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    Previously on <I>Stargate Atlantis</I>:<br><br>Lieutenant Michael Kenmore stares in horror as he watches the video recording of himself, as a Wraith, struggling against his captors.<br><br>SHEPPARD: You're gonna need a name. How does "Mike" sound?<br><br>(In the Atlantis Conference Room)<br><br>SHEPPARD: The retrovirus works. So much is clear. Just look at the guy.<br><br>(On a Wraith planet, Teyla stares in horror as Michael begins his transformation back into a Wraith.)<br><br>MICHAEL: I'm returning to what I am.<br><br>(In the Conference Room)<br><br>McKAY: Not only has our dear lieutenant rejoined the Wraith, but he's taken with him the knowledge that Atlantis still exists.<br><br>(In the Control Room)<br><br>WEIR: We have detected a hive ship heading towards Atlantis. I think we can assume it's Michael.<br><br>(In Weir's office)<br><br>HIVE QUEEN: Your retrovirus will allow us to feed off enemy Wraith.<br><br>(In the Isolation Room, the Hive Queen feeds off a Wraith which has been turned into a human.)<br><br>(In the Control Room)<br><br>TECHNICIAN: Receiving transmission.<br><br>WEIR: What is, exactly?<br><br>McKAY: Only everything you've ever wanted to know about Wraith technology but were afraid to ask.<br><br>(In the Conference Room)<br><br>SHEPPARD: Once we get in range, we can beam the canister into the CO2 chamber and boom! One hive ship de-Wraithified.<br><br>(On the hive ship)<br><br>WRAITH (to Rodney and Ronon): There's been a ... change in plans.<br><br>(On board Daedalus)<br><br>KLEINMAN: Two hive ships bearing down on our position, sir. One of them is the friendly.<br><br>(The hive ships open fire on Daedalus.)<br><br>(On the hive ship, Rodney and Ronon are held captive inside food storage cocoons.)<br><br>WRAITH: The Queen wants you to live long enough to witness the fruits of your labour. <br><br>(In Elizabeth's office)<br><br>ZELENKA: Within the hive ship's schematics was a worm-like computer virus.<br><br>WEIR: What did they get?<br><br>ZELENKA: The location of every world on our database.<BR><br><br>(End flashbacks. The new episode starts shortly before the end of the last episode. Daedalus is under attack from the hive ships. It returns fire but is seriously outgunned. On the Bridge, Lieutenant Colonel John Sheppard stands behind Colonel Steven Caldwell who is sitting in the command chair.)<br><br>SHEPPARD: With some 302s we might be able to take out the hyperdrive -- save us some time.<br><br>CALDWELL: Do it!<br><br>(John turns to run from the Bridge but ducks as more consoles explode.)<br><br>KLEINMAN: Shields are at sixty percent!<br><br>(John races from the Bridge.)<BR><br><br>SHORTLY AFTERWARDS. Four F-302s fly out of the hangar and head towards the hive ships. John is piloting one of the 302s.<br><br>DAGGER TWO: I've got incoming.<br><br>SHEPPARD: Daggers Three and Four, try to keep these Darts off our six.<br><br>DAGGER TWO: Roger that.<br><br>(The 302s head towards the hive ships. One of them -- presumably John's ship -- fires rockets towards a hive ship but they explode far away from the ship. The 302s continue dodging in and out of the Darts pursuing them.)<br><br>DAGGER TWO CO-PILOT: Half the bogies are pursuing Daggers Three and Four. We've got the other half hot on our tail.<br><br>DAGGER TWO: Taking fire. I've lost the generator.<br><br>SHEPPARD: Stand by to break left on my mark ... Mark!<br><br>(He flies on and prepares to fire a rocket.)<br><br>SHEPPARD: Fox four.<br><br>(He fires the rocket, which soars towards a group of Darts near one of the hive ships. The rocket impacts and the Darts are destroyed. John flies through the debris.)<br><br>SHEPPARD: We're in the clear. Continue to target.<BR><br><br>DAEDALUS. Captain Dave Kleinman, manning the weapons, reports.<br><br>KLEINMAN: Shields are under twenty percent.<br><br>CALDWELL: Colonel Sheppard, get your flight back to the ship. We need to jump out of here as soon as possible.<br><br>(Out in space, John's F-302 has almost reached the hive ship.)<br><br>SHEPPARD: Two minutes. I can shut down their hyperdrives.<br><br>CALDWELL: Unless you can shut down their weapons, it's not gonna do us much good.<BR><br><br>F-302. Alarms sound as John's screen shows two Darts behind him.<br><br>SHEPPARD: Dammit! Dagger Two, I could use some cover on my attack run to the target hyperdrive.<br><br>DAGGER TWO: Roger that, Leader. I'm on my way.<br><br>(The Darts race towards John's 302, but shots from Dagger Two destroy them. Dagger Two soars through the wreckage. The pilot looks around.)<br><br>DAGGER TWO: The remaining Darts are returning to the hives.<br><br>SHEPPARD: Can you go to max thrust?<br><br>DAGGER TWO: Negative.<br><br>SHEPPARD: Head back to the Daedalus.<br><br>DAGGER TWO: Roger that.<BR><br><br>DAEDALUS.<br><br>KLEINMAN: The hives are opening hyperspace windows.<br><br>(Caldwell stares out of the windshield as the two hive ships disappear into hyperspace. He stands and walks to the front of the Bridge.)<br><br>CALDWELL: Why the hell'd they do that?<br><br>KLEINMAN: Three of our 302s are returning to Daedalus, sir.<br><br>CALDWELL: Sheppard?<br><br>KLEINMAN: His fighter isn't one of them. The only contacts I have on screen are ... wreckage.<br><br>CALDWELL: What about his locator beacon?<br><br>KLEINMAN: Nothing, sir. He's just gone.<br><br>(Caldwell looks away.)<br><br>CALDWELL: Understood.<BR><br><br>F-302. John takes off his air mask and looks up through the canopy of his ship.<br><br>SHEPPARD: OK. This is new.<br><br>(The camera pulls back to show that the F-302 has landed on a ledge on the underside of one of the hive ships. The two hive ships are plunging through hyperspace.)<BR><br><br>ATLANTIS. Caldwell and a couple of his crew come into the Control Room to report to Doctor Elizabeth Weir. Teyla Emmagan is with her.<br><br>WEIR: Colonel Caldwell. What's the status of the repairs?<br><br>CALDWELL: Ongoing. We lost a few key personnel in the attack.<br><br>(Teyla lowers her head. Elizabeth's face is full of grief. Obviously they have already been told about John's disappearance.)<br><br>WEIR: Yes, we did.<br><br>CALDWELL: I'm sorry.<br><br>WEIR: So am I. (She lowers her head briefly, fighting against her emotions.) But this isn't the time to mourn them. <br><br>(She leads Caldwell and Teyla into her office. Doctor Radek Zelenka follows them in.)<br><br>WEIR: I just briefed General Landry. We're to check in in an hour and advise him of our response to this.<br><br>CALDWELL: I've got a broken ship and serious casualties. I don't know what sort of response you have in mind but ...<br><br>WEIR: I want you to redeploy immediately.<br><br>CALDWELL: Excuse me?!<br><br>WEIR: So long as they're still in striking distance, we have to at least try.<br><br>CALDWELL: You know we can't intercept them in hyperspace.<br><br>(Elizabeth looks at Radek.)<br><br>WEIR: Radek?<br><br>ZELENKA: Well, obviously they've upgraded their FTL drives using the information they were able to steal from our database -- the Aurora mission reports ...<br><br>CALDWELL: Obviously.<br><br>ZELENKA: ... However, the ships are organic in nature. They <I>will</I> need to make brief pauses to recover from the effects of hyperspace radiation.<br><br>WEIR: Where and when?<br><br>ZELENKA: Uh, yeah. It will take some time to calculate.<br><br>WEIR: Go.<br><br>ZELENKA: OK. (He turns and leaves the room.)<br><br>CALDWELL: Look, Doctor Weir, I wanna go after these bastards as much as you do, but the Daedalus is in no position to fight right now. Our shields are severely depleted and several decks are inaccessible. Even if we <I>could</I> catch up with them, I don't know how long we'd last.<br><br>WEIR: Which is why I'm committing the Orion as well.<br><br>TEYLA: It was recalled the moment the Wraith computer virus was revealed.<br><br>CALDWELL: And it's in no better shape than Daedalus!<br><br>WEIR: It will fly, and by the time you reach the hive ships, it should also be able to fight.<br><br>CALDWELL: And if it isn't?<br><br>(Elizabeth steps towards him, her face resolute.)<br><br>WEIR: Currently, Stargate Command has no vessels capable of engaging the hive ships before they reach Earth. They <I>cannot</I> be allowed to get that far, Steven.<br><br>(Caldwell swallows and looks away for a moment, then looks back at her.)<br><br>CALDWELL: You know what you're asking me to do.<br><br>WEIR: I do.<br><br>(Caldwell nods and looks away, thinking, then looks back at her.)<br><br>CALDWELL: There's still repairs that need to be made.<br><br>(Teyla looks down, realising that this may well be a suicide mission. Elizabeth keeps her gaze on Caldwell.)<br><br>WEIR: Do what you have to do.<br><br>(Caldwell nods and walks away. Elizabeth exchanges a glance with Teyla, hating what she has had to compel Caldwell to do.)<BR><br><br>HYPERSPACE. FOOD STORAGE CHAMBER. Doctor Rodney McKay and Ronon Dex are still inside adjoining cocoons, which are now covered with webbing. Only the men's faces are showing. Ronon, true to his nature, is struggling to tear himself free.<br><br>McKAY: They couldn't have. Even if they somehow deduced the location of Earth, they still wouldn't be able to get there -- not unless they ... (he pauses, thinking) ... they downloaded something along with the hive ship plans. Something like spyware. Something like when I stupidly downloaded porn ... (he glances in the direction of Ronon's cocoon) ... music! When I downloaded music! (Ronon takes no notice, continuing to struggle.) It has to be ... I did this. I'm responsible for the destruction of my own planet.<br><br>DEX: If anyone was going to do it, it'd be you.<br><br>McKAY: Thank you! Thank you <I>so</I> much for that!<br><br>DEX: Stop worrying about it now. Just focus.<br><br>McKAY: Focus on what?! What is there to focus on?! I'm stuck in a cocoon!<br><br>DEX: On getting out of here.<br><br>McKAY: Oh, right, of course! Why didn't I think of that?! Of course. Here goes ... ummm ... no, still can't move.<br><br>(Ronon continues to try and force himself through the webbing.)<br><br>McKAY: I'm pretty sure they're struggle-proof there, big guy.<BR><br><br>F-302. John is looking at his screens.<br><br>SHEPPARD: OK. Can't sit here forever.<br><br>(He pushes a button on the console and a message comes onto the screen: DISENGAGE DOCKING CLAMPS? Underneath are two buttons marked YES and NO. John reaches towards the YES button but doesn't touch it yet.)<br><br>SHEPPARD: Hit em while they're in hyperspace. They'll never know what happened.<br><br>(He moves his finger towards the NO button.)<br><br>SHEPPARD: Is that even possible?<br><br>(Suddenly he hears Rodney's voice in his head.)<br><br>McKAY: There is no reason to believe that their hyperspace field is any different than ours ...<br><br>(John flashes back to a memory of himself in the Atlantis Commissary. He's sitting at a table with Rodney and Radek, who are arguing.)<br><br>McKAY: ... and we can't launch 302s from the Daedalus while in hyperspace.<br><br>ZELENKA: I'm simply talking about manoeuvring <I>within</I> the field, <I>not</I> passing through it. (He looks at John.) What do <I>you</I> think?<br><br>(John smiles. We then see why he's smiling. There's a pretty woman sitting at the next table and she is smiling flirtatiously back at him.)<br><br>ZELENKA: Colonel?<br><br>SHEPPARD: Hmm? What? Yes. (He nods.)<br><br>McKAY: He's not listening.<br><br>(The flashback ends. John sighs.)<br><br>SHEPPARD: I gotta pay more attention to those guys.<br><br>(He presses the NO button.)<BR><br><br>INSIDE THE HIVE SHIP. Michael walks down a corridor into the Hive Queen's chamber. She is sitting on a throne-like chair and talking with another Wraith. As Michael reaches the steps leading up to the throne, she snarls at the Wraith and jerks her head at it to indicate that it should leave. It walks away and she looks down at Michael.<br><br>HIVE QUEEN: Yes, Michael? (Her voice is full of scorn as she uses the name given to him by the humans.)<br><br>MICHAEL: You should have told me. (The Queen looks at him enquiringly.) That we were going to betray the Atlanteans.<br><br>HIVE QUEEN: Are you feeling sympathy for them?<br><br>MICHAEL: No. But I don't understand why I wasn't told. I told you of their plan because I believed it was a viable way ...<br><br>HIVE QUEEN (interrupting): You're only alive because you still may prove to be useful. But I fear, <I>Michael</I>, that the lingering stench of what they have transformed you into will never fade.<br><br>(Michael snarls, then turns and walks away.)<BR><br><br>EARTH. CHEYENNE MOUNTAIN COMPLEX. STARGATE COMMAND (S.C.G.). In the Control Room, the Stargate is open. Elizabeth is reporting over a video link to General Hank Landry.<br><br>WEIR: In approximately one hour, the Wraith will drop out of hyperspace ... (she pushes a button and a star map appears on the screens) ... here. It's just outside of the Pegasus galaxy. There, they will pause for fifteen hours. If Daedalus and Orion break orbit on our current schedule, they should be able to reach those coordinates in just under fourteen hours, best possible speed.<br><br>LANDRY: A narrow window.<br><br>(Elizabeth nods in agreement.)<br><br>WEIR: It's the <I>only</I> window, sir.<br><br>LANDRY: Understood. Now, the International Oversight Advisory want you to brief them on this matter.<br><br>WEIR: When would you like me to dial in again?<br><br>LANDRY: You misunderstand me. I mean in person, and I mean right now. The President himself assigned ...<br><br>WEIR (interrupting): I can't just leave, not now.<br><br>LANDRY: I'm afraid that's not up to you.<br><br>WEIR: There is far too much going on here ...<br><br>LANDRY: Doctor. You've done all you're going to do for now. I need you to step through that Gate. They're waiting for you in my Briefing Room.<br><br>(Elizabeth hesitates.)<br><br>LANDRY: Doctor Weir?<br><br>WEIR: I see.<br><br>(She nods to Landry, who smiles in sympathy at her predicament. Elizabeth turns and takes a laptop computer from the console she is sitting at. She stands and turns to Teyla.)<br><br>WEIR: Teyla. We are awaiting several teams to return from their missions. Once that happens, I'd like to suspend all Gate travel until this whole thing is over.<br><br>TEYLA: Of course.<br><br>(Elizabeth looks at the screen on the wall showing Landry's image, then looks around the Control Room before turning to Teyla again.)<br><br>WEIR: And I'll need you to dial in once the Daedalus is ready.<br><br>TEYLA: I know what to do, Elizabeth.<br><br>WEIR: Of course you do.<br><br>TEYLA: I will see you when you return.<br><br>WEIR: Thank you.<br><br>(They smile at each other, then Elizabeth walks away. Teyla sits down at the console. Elizabeth walks down the stairs into the Gateroom and, looking around the room one last time, walks towards the Stargate and steps into the event horizon.)<BR><br><br>WORMHOLE TRAVEL.<BR><br><br>S.C.G. GATEROOM. Elizabeth comes through the Gate and walks down the ramp. General Landry is waiting at the bottom.<br><br>LANDRY: Welcome back to Earth.<br><br>WEIR: Thank you, General. (Sarcastically) It's wonderful to be here.<br><br>LANDRY: I can see that!<br><br>(They turn and start to leave the Gateroom.)<br><br>WEIR: You know I considered disobeying your order? There wouldn't have been too much you could do about it.<br><br>LANDRY: You made the right decision in coming.<br><br>WEIR: We're in the middle of a crisis, General. This is absolutely ...<br><br>LANDRY (talking over her): Don't bite <I>my</I> head off, Elizabeth! The recall order didn't come from me.<br><br>WEIR: Who it came from doesn't matter.<br><br>LANDRY: What if I told you it came from the President?<br><br>WEIR: I wouldn't believe you.<br><br>LANDRY: And you'd be right. But in a couple of weeks, there could be aliens on our doorstep determined to feed on the human race. The President had no choice but to accede to the I.O.A.'s demand that you be brought back to explain yourself.<br><br>(They have reached the Control Room. Elizabeth gazes up the stairs which lead to the Briefing Room and sighs deeply, then looks at Landry again.)<br><br>WEIR: So what do they <I>really</I> want?<br><br>LANDRY: To point fingers, and cover their asses.<br><br>WEIR: I am honestly not sure how I will respond to <I>that</I>, sir.<br><br>LANDRY: They're bureaucrats, Elizabeth. You'll have em for breakfast!<BR><br><br>HYPERSPACE. HIVE SHIP. Michael walks along a corridor, but suddenly finds his way blocked when two guards step into his path.<br><br>MICHAEL: There is work I must attend to.<br><br>(He glares at the guards but they don't move.)<br><br>MICHAEL: Stand aside!<br><br>(The guards still don't move.)<br><br>MICHAEL (angrily): Am I to sit quietly in my quarters?<br><br>(The guards don't respond. Michael glares at them for a few more seconds, then snarls at them before turning and walking away.)<BR><br><br>FOOD STORAGE CHAMBER. Ronon is still struggling against the webbing of his cocoon. Rodney is completely still inside his cocoon.<br><br>McKAY: Now, you see, they're actually quite comfortable. Surprisingly warm; take all the pressure off the spine. I suppose it's as good a place as any to witness the end of humanity as we know it.<br><br>DEX: You're wasting your energy talking.<br><br>McKAY: OK, let's say a magic fairy comes down and grants you one wish and we break out. Then what, huh? We're still in a hive, we're still travelling through hyperspace, probably in the <I>massive</I> void between our two galaxies where there aren't even planets, let alone Stargates. What then, huh? We fly home on the wings of imagination, is that what we do, Ronon?<br><br>DEX: You can sit here and die if you like, but I'm not giving up.<br><br>McKAY: Oh, fine! I <I>will</I>.<br><br>DEX: Fine! (He continues to struggle.)<BR><br><br>SPACE. The two hive ships come out of hyperspace. In the F-302, John looks up at the stars.<br><br>SHEPPARD: OK. Time to do some damage. (He activates the comms.) Ronon, Rodney, can you hear me?<br><br>(The view switches to the radios and other kit that have been taken off Rodney and Ronon. The gear is lying on a table inside the hive ship.)<br><br>SHEPPARD (over radio): Rodney? I know this is a long shot, but if you can hear me, please respond.<br><br>(Michael is in the same room as the radios. He had been sitting on a bench by the window but as he hears Sheppard's voice, he walks over to the door of the room and closes it.)<br><br>SHEPPARD (over radio): If you're near a radio, I need you to come in. I need to know your location. Guys?<br><br>(Michael picks up a radio and activates it.)<br><br>MICHAEL: Colonel Sheppard. Is that you?<br><br>(In the 302, John stares in surprise.)<br><br>SHEPPARD: Who's this?<br><br>MICHAEL: You know me as Michael.<br><br>SHEPPARD: Sorry. Got the wrong number.<br><br>MICHAEL: Ronon and Doctor McKay are still alive.<br><br>SHEPPARD: What are you gonna do with them?<br><br>MICHAEL: If you want them to live, listen to me. I don't know how you got aboard, but if your friends are in pursuit, you need to disable these ships in order for them to reach us.<br><br>SHEPPARD: If you really wanna help, why don't you just <I>do</I> that?<br><br>MICHAEL: They would know.<br><br>SHEPPARD: Aren't <I>you</I> "they"?<br><br>MICHAEL: Please believe me when I say I was as deceived as you were.<br><br>SHEPPARD: Oh, I don't know. I was pretty deceived.<br><br>MICHAEL: It seems, Colonel, that because of what you did to me, the Wraith no longer see me as one of their own.<br><br>SHEPPARD: Oh. <I>That's</I> why you wanna help, because you don't feel welcome.<br><br>MICHAEL: We don't have time to discuss this.<br><br>SHEPPARD: Sure we do. I've got, uh, a good three hours of air left.<br><br>MICHAEL: Where are you?<br><br>SHEPPARD: Wouldn't you like to know?<br><br>MICHAEL: I need to know what level you're on so I can guide you from there.<br><br>SHEPPARD: You mean trust you?<br><br>MICHAEL: Are you in a position not to?<br><br>SHEPPARD: Oh ... I've got you right where I want you.<br><br>MICHAEL: I doubt I'll be allowed to live much longer, and yet I very much want to continue living. If you want to survive as I do, then I suggest you tell me where you are.<br><br>SHEPPARD: I'm outside the hive in a 302, about to blast your ship. D'you still wanna help?<br><br>MICHAEL: Target the ventral hyperdrive generators. You'll be most effective.<br><br>SHEPPARD: Yeah. That's what <I>I</I> was thinkin'.<br><br>MICHAEL: Then I suggest you act now, before you are discovered.<BR><br><br>S.C.G. BRIEFING ROOM. Elizabeth is sitting at the table opposite three members of the I.O.A.: Richard Woolsey, Ambassador Shen and an English ambassador.<br><br>WEIR: The leader of the hive presented a scenario which made it seem we were under a time constraint. To speed up the problem-solving, we distributed the file.<br><br>SHEN: And played right into their hands.<br><br>WEIR: ... Yes.<br><br>WOOLSEY: In fairness, Doctor Weir kept us informed of every action they took along the way.<br><br>SHEN: And we supported her recommendations, I know. (She looks at Elizabeth.) But clearly we were not in possession of all the facts.<br><br>WEIR: Obviously neither were we, Ambassador.<br><br>WOOLSEY: So what measures have you taken to prevent the Wraith from reaching Earth?<br><br>WEIR: I was coordinating a strike against the hive ships when you recalled me.<br><br>ENGLISH AMBASSADOR: With what?<br><br>WEIR: With everything we've got.<br><br>SHEN: Is that wise?<br><br>WEIR: General Landry has informed me that in light of fleet resources committed to fighting the Ori, the weapons platform in Antarctica, powered by a pair of Mark Two generators, would be Earth's only defence. Now, I believe it would be <I>far</I> better to stop them while they're still within reach of Atlantis.<br><br>WOOLSEY: Wouldn't it have been more prudent to send the ZeeP.M. back to Earth on the Daedalus, ensuring successful operation of the Antarctic weapons platform when the Wraith arrive?<br><br>WEIR: The Daedalus suffered severe damage during the first battle. A long journey at full power was out of the question ... and there is no way of knowing how much faster the Wraith ships have become.<br><br>SHEN: You would risk the lives of everyone aboard those ships in order to undo your mistake?<br><br>(Elizabeth lowers her head for a moment. Woolsey glances at Shen, unhappy with her line of questioning. Then Elizabeth raises her head again, her face determined.)<br><br>WEIR: Daedalus is in orbit above Atlantis, performing emergency repairs. There is still time to beam the ZeePM aboard. But either plan will require Daedalus to break orbit within the next hour.<br><br>ENGLISH AMBASSADOR: Then, if you'll excuse us, we need some time to discuss our options.<br><br>WEIR: I have instructed Atlantis to contact the S.C.G. when both Daedalus and Orion are ready to leave. (She stands.) If you would like to overturn my standing orders at that time, go right ahead -- but you will have to fire me first.<br><br>(She walks away.)<BR><br><br>HIVE SHIP. FOOD STORAGE CHAMBER. Ronon is still struggling. Rodney still isn't. He talks quietly, more to himself than to Ronon.<br><br>McKAY: Wonder what they'll do to us? Feed on us, probably. I mean, that's ... that's what they do.<br><br>DEX: It's not gonna come to that.<br><br>McKAY: Maybe. (He perks up a little.) Earth'll probably mount some kind of defence ... (he loses his enthusiasm again) ... in which case I imagine death would be instantaneous. Unless we're trapped on a deck in a fire or something, then we'd be burned alive. Well, burned alive or suffocate. I wonder what'd be worse: being life-sucked by the Wraith or, or, burned alive. I honestly couldn't consider two worse options.<br><br>DEX: Stop talking.<br><br>McKAY: OK, you know what? Make me!<br><br>(Finally Ronon manages to force one hand through the webbing.)<br><br>McKAY: What are you doing?<br><br>(Ronon has a blade in his hand and uses it to begin slashing his way through the webbing.)<br><br>McKAY: Where did you get that?!<br><br>(With a huge effort, Ronon pushes himself through the slashed webbing.)<br><br>DEX: I was trying to get my hand free so I could get to it.<br><br>McKAY: Would it have killed you to tell me?!<br><br>(Roaring with the effort, Ronon finally pulls himself free. He walks over to Rodney's cocoon. He still has large pieces of webbing stuck to his body.)<br><br>DEX: Maybe I would have if you'd shut up for more than a minute.<br><br>McKAY: What?! Don't just stand there -- cut me loose!<br><br>DEX: Only if you put an end to all this "We're gonna die, there's no hope" talk.<br><br>McKAY: Well, now there <I>is</I> hope!<br><br>(Ronon smiles slightly, then starts to cut into the webbing on the edge of Rodney's cocoon.)<br><br>DEX: Ready?<br><br>McKAY (plaintively): No!<br><br>(Ronon cuts down the side of the webbing and peels it back. Rodney tries to pull himself free but can't manage.)<br><br>McKAY: A little help, would you?!<br><br>(Ronon grabs him and pulls him free. Like Ronon, Rodney still has large pieces of webbing stuck to him.)<br><br>McKAY: Oh! Oh, it's freezing out here!<br><br>DEX: Would you prefer to go back in?<br><br>McKAY: No!<br><br>DEX: So now what? (He starts trying to pull some of the webbing off himself.)<br><br>McKAY: What?<br><br>DEX: How do we get out of here?<br><br>McKAY (looking down at the webbing stuck to himself): Well, I don't ... (He looks up, irritated.)<br><br>DEX: What?<br><br>McKAY: You said no more death talk.<br><br>DEX: McKay?<br><br>McKAY: Look, fine, we're out of the cocoons. So what? We're still stuck on the ship and there's no way off without ... well, any survivable way.<br><br>DEX: You'll think of something.<br><br>McKAY: It's not a question of thinking ...<br><br>DEX: You'll <I>think</I> of something.<br><br>McKAY: Fine. Can we at least go somewhere else?<br><br>(Ronon has pulled as much of the webbing off himself as he can, and now turns to Rodney.)<br><br>McKAY: Can you get this off me? (Ronon starts tugging at his webbing.) It's down my back, down my back.<br><br>(Ronon continues to pull at the webbing as they start to make their way out of the chamber.)<BR><br><br>EARTH. S.C.G. In the Control Room, Chief Master Sergeant Walter Harriman is sitting at the control desk. Elizabeth is pacing up and down the room, awaiting a call from Atlantis. Woolsey comes in and walks over to her.<br><br>WEIR: So, what do they wanna do?<br><br>WOOLSEY: They're still arguing about it.<br><br>(Elizabeth grimaces. Just then the Stargate begins to dial.)<br><br>WEIR: Of <I>course</I> they are!<br><br>HARRIMAN: Incoming wormhole.<br><br>(The Stargate kawhooshes. The Canadian technician's voice comes over the radio.)<br><br>TECHNICIAN: This is Atlantis. We have a scheduled check-in with Doctor Weir.<br><br>HARRIMAN: Stand by, Atlantis.<br><br>(Elizabeth looks at Woolsey.)<br><br>WOOLSEY: They haven't reached a decision.<br><br>WEIR: And they don't <I>want</I> to, Mr Woolsey, because if they agree or disagree with me, then they have to take some sort of responsibility. No, they'd rather have someone to blame. <I>I</I> give this order, either way they have a scapegoat if something goes wrong. It's all part of the game.<br><br>(Walter looks up at Elizabeth.)<br><br>HARRIMAN: Ma'am?<br><br>(Elizabeth considers the situation for a moment, then resolutely steps forward to the microphone.)<br><br>WEIR: Teyla?<br><br>(In the Atlantis Control Room, Teyla is waiting.)<br><br>TEYLA: Yes, Elizabeth?<br><br>WEIR: Tell Colonel Caldwell to proceed with the mission as planned.<br><br>(Teyla bows her head.)<br><br>WEIR: And Godspeed.<br><br>TEYLA: I will tell him.<BR><br><br>DAEDALUS. Caldwell is walking through the corridors. He activates his headset radio.<br><br>CALDWELL: Hermiod, what's our status?<br><br>(In the Engine Room, Hermiod the Asgard reports.)<br><br>HERMIOD: Shields are at full strength. I have rerouted all non-essential power in order to ensure power levels for a longer period.<br><br>(Caldwell meets up with Kleinman.)<br><br>CALDWELL: I want all operable missile tubes loaded with Mark Three tactical warheads.<br><br>KLEINMAN: That'd be every one of our nukes, sir.<br><br>CALDWELL: I'm aware of that. Secondly, I want to disable all firing safeties to enable the launch of every one of our missiles the moment we exit hyperspace.<br><br>(They reach the Bridge and take their seats.)<br><br>KLEINMAN: I'm not even sure that's possible.<br><br>CALDWELL: Make it possible, please.<br><br>KLEINMAN: Yes, sir.<br><br>(Above Daedalus, a shadow appears over the ship. Caldwell speaks into comms.)<br><br>CALDWELL: Major Lorne, we're approaching our T-Zero.<br><br>(The shadow is that of Orion flying into position. Major Lorne is sitting in the Captain's chair on the Bridge as various personnel, including Radek, are busy at the consoles.)<br><br>LORNE: Zelenka says she'll fly, sir, but -- as of right now -- that's about all she <I>can</I> do.<br><br>CALDWELL: You'll have thirteen hours en route to get your weapons and shields online, but we need to leave right now to make this window. Are you go or no go?<br><br>LORNE: We're go, sir.<br><br>CALDWELL: Very well. (To his pilot) On my mark. Three, two, one, mark.<br><br>(A hyperspace window appears in front of Daedalus and the ship leaps into it. Seconds later, Orion forms its own window and leaps into it.)<BR><br><br>HIVE SHIP. F-302. John is making his final preparations as he speaks into his radio.<br><br>SHEPPARD: Are you sure McKay and Ronon are nowhere near the area I'm about to light up?<br><br>MICHAEL: I'm certain. Good luck.<br><br>SHEPPARD: Thanks! It'll be a walk in the park ... a very scary park, filled with monsters who are trying to kill me.<br><br>MICHAEL: I don't understand.<br><br>SHEPPARD: Never mind.<br><br>(He puts his oxygen mask on, then reaches out to the screen which is asking DISENGAGE DOCKING CLAMPS? He pushes the YES button. The screen changes to a message saying DISENGAGING.)<br><br>SHEPPARD: Operation "This Will Most Likely End Badly" is a go.<br><br>(The F-302 takes off and swings around the hive ship until it reaches the ventral hyperdrive generators. John fires a rocket which flies towards the hive ship and impacts the generators, causing a massive explosion. Inside the ship, Michael struggles to stay on his feet as the ship shakes.) <br><br>SHEPPARD: Target is destroyed.<br><br>MICHAEL: Disable the second hive as quickly as possible. Their fighters will already be headed your way.<br><br>(In fact, Darts are streaming out of both ships and heading for John's ship.)<br><br>SHEPPARD: OK, how about some of this help you were talking about?<br><br>MICHAEL: I told you to target the hyperdrive.<br><br>SHEPPARD: I already <I>knew</I> that!<br><br>MICHAEL: There is nothing I can do.<br><br>SHEPPARD: Like hell there isn't! Call off the Darts.<br><br>MICHAEL: They won't listen to me.<br><br>SHEPPARD: This is <I>not</I> helpful, Michael!<br><br>(He throws his 302 around the sky, trying to avoid the barrage of fire coming from the Darts, but there are too many of them and eventually a lucky strike blows off one of his wings. The fighter rolls helplessly in space.)<BR><br><br>EARTH. S.C.G. Elizabeth is walking through the corridors. Woolsey hurries to catch up with her.<br><br>WOOLSEY: Doctor Weir.<br><br>(Elizabeth glances round at him, then keeps walking.)<br><br>WEIR: What can I do for you, Mr Woolsey?<br><br>WOOLSEY: The ambassadors have finished convening.<br><br>WEIR: Oh, good timing(!)<br><br>WOOLSEY: Uh, yes. They'd like to continue debriefing you now.<br><br>(He points his thumb back towards the Briefing Room. Elizabeth laughs and keeps walking.)<br><br>WEIR: Yeah, I bet they would.<br><br>WOOLSEY: Excuse me?<br><br>(Elizabeth looks round at him briefly.)<br><br>WEIR: No. I'm not gonna sit there and have them rake me over the coals about every decision I've made these past two years that they don't agree with in hindsight.<br><br>WOOLSEY: Doctor Weir, you know I have the greatest respect for you, but as far as the I.O.A. is concerned, you're not exactly the employee of the month right now.<br><br>(Elizabeth stops walking and turns to face him.)<br><br>WEIR: If the Wraith make it to Earth, then keeping my job will be the least of my concerns.<br><br>(She turns and starts to walk away.)<br><br>WOOLSEY: And if your plan succeeds?<br><br>(Elizabeth stops and turns back to him.)<br><br>WEIR: Then I expect to keep my job, yes, because I did what they apparently are incapable of doing: I made a decision. And the fact is, at this point, there really is nothing we can do but wait and see what happens.<br><br>(She walks away, then turns and calls over her shoulder.)<br><br>WEIR: But give them my best!<BR><br><br>SPACE. One of the hive ships drifts past the broken wing of the F-302 floating in space. Inside the hive ship, some Wraith guards walk along a corridor. Once they have passed, Ronon and Rodney peek around a column they were hiding behind.<br><br>McKAY: We have been walking around here for the better part of a day and I haven't seen one exit sign. Look, sooner or later I'm gonna have to eat something.<br><br>DEX: I think I have a plan.<br><br>McKAY: You? Really?<br><br>DEX: You know all about these ships, right?<br><br>McKAY: Maybe. Why?<br><br>DEX: If I can get you to a control panel, how much damage could you do?<br><br>McKAY: What do you mean?<br><br>DEX: Could you overload the engines and blow up the ship?<br><br>McKAY: How is that an escape plan?!<br><br>DEX: I never said it was an escape plan.<br><br>McKAY: Well, how is that a <I>plan</I>?!<br><br>DEX: <I>You're</I> the one who says there's no way out of this. If we're already dead, I say we take them with us.<br><br>McKAY (plaintively): I suppose I'd rather die as a hero than as a meal.<br><br>DEX: So you can do it?<br><br>McKAY: Yeah, probably.<br><br>DEX: Now you're talkin'.<BR><br><br>Elsewhere on the ship, John has been retrieved from his F-302 and is being dragged along by some guards, preceded by a male Wraith. John is very groggy and can barely keep his feet. Michael approaches them, holding a stunner pistol down by his side.<br><br>WRAITH: You should not be here.<br><br>MICHAEL: She asked me to question the prisoner.<br><br>(The Wraith looks Michael up and down, as if to say, You?!')<br><br>MICHAEL: If you prefer to discuss it with her ...<br><br>(The Wraith's face falls. Obviously he doesn't much fancy a conversation with his Queen. He addresses the guards.)<br><br>WRAITH: Release him.<br><br>(The guards let John go and he stumbles forward. Michael seizes his jacket, then looks back at the Wraith.)<br><br>MICHAEL: I will take him from here.<br><br>(He hustles John away, holding the pistol on him until the other Wraith are out of sight, then he lowers the pistol. In those few seconds, John has managed to pull himself together.)<br><br>SHEPPARD: You had me worried there.<br><br>MICHAEL: You slowed them down -- at least for a little while. We need to get to a transport ship and hope your friends find us.<br><br>SHEPPARD: Not until we free Ronon and McKay.<br><br>MICHAEL: We're headed toward them now. (He takes an Earth pistol out of his coat and hands it to John.)<br><br>SHEPPARD: Now ... (he cocks the pistol) ... <I>that's</I> what I call help.<BR><br><br>HYPERSPACE. DAEDALUS.<br><br>KLEINMAN: Exiting hyperspace in ten seconds.<br><br>CALDWELL: Launch the moment the target is acquired. Don't wait for my order.<br><br>KLEINMAN: Five, four, three ...<br><br>(In space, the hive ships are surrounded by dozens, if not hundreds, of Darts. A hyperspace window opens and Daedalus flies out. Instantly, she deploys all her missiles.)<br><br>KLEINMAN: Missiles are away.<br><br>CALDWELL: Dart activity?<br><br>KLEINMAN: Quite a number of them, sir. They're moving to intercept our missiles.<br><br>CALDWELL (quietly, to himself): Now would be a good time, Orion.<br><br>(We switch to an external view some distance away from Daedalus and see the vast number of missiles heading away from the ship and towards the hives. Many of them explode before they reach the hive ships, impacting with Darts, but at least one reaches one of the hives and a massive explosion goes off at the front of the ship. Inside, Ronon and Rodney stumble as the ship shakes.)<br><br>McKAY: What the hell?!<br><br>(Elsewhere on the ship, Michael and John run to a control panel as alarms sound. Michael activates the panel and looks at it.)<br><br>MICHAEL: One of your ships has launched an attack. The first strike has done serious damage on this hive.<br><br>SHEPPARD: Good!<br><br>MICHAEL: The other hive is undamaged. Their vessel's continuing to engage ...<br><br>SHEPPARD (impatiently): Are we gonna go through the whole play by play, or are we gonna get out of here?<br><br>(Michael looks in both directions along the corridor, then makes a decision.)<br><br>MICHAEL: This way.<br><br>(They race off.)<BR><br><br>Elsewhere, Ronon and Rodney take cover as Wraith run past them. They come out from hiding just as the ship shakes again.<br><br>DEX: The ship's engaged in battle.<br><br>McKAY: With who?<br><br>DEX: Doesn't matter.<br><br>McKAY: Well, it matters to us!<br><br>DEX: Why?<br><br>McKAY: Because if it's our guys, then our chances of survival just went back above zero, albeit a fraction.<br><br>DEX: If it's our guys, all the more reason to damage this ship and help them win the battle. Now, move it.<br><br>(They hurry off.)<BR><br><br>DAEDALUS BRIDGE.<br><br>KLEINMAN: One weapon got through, sir. One of the Wraith ships suffered serious damage, but the other one is ...<br><br>(He pauses as his console beeps.)<br><br>KLEINMAN: Sir, the Orion has arrived. The other hive is moving to intercept.<br><br>CALDWELL: Did they launch their weapons?<br><br>KLEINMAN: Negative, sir.<br><br>CALDWELL: Open a secure channel.<br><br>(The second hive ship turns towards Orion, firing a barrage of weapons at it. Its shields hold.)<br><br>CALDWELL: Major Lorne, now would be a good time to open fire.<br><br>LORNE: Yes, sir, I was just thinkin' the same thing. I gave the order but nothing happened. Zelenka!<br><br>ZELENKA: I'm trying, do prdele! [The last two words are Czech and aren't very polite.]<br><br>LORNE: We're having a little difficulty transferring power from shields to weapons.<br><br>CALDWELL: There's a hive bearing down on your position.<br><br>LORNE: Yes, sir, I see that. Stand by. (He stands up and goes down to Radek.) Doc, you're killing us here.<br><br>ZELENKA (rapidly): OK. I have it. I have it. I have it.<br><br>LORNE: Firing drones!<br><br>(Scores of drones fly out of the top of Orion and head off into the sky. They duck around the incoming Darts and surge towards one of the hive ships before impacting it. Meanwhile the other hive fires at Orion and a couple of its weapons get through the depleted shield and impact the top of the ship. Orion limps away as the drone-attacked hive begins to explode.)<br><br>KLEINMAN: Sir. The remaining ship is shifting their attack to the Orion.<br><br>CALDWELL: Move to intercept.<br><br>KLEINMAN: Orion has no shields. We're not gonna make it there in time, sir.<BR><br><br>HIVE SHIP. Michael and John have made their way to the Food Storage Chamber. Michael looks at the two cocoons which have been ripped open.<br><br>SHEPPARD: Where are they?<br><br>MICHAEL: I'm sorry. They must have been taken for feeding.<br><br>(John takes a closer look at the cocoons.)<br><br>SHEPPARD: No, look. These were cut from the inside. They escaped.<br><br>MICHAEL: They could be anywhere on the ship.<br><br>SHEPPARD: Well, that's a start.<br><br>MICHAEL: Why? What could their objective possibly be?<br><br>SHEPPARD: If I know Ronon, they're somewhere where they can do as much damage as they can. McKay would know where, and how to do that, so ...<br><br>MICHAEL: There's a control station this way.<br><br>(They hurry off.)<BR><br><br>SPACE. The hive ship is firing an onslaught of weapons at Orion. Daedalus, also taking fire from the hive, flies towards Orion. On the Orion Bridge, Radek is working frantically at his console as explosions go off all around.<br><br>LORNE: One more shot, Zelenka, that's all I'm asking!<br><br>ZELENKA: I just cannot give you what I don't have! (He runs to another console and looks at it.) There's too much damage! We need to abandon ship!<br><br>(He tries to run from the Bridge but Lorne hauls him back.)<br><br>LORNE: Hey! Doc! Listen to me!<br><br>ZELENKA (pulling himself free): We sacrificed our shield capability for our first salvo! This ship is going to blow any moment, Major!<br><br>(Lorne looks around the exploding Bridge, then activates the comms.)<br><br>LORNE: Colonel Caldwell. I'm afraid we've done everything we can on our end. Request immediate beam-out to Daedalus.<br><br>(The Daedalus Bridge isn't faring much better than Orion's. Nevertheless, Caldwell turns to Kleinman and shouts to be heard over the explosions.) <br><br>CALDWELL: Get em over here!<BR><br><br>HIVE SHIP. Rodney and Ronon have finally reached a control station. Rodney is working on the station while Ronon keeps watch nearby.<br><br>McKAY: Their operating system is a mess. Thank goodness I remembered DOS. (He touches a couple of buttons, then turns to Ronon.) Trust me, that was hilarious.<br><br>DEX: Have you <I>done</I> it yet?<br><br>McKAY: OK, this ship has been seriously damaged. It's hard for me to <I>find</I> something to overload.<br><br>SHEPPARD: Let Mikey try it.<br><br>(Rodney stares in amazement as John and Michael walk into view. Ronon instantly pulls a knife out of his sleeve and points it at Michael.)<br><br>SHEPPARD: Whoa, whoa, whoa, whoa. He's helping us.<br><br>McKAY: Where did <I>you</I> come from?!<br><br>SHEPPARD: I managed to latch onto the hull of the hive before we went into hyperspace.<br><br>DEX: Nice move.<br><br>SHEPPARD (smiling): Saw it in a movie once.<br><br>(Everyone looks up as another explosion rocks the ship. John turns to Michael.)<br><br>SHEPPARD: We've gotta get to the Daedalus.<br><br>McKAY: The Daedalus? The Daedalus is here?<br><br>MICHAEL: First we need to get to the transport.<br><br>DEX: Now, why should I trust you?<br><br>(Michael looks at him and takes a step closer to him.)<br><br>MICHAEL: Because I'm trusting you.<br><br>(He holds out Ronon's blaster, which he brought with him, to Ronon who takes it. The pair of them stare at each other for a moment, then Michael turns to lead them away. Instantly, Ronon snatches his blaster out of its holster and cocks it, aiming it at Michael's back. John grabs his hand and pushes it down.)<br><br>SHEPPARD: Because <I>I</I> said so.<br><br>(He turns to follow Michael. Rodney follows him. Ronon continues to glare at Michael's back for a moment, then follows. They make their way along the corridor, but Ronon overtakes Rodney and grabs John's jacket, pulling him around to face him.)<br><br>DEX: I don't like this.<br><br>SHEPPARD: You got a better idea?<br><br>DEX: Yeah. We take this ship on our own and leave him here.<br><br>SHEPPARD: He's the reason I'm alive right now.<br><br>McKAY: Besides, I don't think that's even possible. It took me <I>days</I> to crack the Wraith Dart interface, and this ship is a whole lot bigger.<br><br>DEX: I don't like it.<br><br>SHEPPARD: Yeah, I get it. You hate the Wraith.<br><br>DEX: Him in particular.<br><br>(John sighs, then turns to Rodney.)<br><br>SHEPPARD: Is there anything you can do to boost a radio signal? I wanna reach the Daedalus as soon as possible.<br><br>McKAY: I can try. (He turns to a console.)<br><br>MICHAEL: Hang on: they'll most likely open fire on us the second we leave the Bay.<br><br>McKAY: Oh, great! The day just gets better and better.<BR><br><br>SPACE. A transport ship leaves the hive ship and heads towards Daedalus. Above it, Orion explodes.<BR><br><br>DAEDALUS BRIDGE. As explosions continue to go off all around, Major Lorne stumbles onto the Bridge and makes his way across to Caldwell in the Command Chair.<br><br>LORNE: Sorry, sir. We did our best.<br><br>CALDWELL: Nothing to apologise for, Major. (To Kleinman) Bring all rail guns to bear on the main Dart bays. Hold fire until I give the order. Channel every ounce of power to the forward shield until then.<br><br>KLEINMAN: I have a contact, sir. A single Wraith ship, possibly a transport. It just left the hive and is on a course for us. It's broadcasting a comm on our frequencies.<br><br>CALDWELL: What the hell do they want?<br><br>ZELENKA: Maybe they want to surrender.<br><br>CALDWELL: Not likely. Let's hear it.<br><br>SHEPPARD (over comms): This is Colonel John Sheppard. Authentication code Alpha Seven Tango Three. Please respond.<br><br>CALDWELL: Open a channel. (Kleinman does so.) Colonel Sheppard. We'd written you off.<br><br>SHEPPARD: Don't get all emotional on me now! Look, I've got McKay, Ronon and Michael aboard a Wraith transport.<br><br>CALDWELL: Michael?!<br><br>SHEPPARD: Yes, sir. And he's got a plan I think you're gonna like. But it probably won't be long before they start shooting at us.<br><br>KLEINMAN: Hive just opened fire on the transport, sir.<br><br>CALDWELL: Beam them directly to the Bridge.<br><br>(John, Rodney, Ronon and Michael are beamed onto the Bridge.) <br><br>SHEPPARD: Colonel.<br><br>CALDWELL: Colonel, you said something about a plan?<br><br>MICHAEL: I've disabled their jamming code, but it's only a matter of time before they realise.<br><br>SHEPPARD (to Caldwell): All you have to do is send over a nuke.<br><br>CALDWELL: We deployed all our warheads in the first attack.<br><br>KLEINMAN: The hive is launching Darts, sir.<br><br>CALDWELL: Open up those bays, all batteries!<br><br>(Daedalus heads towards the hive ship, its rail guns firing at the Dart bays and blowing them up. The few Darts that manage to get out of the bays in time are engulfed in the explosions. Daedalus swoops up and around to try to avoid the bombardment it is receiving from the hive. Its shields fail. Almost immediately, massive explosions go off all round the Bridge as the hive ship continues to fire. One explosion hits the pilot, who is thrown out of his seat, badly injured. Caldwell turns to the crew in the rear part of the Bridge.)<br><br>CALDWELL: Cap that off!<br><br>(As the crew rush to control the fires, John jumps into the pilot's seat and starts to fly the ship. Rodney stumbles to the consoles at the rear of the Bridge to get a computer tablet. Caldwell turns to Kleinman.)<br><br>CALDWELL: Report!<br><br>KLEINMAN: The plan worked, sir. The concentrated fire on the bays created a number of secondary explosions. They've stopped firing.<br><br>SHEPPARD: Nice work, Colonel.<br><br>CALDWELL: Fortunately a draw's a win for our side. Ship's status?<br><br>KLEINMAN: Shields completely depleted, and we're venting atmosphere.<br><br>CALDWELL: Seal off all affected decks.<br><br>KLEINMAN: Yes, sir, but that last blast took out our life support and the back-ups aren't responding. As of right now, we're shallow breathing.<br><br>DEX: Meaning?<br><br>McKAY: Meaning that in a little under nine hours, we're all gonna suffocate.<BR><br><br>LATER. Rodney, Radek and Kleinman are walking through corridors. Radek keeps ducking every time a panel sparks out.<br><br>ZELENKA: As long as we don't have to worry about shields and weapons, we may be able to cannibalise parts from some of our other systems in order to create at the very least a CO2 filtration system.<br><br>McKAY: By the time we've got something like that up and running, the CO2 levels will overwhelm any makeshift scrubbers we'd be able to concoct.<br><br>ZELENKA: But it's worth a try.<br><br>McKAY: Yes. Yeah, but regardless, we need more electricians and welders than are technically certified on this ship's roster. (He turns to Kleinman.) Anyone, and I mean <I>anyone</I> who took Shop needs to report to us.<br><br>KLEINMAN: There are teams assembling on every deck.<br><br>McKAY: Good. Good. (They enter a room and Rodney smiles at what he sees.) Ah, <I>now</I> we're talking. How many more of these do we have?<br><br>(Crewmen are unpacking sets of breathing gear.)<br><br>KLEINMAN: Twenty in total.<br><br>McKAY: How many people on board?<br><br>KLEINMAN: In and around the two hundred mark.<br><br>McKAY: Oh, so I guess buddy-breathing our way through this one's out of the question.<br><br>KLEINMAN: I'm afraid so, sir, yes.<br><br>McKAY: OK, fine -- they're reserved for people working on getting life support systems operational. We need those people as clear-headed as possible.<br><br>KLEINMAN: And, by those people ...<br><br>McKAY: Yes, <I>I</I> will be one of them.<br><br>ZELENKA: How many levels are inaccessible?<br><br>KLEINMAN: Seven.<br><br>ZELENKA: OK, we need to find out if there's any pockets of breathable atmosphere in there. We may be able to squeeze another hour or so from the regions that have been sealed off.<br><br>McKAY: We can't exactly transfer the O2 where we need it.<br><br>ZELENKA: Yes, but we could be ...<br><br>McKAY: ... be able to access key panels that have been closed off to us. Let's get Sheppard in a 302 -- he can eyeball it from the outside. (He picks up one of the sets of breathing gear.) I'll take this.<br><br>(He and Kleinman leave the room. Radek picks up one of the breathing masks, puts it over his face and takes a deep breath of oxygen.)<BR><br><br>F-302. John is flying around Daedalus and examining it. Air is venting from several locations.<br><br>SHEPPARD: These sections are completely open to space, Rodney. There aren't even pockets you could beam into. What about an EVA?<br><br>(Rodney, who is welding a panel, lowers his oxygen mask to answer.)<br><br>McKAY: The spacesuits were stored in those sections.<br><br>SHEPPARD: Alright. I'm headin' back.<br><br>McKAY: Copy that.<br><br>(Radek comes around the corner, lowering his own oxygen mask to speak to Rodney. Nearby, several members of the crew are sitting quietly on the floor, conserving the air as much as they can.)<br><br>ZELENKA: Have you tried routing the power through the inertial ...<br><br>McKAY: Yes. Yes. Yes. We have tried everything.<br><br>ZELENKA: Subspace communications?<br><br>McKAY: We are floating between two galaxies, Radek. Atlantis has no ship to send. Even if we were somehow able to repair the array and get a message back to Earth, it would still take them weeks to get a rescue here.<br><br>ZELENKA: I wasn't thinking of rescue. I was thinking simply of telling them that we've stopped the Wraith, and perhaps letting someone know the sacrifice that we've done.<br><br>McKAY: Well, a noble sentiment, but I would prefer to dedicate my last breath of air to getting <I>more</I> air.<br><br>(He lifts his head as a thought strikes him.)<br><br>McKAY: Wait a second.<BR><br><br>DAEDALUS BRIEFING ROOM. Rodney has called a meeting with Caldwell, John, Ronon and Michael. All of them are standing around the table, although they look as if they would be better off sitting down, because they're all breathing hard, struggling to get enough oxygen.<br><br>McKAY: The only breathable air within light years is on the Wraith ship.<br><br>CALDWELL: There's also Wraith aboard that Wraith ship, Doctor.<br><br>SHEPPARD: So we take em. Beam an assault team in.<br><br>MICHAEL: You will be far outnumbered.<br><br>SHEPPARD: Well, we're dead here. I'll take my chances.<br><br>MICHAEL: I admire your courage, Colonel, but you would be dead there as surely as here. Unless we send over the gas.<br><br>(Rodney stares at him as he realises what a great idea that is.)<br><br>McKAY: Yes, yes, yes! That could work!<br><br>MICHAEL: The retrovirus gas would make them virtually harmless.<br><br>SHEPPARD (to Caldwell): Do we still have it on board?<br><br>CALDWELL: Yes, we do. And now that Michael's disabled their jamming codes ...<br><br>McKAY: ... we finish the plan we started!<br><br>SHEPPARD: We beam over the gas and wait. If we wait long enough, they won't even wanna put up a fight.<br><br>McKAY: Because they'll be humans with no memories! I can't believe we might actually survive this!<br><br>CALDWELL: We're almost out of breathable air now, and the retrovirus takes a minimum ten hours to run its course.<br><br>SHEPPARD: Well, we'll take the crew in and out of the 302s. (To Michael) If this works, can you fly the hive ship?<br><br>MICHAEL: I could.<br><br>(John looks at Caldwell.)<br><br>SHEPPARD: What d'you say, Colonel?<br><br>(Caldwell activates his headset.)<br><br>CALDWELL: Weaps, get us within beaming range of the hive.<br><br>KLEINMAN (over radio): Yes, sir.<BR><br><br>EARTH. S.C.G. Elizabeth is sitting in a room which has presumably been assigned to her. Landry comes to the open door and knocks. Elizabeth stands up.<br><br>WEIR: Anything?<br><br>LANDRY: No. No contact yet. (He walks into the room.) Our tests of the Mark Two generator and the Chair in Antarctica are promising.<br><br>WEIR (sitting down again): "Promising." That doesn't sound very promising.<br><br>LANDRY: We're fairly confident the Ancient weapon will take care of the hive ships but doing so will probably require the last of our drones, and there goes our secret weapon. They'd really rather not have to do that. How'd it go with the I.O.A.?<br><br>WEIR: Oh, you know. I mean, does anyone ever come out of an I.O.A. deposition saying, "That went well"?!<br><br>LANDRY (chuckling): No. I don't suppose they do.<br><br>WEIR: It was what it was.<br><br>LANDRY: At least most of the time you're a galaxy away. (He sits down opposite Elizabeth.) That Woolsey guy is here almost every other week.<br><br>(Elizabeth looks at him for a moment, then leans forward.)<br><br>WEIR: I think they're gonna ask me to step down.<br><br>LANDRY: Well, if they're just gonna ask, you can always say no.<br><br>(He smiles at her. She returns the smile briefly, then looks down before raising her head again.)<br><br>WEIR: I messed this one up, General.<br><br>LANDRY: Yeah. You did.<br><br>WEIR: And I lost some of the best people I ever ...<br><br>LANDRY (interrupting): But you proceeded with the blessing of the I.O.A. and Stargate Command, as I recall.<br><br>WEIR: Somehow that doesn't seem to help much.<br><br>LANDRY: Success is not final. (He stands up.) Failure is not fatal. It's the courage to continue that counts. And I think you've got that in spades.<br><br>WEIR: Churchill?<br><br>LANDRY: Yeah. Except for that last part about you. That was all me.<br><br>(They smile at each other.)<br><br>LANDRY: Get some sleep, Elizabeth.<br><br>WEIR: Yes, sir.<BR><br><br>SPACE. Both Daedalus and the hive ship drift in space. Inside Daedalus, most of the crew are sitting or lying on the floor. A few crewmembers, wearing breathing gear, continue to make repairs. Rodney, also wearing breathing gear but still struggling for breath and covered in sweat, stumbles onto the Bridge. Caldwell and Kleinman are in their seats but barely conscious. John, Lorne and an assault team are sitting on the floor behind the control centre, geared up and holding rifles.<br><br>KLEINMAN (weakly): Our CO2 levels are getting dangerous, sir.<br><br>CALDWELL (equally weakly): The gas has barely had a chance to run its course.<br><br>SHEPPARD: We don't have much of a choice. (He stands up, and his team also get to their feet.) We've gotta go now.<br><br>(He wearily leads his team away. Rodney, Ronon and Michael follow them.)<BR><br><br>HIVE SHIP. The team beams into a corridor. They take a few deep breaths of the air, then cautiously move out. They soon find Wraith lying on the floor. John walks over to one. Its face is now human. He waves his hand in front of its face. It stirs weakly but otherwise doesn't move. John walks over to another Wraith lying on its side and gently kicks it over onto its back. It too is now human but this one doesn't move. John squats down beside it.<br><br>SHEPPARD: Some of them are dead.<br><br>LORNE: Looks like they killed each other.<br><br>VOICE: What's happened?<br><br>(The team raise their rifles and turn to face the speaker. It's a human-looking Wraith, gazing at them in confusion.)<br><br>SHEPPARD: Alright. It's alright. (He turns to one of his team.) Find a holding area; start marshalling the survivors there.<br><br>(The soldier nods.)<br><br>McKAY: The Queen's Chamber should be that way.<br><br>(He points, and he, John, Ronon and Lorne head off in that direction.)<BR><br><br>QUEEN'S CHAMBER. The Hive Queen is slumped on the floor on front of her throne, her face hidden. The boys walk in cautiously, checking the area.<br><br>SHEPPARD: Hello?<br><br>(He and Lorne walk toward her as she stirs weakly.)<br><br>SHEPPARD: You alright?<br><br>LORNE: It's OK. You're gonna be alright now.<br><br>(He reaches out to help her. She lifts her head and, too late, Lorne realised that her face is still fully Wraith. She seizes him by the throat and hauls him up into the air. Roaring, she raises her other hand, ready to strike and feed upon him. John, Rodney and Ronon open fire and gun her down. She drops Lorne and falls to the floor, landing on her back with her eyes wide and fixed. Lorne, winded by the drop, rolls over painfully onto his back.)<br><br>LORNE: It didn't work on her.<br><br>(Rodney stares wide-eyed.)<br><br>McKAY: Oh. Beckett <I>wondered</I> if the females would be immune.<br><br>LORNE: Yeah. Something you might have mentioned <I>before</I> she almost killed me, Rodney.<br><br>McKAY: I only thought of it now.<br><br>SOLDIER (over radio): Colonel Sheppard. So far we haven't run into a single Wraith, sir.<br><br>(Rodney reaches down to help Lorne to his feet.)<br><br>SHEPPARD: Understood. (He switches channels on his radio.) Sheppard to Daedalus.<br><br>CALDWELL: Go ahead.<br><br>SHEPPARD: You can start sending people over, sir. They're all human and the air is good. I think we're out of the woods.<BR><br><br>TO BE CONTINUED.
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="../../s2/transcripts/220.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s3/301.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="302.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s3/index.shtml">
+<IMG SRC="/graphics/title_s3episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Three Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="301.shtml" CLASS="list">No Man's Land</A><BR><A HREF="302.shtml" CLASS="list">Misbegotten</A><BR><A HREF="303.shtml" CLASS="list">Irresistible</A><BR><A HREF="304.shtml" CLASS="list">Sateda</A><BR><A HREF="305.shtml" CLASS="list">Progeny</A><BR><A HREF="306.shtml" CLASS="list">The Real World</A><BR><A HREF="307.shtml" CLASS="list">Common Ground</A><BR><A HREF="308.shtml" CLASS="list">McKay and Mrs. Miller</A><BR><A HREF="309.shtml" CLASS="list">Phantoms</A><BR><A HREF="310.shtml" CLASS="list">The Return, Part 1</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="311.shtml" CLASS="list">The Return, Part 2</A><BR><A HREF="312.shtml" CLASS="list">Echoes</A><BR><A HREF="313.shtml" CLASS="list">Irresponsible</A><BR><A HREF="314.shtml" CLASS="list">Tao of Rodney</A><BR><A HREF="315.shtml" CLASS="list">The Game</A><BR><A HREF="316.shtml" CLASS="list">The Ark</A><BR><A HREF="317.shtml" CLASS="list">Sunday</A><BR><A HREF="318.shtml" CLASS="list">Submersion</A><BR><A HREF="319.shtml" CLASS="list">Vengeance</A><BR><A HREF="320.shtml" CLASS="list">First Strike</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B000RW3YYA/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B000RW3YYA/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Three</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B000RW3YYA/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B000XEMDQC/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B000RW3YYA/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B000RW3YYA/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls3.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="../../s2/transcripts/220.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s3/301.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="302.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>

@@ -1,0 +1,527 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> GateWorld - Stargate Atlantis Episode Transcript: "Missing" </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="DESCRIPTION" CONTENT="The Web's most complete, most updated Stargate news and reference guide! The most up-to-date Stargate news, episode summaries and in-depth analyses, plus spoilers and info on upcoming episodes, photos, weekly episode reviews and articles, online forums, The Stargate Omnipedia, and more!">
+<META NAME="KEYWORDS" CONTENT="Stargate, Stargate SG-1, Stargate SG1, Stargate Atlantis, Stargate Universe, SG-1, SG1, SGA, SGU, Atlantis, Universe, spoiler, spoilers, news, info, episode guide, episode, episodes, characters, pictures, photos, images, screen captures, screen grabs, encyclopedia, omnipedia, wiki, interviews, articles, fan fic, fanfic, comics, movie, interviews, reviews, transcripts, forum, forums, message board, store, shop, buy, DVD, DVDs, Jack O&#39;Neill, Sam Carter, Daniel Jackson, Teal&#39;c, Jonas Quinn, George Hammond, Janet Fraiser, John Sheppard, Elizabeth Weir, Aiden Ford, Teyla Emmagan, Rodney McKay, Carson Beckett, SGC, sci-fi, scifi, science fiction, gate, star gate, Asgard, Asgaurd, Goa&#39;uld, Guld, Guald, Stargate, Jaffa, Showtime, Sci-Fi, Fox, Ra, Apophis, Tokra, Tok&#39;ra, Kurt Russell, James Spader, Richard Dean Anderson, RDA, Amanda Tapping, Michael Shanks, Christopher Judge, Don S. Davis, Teryl Rothery, Corin Nemec, Joe Flanigan, Torri Higginson, Rainbow Sun Francks, Rachel Luttrell, David Hewlett, Paul McGillion, Stargate Infinity, image, gallery, screencaps, screen caps,  screen, captures, Robert Carlyle, Brian J. Smith, David Blue, Jamil Walker Smith, Louis Ferreira, Ming-Na, Lou Diamond Phillips, Alaina Huffman, Elyse Levesque, Nicholas Rush, Eli Wallace, Everett Young, Matthew Scott, Ronald Greer, Chloe Armstrong, Tamara Johansen, TJ, Camille Wray, David Telford">
+<LINK REL="alternate" TYPE="application/rss+xml" title="GateWorld News" href="http://www.gateworld.net/news/?feed=news">
+<LINK HREF="/css/style_main.css" REL="stylesheet" TYPE="text/css">
+<LINK HREF="/css/menu.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function doSubmit(response)
+{
+ document.pollform.response.value = response;
+ document.pollform.submit();
+}
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript">
+  <!-- Begin
+  function move_in(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  function move_out(img_name,img_src) {
+  document[img_name].src=img_src;
+  }
+  image1 = new Image();
+  image1.src = "/graphics/poll_01.gif";
+  image2 = new Image();
+  image2.src = "/graphics/poll_02.gif";
+  image3 = new Image();
+  image3.src = "/graphics/poll_03.gif";
+  image4 = new Image();
+  image4.src = "/graphics/poll_04.gif";
+  image5 = new Image();
+  image5.src = "/graphics/poll_05.gif";
+  image6 = new Image();
+  image6.src = "/graphics/poll_06.gif";
+  image7 = new Image();
+  image7.src = "/graphics/poll_07.gif";
+  image8 = new Image();
+  image8.src = "/graphics/poll_08.gif";
+  image9 = new Image();
+  image9.src = "/graphics/poll_09.gif";
+  image10 = new Image();
+  image10.src = "/graphics/poll_10.gif";
+  // End -->
+</SCRIPT>
+<SCRIPT><!-- Podcast Pop-up Window 
+function open_Podcast(url) { mywin = window.open(url,"gw_podcast",'toolbar=0,location=0,directories=0,status=0,scrollbars=0,menubar=0,resizable=0,width=336,height=82'); mywin.focus(); return false; }
+self.name="gw_main";
+//--></SCRIPT>
+<script language="JavaScript">
+  outsg1 = new Image;
+  oversg1 = new Image;
+  outsga = new Image;
+  oversga = new Image;
+  outsgu = new Image;
+  oversgu = new Image;
+  outsg1.src = "/graphics/hotlink_sg1.gif";
+  oversg1.src = "/graphics/hotlink_sg12.gif";
+  outsga.src = "/graphics/hotlink_sga.gif";
+  oversga.src = "/graphics/hotlink_sga2.gif";
+  outsgu.src = "/graphics/hotlink_sgu.gif";
+  oversgu.src = "/graphics/hotlink_sgu2.gif";
+</script>
+<style type="text/css">div.overlay{position:absolute;background-color:#A8C4E1;bottom:0;left:0;width:300px;height:25px;opacity:0.65;filter:alpha(opacity=65);}div.overlaytext{position:absolute;bottom:5px;left:6px;width:295px;text-align:left;color:#000000;}a:hover.noline{text-decoration:none;}</style>
+<script data-cfasync="false" src="http://tags.evolvemediallc.com/websites/evolve_tags/14023"></script>
+ 
+<script type="text/javascript">
+var sbGlideScriptElement = document.createElement("script");
+sbGlideScriptElement.type = "text/javascript";
+sbGlideScriptElement.onload = function() {
+	var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+	glideUnit.init({
+		partnerId : 55,
+		widgetId : 'gw008',
+		cmsPath : 'http://cms.springboardplatform.com'
+	});
+}
+sbGlideScriptElement.src = "http://cdn.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+if (top === self)
+	document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+else
+	parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+</script>
+ 
+</HEAD>
+<BODY MARGINHEIGHT="0" onLoad="MM_preloadImages('/graphics/menu_b_09.gif')">
+ 
+<div id="ros_adoop" style="height:0; margin:0; padding:0;"></div>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_items_052009.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript" SRC="/css/menu_tpl.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/JavaScript">
+	new menu (MENU_ITEMS, MENU_POS);
+</SCRIPT>
+<DIV ALIGN="center">
+<TABLE WIDTH="780" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#213f67">
+<TR>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-left.gif"><IMG SRC="/graphics/shadow-left.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+<TD WIDTH="523" HEIGHT="24" BACKGROUND="/graphics/bg_hotlinks.gif" STYLE="color: #999999; padding-left: 8px; padding-right: 5px; padding-top: 3px;">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="140">
+<A HREF="/sg1/" onMouseover="document.hotlink_sg1.src=oversg1.src" onMouseout="document.hotlink_sg1.src=outsg1.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sg1.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sg1" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/atlantis/" onMouseover="document.hotlink_sga.src=oversga.src" onMouseout="document.hotlink_sga.src=outsga.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sga.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sga" STYLE="padding-right:2px;" ALT=""></A>
+<A HREF="/universe/" onMouseover="document.hotlink_sgu.src=oversgu.src" onMouseout="document.hotlink_sgu.src=outsgu.src" TARGET="_top"><IMG SRC="/graphics/hotlink_sgu.gif" WIDTH="40" HEIGHT="18" BORDER="0" NAME="hotlink_sgu" ALT=""></A>
+</TD>
+<TD>
+<FORM ACTION="#" NAME="gateworld" STYLE="margin:-1px 0 0 0;">
+<SELECT NAME="network" CLASS="form_menu" onChange="if(this.form.network.options[this.form.network.selectedIndex].value.length!=0) window.open(this.form.network.options[this.form.network.selectedIndex].value,'_blank');">
+<OPTION VALUE="http://www.scifistream.com/">-MORE SHOWS-</OPTION>
+<OPTION VALUE="http://www.scifistream.com/12-monkeys/">12 Monkeys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-100/">The 100</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agent-carter/">Agent Carter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/agents-of-shield/">Agents of SHIELD</OPTION>
+<OPTION VALUE="http://www.scifistream.com/arrow/">Arrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/babylon-5/">Babylon 5</OPTION>
+<OPTION VALUE="http://www.scifistream.com/battlestar-galactica/">Battlestar Galactica</OPTION>
+<OPTION VALUE="http://www.scifistream.com/daredevil/">Daredevil</OPTION>
+<OPTION VALUE="http://www.scifistream.com/dark-matter/">Dark Matter</OPTION>
+<OPTION VALUE="http://www.scifistream.com/doctor-who/">Doctor Who</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-expanse/">The Expanse</OPTION>
+<OPTION VALUE="http://www.scifistream.com/farscape/">Farscape</OPTION>
+<OPTION VALUE="http://www.scifistream.com/fear-the-walking-dead/">Fear the Walking Dead</OPTION>
+<OPTION VALUE="http://www.scifistream.com/firefly/">Firefly</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-flash/">The Flash</OPTION>
+<OPTION VALUE="http://www.scifistream.com/game-of-thrones/">Game of Thrones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/gotham/">Gotham</OPTION>
+<OPTION VALUE="http://www.scifistream.com/grimm/">Grimm</OPTION>
+<OPTION VALUE="http://www.scifistream.com/heroes/">Heroes</OPTION>
+<OPTION VALUE="http://www.scifistream.com/humans/">Humans</OPTION>
+<OPTION VALUE="http://www.scifistream.com/killjoys/">Killjoys</OPTION>
+<OPTION VALUE="http://www.scifistream.com/legends-of-tomorrow/">Legends of Tomorrow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-librarians/">The Librarians</OPTION>
+<OPTION VALUE="http://www.scifistream.com/lost/">LOST</OPTION>
+<OPTION VALUE="http://www.scifistream.com/jessica-jones/">Jessica Jones</OPTION>
+<OPTION VALUE="http://www.scifistream.com/once-upon-a-time/">Once Upon A Time</OPTION>
+<OPTION VALUE="http://www.scifistream.com/orphan-black/">Orphan Black</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sanctuary/">Sanctuary</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sense8/">Sense8</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-shannara-chronicles/">The Shannara Chronicles</OPTION>
+<OPTION VALUE="http://www.scifistream.com/sleepy-hollow/">Sleepy Hollow</OPTION>
+<OPTION VALUE="http://www.scifistream.com/smallville/">Smallville</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tos/">Star Trek: TOS</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/tng/">Star Trek: TNG</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ds9/">Star Trek: DS9</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/voy/">Star Trek: Voyager</OPTION>
+<OPTION VALUE="http://www.scifistream.com/star-trek/ent/">Star Trek: Enterprise</OPTION>
+<OPTION VALUE="http://www.scifistream.com/supergirl/">Supergirl</OPTION>
+<OPTION VALUE="http://www.scifistream.com/the-walking-dead/">The Walking Dead</OPTION>
+</SELECT>
+</FORM>
+</TD>
+<TD ALIGN="right" VALIGN="center" STYLE="padding-bottom: 5px;"><FONT COLOR="#999999">
+<A HREF="http://twitter.com/GateWorld" CLASS="hotlinks" TARGET="_blank">Twitter</A> |
+<A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="hotlinks" TARGET="_blank">Facebook</A> |
+<A HREF="http://www.youtube.com/user/GateWorldDotNet" CLASS="hotlinks" TARGET="_blank">YouTube</A> |
+<A HREF="/the_stargate_faq.shtml" CLASS="hotlinks" TARGET="_top">FAQ</A> |
+<A HREF="/news/rss-feeds/" CLASS="hotlinks" STYLE="margin-right: 3px;" TARGET="_top">RSS</A> <A HREF="/news/rss-feeds/" TARGET="_top"><IMG SRC="/graphics/icon_rss.gif" WIDTH="18" HEIGHT="18" BORDER="0" STYLE="margin-bottom: -4px;" ALT="RSS"></A>
+</FONT></TD>
+</TR></TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="200" BACKGROUND="/graphics/bg_hotlinks.gif" ALIGN="right">
+<form action="http://www.gateworld.net/news/search/" id="cse-search-box" NAME="search" TARGET="_top" STYLE="margin:0px; padding-right: 5px;">
+<div>
+<input type="hidden" name="cx" value="partner-pub-9904705405658291:vcdvp5-w6xi"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input type="text" name="q" size="20" CLASS="form_textarea"/>
+<input type="submit" name="sa" value="Search" CLASS="form_button"/>
+</div>
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</TD>
+<TD WIDTH="11" ROWSPAN="11" BACKGROUND="/graphics/shadow-right.gif"><IMG SRC="/graphics/shadow-right.gif" WIDTH="11" HEIGHT="1" ALT=""></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><DIV ALIGN="center"><TABLE WIDTH="729" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD HEIGHT="90" BGCOLOR="#213f67">
+ 
+<div id="ros_4387"></div>
+</TD><TD><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="90" ALT=""></TD></TR></TABLE></DIV></TD>
+</TR>
+<TR>
+<TD HEIGHT="1" COLSPAN="2" BGCOLOR="#000000"></TD>
+</TR>
+<TR>
+<TD HEIGHT="5" COLSPAN="2" BGCOLOR="#18325d"></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="middle"> <SCRIPT LANGUAGE="JavaScript">
+	<!--
+	function random_imglink(){
+	var myimages=new Array()
+	 myimages[1]="/graphics/header02.jpg"
+	 myimages[2]="/graphics/header04.jpg"
+	 myimages[3]="/graphics/header05.jpg"
+	 myimages[4]="/graphics/header07.jpg"
+	 myimages[5]="/graphics/header08.jpg"
+	 myimages[6]="/graphics/header09.jpg"
+	 myimages[7]="/graphics/header12.jpg"
+	 myimages[8]="/graphics/header13.jpg"
+	 myimages[9]="/graphics/header14.jpg"
+	 myimages[10]="/graphics/header17.jpg"
+	 myimages[11]="/graphics/header21.jpg"
+	 myimages[12]="/graphics/header25.jpg"
+	 myimages[13]="/graphics/header25.jpg"
+	var ry=Math.floor(Math.random()*myimages.length)
+	if (ry==0)
+	ry=1
+	document.write('<A HREF="/index.shtml" TARGET="_top"><IMG SRC="'+myimages[ry]+'" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A>')
+	}
+	random_imglink()
+	//-->
+	</SCRIPT><NOSCRIPT><A HREF="/index.shtml" TARGET="_top"><IMG SRC="/graphics/header05.jpg" WIDTH="758" HEIGHT="132" BORDER="0" ALT="GateWorld | Your Complete Guide to Stargate!" USEMAP="header"></A></NOSCRIPT></TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><A HREF="/episodes/" TARGET="_top"><IMG SRC="/graphics/menu_2009_01.gif" WIDTH="102" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/wiki/" TARGET="_top"><IMG SRC="/graphics/menu_2009_02.gif" WIDTH="105" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/franchise/" TARGET="_top"><IMG SRC="/graphics/menu_2009_03.gif" WIDTH="104" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/news/" TARGET="_top"><IMG SRC="/graphics/menu_2009_04.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/interviews/" TARGET="_top"><IMG SRC="/graphics/menu_2009_05.gif" WIDTH="114" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="http://www.gateworld.net/gallery/" TARGET="_top"><IMG SRC="/graphics/menu_2009_06.gif" WIDTH="85" HEIGHT="23" BORDER="0" ALT=""></A><A HREF="/podcast/" TARGET="_top"><IMG SRC="/graphics/menu_2009_07.gif" WIDTH="93" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_08.gif" WIDTH="14" HEIGHT="23" ALT=""><A HREF="http://forum.gateworld.net/" TARGET="_top"><IMG SRC="/graphics/menu_2009_09.gif" WIDTH="64" HEIGHT="23" BORDER="0" ALT=""></A><IMG SRC="/graphics/menu_2009_10.gif" WIDTH="13" HEIGHT="23" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="758" HEIGHT="12" BACKGROUND="/graphics/menu-bottom.gif" ALT=""></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="100%"> <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="758" HEIGHT="36" VALIGN="bottom" BACKGROUND="/graphics/navheader_atlantis.gif"><table border="0" cellpadding="0" cellspacing="0"><tr><td width="10"></td><td width="175"><A HREF="/atlantis/index.shtml"><IMG SRC="/graphics/clear.gif" WIDTH="175" HEIGHT="36" BORDER="0" ALT""></A></td><td width="737" valign="bottom"><DIV ALIGN="right"><FONT SIZE="1" COLOR="#FFFFFF">
+	  <A HREF="/news/tag/atlantis/" STYLE="color: #FFFFFF">News</A> &nbsp; 
+	  <A HREF="/movies/05.shtml" STYLE="color: #FFFFFF">Movie</A> &nbsp; 
+	  <A HREF="/gallery/index.php?cat=50" STYLE="color: #FFFFFF">Pictures</A> &nbsp; 
+	  <A HREF="/interviews/atlantis.shtml" STYLE="color: #FFFFFF">Interviews</A> &nbsp; 
+	  <A HREF="/video/atlantis.shtml" STYLE="color: #FFFFFF">Video</A> &nbsp; 
+	  <A HREF="/atlantis/transcripts.shtml" STYLE="color: #FFFFFF">Transcripts</A> &nbsp; 
+	  <A HREF="/books/atlantis.shtml" STYLE="color: #FFFFFF">Books</A> &nbsp; 
+	  <A HREF="/omnipedia/atlantis.shtml" STYLE="color: #FFFFFF">Omnipedia</A> &nbsp; 
+	  <A HREF="http://forum.gateworld.net/forums/182-Stargate-Atlantis" STYLE="color: #FFFFFF">Forum</A> &nbsp; 
+	  <A HREF="/store/atlantis.shtml" STYLE="color: #FFFFFF">DVDs</A> &nbsp;&nbsp;<BR>
+	  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+	</FONT></DIV></td></tr></table></TD></TR></TABLE></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2">
+	  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+          <TR>
+            <TD VALIGN="top"><DIV ALIGN="center">
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="3" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#a8c4e1" STYLE="padding-top: 5px; padding-bottom: 5px;"><DIV ALIGN="center">
+                        This Episode: 
+				
+				
+				<A HREF="/atlantis/s4/transcripts/407.shtml">Transcript</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=567">Photos</A>
+				
+				 | <A HREF="http://www.gateworld.net/gallery/thumbnails.php?album=318">Screen Captures</A><BR>
+				
+				
+				
+				
+				<A HREF="/atlantis/s4/407.shtml#production">Production</A>
+				
+				 | <A HREF="http://forum.gateworld.net/showthread.php?t=48535">Fan Reviews</A>
+				 | <A HREF="http://forum.gateworld.net/forumdisplay.php?f=100">Discuss</A>
+			  </DIV></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+
+                
+
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top">
+                    <TD HEIGHT="84" BGCOLOR="#BBD1E8">
+			    <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+                        <TR VALIGN="top"><TD COLSPAN="2">
+                          <DIV ALIGN="center"><A HREF="/atlantis/s4/407.shtml"><IMG SRC="/atlantis/graphics/407_header.jpg" WIDTH="414" HEIGHT="175" BORDER="0" ALT="MISSING" CLASS="images"></A></DIV>
+                          
+                        </TD></TR>
+                        <TR VALIGN="top">
+                          <TD WIDTH="100%" VALIGN="top" STYLE="padding-top: 0px;" CLASS="episode_header">
+
+<!-- BEGIN ITUNES -->
+<TABLE WIDTH="162" ALIGN="right" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="margin-bottom: 4px;"><TR>
+  <TD WIDTH="6">&nbsp;</TD>
+  <TD WIDTH="156" VALIGN="top"><DIV ALIGN="center">
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="7" ALT=""><BR>
+    <FONT SIZE="1"><B>DOWNLOAD EPISODE:</B></FONT><BR>
+    <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="2" ALT=""><BR>
+    <a href="http://click.linksynergy.com/fs-bin/stat?id=2cvd55rHd*s&offerid=78941&type=3&subid=0&tmpid=1826&RD_PARM1=http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewTVShow?id=179127311&partnerId=30" TARGET="_blank"><img height="15" width="61" border="0" alt="iTunes" src="/store/graphics/itunes_button.gif"></img></a> &nbsp; <a href="http://www.amazon.com/exec/obidos/ASIN/B000YNKLYI/bonhoeffscell" target="_blank"><img src="/store/graphics/amazonunbox_button.jpg" WIDTH="52" HEIGHT="20" BORDER="0" ALT=""></a></DIV>
+  </TD>
+</TR></TABLE>
+<!-- END ITUNES -->
+
+
+
+
+				    <STRONG>EPISODE NUMBER</STRONG> - 407<BR>
+				    <STRONG>DVD DISC</STRONG> - Season 4, Disc 2<BR>
+				    <STRONG>ORIGINAL U.S. AIR DATE</STRONG> - 11.09.07<BR>
+				    <STRONG>SYNDICATION AIR DATE</STRONG> - 10.27.08<BR>
+				    
+				    
+				    
+				    <STRONG>WRITTEN BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0082772/" TARGET="_blank">Carl Binder</A><BR>
+                            <STRONG>DIRECTED BY</STRONG> - <A HREF="http://www.imdb.com/name/nm0586539/" TARGET="_blank">Andy Mikita</A><BR></TD>
+                        </TR>
+
+                        <TR>
+                          <TD COLSPAN="2" STYLE="padding-top: 5px; padding-bottom: 10px;" CLASS="main_body">
+				    <SPAN CLASS="main_body">During a visit to New Athos, Teyla and Dr. Keller find themselves on the run from a primitive tribe of warriors.</SPAN>
+                          </TD>
+                        </TR>
+
+                      </TABLE>
+                    </TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+
+		    <!-- BEGIN TRANSCRIPT BOX -->
+                <A NAME="production"></A>
+                <TABLE WIDTH="434" BORDER="0" CELLPADDING="8" CELLSPACING="1" BGCOLOR="#000000">
+                  <TR VALIGN="top" BGCOLOR="#a8c4e1">
+                    <TD BGCOLOR="#BBD1E8" STYLE="padding-top: 8px; padding-bottom: 5px;"><SPAN CLASS="main_body">
+			    <strong>Transcript by Callie Sullivan</strong><BR><BR>
+			    ATLANTIS.  Teyla Emmagan walks into the Infirmary where Jennifer Keller is packing a medical kit.<br><br>TEYLA: Are you ready?  They're preparing to dial the Gate.<br><br>KELLER: Uh, yeah.  Almost finished.<br><br>(She zips the kit closed, then she and Teyla look across to the next bed on which is a large bag which look like it's stuffed full.)<br><br>KELLER: I know.  I'm terrible at packing.  I never know how much to bring.<br><br>TEYLA: We are only going overnight.  I'm sure you have enough.<br><br>KELLER (fetching even more stuff from a cabinet): Well, you'd think so, but ...<br><br>TEYLA: You seem nervous.<br><br>KELLER: Oh, no.  I'm fine. ... Well, maybe a little.  Going offworld is still kinda new to me.  Whole other galaxy and meeting new civilisations ...<br><br>TEYLA: My people are <I>very</I> welcoming and they're eager to meet you.<br><br>KELLER: Well, I'm eager to meet them too; learn about their culture and their history.<br><br>TEYLA: A gesture for which they will be most grateful.<br><br>KELLER: It's just, I know they were very fond of Carson.  I only hope to make half the impression he did.<br><br>(She picks up a large plastic container and puts it into a third bag.  Teyla points to the contents of the container.)<br><br>TEYLA: What are those?<br><br>KELLER: Oh, lollipops – for the kids.  Makes the check-ups go easier.<br><br>TEYLA: You will make a <I>wonderful</I> impression.<br><br>(Jennifer smiles, reassured.)<br><br><br>GATEROOM.  Teyla and Jennifer walk in, Teyla wearing her long leather coat, while Jennifer is carrying the two large bags and is wearing the medical kit as a backpack.  John looks down at them from the Control Room balcony.<br><br>SHEPPARD (to Teyla): Ooh!  Look at you!  Got a date?<br><br>TEYLA (rolling her eyes): Please!  You will contact us if you need us?<br><br>SHEPPARD: Oh, we'll be fine.  You kids have fun.  (To Jennifer) You're gonna love the Athosians.<br><br>KELLER: I'm gonna experience my first Tendol Feast.<br><br>SHEPPARD: Oh, those are good, but watch out for the, um ... what do you call it?<br><br>TEYLA: Ruus wine.<br><br>SHEPPARD: Ruus wine.  Tasty stuff, but hell of a kick.<br><br>TEYLA (smiling): We really should be going.<br><br>SHEPPARD: Have fun, kids!<br><br>(Teyla and Jennifer enter the Gate.)<br><br><br>NEW ATHOS.  The girls exit the Gate, Jennifer looking around at the forest they have arrived in.  Teyla turns to her.<br><br>TEYLA: The settlement is through the woods.<br><br>KELLER: Lead the way.<br><br>(Teyla looks at the load that Jennifer's carrying and reaches for one of the bags.)<br><br>TEYLA: It is some distance.  Let me help you with those.<br><br>KELLER: Oh, no, no.  It's OK.  I'm the idiot who over-packed; I should be the idiot carrying them.<br><br>(Teyla smiles and leads her away from the Gate.)<br><br>KELLER: So Sheppard was right, huh?  About that hot date tonight?!<br><br>(Teyla grins, but doesn't reply.)<br><br><br>LATER.  The girls reach the outskirts of the Athosian settlement.  Somewhere on their walk Jennifer has given up and has allowed Teyla to take both of the large bags.<br><br>KELLER: I didn't think it would be this far.<br><br>(They walk on a little, Teyla looking around a little anxiously.)<br><br>KELLER: Is it always this quiet?<br><br>TEYLA: Something is wrong.<br><br>(She drops the bags and walks towards the village.)<br><br>TEYLA (calling out): Hello?<br><br>(When there's no reply, she breaks into a run as she enters the village.)<br><br>TEYLA (calling out): Hello?  Is anybody here?<br><br>(She looks into a tent but there's no-one there and nobody replies to her calls.)<br><br>KELLER: Where is everyone?<br><br>TEYLA: I do not know, but they did not leave of their own accord.<br><br>KELLER: Are you saying they were attacked?<br><br>(Teyla looks around in dread.)<br><br>TEYLA: Or culled.<br><br><br>OPENING TITLES.  RESUME.<br><br>KELLER: I thought the Wraith didn't know about this planet.<br><br>TEYLA: That was my understanding as well.<br><br>KELLER: Then how could they just ...<br><br>(Teyla holds up her hand to silence her as she hears rustling nearby.)<br><br>KELLER (quietly): What is it?<br><br>(Teyla beckons to her and they hurry to take cover behind a small stand of trees.  A couple of men come into view on the other side of the village as they make their way out of the forest.)<br><br>KELLER: Do you know them?<br><br>(The men get closer.  Teyla looks at them as they stop to examine the bags lying on the ground.  The men have long unkempt hair and are wearing leather and furs.)<br><br>TEYLA: We must leave.<br><br>KELLER (nervously): OK.<br><br>(They hurry away and make their way into the forest.  Teyla beckons the way.)<br><br>TEYLA: Over here.<br><br>(They take cover behind a large tree trunk and Teyla looks around.)  <br><br>TEYLA: The weapons cache is too far.<br><br>KELLER: What?<br><br>TEYLA: We'd better make a run for the Gate.<br><br>(She turns to Jennifer and starts pulling her backpack off.)<br><br>KELLER: What are you ... what are you looking for?<br><br>TEYLA (unzipping the backpack): Did you bring a weapon?<br><br>KELLER: No.  That's just medical supplies.  Don't <I>you</I> have a weapon?<br><br>(Teyla pulls a knife out of her boot.)<br><br>TEYLA: Just a knife.  I was coming to visit my people – I did not believe I would need a gun.<br><br>KELLER: Who <I>are</I> those men?<br><br>TEYLA: Bola Kai.<br><br>KELLER: You know them?<br><br>TEYLA (still rummaging through the backpack): I know <I>of</I> them.  The markings on their faces are distinctive to their tribe but I have never crossed paths with them – until now.<br><br>KELLER: Are they dangerous?<br><br>(Teyla finds a large scalpel and holds it up.)<br><br>TEYLA: Beyond dangerous.  Let's go.<br><br>(Jennifer puts the backpack on again and they hurry away.  They reach a steep incline.  Teyla scrambles up it with little difficulty but Jennifer, less fit and weighed down by her backpack, struggles as she attempts to climb it.  Partway up, she loses her footing and falls backwards, rolling over as she tumbles back down to the bottom.  She clutches at her right ankle in pain.  Teyla scrambles back down again.)<br><br>TEYLA: Are you all right?<br><br>KELLER: I twisted my ankle.<br><br>TEYLA: We have to keep moving.<br><br>KELLER: Just hang on a sec.<br><br>(She feels her ankle carefully.)<br><br>TEYLA: Is it broken?<br><br>KELLER: No, I don't think so.  It's probably just sprained.<br><br>(Teyla helps her to her feet.)<br><br>TEYLA: Leave the bag.  It's too heavy.<br><br>(As Jennifer hobbles towards the incline, Teyla takes the backpack to the foot of a tree and covers it with foliage before following Jennifer.)<br><br><br>LATER.  Teyla is helping Jennifer to hobble through the forest.  They see the Stargate a short distance away but stop when they see it is guarded by a couple of Bola Kai.  Teyla urges Jennifer behind some cover.<br><br>KELLER: Oh, God.  What do we do?<br><br>TEYLA: It is too risky to return to the weapons cache.<br><br>KELLER: What weapons cache?<br><br>TEYLA: We gave my people guns to protect themselves in the event they were raided.<br><br>KELLER: Well, what makes you think the guns would still be there?  Wouldn't that be the first thing those guys would steal?<br><br>(Teyla looks out at the men guarding the Gate.  One of them is holding a crossbow.)<br><br>TEYLA: If the Bola Kai stole them, they would be using them.  But the weapons cache is too far, especially in your condition, and we have no idea how many more Bola Kai are out there.<br><br>(She bends down and takes her knife out of her boot again.  She had also tucked the scalpel in there and now hands it to Jennifer.)<br><br>TEYLA: Our best option is to take out these guards by ourselves.<br><br>KELLER: Take them out?!  What are you talking about?!  How're we gonna do that?!<br><br>TEYLA: I don't know yet.<br><br>KELLER: Hey, listen.  I am not like you.  I don't know anything about fighting.<br><br>(Teyla looks around and finds a stout short stick.)<br><br>TEYLA: Just do what I say.<br><br>KELLER: I want to, believe me, but I – I don't think I can.<br><br>(She looks at the scalpel, almost sobbing in fear.)<br><br>TEYLA: You must think otherwise.  What we first need to do is to create ...<br><br>(She stops as she sees that the Bola Kai are moving away from the Gate towards them.  The men look around, apparently aware that someone is out there.  Teyla grabs Jennifer's arm and they hurry away.  One of the men sees movement, beckons to his colleague and they give chase.  The men run for a while and then reach an outcropping over a river.  They stand at the edge and look around, seeing no-one.  As they turn away, we see that the girls have someone managed to scramble down the rock and are squatting in a small opening several feet below the men.  Teyla has her hand over Jennifer's mouth to keep her quiet.  The men walk away.)<br><br>TEYLA: They are gone.<br><br>(She takes her hand from Jennifer's mouth.  Jennifer's eyes are wide.)<br><br>TEYLA: Are you all right?<br><br>(Jennifer fights back tears.)<br><br>KELLER: I'm sorry.<br><br>TEYLA: I know this is something for which you are unprepared.<br><br>KELLER: I <I>should</I> be prepared, I know.<br><br>TEYLA: Unfortunately, I am afraid things may get worse before they get better.  Those guards will alert the others to our situation.  They will hunt us.  The longer we avoid capture, the better our chances.  They will continue to guard the Gate, yes, but in time Atlantis will realise we are late and they will send a rescue team.<br><br>KELLER: But we're not due back ‘til tomorrow.<br><br>TEYLA: It is therefore critical that we elude capture until then.  What do you need to help your injury?<br><br>KELLER: Well, I should probably wrap it but the bandages are in the medical kit.<br><br>TEYLA: The kit is on the way to the weapons cache.  Hopefully it'll still be where we ...<br><br>(She stops as a slow single drumbeat begins to sound.)<br><br>KELLER: What is that?<br><br>TEYLA: They are summoning the others, gathering them.  The hunt is beginning.<br><br>(She picks up her stick and lays it across her lap as the drumbeat continues.)<br><br><br>LATER.  The girls have made their way back down the incline.  Teyla pulls the foliage off the medical backpack and takes it over to Jennifer.<br><br>KELLER: Oh, thank God.<br><br>TEYLA: We must move quickly.<br><br>KELLER: I will.<br><br>(Teyla checks the area while Jennifer unzips the bag and takes out a bottle of pills.  Teyla looks round as the bottle rattles.)<br><br>KELLER: Ibuprofen.  Helps with the pain and swelling.<br><br>TEYLA: Yes.  Doctor McKay uses them frequently, along with antihistamines, antacids, motion sickness pills ...<br><br>KELLER: You forgot the prescription I just wrote him for restless leg syndrome.<br><br>(She unlaces her boot and takes it off.)<br><br>KELLER: I've always been a wimp.  Got a low threshold for pain.<br><br>(She eases her sock off and starts to wrap a bandage around her foot.)<br><br>TEYLA: People often underestimate the level of discomfort they are capable of enduring.  When I was a child, several of us were sent into the woods for ten days, alone.<br><br>KELLER: Ten days alone?!<br><br>TEYLA: It was a rite of passage among my people.  No food, no water, forced to survive on our own.  None of us believed we could endure it but all of us did.<br><br>KELLER: I went to summer camp.  There were other kids; we had cabins – with beds ... and electricity ... and food.<br><br>TEYLA: I see.<br><br>KELLER: I didn't even make it three days.  Got homesick; called my parents to come and get me.<br><br>(Teyla nods and walks away from her a little, her face filled with dread at what's she's going to have to cope with while travelling with a companion who's going to be useless.)<br><br><br>LATER.  Teyla, now wearing the backpack and carrying her stout stick, runs to a partially covered hole in the ground.  She stops and turns away in frustration when she sees that the covering has been removed and the hole is empty.  Jennifer hobbles over.<br><br>KELLER: The weapons cache?<br><br>(Teyla nods.)<br><br>KELLER: Well, where are the weapons?  I mean, obviously the Bola Kai don't have them.<br><br>TEYLA: My people must have needed them to fight off the attack.  But then why were they not successful?  The Bola Kai's weapons would have been no match against these.<br><br><br>LATER.  The girls have travelled to the edge of the river.  Teyla points to the other side.<br><br>TEYLA: Over there.<br><br>KELLER: What?<br><br>TEYLA: There is a blind across the river.<br><br>KELLER: A blind?<br><br>TEYLA: For hunting.  It is well hidden.  It will provide shelter for the night.<br><br>(She leads Jennifer a little way along the river until they reach a rope bridge.  Jennifer stares at it in horror.)<br><br>KELLER: We're gonna cross <I>that</I>?!<br><br>TEYLA: It is the quickest way across.<br><br>KELLER: Oh, you've gotta be kidding me.<br><br>(She hobbles closer and looks at it.  It's a simple bridge with a single large strand to walk on, and two more large strands coming up in a V-shape either side for handholds.)<br><br>TEYLA: My people built it.  It is quite safe.<br><br>KELLER: Oh, I'm – I'm sure it is.  It's just ... well, my ankle ... and I've also got this inner ear thing – we call it vertigo – and ... <br><br>(She stares across the bridge in dread.)<br><br>KELLER: Oh, God, <I>look</I> at it!<br><br>(Teyla turns to Jennifer, looking at her sternly.)<br><br>TEYLA: There comes a point in adversity when fear disappears, leaving only the will to survive.<br><br>KELLER: I know.  It's just, I don't think I'm even <I>remotely</I> close to that point.<br><br>(She smiles at Teyla nervously.  Teyla looks back at her, her face impassive.)<br><br>TEYLA: Fine.  Stay here then.<br><br>(She walks onto the bridge.)<br><br>KELLER: Oh, wh... well, wait!  I mean, I ... I'm sure I could ... (she looks around) ... I could climb down and find a ... shallow spot in the river to cross.  I mean, it might take me a little longer but ...<br><br>(She turns and looks at the bridge again.  Her eyes widen as she sees that Teyla is already almost halfway across.)<br><br>KELLER: Teyla?!  Teyla!<br><br>(Terrified, she realises she has no choice but to cross the bridge.)<br><br>KELLER: Oh God.<br><br>(Whimpering, she puts her foot onto the bridge.)<br><br>KELLER: Here we go.<br><br>(She blows out a breath and hesitantly starts to walk forward.)<br><br>KELLER (to herself): It's perfectly safe.  Perfectly safe.<br><br>(As she progresses a few paces forward, the bridge begins to sway with each step she takes.)<br><br>KELLER: Wobbly.  Too wobbly.<br><br>(She glances up to see that Teyla has almost reached the other side, then looks down and concentrates on putting her feet carefully onto the rope as she continues forward.  After a while, she reaches the three-quarters distance.)<br><br>KELLER: Almost there.<br><br>(As she smiles with growing confidence, her foot promptly slips and she loses her footing.  She grabs onto the handrail, screaming.  Losing her grip on that, she clings to a rope attaching the handrail to the bottom rope, then grabs onto the bottom rope.  She continues to scream and wail as she tries to hang on – then Teyla is there, grabs her hand firmly and hauls her up.  Jennifer gets her feet back onto the bottom rope and they make their way to the other side.  Jennifer stops to catch her breath, and looks at Teyla gratefully as she turns to look at her.)<br><br>KELLER: Thank you.<br><br>TEYLA (nodding to her): Come on.<br><br>(They continue onwards, Teyla leading the way.)<br><br>KELLER: Maybe your people managed to make it to the Gate and escape.<br><br>TEYLA: All of them?<br><br>KELLER: Well, I don't know.  Maybe.  I mean, we haven't found any bodies, right?  From what you said, I doubt the Bola Kai would take the time to bury their victims.<br><br>TEYLA: No.  They do not.  Because when they are done with their victims, usually very little remains.<br><br>KELLER: What are you telling me – they're cannibals?!<br><br>(Teyla turns to look at her silently.  Jennifer looks back, then her eyes widen and she gasps as a round serrated metal weapon thunks into the tree trunk just in front of her.  She turns and looks in the direction the weapon came from.  A Bola Kai runs into view on the ridge above them, aiming another weapon at her.  As she stands there uselessly, Teyla throws herself at her and knocks her out of the way.  As the man jumps down from the ridge, Teyla wrestles her backpack off, then jumps up and, holding her stick in one hand and her knife in the other, walks forward.  Two other Bola Kai move in and the three of them circle her, at least one of them wielding a large two-headed axe while the others have large knives and a club.  Jennifer, still kneeling on the ground, scrambles around until she finds her scalpel, then holds it up, trembling.  The men charge at Teyla and they fight.  Teyla's superior skills come into their own and after several seconds she has knocked two of them down and one of them has dropped the axe.  She snatches it up and slams it viciously into the stomach of the third man, killing him.  As Jennifer stares in horror, Teyla grabs her stick from the ground again and stands up.  One of the other two is running away while the other one is still on the ground, unconscious or winded.  Teyla turns to Jennifer.)<br><br>TEYLA: Are you all right?<br><br>KELLER: Yeah.<br><br>TEYLA: Stay here.<br><br>(She races off in pursuit of the man who ran away.)<br><br>KELLER: What?  Teyla?  Teyla!<br><br>(Teyla charges after the man as he runs through the forest.  Seeing the route that he is taking, she swerves off to the right.  As he continues to run, she manages to get ahead of him and, as he passes a tree, she is already behind it and jabs her stick out from it at knee level, tripping him over.  As he groans and tries to rise, she walks over, kneels onto his back and pulls her stick across his throat, gripping it with both hands as she tugs backwards on it.  The man struggles to crawl away, gagging, but Teyla hangs on grimly until the man slumps dead, his throat crushed.  She stands up, glares down at him for a moment, then walks away.)<br><br>(Back at the riverside, Jennifer limps forward nervously as the not-dead Bola Kai starts to revive.  She scrambles forward and picks up his long knife, then hops back, holding it before her with both hands as he starts to drag himself up.  She looks at the knife in terror, completely unconvinced that she can use it if the man comes at her, but then Teyla arrives.  Jennifer points with the knife to the other man on the ground.)<br><br>KELLER: That one's dead, but <I>he's</I> still alive.<br><br>(Teyla takes the knife from her as the man continues to groan as he tries to straighten up.  She walks towards him and slashes the knife across his throat.  As he cries out and crumples to the ground, Jennifer cringes away, then turns back and looks in horror at Teyla as she drops the knife to the ground and turns back to her.)<br><br>TEYLA: We cannot afford to take prisoners.<br><br>KELLER: Well, we could ... we could have tied him up and left him in the woods.<br><br>TEYLA: Then the others would have found him and released him to rejoin the hunt.  I know it is difficult to accept but the fewer of them, the better our chances of survival.<br><br>(Jennifer nods, understanding Teyla's reasons but unhappy about the killings.  Just then, the girls hear groaning coming from a short distance away.  Teyla bends and picks up the long knife again, then runs in the direction of the sound.  Jennifer follows her and they find a man lying on the ground.  His hair is short, his clothing is different from the other men and he has no markings on his face, so he doesn't appear to be a Bola Kai.  His hands are bound in front of him and he is alternately groaning and whimpering in pain.)<br><br>KELLER: His hands are tied.  He must have been a prisoner.<br><br>(She bends down to take a closer look, while Teyla checks the surrounding area.  The man has a bloody wound across his stomach.)<br><br>KELLER: He's got a stab wound to his abdomen.  Will you get me my medical kit?<br><br>TEYLA: We have to leave him.<br><br>KELLER: What are you talking about?  He's one of your people.<br><br>TEYLA: He is <I>not</I> Athosian.<br><br>KELLER: But, his clothes.<br><br>TEYLA: I have never seen him before.<br><br>KELLER (gesturing back towards the dead Bola Kai): Well, he's obviously not one of them, and if I don't suture his wound, he's gonna bleed to death.<br><br>TEYLA: More Bola Kai will be here very soon.<br><br>KELLER (nodding determinedly): I know, but this won't take long, OK?  Please?<br><br>(Teyla looks down at the young man as he groans, his eyes glazed with pain.  Unhappily, but knowing that Jennifer won't leave him, she goes to fetch the medical kit.)<br><br><br>LATER.  Jennifer has sutured the man's wound and has dressed it.  He appears to have lapsed into unconsciousness.<br><br>KELLER: Well, I got the bleeding under control.  If the wound doesn't get infected, he should be OK.<br><br>TEYLA: It will be dark soon.  Stay here with him: I will find the blind.<br><br>KELLER (nervously): Uh, is it far?<br><br>TEYLA: No.<br><br>(She walks away.  Jennifer glances at her patient, whose eyes are still closed, then looks around the forest anxiously.)<br><br>(Teyla trots along the pathway, checking bushes which line the path for any sign of recent disturbance.  She reaches the blind – a small hut covered with foliage – and pulls away the branches covering its entrance.  She looks inside for a moment, then turns to a covered hole nearby.  Pulling away the branches covering it, she lifts the lid.  Apparently the Athosians use this as a storage space for things they'll need while hunting but there's not much in there now apart from rope and some traps.  She drops the lid down, then heads back towards Jennifer.)<br><br>KELLER: Did you find it?<br><br>TEYLA: Yes.  (She looks down at the man.)  How is he?<br><br>KELLER: Unconscious, but stable.<br><br>TEYLA: Can he be moved?<br><br>KELLER: Oh, I don't know.  He <I>shouldn't</I> be.  His condition's precarious – I would hate ...<br><br>(She trails off when she sees Teyla's expression.)<br><br>KELLER: Yes, he can be moved.<br><br>(Teyla nods at her, and they walk towards the man.)<br><br><br>LATER.  Night has now fallen, and Teyla and Jennifer have managed to carry the man to the blind.  Jennifer has lit a small lamp and hung it up.  Teyla comes in with a leather bag and hands it to her.<br><br>TEYLA: Water from the river.<br><br>KELLER: Thank you.<br><br>(She tilts the bag down to the man's mouth.)<br><br>TEYLA: I have laid traps around the perimeter.  If any Bola Kai come near, hopefully we will hear them before they discover us.<br><br>KELLER: Good.<br><br>(The man's eyes flutter as he swallows the water.)<br><br>TEYLA (to Jennifer): How's your ankle?<br><br>KELLER: The swelling's not too bad and the pain's eased up, thanks to the painkillers.<br><br>TEYLA: If you wish to sleep, I can ...<br><br>(She stops as she hears movement nearby.  She frowns and peers out into the darkness.)<br><br>KELLER: What?<br><br>(Teyla points into the darkness.  There's movement out there, as if something is moving very close to the ground.  Teyla creeps out, picking up a spear which either she collected from one of the dead Bola Kai or which she has made since then.  She walks towards the movement and looks down.  Something is burrowing its way towards the blind just underneath the ground.  She waits until it is almost at her feet, then stabs her spear down into the ground.  Jennifer cringes as something squelches unpleasantly.  Teyla pulls her spear out of the ground and impaled on the end of it is a nasty looking beastie resembling a squid.)<br><br>KELLER: What is that?!<br><br>(Teyla brings it back into the blind, smiling.)<br><br>TEYLA: Dinner.  They are attracted to the warmth of our bodies.<br><br>(She lies the beastie on the ground and cuts along its length and then, using the tip of her knife, lifts out some of its innards.  She offers the knife to Jennifer.)<br><br>TEYLA: The taste leaves much to be desired but it will sustain you.<br><br>KELLER (cringing): Oh, uh, no, thanks.  I'm not hungry.<br><br>TEYLA: You should eat.<br><br>KELLER (grimacing): This was my least favourite part of “Survivor.”<br><br>(Looking at her in annoyance, Teyla picks the meat off the knife and drops it into her own mouth.  Just then, the man groans.)<br><br>KELLER: He's regaining consciousness.<br><br>(The girls go over to him.)<br><br>KELLER: It's OK.  You're safe now.<br><br>TEYLA: Who are you?<br><br>NABEL (weakly): Nabel Golan – of the Genii.<br><br>TEYLA: The Genii?!  What are you doing here?<br><br>NABEL: I was planted to work inside the Athosian community, to gather intel.<br><br>TEYLA: What happened to them?<br><br>NABEL: Dead – all of them.<br><br>TEYLA: Who killed my people?<br><br>NABEL: Wraith.  A culling – the entire settlement.<br><br>KELLER: Not the Bola Kai?<br><br>NABEL: Bola Kai were the ones who told the Wraith about them.<br><br>TEYLA: The Bola Kai are Wraith worshippers?<br><br>NABEL (nodding): I was able to escape during the attack but I was cut off from the Gate.  Bola Kai were guarding it.  They captured me.<br><br>TEYLA: I have never seen you before.  How long have you lived among my people?<br><br>NABEL: I only arrived a few days ago.<br><br>(Grimacing, he lifts his head and looks around the blind.  He sees a small Ancient device lying nearby, its screen switched on – perhaps to illuminate the blind a little.  He squints up at Jennifer.)<br><br>NABEL: Where are you from?<br><br>TEYLA: She's a friend of mine from another world.<br><br>NABEL: Your equipment – it looks Ancestral.<br><br>TEYLA: We discovered it on our travels.  We've been away for some time, trading.<br><br>NABEL: Trading?  With who?<br><br>(Teyla smiles down at him unpleasantly.)<br><br>TEYLA: If you are still seeking “intel,” then you are wasting what few breaths you have remaining, so say, “thank you for saving me,” and be done with this discussion.<br><br>(Nabel realises from her expression that he had better do what she says.)<br><br>NABEL: Thank you for saving me.<br><br>(Teyla stands up abruptly and storms out of the blind.)<br><br><br>MORNING.  Nabel is asleep.  Teyla and Jennifer sit nearby, Jennifer gazing out of the doorway and Teyla watching Nabel, but now she turns to Jennifer.<br><br>TEYLA: You have not slept all night.<br><br>KELLER: With people trying to kill us, and creatures crawling around under the ground?  (She looks away.)  Not to mention I'm starving.<br><br>(Teyla digs another lump of meat out of the beastie with her knife and offers it to her.)<br><br>KELLER: Not <I>that</I> starving.<br><br>TEYLA: It will give you strength.<br><br>KELLER: It will make me puke.<br><br>TEYLA: You do not believe you are capable of eating it, and so you do not.<br><br>KELLER: No – I think it's disgusting and so I do not.<br><br>TEYLA: I have a friend like you – afraid to challenge himself.<br><br>KELLER: I'm not afraid of challenges.<br><br>(Teyla looks at her, her eyebrows raised.)<br><br>KELLER: I signed up to be Chief of Medicine on an expedition in a whole other galaxy.  That's about as challenging as it gets.  But eating gross food: sorry, but that's where I draw the line.<br><br>TEYLA: Fair enough.<br><br>(She looks away.  Jennifer looks at the knife which she is still holding out.  She grimaces, then hesitantly lifts her hand a little.  Teyla sees the movement and lifts the knife towards her, offering the meat.  Cringing, Jennifer picks up the meat and holds it up, her face full of dread.  Eventually she closes her eyes and puts the meat in her mouth, chewing it with a face full of disgust.)<br><br>TEYLA: See?  No puking.<br><br>KELLER: Yet.<br><br>(Teyla leans down to cut some more meat.)<br><br>KELLER: So, this friend of yours – one of your team members?  A certain uptight astro-physicist, maybe?<br><br>TEYLA: No.  Athosian.  His name is Kannan.  A natural leader, but he isn't aware of it.  Burdened by an overly-cautious nature.  (She looks down sadly.)<br><br>KELLER: He's more than a friend, isn't he?  He's the one you were coming to see – on a hot date.<br><br>(Teyla looks away, sighing.)<br><br>KELLER: Sorry – it's none of my business.  I should just learn to shut up.<br><br>TEYLA: We have known each other since childhood, but only recently condoled more than a friendship.  (She looks at Jennifer.)  I have not told anyone yet.<br><br>KELLER (sympathetically): I'm so sorry.<br><br>TEYLA: We need more water.<br><br>(Sniffling, she gets up and leaves the blind.  Nearby, a Bola Kai is creeping around.  He must have gone through the bags that the girls left outside the Athosian settlement, as he has a lollipop stuck in his mouth and is sucking on it as he prowls around.  He sees Teyla as she stands up.  He aims his crossbow at her but loses a clear shot as she moves away.  He goes to follow her but puts his foot into a mantrap which viciously snaps closed over his leg.  He screams.  Teyla turns and runs back into the blind as the man continues to scream.)<br><br>TEYLA: We have to leave.<br><br>(She shakes Nabel awake as Jennifer gathers the medical kit together.)<br><br>NABEL: What happened?<br><br>TEYLA: Can you walk?<br><br>KELLER: I don't even think he can stand.<br><br>TEYLA: Very soon many more Bola Kai will be here.<br><br>NABEL: It's all right.  I can walk.<br><br>(Clutching his stomach, he drags himself to his feet and the three of them leave the blind.)<br><br><br>ATLANTIS.  John is walking along a corridor with Rodney McKay.<br><br>SHEPPARD: Mr Freeze.  No!  King Tut.<br><br>McKAY: Wrong on both.  Otto Preminger was Mr Freeze; Victor Buono was King Tut; Vincent Price was Egghead.<br><br>SHEPPARD: Egghead!  Right!<br><br>McKAY: OK, so: Cliff Robertson.<br><br>SHEPPARD: Oh, I know this one.  Played the cowboy, right?<br><br>McKAY: Mmm.<br><br>(Ronon Dex joins them.)<br><br>DEX: Hey.  Did Teyla and Keller get back?<br><br>SHEPPARD: Haven't heard from them yet.<br><br>DEX: They're late.<br><br>SHEPPARD: Doesn't sound like Teyla.<br><br>DEX: No, it doesn't.<br><br>McKAY: Well, she had that big feast last night.  Maybe she did too much celebrating and needs to sleep it off.<br><br>(He smiles.  Ronon looks at him.)<br><br>DEX: Yeah, that sounds like Teyla(!)<br><br>(Rodney's smile fades.)<br><br>SHEPPARD: Let's give her a call.<br><br>(The three of them start to walk towards the Gateroom.  John clicks his fingers.)<br><br>SHEPPARD: Shane.<br><br>DEX: What is?<br><br>SHEPPARD: Cliff Robertson.  The villain he played – Shane.<br><br>McKAY: Very good.  Shelley Winters.<br><br>DEX: What the hell are you talking about?<br><br><br>NEW ATHOS.  Teyla and Jennifer have Nabel's arms slung over their shoulders as they help him along.  Teyla is wearing the medical backpack and is carrying her trusty stick with her free hand.  Nabel grunts in pain.<br><br>NABEL: I need to rest.<br><br>(He pulls his arms down and, clutching his wound, stumbles to the side of the path and drops to the ground, grimacing in agony.   Teyla walks a few paces away.  Jennifer hobbles after her.)<br><br>TEYLA (quietly): He is slowing us down and he is making your ankle injury worse.<br><br>KELLER: Well, if we leave him behind, the Bola Kai are gonna capture him.<br><br>TEYLA: If we continue this way, we will <I>all</I> be captured.<br><br>KELLER: Look, I'm the first to admit I'm not very good at certain things.  I'm not athletic, can't cook, and you don't even wanna hear me try to play the piano, but I do think I'm a pretty good judge of character and I know that you would never sacrifice an innocent man – not even if he was a complete stranger – to save yourself.  Which means the only reason you would even suggest it would be because of <I>me</I>.<br><br>TEYLA: I brought you here.  This is <I>my</I> responsibility.  If anything should happen to you ...<br><br>KELLER: I signed up for this, all right?  All of it.  I may not have had any idea what I was getting into, but that makes me no different from anybody else on Atlantis.<br><br>(Teyla turns as she hears movement nearby.)<br><br>TEYLA: I'm glad you feel that way.<br><br>KELLER: Oh yeah, I know, I know.  Before this is all over, I'm gonna have to find all the courage I can muster.<br><br>(Teyla sees several Bola Kai running through the trees nearby, heading in their direction.)<br><br>TEYLA: Actually, you're gonna need to find it right now.<br><br>(Taking the backpack off and tossing it to the side, she bends and pulls her knife out of her boot, holding her stick with the other as the men surround them.)<br><br>KELLER: Oh, God.<br><br>(This time there are more than just three men for Teyla to deal with – there are at least half a dozen if not more.  She squats down as the first couple of men come at her, slashing at their legs with her knife and her stick.  More rush in and she gives of her best, hacking and slashing at them while avoiding injury herself.  Nearby, Nabel watches in terror, then turns and crawls away.  Teyla manages to take down a couple of the men but one gets in a lucky punch across her face.  As the impetus spins her around, another man swipes her legs from under her with a club.  As she drops to the ground, a couple of men grab Jennifer's arms and start to drag her away.  She whimpers in terror.)<br><br>KELLER: Teyla!<br><br>(One of Teyla's attackers grabs her arm to pull her up.  She swings her legs around and kicks his feet from under him.  As he falls, another man rushes towards her.  Lying on her back, she lifts her legs, wraps her ankles around his neck and uses them to hurl him over her head.  She scrambles to her feet and goes at the men again but one of them clubs her across the face and she drops, unconscious.  The men pick her up and drag her away.)<br><br><br>ATLANTIS.  John, Rodney and Ronon are on the balcony of the Control Room.  The Stargate is open.<br><br>SHEPPARD: Teyla?  This is Atlantis, do you read?<br><br>(He exchanges a concerned look with Rodney when there's no reply.)<br><br>SHEPPARD: Teyla, this is Sheppard, come in.<br><br>McKAY: She wouldn't turn off her radio.<br><br>DEX: No, she wouldn't.<br><br>SHEPPARD: Calling anyone in the Athosian settlement.  This is Lieutenant Colonel John Sheppard.  Do you copy?<br><br>(On New Athos, John's voice comes over Teyla's radio.  It and the contents of the medical kit have been strewn across the forest floor in a clearing where the Bola Kai have set up camp.  Nobody is near enough to hear the transmission.)<br><br>SHEPPARD's VOICE: Teyla, this is Sheppard.  Please respond.<br><br>(Some distance away, Teyla and Jennifer are sitting inside a low wooden cage with their hands tied to the roof.  The Bola Kai are going about their business all around them.)<br><br>KELLER: What are they gonna do to us?<br><br>TEYLA: They will try to extricate information.  We must tell them nothing.<br><br>(Jennifer stares at her in dread.)<br><br>TEYLA (sternly): Doctor Keller, the lives of everyone in Atlantis are at stake.<br><br>KELLER (tremulously): I know.  (A tear trickles down her cheek.)  I'm sorry.<br><br>(Teyla looks at her more sympathetically.)<br><br>TEYLA: Where are you from?<br><br>KELLER: What?<br><br>TEYLA: Your home.<br><br>KELLER: Chippewa Falls, Wisconsin.  Little town.<br><br>TEYLA: Do you have any family?<br><br>KELLER: Just my dad.  My mom died a few years back<br><br>TEYLA: I'm sorry.  You must miss him.<br><br>KELLER (tearfully): I'm all he's got left.<br><br>TEYLA: Then you must do everything you can to survive – to return home.  You must ...<br><br>(She stops as two men approach the cage.  Jennifer looks at them in dread.  Teyla looks at her sternly again.)<br><br>TEYLA: You <I>will</I> survive.  You <I>will</I> return home.  Do you understand?<br><br>(Jennifer cringes as the men release the bindings tying the girls to the roof of the cage.  They slide the door open, take them out and march them to a nearby tent.  The girls' hands are still bound in front of them.  The men push the girls down onto their knees in front of the leader of the Bola Kai.  He holds up an Ancient scanner which was obviously found in the medical kit.)<br><br>OMAL: Who are you?<br><br>TEYLA: I am Athosian.<br><br>(Omal stands and walks closer to the girls.  He looks at the scanner again.)<br><br>OMAL: I don't believe you.<br><br>TEYLA: I do not care <I>what</I> you believe.<br><br>(Omal backhands her across the face, then looks down at Jennifer, who cringes under his gaze.)<br><br>OMAL: The longer you are silent, the worse it will be for you.<br><br>TEYLA: I told you – we are Athosian, and you will suffer for what you have done to our people.<br><br>OMAL: What <I>we've</I> done?<br><br>TEYLA: You murdered them – an entire village.<br><br>OMAL: That village was deserted when we arrived.<br><br>TEYLA: Deserted because it was culled by the Wraith; Wraith who were brought here by you.<br><br>OMAL: Do you know who we are?<br><br>TEYLA: You are Bola Kai.<br><br>OMAL: Then you know we are hunted by the Wraith like everyone else.<br><br>TEYLA: Unless you are Wraith worshippers.<br><br>(Omal hisses angrily and punches her hard in the face, knocking her almost unconscious.)<br><br>OMAL (to his men): Get her out of here!<br><br>(The men come in and drag her away.  He bends down to Jennifer threateningly.)<br><br>OMAL: I'm willing to spare her life if you tell me who you are.<br><br>(Jennifer stares at him in dread, her eyes full of tears.)<br><br><br>LATER.  Teyla is back in the cage and looks as two men march Jennifer towards her.  They lift the door of the cage and shove her inside before lowering the door and chaining it shut.  Jennifer has a nasty cut on her lower lip.<br><br>TEYLA: Did you tell them anything?<br><br>KELLER: They said they would kill you.<br><br>TEYLA: You told them about Atlantis?!<br><br>KELLER: No!  I gave them a Gate address – an uninhabited planet – just to throw them off, buy us more time, like you said.<br><br>(Teyla nods her approval.)<br><br>KELLER: I don't think they're Wraith worshippers.<br><br>(Teyla frowns, puzzled.)<br><br>KELLER: That guy in there – he seemed genuinely surprised when you accused him of working with the Wraith.  Why would he deny it if it was true?  I would think that would provide an even more effective threat to get us to talk.<br><br>TEYLA (sarcastically): So they just happened to arrive here moments after the settlement was culled?  I find that a coincidence ...<br><br>(She trails off as a man runs into the camp and heads for Omal's tent, who comes out to meet him.)<br><br>MAN: Something just came through the Portal.  A flying ship of some kind, but it disappeared before we could do anything.<br><br>OMAL (pointing to two other men): You two: watch them.<br><br>(One of his men tosses a weapon to him.)<br><br>OMAL: The rest of you: get your weapons and come with me.<br><br>(The men hurry out of the camp, leaving just the two guards.)<br><br>TEYLA: Not much longer.<br><br><br>PUDDLE JUMPER.  John, Rodney and Ronon are flying over the forest.<br><br>SHEPPARD: Those guys guarding the Gate certainly don't look Athosian.<br><br>DEX: They're Bola Kai.<br><br>McKAY: What?<br><br>DEX: It's a warrior tribe.  Ruthless.  They like picking fights, especially with travellers who are peaceful.<br><br>McKAY: Great(!)  Just what we need: another bad guy.<br><br>DEX: Don't worry.  They're primitive.  We can handle them.<br><br>McKAY: Define “primitive.”<br><br>DEX: Clubs and arrows.<br><br>McKAY: Hey, arrows can hurt!<br><br>DEX: Only if you're stupid enough to get hit in the ass with one.<br><br>(John smiles smugly, then looks at Rodney.)<br><br>SHEPPARD: Life signs.<br><br>McKAY: All over the place, mostly in the woods.  It's hard to get a visual from up here.<br><br>SHEPPARD: OK, we'll have to go on foot, then.  Gear up, boys.  If these guys want a fight, happy to give it to ‘em.<br><br><br>BOLA KAI CAMP.  One of the guards has found Jennifer's lollipop stash and is sucking on one as he wanders around the cage, kicking it occasionally and leering into the top threateningly.  Suddenly a single gunshot hits him in the stomach.  As he drops to the ground, the other guard turns for his weapons but an arrow hits him in the chest and he too falls.<br><br>TEYLA: John?<br><br>(But it's not John who comes out of hiding.)<br><br>KELLER: Nabel!<br><br>(Nabel walks over to the cage.)<br><br>NABEL: Move back.<br><br>(The girls cringe away from the doorway as Nabel fires a couple of shots into the lock holding the door closed.  He bends down to unwrap the chains.  Teyla looks at him suspiciously.)<br><br>TEYLA: Where did you get the gun?<br><br>NABEL: The Athosians were not the only ones with a hidden cache of weapons.  The Bola Kai captured me before I could get to mine.<br><br>(He raises the doorway and the girls crawl out.)<br><br>TEYLA: We need to get moving.  They no doubt heard the gunfire.<br><br>(The three of them head off into the forest, Nabel untying Jennifer's hands as they go.)<br><br>KELLER: Are they coming?<br><br>TEYLA: It does not appear so.  I believe it is safe to rest.<br><br>(She turns to Nabel.)<br><br>TEYLA: Thank you for coming for us.<br><br>NABEL: Well, you saved my life.  I figured I'd return the favour.<br><br>KELLER: I thought you were dead.<br><br>NABEL: Well, I can't die yet.  I have far too many questions I need answers to first.<br><br>(Without warning, he clubs Teyla across the face with his pistol, knocking her unconscious, then turns to Jennifer and aims his pistol at her.)<br><br>NABEL: We can start with you giving me the Gate address to Atlantis.<br><br><br>Elsewhere in the forest, the Puddle Jumper has landed and the boys appear as they come out the range of its cloak.  Rodney is looking at a life signs detector.<br><br>McKAY (pointing in various directions as he speaks): I got life signs there, there, <I>there</I> (pointing back over his shoulder), and there.<br><br>SHEPPARD: Well, <I>that</I> really narrows it down.<br><br>DEX (looking forward and slightly to the left): That way.<br><br>McKAY: Really?  Why?<br><br>DEX: No reason.<br><br>SHEPPARD: Good enough for me.  Let's go.<br><br><br>Back with Jennifer and Nabel, she stares at him as he aims his pistol at her.<br><br>KELLER: Why are you doing this?<br><br>NABEL: Just give me the address and I'll let you go, I promise.<br><br>KELLER: I see you're not as badly wounded as I thought.<br><br>NABEL: Oh, it's bad.  I just have a high tolerance for pain.  The address, and I'll let you go – both of you.<br><br>KELLER: You're lying.  You're not Genii, are you?  We have an understanding with them.  They wouldn't need to resort to these tactics in order to contact us.<br><br>NABEL (shrugging): All right, so that part wasn't true.  But I <I>was</I> captured by the Bola Kai.<br><br>KELLER: <I>You're</I> the Wraith worshipper.  You're the one responsible for the death of the Athosians.<br><br>(Nabel lowers his pistol, then smiles.)<br><br>NABEL: Unless I lied about that as well.<br><br>KELLER: What do you mean?  They're not dead?<br><br>NABEL: Give me the Gate address and I'll gladly tell you everything.<br><br>(On the ground behind him, Teyla kicks his legs out from under him.  He tries to stand but she kneels up and clubs him across the face with her bound hands.  However, she is still feeling the effects of the blow she received earlier and she sags to the ground, breathless.  Nabel stands up and, holding his injured stomach with one hand, aims his pistol down at her.  But finally Jennifer finds her courage and hurls herself at him, sending both of them flying to the ground.  They struggle for the pistol but then Jennifer realises that she has to fight dirty and punches him in the stomach.  As he rolls off her, groaning, she grabs the pistol and scrambles up, aiming it at him as he hauls himself to his feet.)<br><br>KELLER: Don't move.<br><br>TEYLA: Untie me.<br><br>(Still aiming the pistol at Nabel, Jennifer goes to move towards Teyla but Nabel steps into her path, holding his hands up.)<br><br>KELLER: Get out of the way.<br><br>NABEL: Give me the gun.<br><br>KELLER: I'll shoot you.<br><br>(Her wide eyes and shaking hand betray her terror.  Nabel smirks.)<br><br>NABEL: Huh.  No you won't.  You don't have it in you.  You're a doctor, a healer, not a killer.<br><br>KELLER: You're right.  I <I>am</I> a healer.  But first I need something to heal.<br><br>(Nabel frowns.  Jennifer aims the pistol down and shoots him in the right thigh.  He cries out and falls down.  As he wails in pain, clutching his leg, Jennifer runs to Teyla and unties her.  Teyla, her face bleeding where Nabel hit her, grabs the pistol and stands over him, aiming the pistol at him with a murderous look on her face.)<br><br>TEYLA: What happened to my people?<br><br>(Nabel whines at the pain in his leg.)<br><br>TEYLA: <I>What happened to them?</I><br><br>(Nabel looks up at her, his face twisted in agony.  Just then an axe comes flying out of the trees and embeds itself in a tree nearby.  From all around them, Bola Kai are approaching.  Jennifer steps closer to Teyla as she aims the pistol into the woods but there are far too many of them for her to hold them off for long.  However, just in the nick of time the cavalry arrives with a hail of automatic gunfire which takes down several of the men.  As the gunfire continues, the rest of the Bola Kai duck down out of sight.  John, Rodney and Ronon charge into view, Ronon gunning down another nearby Bola Kai with his blaster.  Jennifer sags in relief at the sight of them.  Ronon aims his blaster out into the forest but the warriors are running away.)<br><br>SHEPPARD (to the girls): You OK?<br><br>KELLER: Yeah.<br><br>DEX: What happened?<br><br>TEYLA: My people – they are gone.<br><br>SHEPPARD: What are you talking about?  All of them?  What happened?<br><br>(Teyla turns, only to find that Nabel has gone.  She calls out into the forest.)<br><br>TEYLA: Nabel!<br><br>(Ronon and Rodney frown in confusion.  Teyla turns to Jennifer.)<br><br>TEYLA: Where did he go?<br><br>KELLER: I didn't see.<br><br>SHEPPARD: What are you talking about?<br><br>(Just then, a flurry of arrows fly out of the woods and smash into trees and the ground all around them.  Everyone ducks.)<br><br>McKAY: Oh, not arrows!<br><br>DEX: We need to move!  Come on!<br><br>(He ushers the girls into the woods.)<br><br>SHEPPARD: Go!<br><br>(He and Rodney fire repeatedly into the woods.  Again the Bola Kai turn and run.  John and Rodney continue laying down covering fire to keep them running, then turn and chase off after Ronon and the girls.)<br><br><br>ATLANTIS.  INFIRMARY.  Teyla is lying in bed.  John walks in.<br><br>SHEPPARD: Well?  How're you feeling?<br><br>TEYLA: I am fine.  Doctor Keller insists I remain in bed.  She fears I have a concussion.<br><br>SHEPPARD: Well, you should listen to her.  Just got back from New Athos.  Bola Kai are all gone.  Must have scared ‘em off.  Rodney's got teams going out there to collect clues about what happened to your people.<br><br>TEYLA: Did you find Nabel?<br><br>SHEPPARD (shaking his head): Searched the entire planet.  No life signs.<br><br>TEYLA: He must have escaped through the Gate.<br><br>SHEPPARD: More likely he's lying dead somewhere.<br><br>TEYLA: He knows what happened to my people.  I <I>will</I> find them.<br><br>SHEPPARD: I know you will, and we're gonna help you, but you've gotta rest and get your strength back.<br><br>(Teyla gazes off into the distance, her eyes steely.)<br><br>TEYLA: Whoever did this will pay.  I will make certain of it.<br><br>(John frowns at her ferocity.  Just then, Jennifer comes in, her leg heavily wrapped.)<br><br>SHEPPARD: Hey, Doc.  How are <I>you</I> feelin'?<br><br>KELLER: Oh, it's just a sprain.  I'll be fine.<br><br>TEYLA: Why is it that you are allowed to resume working and I am not?<br><br>KELLER: Because I didn't take half the beating you did.<br><br>TEYLA: I've suffered worse.<br><br>KELLER: Yeah, well, I believe you but you're on my turf now, so you have to listen to me.<br><br>SHEPPARD: I'll check in on you later.<br><br>(He smiles down at Teyla and then leaves.  Jennifer walks closer to her bed.)<br><br>KELLER: So I got permission to go home for a few days of R&R.  God bless that Intergalactic Gate Bridge, huh?<br><br>(Teyla is still gazing into the distance, lost in thoughts of her people.)<br><br>KELLER: Anyway, I get to see my dad ...<br><br>(Teyla finally turns her head to look at her.)<br><br>KELLER: ... and I have you to thank for that.<br><br>(Teyla nods in acknowledgement, then looks exasperated.)<br><br>TEYLA: How long must I stay here?<br><br>KELLER: About another day or so.<br><br>TEYLA: I told you: I feel fine.  I do not have a concussion.<br><br>KELLER: You're right.  You don't.<br><br>(Teyla frowns at her, puzzled.)<br><br>KELLER: Teyla, I've looked over your test results.  There's something we need to talk about.
+                    </SPAN></TD>
+                  </TR>
+                </TABLE>
+                <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+		    <!-- END TRANSCRIPT BOX -->
+
+            </DIV></TD>
+            <TD WIDTH="305" VALIGN="top"><DIV ALIGN="center">
+              <IMG SRC="/graphics/000000.gif" WIDTH="305" HEIGHT="1" ALT=""><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>
+		  <!-- CRAVE ros - medium rectangle - n4403: 300x250 --> 
+<div id="ros_4391"></div><BR>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+<DIV ALIGN="center" STYLE="padding-bottom: 2px; color: #FFFFFF;">
+<A HREF="406.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+<A HREF="/atlantis/s4/407.shtml" CLASS="footer">MAIN</A> | 
+<A HREF="408.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+</DIV>
+
+<A HREF="/atlantis/s4/index.shtml">
+<IMG SRC="/graphics/title_s4episodes.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Season Four Episodes"><BR>
+</A>
+</DIV>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#BBD1E8" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR VALIGN="top">
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="401.shtml" CLASS="list">Adrift</A><BR><A HREF="402.shtml" CLASS="list">Lifeline</A><BR><A HREF="403.shtml" CLASS="list">Reunion</A><BR><A HREF="404.shtml" CLASS="list">Doppelganger</A><BR><A HREF="405.shtml" CLASS="list">Travelers</A><BR><A HREF="406.shtml" CLASS="list">Tabula Rasa</A><BR><A HREF="407.shtml" CLASS="list">Missing</A><BR><A HREF="408.shtml" CLASS="list">The Seer</A><BR><A HREF="409.shtml" CLASS="list">Miller's Crossing</A><BR><A HREF="410.shtml" CLASS="list">This Mortal Coil</A><BR>
+                  </DIV></TD>
+                  <TD WIDTH="50%" STYLE="FONT-SIZE: 9px;"><DIV ALIGN="left">
+                      <A HREF="411.shtml" CLASS="list">Be All My Sins Remember'd</A><BR><A HREF="412.shtml" CLASS="list">Spoils of War</A><BR><A HREF="413.shtml" CLASS="list">Quarantine</A><BR><A HREF="414.shtml" CLASS="list">Harmony</A><BR><A HREF="415.shtml" CLASS="list">Outcast</A><BR><A HREF="416.shtml" CLASS="list">Trio</A><BR><A HREF="417.shtml" CLASS="list">Midway</A><BR><A HREF="418.shtml" CLASS="list">The Kindred, Part 1</A><BR><A HREF="419.shtml" CLASS="list">The Kindred, Part 2</A><BR><A HREF="420.shtml" CLASS="list">The Last Man</A><BR>
+                  </DIV></TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+              <IMG SRC="/graphics/title_ownondvd.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Own This Season on DVD"><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE="BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;"><TR><TD>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="10" CELLSPACING="0" BGCOLOR="#a8c4e1">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="center"><FONT SIZE="1" COLOR="#666666">
+   <A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" STYLE="font-size: 10px; font-weight: bold" TARGET="_blank">Stargate Atlantis:</A><BR> <A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" STYLE="font-size: 16px; font-weight: bold" TARGET="_blank">Season Four</A><BR><IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="5" ALT=""><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" TARGET="_blank">AMAZON.COM</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B0019J2UHW/stargastargsg1ep" TARGET="_blank">AMAZON.CO.UK</A><BR>  &nbsp;&nbsp;&nbsp;<A HREF="http://www.amazon.ca/exec/obidos/ASIN/B0017MO11O/gateworld-20" TARGET="_blank">AMAZON.CA</A>
+   
+                    </FONT></TD>
+                  <TD BGCOLOR="#BBD1E8" WIDTH="4"></TD>
+                  <TD BGCOLOR="#BBD1E8" VALIGN="top" WIDTH="56"><A HREF="http://www.amazon.com/gp/product/B0017MO11O/?tag=bonhoeffscell" TARGET="_blank"><IMG SRC="/store/graphics/dvd_atls4.jpg" WIDTH="56" HEIGHT="80" BORDER="0" CLASS="images" ALT="Amazon.com"></A></TD>
+                </TR>
+              </TABLE></TD></TR>
+              <TR><TD COLSPAN="3" ALIGN="center" STYLE="padding-top: 5px; padding-bottom: 5px"><FONT SIZE="1" COLOR="#333333">Own this season on DVD and support GateWorld!</FONT></TD></TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" TITLE="Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;" CLASS="noline" TARGET="_top">
+<div style="position: relative; background: url(http://www.gateworld.net/news/432x173/sg1_theotherside.jpg) no-repeat 40% 40%; width: 300px; height: 120px; border: 1px solid #000;">
+  <div class="overlay"></div>
+  <div class="overlaytext">
+  <SPAN STYLE="font-size:11px; font-weight: bold;">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</SPAN><br>
+  </div>
+</div>
+</A>
+ 
+
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="10" ALT=""><BR>
+
+              <A HREF="/news/"><IMG SRC="/graphics/title_stargatenews.gif" WIDTH="305" HEIGHT="23" BORDER="0" ALT="Stargate News"></A><BR>
+              <TABLE WIDTH="100%" BORDER="0" CELLPADDING="5" CELLSPACING="0" BGCOLOR="#a8c4e1" STYLE= "BORDER-left: #000000 1px solid; BORDER-top: #000000 1px solid; BORDER-bottom: #000000 1px solid;">
+                <TR>
+                  <TD BGCOLOR="#BBD1E8">
+<A HREF="http://www.gateworld.net/news/2016/07/episode-of-the-week-rene-auberjonois-in-the-other-side/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Rene Auberjonois In &#8216;The Other Side&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-sg-1-must-save-jonas-homeworld/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: SG-1 Must Save Jonas&#8217; Homeworld</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-can-jonas-change-the-future/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Can Jonas Change The Future?</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/stargate-reboot-will-embrace-elements-of-sg-1/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>Stargate</em> Reboot Will Embrace &#8216;Elements&#8217; Of <em>SG-1</em></A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-langara-on-the-brink-of-war/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Langara On The Brink Of War</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/06/episode-of-the-week-meet-jonas-quinn/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Meet Jonas Quinn</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-lucius-lavin-is-irresponsible/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Lucius Lavin Is &#8216;Irresponsible&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-kolya-strikes-back-in-common-ground/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Kolya Strikes Back In &#8216;Common Ground&#8217;</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/macgyver-set-for-fridays-watch-the-trailer/" STYLE="color: #000000; line-height: 15px;" TARGET="_top"><em>MacGyver</em> Set For Fridays &#8211; Watch The Trailer!</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-coup-tears-apart-the-genii/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: Coup Tears Apart The Genii</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/cbs-reboots-macgyver-for-next-season/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">CBS Reboots <em>MacGyver</em> For Next Season</A><br/>
+
+<A HREF="http://www.gateworld.net/news/2016/05/episode-of-the-week-the-genii-invade-atlantis/" STYLE="color: #000000; line-height: 15px;" TARGET="_top">Episode of the Week: The Genii Invade Atlantis!</A><br/>
+ </TD>
+                </TR>
+              </TABLE>
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="12" ALT=""><BR>
+
+              <!-- BEGIN GN Ad Tag for GateWorld 160x200 home -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(f77897)=='undefined' || f77897 > 0) {
+  if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.gateworld.net/home;sect=home;sz=160x200;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+} else {
+}
+</script>
+<!-- END GN Ad Tag for GateWorld 160x200 -->
+<BR>
+
+               
+              <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+
+		</TD>
+          </TR>
+        </TABLE></TD>
+    </TR>
+    <TR>
+      <TD HEIGHT="20" COLSPAN="2" CLASS="footer"><DIV ALIGN="center">
+	  <A HREF="406.shtml" CLASS="footer">&lt;&lt; PREVIOUS</A> | 
+	  <A HREF="/atlantis/s4/407.shtml" CLASS="footer">MAIN</A> | 
+	  <A HREF="408.shtml" CLASS="footer">NEXT &gt;&gt;</A>
+	</DIV></TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="4" HEIGHT="40" VALIGN="top" BACKGROUND="/graphics/footer.gif" STYLE="padding-top: 8px;">
+	  <DIV ALIGN="center">
+	  	  <A HREF="/news/write-to-us/" CLASS="footer" TARGET="_top">WRITE TO US</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/link_to_us.shtml" CLASS="footer" TARGET="_top">LINK TO US</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/write_to_us.shtml" CLASS="footer" TARGET="_top">REPORT NEWS</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/gateworld_podcast.shtml" CLASS="footer" TARGET="_top">PODCAST</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="http://www.facebook.com/group.php?gid=7540406715" CLASS="footer" TARGET="_top">FACEBOOK</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/privacy_policy.shtml" CLASS="footer" TARGET="_top">PRIVACY</A>&nbsp;&nbsp;&nbsp; 
+        <A HREF="/advertising_with_gateworld.shtml" CLASS="footer" TARGET="_top">ADVERTISING</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_staff.shtml" CLASS="footer" TARGET="_top">STAFF</A>&nbsp;&nbsp;&nbsp; 
+	  <A HREF="/site_history.shtml" CLASS="footer" TARGET="_top">SITE HISTORY</A>
+	  </DIV>
+      </TD>
+    </TR>
+  </TABLE>
+    <A HREF="/news/add-gateworld-headlines/" TARGET="_top"><STRONG><FONT COLOR="#000000">Add GateWorld Headlines To Your Site!</FONT></STRONG></A><BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="8" ALT=""><BR>
+  <FONT COLOR="#000000">&quot;Stargate&quot; and all related characters and images are the property of MGM<BR> 
+  Television Entertainment. Please read the site's <A HREF="/copyright_info.shtml" TARGET="_top"><FONT 
+  COLOR="#000000">copyright notice</FONT></A>.<BR>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="4" ALT=""><BR>
+  &#169;1999-2016 GateWorld. All rights reserved.</FONT>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+<div id="evolve_footer"></div>
+
+</DIV>
+  <IMG SRC="/graphics/clear.gif" WIDTH="1" HEIGHT="20" ALT=""><BR>
+
+<MAP NAME="header">
+<AREA SHAPE="rect" COORDS="668,122,758,132" HREF="/store/index.shtml" ALT="Store">
+</MAP>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3694363-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</BODY>
+</HTML>
