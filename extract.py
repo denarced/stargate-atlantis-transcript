@@ -32,10 +32,16 @@ def extractTranscript(filen):
     nearby = extractNearby(cont)
     return longestLine(nearby)
 
+
+def createDirectory(dirname):
+    if not os.path.exists(dirname):
+        os.mkdir(dirname)
+
 if __name__ == '__main__':
     counter = 0
     files = sorted(glob.glob('re-encoded/*.shtml'))
     targetDir = 'text/'
+    createDirectory(targetDir)
     for eachFile in files:
         filename = os.path.basename(eachFile)
         episode = os.path.splitext(filename)[0]

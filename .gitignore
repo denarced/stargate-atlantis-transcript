@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Vim swap files
+*.swp
+
+# Directories created when the scripts are executed
