@@ -24,7 +24,7 @@ The original HTML files were downloaded into _origs_ directory and then:
 . extract.py: extract the transcripts, convert to markdown, and place into directory _text_
 . fixes.bash: fix errors in the transcripts
 
-The latter step uses html2text. All of the aforementioned can be executed with _main.bash_.
+The latter step uses https://github.com/aaronsw/html2text[html2text]. All of the aforementioned can be executed with _main.bash_.
 
 == Stupidity
 
