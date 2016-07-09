@@ -22,8 +22,9 @@ The original HTML files were downloaded into _origs_ directory and then:
 
 . reenc.bash: original HTML files were encoded from ISO-8859-1 to UTF-8 and placed into directory _re-encoded_. Python had problems with the original encoding.
 . extract.py: extract the transcripts, convert to markdown, and place into directory _text_
+. fixes.bash: fix errors in the transcripts
 
-The latter step uses html2text.
+The latter step uses html2text. All of the aforementioned can be executed with _main.bash_.
 
 == Stupidity
 
