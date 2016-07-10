@@ -1,31 +1,42 @@
 = stargate-atlantis-transcript
 
-Transcripts for Stargate Atlantis and the scripts used to convert them from HTML to markdown.
+Transcripts for Stargate Atlantis and the scripts used to convert them from HTML
+to markdown.
 
 == Motivation
 
 What happened:
 
 . I needed to find a specific Stargate Atlantis episode
-. In the specific episode Todd (a Wraith character) said something that I remembered
+. In the specific episode Todd (a Wraith character) said something that I
+remembered
 . I found transcripts at http://www.gateworld.net/atlantis/transcripts.shtml
-. The website wasn't good for me as I wanted to use Linux CLI tools like find and grep to find things
+. The website wasn't good for me as I wanted to use Linux CLI tools like find
+and grep to find things
 . I downloaded the HTML files (one per episode)
-. Grep interpreted some of the HTML files as binary and I had to always check what the parameter was to force treating binary as text (-a)
-. The actual transcript was contained in a single line and therefore difficult to work with Linux CLI tools that are mostly line based
+. Grep interpreted some of the HTML files as binary and I had to always check
+what the parameter was to force treating binary as text (-a)
+. The actual transcript was contained in a single line and therefore difficult
+to work with Linux CLI tools that are mostly line based
 
-Because of the issues mentioned in the last couple of points, I created the scripts in this repo.
+Because of the issues mentioned in the last couple of points, I created the
+scripts in this repo.
 
 == Solution
 
 The original HTML files were downloaded into _origs_ directory and then:
 
-. reenc.bash: original HTML files were encoded from WINDOWS-1252 to UTF-8 and placed into directory _re-encoded_. Python had problems with the original encoding.
-. extract.py: extract the transcripts, convert to markdown, and place into directory _text_
+. reenc.bash: original HTML files were encoded from WINDOWS-1252 to UTF-8 and
+placed into directory _re-encoded_. Python had problems with the original
+encoding.
+. extract.py: extract the transcripts, convert to markdown, and place into
+directory _text_
 . fixes.bash: fix errors in the transcripts
 
-The latter step uses https://github.com/aaronsw/html2text[html2text]. All of the aforementioned can be executed with _main.bash_.
+The latter step uses https://github.com/aaronsw/html2text[html2text]. All of the
+aforementioned can be executed with _main.bash_.
 
 == Stupidity
 
-Yes, I realize that acquiring subtitle files would have solved all problems but I realized that too late plus I enjoyed the scripting :)
+Yes, I realize that acquiring subtitle files would have solved all problems but
+I realized that too late plus I enjoyed the scripting :)
