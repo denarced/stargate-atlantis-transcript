@@ -92,3 +92,5 @@ ENV/
 *.swp
 
 # Directories created when the scripts are executed
+re-encoded/
+text/

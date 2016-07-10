@@ -11,5 +11,5 @@ do
     filename=`basename $each`
     dest="re-encoded/$filename"
     echo "$each; $filename; $dest"
-    iconv -f ISO-8859-1 -t UTF-8 -o $dest $each
+    iconv -f WINDOWS-1252 -t UTF-8 -o $dest $each
 done
